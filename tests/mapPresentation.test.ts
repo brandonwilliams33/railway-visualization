@@ -1,0 +1,10 @@
+import {describe,it,expect} from 'vitest';
+import {corridorLines,visibleStations} from '../src/lib/mapPresentation';
+import type {RailwaySegment,Station} from '../src/types';
+const segment=(id:string,coordinates:number[][]):RailwaySegment=>({id,coverageStationIds:[],railwayNames:[],osmSourceId:'source',geometrySource:'OSM',routingConfidence:'inferred-corridor',family:'ordinary',geometry:{type:'LineString',coordinates},geometryAccuracy:'approximate',passengerCategories:['K'],serviceIds:['K1']});
+describe('map presentation never defines passenger reachability',()=>{
+ it('merges overlapping opposite-direction ink and preserves source references',()=>{const path=[[116,34],[117,34],[118,34]],lines=corridorLines([segment('a',path),segment('b',[...path].reverse())],5);expect(lines).toHaveLength(1);expect(new Set(lines[0].segmentIds)).toEqual(new Set(['a','b']))});
+ it('does not join distant disconnected intervals into a stop-to-stop chord',()=>{const lines=corridorLines([segment('luoyang',[[112.4,34.7],[112.8,34.7]]),segment('chengdu',[[104,30.6],[104.4,30.6]])],5);expect(lines).toHaveLength(2);for(const l of lines){const longitudes=l.positions.map(p=>p[1]);expect(Math.max(...longitudes)-Math.min(...longitudes)).toBeLessThan(1)}});
+ it('restores the original curve and track separation at close zoom',()=>{const s=segment('a',[[116,34],[116.2,34.1],[116.3,34]]);expect(corridorLines([s],8)[0].positions).toEqual([[34,116],[34.1,116.2],[34,116.3]])});
+ it('keeps the selected station and hub visible when clustering dense stops',()=>{const stations=Array.from({length:60},(_,i)=>({id:`s${i}`,longitude:117+i*.001,latitude:34,name:`站${i}`,city:'城市',province:'省',provinceId:'p',isHub:i===0,major:false,coordinateSource:'test'} as Station));const visible=visibleStations(stations,5,'s0','s59');expect(visible.length).toBeLessThan(stations.length);expect(visible.map(s=>s.id)).toContain('s59');expect(visible.map(s=>s.id)).toContain('s0');expect(visibleStations(stations,7,'s0',null)).toHaveLength(60)});
+});
