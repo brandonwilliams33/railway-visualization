@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "合肥",
+  "stationCount": 13,
+  "candidateServices": 1567,
+  "acquiredAdditionalServices": 262,
+  "failedPages": [
+    {
+      "trainNumber": "Y664",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    }
+  ],
+  "stationIssues": []
+}

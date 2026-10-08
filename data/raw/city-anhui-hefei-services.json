@@ -1,0 +1,9350 @@
+[
+  {
+    "trainNumber": "C2377",
+    "category": "C",
+    "stopNames": [
+      "合肥南",
+      "肥西",
+      "舒城东",
+      "桐城东",
+      "安庆",
+      "池州",
+      "黄山西",
+      "黄山北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2377.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6e6601ba64c5712fdb7da06184eeb99133caa6da8e274d11c0b4e50c101bf73e",
+    "elapsedMinutes": [
+      0,
+      12,
+      26,
+      46,
+      74,
+      95,
+      120,
+      146
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2378",
+    "category": "C",
+    "stopNames": [
+      "黄山北",
+      "九华山",
+      "池州",
+      "安庆",
+      "桐城南",
+      "庐江西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2378.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9d807c14a4ea14ee59479a5e87b8a067f5d7df0c46d7cd7e69c1a945ce3e9bb7",
+    "elapsedMinutes": [
+      0,
+      33,
+      50,
+      69,
+      92,
+      109,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2379",
+    "category": "C",
+    "stopNames": [
+      "黄山北",
+      "九华山",
+      "池州",
+      "安庆",
+      "桐城南",
+      "庐江西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2379.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "374489f3228c3f2e6fdc0f7c9e1edf089b6db2a51ac50e7765cf75033cd87461",
+    "elapsedMinutes": [
+      0,
+      33,
+      50,
+      69,
+      92,
+      109,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2380",
+    "category": "C",
+    "stopNames": [
+      "合肥南",
+      "肥西",
+      "舒城东",
+      "桐城东",
+      "安庆",
+      "池州",
+      "黄山西",
+      "黄山北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2380.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ee2f3f4b81b68f8c0a0e614465cb669d181045719eb7758ad2567f3cda20a64c",
+    "elapsedMinutes": [
+      0,
+      12,
+      26,
+      46,
+      74,
+      95,
+      120,
+      146
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2381",
+    "category": "C",
+    "stopNames": [
+      "泗县东",
+      "五河",
+      "明光西",
+      "定远东",
+      "合肥西",
+      "六安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2381.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "641f6ddf4982545bbc05c1636c876cb9df0f3eebfd1636f54eba0f7ad961bb8a",
+    "elapsedMinutes": [
+      0,
+      14,
+      30,
+      44,
+      78,
+      114
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2382",
+    "category": "C",
+    "stopNames": [
+      "合肥西",
+      "定远东",
+      "明光西",
+      "五河",
+      "泗县东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2382.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "982f20b8c199a222b49a4ae21b639cd6440773312223740343c9927ef79d354b",
+    "elapsedMinutes": [
+      0,
+      32,
+      47,
+      62,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2383",
+    "category": "C",
+    "stopNames": [
+      "泗县东",
+      "五河",
+      "明光西",
+      "定远东",
+      "合肥西",
+      "庐江西",
+      "桐城东",
+      "安庆"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2383.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "05cc168b18ce62ffb507c95638130f24f7fc73001ce71013930b37a696bd6468",
+    "elapsedMinutes": [
+      0,
+      13,
+      28,
+      41,
+      74,
+      109,
+      128,
+      160
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2384",
+    "category": "C",
+    "stopNames": [
+      "六安",
+      "合肥西",
+      "定远东",
+      "明光西",
+      "五河",
+      "泗县东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2384.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6e474252f63b0bec00c110588abebff694705e773852ccf6c7a3d790584307de",
+    "elapsedMinutes": [
+      0,
+      30,
+      66,
+      81,
+      96,
+      112
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2387",
+    "category": "C",
+    "stopNames": [
+      "泗县东",
+      "五河",
+      "明光西",
+      "定远东",
+      "合肥西",
+      "六安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2387.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d1b19d1aa2dbbafeffb9900009f9f7043a9eb57a1eef6893265612f51dfcb511",
+    "elapsedMinutes": [
+      0,
+      14,
+      30,
+      44,
+      77,
+      110
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2388",
+    "category": "C",
+    "stopNames": [
+      "安庆",
+      "桐城南",
+      "庐江西",
+      "舒城东",
+      "合肥西",
+      "定远东",
+      "明光西",
+      "五河",
+      "泗县东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2388.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "049b50612a3a99a7269e85ffa7b89096b3a2f40ed0631b0937435fd531cf64c2",
+    "elapsedMinutes": [
+      0,
+      21,
+      38,
+      52,
+      79,
+      117,
+      132,
+      147,
+      163
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2389",
+    "category": "C",
+    "stopNames": [
+      "泗县东",
+      "五河",
+      "明光西",
+      "定远东",
+      "合肥西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2389.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9dd9e55465c209108c95178340388b9409d43bd750f24b0f630c52835d19293b",
+    "elapsedMinutes": [
+      0,
+      14,
+      30,
+      44,
+      77
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2390",
+    "category": "C",
+    "stopNames": [
+      "六安",
+      "合肥西",
+      "定远东",
+      "明光西",
+      "五河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2390.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7df552fd63d6b605dff19321014fa33290a5716468c3ed94c66de8c8450308ad",
+    "elapsedMinutes": [
+      0,
+      30,
+      77,
+      92,
+      108
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2391",
+    "category": "C",
+    "stopNames": [
+      "泗县东",
+      "五河",
+      "明光西",
+      "定远东",
+      "合肥西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2391.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "11bb23dc5608a9e88f91d2de89ef9795797b579fa14abca81fe72c26303492ef",
+    "elapsedMinutes": [
+      0,
+      14,
+      29,
+      43,
+      76,
+      93
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2394",
+    "category": "C",
+    "stopNames": [
+      "合肥南",
+      "合肥西",
+      "定远东",
+      "明光西",
+      "五河",
+      "泗县东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2394.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5affe194bea4f8eb574cd8e5d333ba4c15d8d875631fe664dd7a9d427181bef5",
+    "elapsedMinutes": [
+      0,
+      14,
+      56,
+      70,
+      84,
+      101
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2395",
+    "category": "C",
+    "stopNames": [
+      "合肥南",
+      "六安",
+      "金寨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2395.html",
+    "sourceUpdatedAt": "2026-06-17",
+    "sourceSha256": "7a88b3554d1c497ee3b72b2b443fe13f961b65c0e06b31b7336e352d7100098a",
+    "elapsedMinutes": [
+      0,
+      24,
+      47
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2396",
+    "category": "C",
+    "stopNames": [
+      "金寨",
+      "六安",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2396.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "43b9c7bff7e64084d8a699a745411ae308834c05bcca67064352170a7aead201",
+    "elapsedMinutes": [
+      0,
+      17,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2421",
+    "category": "C",
+    "stopNames": [
+      "亳州南",
+      "阜阳西",
+      "合肥南",
+      "芜湖"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2421.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "662599d4a5a7df690e16a90cf224d6632ce9f870d2755b7cc31c33507967c38b",
+    "elapsedMinutes": [
+      0,
+      27,
+      95,
+      135
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2423",
+    "category": "C",
+    "stopNames": [
+      "合肥南",
+      "舒城东",
+      "桐城东",
+      "黄梅东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2423.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "761c1129481875ea881f23c3348e631ffe741569124e2d321f62e7081226409a",
+    "elapsedMinutes": [
+      0,
+      19,
+      39,
+      81
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2425",
+    "category": "C",
+    "stopNames": [
+      "阜阳西",
+      "淮南南",
+      "合肥西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2425.html",
+    "sourceUpdatedAt": "2026-02-20",
+    "sourceSha256": "2819cb888c384a5793cbe97a5d914d16166857073d3c1f485a3e85a1a46f348e",
+    "elapsedMinutes": [
+      0,
+      36,
+      70,
+      85
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2428",
+    "category": "C",
+    "stopNames": [
+      "合肥南",
+      "淮南南",
+      "寿县",
+      "阜阳西",
+      "界首南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2428.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "5aa30f30937e27547a0d1dad768a6ce2383f5339ee0a6233650ffee190ef336c",
+    "elapsedMinutes": [
+      0,
+      39,
+      50,
+      92,
+      113
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2437",
+    "category": "C",
+    "stopNames": [
+      "阜阳西",
+      "淮南南",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2437.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "178756a585b90f7e2523fa3fec0c06076f69a984398cad2161dff05553f6aeb6",
+    "elapsedMinutes": [
+      0,
+      33,
+      73
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2438",
+    "category": "C",
+    "stopNames": [
+      "合肥南",
+      "淮南南",
+      "阜阳西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2438.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "5c5e3872b175161a19beb3597396942e170dbb70fccfef742fb6481193823040",
+    "elapsedMinutes": [
+      0,
+      39,
+      77
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2439",
+    "category": "C",
+    "stopNames": [
+      "泗县东",
+      "合肥西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2439.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "c4c0dd15f1988e8e7a9709bc607c4911a87444edb3c1a364e3307e5b8bbe67b4",
+    "elapsedMinutes": [
+      0,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2440",
+    "category": "C",
+    "stopNames": [
+      "合肥西",
+      "泗县东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2440.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "9da0b5ac62fdc379cc0c4449895f8411c07832e5acb1727e5f668db705ee957f",
+    "elapsedMinutes": [
+      0,
+      54
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2442",
+    "category": "C",
+    "stopNames": [
+      "安庆",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2442.html",
+    "sourceUpdatedAt": "2026-04-05",
+    "sourceSha256": "6216fbb3c38d3a7e52bd7a5c8c99bef64c6d6ffc8c5d842e231b0cfcf7ad4503",
+    "elapsedMinutes": [
+      0,
+      52
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2443",
+    "category": "C",
+    "stopNames": [
+      "合肥南",
+      "肥西",
+      "庐江西",
+      "桐城东",
+      "安庆"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2443.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "0304ecc551ae7117d37127bcb1104cfadccd3cb856efaad1e43b30796389b39e",
+    "elapsedMinutes": [
+      0,
+      12,
+      33,
+      46,
+      74
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2444",
+    "category": "C",
+    "stopNames": [
+      "安庆",
+      "庐江西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2444.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "5cd95f03bff5ccbd17ff380b3bb6ad2b0921ce5755f80636ef5a0e593fad1c0d",
+    "elapsedMinutes": [
+      0,
+      31,
+      65
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2445",
+    "category": "C",
+    "stopNames": [
+      "蚌埠南",
+      "淮南东",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2445.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "a38037b1b011c7e6e4ba8ee35ba6fafe8a7af2550796dd63c2a06c849279a67c",
+    "elapsedMinutes": [
+      0,
+      16,
+      66
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2446",
+    "category": "C",
+    "stopNames": [
+      "合肥南",
+      "蚌埠南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2446.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "86989e7f0bee81230337a76a7cee91ace150a3a0795c9febbf1fb85c870e9b25",
+    "elapsedMinutes": [
+      0,
+      50
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2447",
+    "category": "C",
+    "stopNames": [
+      "泗县东",
+      "合肥西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2447.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "952c1f132791b5af95fb4cee77c4e1dd0f492518c52987c6d6c157ebcc6a4989",
+    "elapsedMinutes": [
+      0,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2448",
+    "category": "C",
+    "stopNames": [
+      "六安",
+      "合肥西",
+      "定远东",
+      "明光西",
+      "五河",
+      "泗县东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2448.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "3a8c8dd4251bd3f975b88a681416320b937ed21c57068478f3bb9a872d5e033f",
+    "elapsedMinutes": [
+      0,
+      30,
+      77,
+      92,
+      108,
+      124
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2450",
+    "category": "C",
+    "stopNames": [
+      "合肥西",
+      "五河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2450.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "9f54f86957a0b48ca9793feba87fa2742607df9788cbf636b587fbc31ca38985",
+    "elapsedMinutes": [
+      0,
+      46
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C3081",
+    "category": "C",
+    "stopNames": [
+      "亳州南",
+      "阜阳西",
+      "水家湖",
+      "合肥西",
+      "肥西",
+      "桐城东",
+      "安庆"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c3081.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "085a3f75900dbfaedf841f15b85429f36843f2c8656157d5c4158df46f74d129",
+    "elapsedMinutes": [
+      0,
+      28,
+      69,
+      98,
+      119,
+      146,
+      175
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C3082",
+    "category": "C",
+    "stopNames": [
+      "安庆",
+      "桐城东",
+      "庐江西",
+      "合肥西",
+      "淮南南",
+      "阜阳西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c3082.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "49f06d9438a409f6320c7b905c2f34801783e7a01ef2ba44f15a141175098cd8",
+    "elapsedMinutes": [
+      0,
+      25,
+      38,
+      72,
+      108,
+      144
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C3249",
+    "category": "C",
+    "stopNames": [
+      "泗县东",
+      "五河",
+      "明光西",
+      "定远东",
+      "合肥西",
+      "舒城东",
+      "庐江西",
+      "桐城东",
+      "安庆"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c3249.html",
+    "sourceUpdatedAt": "2026-03-13",
+    "sourceSha256": "93302e759221b6a397c530f32c20b6f3cb9d43cd042d329ff2eabc5a738e7ec5",
+    "elapsedMinutes": [
+      0,
+      14,
+      29,
+      43,
+      76,
+      106,
+      120,
+      133,
+      161
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C3250",
+    "category": "C",
+    "stopNames": [
+      "安庆",
+      "庐江西",
+      "合肥西",
+      "定远东",
+      "明光西",
+      "五河",
+      "泗县东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c3250.html",
+    "sourceUpdatedAt": "2026-03-11",
+    "sourceSha256": "530cabd64a68fbd55ea7b8ea8896de9a0e759383be7ce2f2d969a3f6034bbe9f",
+    "elapsedMinutes": [
+      0,
+      31,
+      65,
+      100,
+      114,
+      128,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C3283",
+    "category": "C",
+    "stopNames": [
+      "合肥南",
+      "舒城东",
+      "庐江西",
+      "桐城东",
+      "太湖南",
+      "宿松东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c3283.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "92d2587e15090ea62140b318657e2525700291fa8c7347d906fa41a546afca44",
+    "elapsedMinutes": [
+      0,
+      19,
+      33,
+      46,
+      75,
+      90
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C3683",
+    "category": "C",
+    "stopNames": [
+      "合肥南",
+      "庐江西",
+      "桐城东",
+      "安庆",
+      "九华山",
+      "黄山北",
+      "宁国南",
+      "宣城",
+      "芜湖",
+      "合肥 南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c3683.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2d73379baa518314ac52412924c917ef2dbce1f8218726eb0e7cc570d318640b",
+    "elapsedMinutes": [
+      0,
+      26,
+      41,
+      71,
+      101,
+      136,
+      172,
+      189,
+      216,
+      258
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C3684",
+    "category": "C",
+    "stopNames": [
+      "合肥南",
+      "芜湖",
+      "宣城",
+      "宁国南",
+      "绩溪北",
+      "黄山北",
+      "黟县东",
+      "九华山",
+      "安庆",
+      "桐城南",
+      "桐城东",
+      "庐江西",
+      "舒城东",
+      "合肥 南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c3684.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "96cbeedca0632fe8858d32f0f9414d57789a251697dca8711e9cf3a8e1a13f0e",
+    "elapsedMinutes": [
+      0,
+      37,
+      65,
+      83,
+      106,
+      124,
+      142,
+      170,
+      199,
+      223,
+      234,
+      247,
+      261,
+      285
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C3685",
+    "category": "C",
+    "stopNames": [
+      "合肥南",
+      "芜湖",
+      "宣城",
+      "宁国南",
+      "绩溪北",
+      "黄山北",
+      "黟县东",
+      "九华山",
+      "安庆",
+      "桐城南",
+      "桐城东",
+      "庐江西",
+      "舒城东",
+      "合肥 南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c3685.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0d9634a6a5b11df30031f020c08d5f53f69fc4c52484c279a94487c126277d40",
+    "elapsedMinutes": [
+      0,
+      37,
+      65,
+      83,
+      106,
+      124,
+      142,
+      170,
+      199,
+      223,
+      234,
+      247,
+      261,
+      285
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C3686",
+    "category": "C",
+    "stopNames": [
+      "合肥南",
+      "庐江西",
+      "桐城东",
+      "安庆",
+      "九华山",
+      "黄山北",
+      "宁国南",
+      "宣城",
+      "芜湖",
+      "合肥 南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c3686.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "64eec41500126c09edf12895e4b9906062faae31a08064f9cffe88333bb82993",
+    "elapsedMinutes": [
+      0,
+      26,
+      41,
+      71,
+      101,
+      136,
+      172,
+      189,
+      216,
+      258
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C9709",
+    "category": "C",
+    "stopNames": [
+      "合肥南",
+      "金寨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c9709.html",
+    "sourceUpdatedAt": "2026-06-17",
+    "sourceSha256": "21a88f3d72a98d1383791bf8f9f3b12ab8fd45a0ec9870c3f23f8384bff47b4f",
+    "elapsedMinutes": [
+      0,
+      42
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D3189",
+    "category": "D",
+    "stopNames": [
+      "合肥南",
+      "舒城东",
+      "桐城东",
+      "太湖南",
+      "庐山",
+      "永修",
+      "南昌西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d3189.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d1872a1dda50108e742bd4639a7311f3def3a1a07f236d7efbf3cc076810b6b6",
+    "elapsedMinutes": [
+      0,
+      19,
+      41,
+      73,
+      110,
+      139,
+      162
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D3190",
+    "category": "D",
+    "stopNames": [
+      "南昌西",
+      "永修",
+      "共青城",
+      "德安",
+      "庐山",
+      "太湖南",
+      "桐城东",
+      "舒城东",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d3190.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "77dd7c1e0bb5341d59e730399e5fe2825a7cce9edb1e40182dd4edb1da79fdbb",
+    "elapsedMinutes": [
+      0,
+      20,
+      34,
+      42,
+      60,
+      95,
+      127,
+      149,
+      171
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4106",
+    "category": "D",
+    "stopNames": [
+      "合肥南",
+      "六安",
+      "金寨",
+      "麻城北",
+      "汉口",
+      "深圳北",
+      "虎门",
+      "广州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4106.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "6122d49fd275545c52a18521de2ed0ad51f4e40fcdc45a34795cd61fa8c6d5e6",
+    "elapsedMinutes": [
+      0,
+      24,
+      45,
+      80,
+      127,
+      706,
+      736,
+      763
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4107",
+    "category": "D",
+    "stopNames": [
+      "合肥南",
+      "六安",
+      "金寨",
+      "麻城北",
+      "汉口",
+      "深圳北",
+      "虎门",
+      "广州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4107.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "7017ac0eb7cd36d616178d7969f5edf25374af21ddd4253c7222398335af6e53",
+    "elapsedMinutes": [
+      0,
+      24,
+      45,
+      80,
+      127,
+      706,
+      736,
+      763
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4108",
+    "category": "D",
+    "stopNames": [
+      "汉口",
+      "麻城北",
+      "六安",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4108.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "37eda425eef12469ef16a5af545c4ae1d15c67a329ad256b1dedf2d8db6fe1d0",
+    "elapsedMinutes": [
+      0,
+      45,
+      95,
+      122
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4109",
+    "category": "D",
+    "stopNames": [
+      "合肥南",
+      "汉口"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4109.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "1d296aa5a357a612abdb73cbfff2f14c965e5d3972296c6e3d208b5a3baa580b",
+    "elapsedMinutes": [
+      0,
+      108
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4110",
+    "category": "D",
+    "stopNames": [
+      "汉口",
+      "麻城北",
+      "金寨",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4110.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "50ad5712035cdd1ba05c6f0b9d496e1ad2f7916691b8f98d4ceea841a57a7c9c",
+    "elapsedMinutes": [
+      0,
+      45,
+      82,
+      125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4833",
+    "category": "D",
+    "stopNames": [
+      "合肥南",
+      "六安",
+      "金寨",
+      "麻城北",
+      "红安西",
+      "汉口"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4833.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "33b458d20d669ff410b8f295f0b7b7ed10009b561b89e460cdaaf85d844fd81d",
+    "elapsedMinutes": [
+      0,
+      24,
+      45,
+      80,
+      96,
+      128
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4834",
+    "category": "D",
+    "stopNames": [
+      "汉口",
+      "红安西",
+      "麻城北",
+      "六安",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4834.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "a8ab165be962807f7129e430c735ddace3f8df233c2ba3e7929698f417676d18",
+    "elapsedMinutes": [
+      0,
+      29,
+      45,
+      95,
+      122
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4835",
+    "category": "D",
+    "stopNames": [
+      "合肥南",
+      "汉口"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4835.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "1004b8c6248a0b7e0973908c0d65c85489ad30645ceb8f786f9688b50eb55849",
+    "elapsedMinutes": [
+      0,
+      104
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D5643",
+    "category": "D",
+    "stopNames": [
+      "合肥南",
+      "六安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d5643.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3d02d068b590c0a1005a4f6863ab20b8801eeb840e5089d42e37caeabedf1f0e",
+    "elapsedMinutes": [
+      0,
+      24
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D5645",
+    "category": "D",
+    "stopNames": [
+      "合肥南",
+      "六安",
+      "金寨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d5645.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a688050d87b4bb3dedbb159694e81cab94af92ed7747ff1d5efffe5e84558929",
+    "elapsedMinutes": [
+      0,
+      24,
+      48
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D5654",
+    "category": "D",
+    "stopNames": [
+      "六安",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d5654.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "8914f6169b3b6e2105965918a04bfe7c8c8a076fb442f8f2b95ae7da5e32e93a",
+    "elapsedMinutes": [
+      0,
+      24
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1601",
+    "category": "G",
+    "stopNames": [
+      "阜阳西",
+      "凤台南",
+      "淮南南",
+      "合肥南",
+      "巢湖东",
+      "无为",
+      "铜陵北",
+      "旌德",
+      "绩溪北",
+      "歙县北",
+      "黄山北",
+      "婺源",
+      "上饶",
+      "建瓯西",
+      "延平",
+      "闽清北",
+      "福州",
+      "福州南",
+      "莆田",
+      "泉州南",
+      "厦门北",
+      "漳州",
+      "云霄",
+      "饶平",
+      "潮汕",
+      "普宁",
+      "汕尾",
+      "惠阳",
+      "深圳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1601.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "25876f12b3e4ea30e454ac2a6d0bcf287af567e3b93ad3a7dbe42a0e2c43709d",
+    "elapsedMinutes": [
+      0,
+      24,
+      40,
+      80,
+      107,
+      122,
+      136,
+      164,
+      177,
+      193,
+      204,
+      228,
+      258,
+      302,
+      320,
+      343,
+      367,
+      385,
+      412,
+      438,
+      459,
+      479,
+      507,
+      528,
+      545,
+      568,
+      600,
+      631,
+      661
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1602",
+    "category": "G",
+    "stopNames": [
+      "深圳北",
+      "惠东南",
+      "潮阳",
+      "潮汕",
+      "饶平",
+      "云霄",
+      "漳浦",
+      "漳州",
+      "厦门北",
+      "泉州南",
+      "莆田",
+      "福州",
+      "闽清北",
+      "延平",
+      "建瓯西",
+      "南平市",
+      "武夷山北",
+      "上饶",
+      "婺源",
+      "黄山北",
+      "旌德",
+      "合肥南",
+      "淮南南",
+      "阜阳西",
+      "太和东",
+      "亳州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1602.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9b5a575609681b452d09865efe7ec9347997db489fd248517f10a644faf13fed",
+    "elapsedMinutes": [
+      0,
+      30,
+      85,
+      98,
+      116,
+      137,
+      151,
+      170,
+      191,
+      214,
+      240,
+      277,
+      301,
+      323,
+      341,
+      358,
+      373,
+      398,
+      423,
+      455,
+      481,
+      541,
+      585,
+      624,
+      639,
+      662
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1611",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "巢湖东",
+      "铜陵北",
+      "南陵",
+      "旌德",
+      "黄山北",
+      "婺源",
+      "上饶",
+      "建瓯西",
+      "延平",
+      "闽清北",
+      "福州",
+      "福清西",
+      "莆田",
+      "泉州南",
+      "厦门北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1611.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ef7d3d0d360120c2f8af1f6371df79277328ec2859b6de7c7e60b78e931b3948",
+    "elapsedMinutes": [
+      0,
+      21,
+      43,
+      57,
+      78,
+      101,
+      126,
+      152,
+      198,
+      216,
+      239,
+      268,
+      298,
+      318,
+      345,
+      365
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1612",
+    "category": "G",
+    "stopNames": [
+      "厦门北",
+      "泉州南",
+      "泉州东",
+      "莆田",
+      "福清西",
+      "福州",
+      "延平",
+      "南平市",
+      "武夷山北",
+      "上饶",
+      "婺源",
+      "黄山北",
+      "绩溪北",
+      "南陵",
+      "无为",
+      "巢湖东",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1612.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ae6334a16066af48acf79c790cfa6084567090a3366653748bd4807f2401ce8c",
+    "elapsedMinutes": [
+      0,
+      17,
+      30,
+      50,
+      67,
+      97,
+      137,
+      165,
+      180,
+      205,
+      231,
+      261,
+      280,
+      307,
+      328,
+      343,
+      367
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1747",
+    "category": "G",
+    "stopNames": [
+      "蚌埠南",
+      "水家湖",
+      "合肥西",
+      "六安",
+      "金寨",
+      "麻城北",
+      "红安西",
+      "武汉",
+      "咸宁北",
+      "岳阳东",
+      "汨罗东",
+      "长沙南",
+      "株洲西",
+      "衡阳东",
+      "郴州西",
+      "韶关",
+      "广州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1747.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "08006a864de3cf5be31db737751d68a2625dd9db4e4ed6af8c7d60a0068a4613",
+    "elapsedMinutes": [
+      0,
+      20,
+      52,
+      96,
+      122,
+      178,
+      194,
+      224,
+      253,
+      285,
+      307,
+      329,
+      347,
+      374,
+      406,
+      439,
+      497
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1748",
+    "category": "G",
+    "stopNames": [
+      "广州南",
+      "韶关",
+      "郴州西",
+      "衡阳东",
+      "衡山西",
+      "株洲西",
+      "长沙南",
+      "咸宁北",
+      "武汉",
+      "红安西",
+      "麻城北",
+      "金寨",
+      "六安",
+      "合肥西",
+      "蚌埠南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1748.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "67b65af3d0e00273944810936d904c7a2ae5f119817b51aab7814beb5c0adfb8",
+    "elapsedMinutes": [
+      0,
+      49,
+      82,
+      117,
+      132,
+      154,
+      171,
+      234,
+      261,
+      287,
+      303,
+      338,
+      360,
+      402,
+      458
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1877",
+    "category": "G",
+    "stopNames": [
+      "西安北",
+      "华山北",
+      "灵宝西",
+      "洛阳龙门",
+      "郑州东",
+      "开封北",
+      "商丘",
+      "亳州南",
+      "太和东",
+      "阜阳西",
+      "凤台南",
+      "淮南南",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1877.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c0e20851b3fcc81413d33fe360c532ef6f976419f50221284e768e5065a64a47",
+    "elapsedMinutes": [
+      0,
+      28,
+      56,
+      100,
+      139,
+      163,
+      199,
+      224,
+      246,
+      261,
+      289,
+      305,
+      345
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1878",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "合肥西",
+      "淮南南",
+      "凤台南",
+      "阜阳西",
+      "太和东",
+      "亳州南",
+      "商丘",
+      "民权北",
+      "郑州东",
+      "郑州西",
+      "洛阳龙门",
+      "西安北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1878.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "db3a3581c8e2851e3bd1aaddaa1330637878f0b1039117878c157789c46433b2",
+    "elapsedMinutes": [
+      0,
+      14,
+      46,
+      61,
+      88,
+      101,
+      123,
+      148,
+      168,
+      212,
+      237,
+      264,
+      343
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1879",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "合肥西",
+      "淮南南",
+      "凤台南",
+      "阜阳西",
+      "太和东",
+      "亳州南",
+      "商丘",
+      "民权北",
+      "郑州东",
+      "郑州西",
+      "洛阳龙门",
+      "西安北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1879.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "416100d7e4c2a69f98f50e48b826b6a273c79d64b06d52982cd69821ddbf5e4a",
+    "elapsedMinutes": [
+      0,
+      14,
+      46,
+      61,
+      88,
+      101,
+      123,
+      148,
+      168,
+      212,
+      237,
+      264,
+      343
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1880",
+    "category": "G",
+    "stopNames": [
+      "西安北",
+      "华山北",
+      "灵宝西",
+      "洛阳龙门",
+      "郑州东",
+      "开封北",
+      "商丘",
+      "亳州南",
+      "太和东",
+      "阜阳西",
+      "凤台南",
+      "淮南南",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1880.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2a12a8c95c0d743b42def1c0abda7689cd8f8e91596d9d302f1e55fcd47c4eb6",
+    "elapsedMinutes": [
+      0,
+      28,
+      56,
+      100,
+      139,
+      163,
+      199,
+      224,
+      246,
+      261,
+      289,
+      305,
+      345
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1901",
+    "category": "G",
+    "stopNames": [
+      "兰州西",
+      "定西北",
+      "秦安",
+      "天水南",
+      "宝鸡南",
+      "西安北",
+      "华山北",
+      "洛阳龙门",
+      "郑州东",
+      "商丘",
+      "商丘东",
+      "古城东",
+      "太和东",
+      "阜阳西",
+      "凤台南",
+      "淮南南",
+      "合肥南",
+      "无为",
+      "铜陵北",
+      "泾县",
+      "歙县北",
+      "黄山北",
+      "上饶",
+      "武夷山北",
+      "南平市",
+      "福州",
+      "福州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1901.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a8e9a11b0dd64da9b280096ef45cd939a3c682f7a43521a71ea9bde9b57114a5",
+    "elapsedMinutes": [
+      0,
+      30,
+      71,
+      87,
+      131,
+      184,
+      226,
+      286,
+      326,
+      385,
+      397,
+      424,
+      439,
+      454,
+      484,
+      500,
+      541,
+      580,
+      600,
+      619,
+      647,
+      658,
+      704,
+      728,
+      742,
+      804,
+      823
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1902",
+    "category": "G",
+    "stopNames": [
+      "福州南",
+      "福州",
+      "延平",
+      "南平市",
+      "武夷山北",
+      "德兴",
+      "婺源",
+      "黄山北",
+      "绩溪北",
+      "泾县",
+      "铜陵北",
+      "无为",
+      "合肥南",
+      "淮南南",
+      "颍上北",
+      "阜阳西",
+      "太和东",
+      "亳州南",
+      "商丘东",
+      "商丘",
+      "郑州东",
+      "洛阳龙门",
+      "华山北",
+      "西安北",
+      "杨陵南",
+      "宝鸡南",
+      "天水南",
+      "定西北",
+      "兰州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1902.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f69dcead93a132681dc1559d49ca4f4ab0b2102566c4f0fc869c3c5d8ec7e812",
+    "elapsedMinutes": [
+      0,
+      15,
+      56,
+      85,
+      100,
+      137,
+      150,
+      176,
+      193,
+      215,
+      234,
+      248,
+      280,
+      327,
+      352,
+      371,
+      385,
+      411,
+      432,
+      443,
+      500,
+      539,
+      593,
+      623,
+      657,
+      684,
+      728,
+      780,
+      812
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1903",
+    "category": "G",
+    "stopNames": [
+      "福州南",
+      "福州",
+      "延平",
+      "南平市",
+      "武夷山北",
+      "德兴",
+      "婺源",
+      "黄山北",
+      "绩溪北",
+      "泾县",
+      "铜陵北",
+      "无为",
+      "合肥南",
+      "淮南南",
+      "颍上北",
+      "阜阳西",
+      "太和东",
+      "亳州南",
+      "商丘东",
+      "商丘",
+      "郑州东",
+      "洛阳龙门",
+      "华山北",
+      "西安北",
+      "杨陵南",
+      "宝鸡南",
+      "天水南",
+      "定西北",
+      "兰州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1903.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "da1db0be5ab5066a8ee975e922eb024c47fd5a350b571202e0bd68d54a92a748",
+    "elapsedMinutes": [
+      0,
+      15,
+      56,
+      85,
+      100,
+      137,
+      150,
+      176,
+      193,
+      215,
+      234,
+      248,
+      280,
+      327,
+      352,
+      371,
+      385,
+      411,
+      432,
+      443,
+      500,
+      539,
+      593,
+      623,
+      657,
+      684,
+      728,
+      780,
+      812
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1904",
+    "category": "G",
+    "stopNames": [
+      "兰州西",
+      "定西北",
+      "秦安",
+      "天水南",
+      "宝鸡南",
+      "西安北",
+      "华山北",
+      "洛阳龙门",
+      "郑州东",
+      "商丘",
+      "商丘东",
+      "古城东",
+      "太和东",
+      "阜阳西",
+      "凤台南",
+      "淮南南",
+      "合肥南",
+      "无为",
+      "铜陵北",
+      "泾县",
+      "歙县北",
+      "黄山北",
+      "上饶",
+      "武夷山北",
+      "南平市",
+      "福州",
+      "福州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1904.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c2868528c939ded68cead6e3718554e86024edab7da0e1f70b417e01299d25a9",
+    "elapsedMinutes": [
+      0,
+      30,
+      71,
+      87,
+      131,
+      184,
+      226,
+      286,
+      326,
+      385,
+      397,
+      424,
+      439,
+      454,
+      484,
+      500,
+      541,
+      580,
+      600,
+      619,
+      647,
+      658,
+      704,
+      728,
+      742,
+      804,
+      823
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1905",
+    "category": "G",
+    "stopNames": [
+      "郑州东",
+      "郑州航空港",
+      "周口东",
+      "界首南",
+      "阜阳西",
+      "颍上北",
+      "淮南南",
+      "合肥南",
+      "无为",
+      "铜陵北",
+      "南陵",
+      "旌德",
+      "绩溪北",
+      "黄山北",
+      "婺源",
+      "德兴",
+      "上饶",
+      "武夷山北",
+      "南平市",
+      "延平",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1905.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "85412e354813134e4c980da083f4a3160bc692fcbdbb84c11274888cfeff0848",
+    "elapsedMinutes": [
+      0,
+      16,
+      55,
+      82,
+      103,
+      122,
+      149,
+      189,
+      222,
+      236,
+      250,
+      271,
+      285,
+      302,
+      329,
+      344,
+      368,
+      394,
+      408,
+      437,
+      477
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1906",
+    "category": "G",
+    "stopNames": [
+      "福州",
+      "延平",
+      "建瓯西",
+      "南平市",
+      "上饶",
+      "婺源",
+      "黄山北",
+      "绩溪北",
+      "南陵",
+      "铜陵北",
+      "合肥南",
+      "淮南南",
+      "凤台南",
+      "阜阳西",
+      "沈丘北",
+      "周口东",
+      "郑州东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1906.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "40953158102009acfbd64ecffeb05fdd27f84c22d75f5f2bce4a94cb6af2d740",
+    "elapsedMinutes": [
+      0,
+      34,
+      52,
+      69,
+      102,
+      128,
+      155,
+      173,
+      200,
+      214,
+      254,
+      297,
+      312,
+      340,
+      370,
+      387,
+      442
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2227",
+    "category": "G",
+    "stopNames": [
+      "西安北",
+      "渭南北",
+      "华山北",
+      "三门峡南",
+      "洛阳龙门",
+      "郑州西",
+      "郑州",
+      "郑州航空港",
+      "西华",
+      "周口东",
+      "沈丘北",
+      "阜阳西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2227.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "601cb2ba823da1e4c84536f1177732864a4da1fa504bfe5869de7c32eed1062f",
+    "elapsedMinutes": [
+      0,
+      18,
+      41,
+      70,
+      115,
+      142,
+      160,
+      194,
+      232,
+      249,
+      266,
+      294,
+      364
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2228",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "淮南南",
+      "阜阳西",
+      "沈丘北",
+      "周口东",
+      "西华",
+      "郑州航空港",
+      "郑州",
+      "洛阳龙门",
+      "华山北",
+      "渭南北",
+      "西安北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2228.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c2cec3e0a26fc0b4cde833d01d35b915db1a499250b9bd84a136416ee4ab8ae2",
+    "elapsedMinutes": [
+      0,
+      39,
+      77,
+      104,
+      121,
+      134,
+      174,
+      205,
+      245,
+      299,
+      318,
+      340
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2229",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "淮南南",
+      "阜阳西",
+      "沈丘北",
+      "周口东",
+      "西华",
+      "郑州航空港",
+      "郑州",
+      "洛阳龙门",
+      "华山北",
+      "渭南北",
+      "西安北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2229.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "dcb6605a39a21e5c6941e343ea070ff6829f90e8ffee5655564df888d88a32f6",
+    "elapsedMinutes": [
+      0,
+      39,
+      77,
+      104,
+      121,
+      134,
+      174,
+      205,
+      245,
+      299,
+      318,
+      340
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2230",
+    "category": "G",
+    "stopNames": [
+      "西安北",
+      "渭南北",
+      "华山北",
+      "三门峡南",
+      "洛阳龙门",
+      "郑州西",
+      "郑州",
+      "郑州航空港",
+      "西华",
+      "周口东",
+      "沈丘北",
+      "阜阳西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2230.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4b12efc779e0407879d0f59b62f12d3cb0e00ab0ce2baed4d8049f019d421120",
+    "elapsedMinutes": [
+      0,
+      18,
+      41,
+      70,
+      115,
+      142,
+      160,
+      194,
+      232,
+      249,
+      266,
+      294,
+      364
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2551",
+    "category": "G",
+    "stopNames": [
+      "北京南",
+      "天津南",
+      "沧州西",
+      "德州东",
+      "济南西",
+      "曲阜东",
+      "蚌埠南",
+      "淮南东",
+      "合肥北城",
+      "合肥",
+      "六安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2551.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bd43c5538bcc9cf7ea78e8199db378a1101b519d4b81036c8eb81714a86ef56f",
+    "elapsedMinutes": [
+      0,
+      34,
+      66,
+      95,
+      135,
+      171,
+      245,
+      269,
+      290,
+      305,
+      364
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2564",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "蚌埠南",
+      "曲阜东",
+      "泰安",
+      "济南西",
+      "德州东",
+      "沧州西",
+      "天津南",
+      "北京南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2564.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b08e5507e492b6d9049a1b5b0e7534e3ac2556d8054c2dc461d8b8ef2a2449b1",
+    "elapsedMinutes": [
+      0,
+      50,
+      121,
+      142,
+      167,
+      194,
+      222,
+      247,
+      285
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2691",
+    "category": "G",
+    "stopNames": [
+      "潮汕",
+      "普宁",
+      "汕尾",
+      "惠阳",
+      "深圳北",
+      "惠州北",
+      "河源东",
+      "河源北",
+      "龙川西",
+      "和平北",
+      "信丰西",
+      "赣州西",
+      "新干东",
+      "南昌西",
+      "庐山",
+      "黄梅东",
+      "宿松东",
+      "太湖南",
+      "潜山",
+      "桐城东",
+      "舒城东",
+      "合肥西",
+      "淮南南",
+      "临泉",
+      "界首南",
+      "沈丘北",
+      "周口东",
+      "西华",
+      "鄢陵",
+      "许昌北",
+      "郑州东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2691.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d7dff7d2fa77818c5117de715a2a2e084c28feafee1b1c6e8fa89dde6116eb7e",
+    "elapsedMinutes": [
+      0,
+      17,
+      48,
+      79,
+      107,
+      142,
+      163,
+      178,
+      195,
+      213,
+      251,
+      270,
+      336,
+      375,
+      426,
+      446,
+      459,
+      478,
+      491,
+      514,
+      534,
+      561,
+      597,
+      642,
+      654,
+      675,
+      694,
+      709,
+      729,
+      742,
+      774
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2692",
+    "category": "G",
+    "stopNames": [
+      "新乡东",
+      "新乡南",
+      "郑州东",
+      "周口东",
+      "沈丘北",
+      "界首南",
+      "阜阳西",
+      "寿县",
+      "合肥北城",
+      "合肥西",
+      "肥西",
+      "庐江西",
+      "桐城东",
+      "安庆西",
+      "潜山",
+      "宿松东",
+      "黄梅东",
+      "庐山",
+      "德安",
+      "共青城",
+      "南昌西",
+      "樟树东",
+      "峡江",
+      "吉安西",
+      "泰和",
+      "赣州西",
+      "龙南东",
+      "定南南",
+      "龙川西",
+      "河源东",
+      "仲恺",
+      "东莞南",
+      "深圳北",
+      "惠阳",
+      "汕尾",
+      "普宁",
+      "潮汕"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2692.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ad1cc5ef45d493fd120132b9934872e10604920958c9027c5fdb9abc0c38dd62",
+    "elapsedMinutes": [
+      0,
+      13,
+      44,
+      104,
+      123,
+      139,
+      160,
+      191,
+      218,
+      240,
+      262,
+      283,
+      296,
+      313,
+      326,
+      346,
+      359,
+      379,
+      397,
+      405,
+      436,
+      482,
+      499,
+      519,
+      533,
+      575,
+      606,
+      619,
+      645,
+      666,
+      691,
+      705,
+      727,
+      764,
+      796,
+      827,
+      850
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2693",
+    "category": "G",
+    "stopNames": [
+      "新乡东",
+      "新乡南",
+      "郑州东",
+      "周口东",
+      "沈丘北",
+      "界首南",
+      "阜阳西",
+      "寿县",
+      "合肥北城",
+      "合肥西",
+      "肥西",
+      "庐江西",
+      "桐城东",
+      "安庆西",
+      "潜山",
+      "宿松东",
+      "黄梅东",
+      "庐山",
+      "德安",
+      "共青城",
+      "南昌西",
+      "樟树东",
+      "峡江",
+      "吉安西",
+      "泰和",
+      "赣州西",
+      "龙南东",
+      "定南南",
+      "龙川西",
+      "河源东",
+      "仲恺",
+      "东莞南",
+      "深圳北",
+      "惠阳",
+      "汕尾",
+      "普宁",
+      "潮汕"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2693.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f61e2106d57f2a85609c06d59e8853281c4b7f35b23c56a6512be4866354b928",
+    "elapsedMinutes": [
+      0,
+      13,
+      44,
+      104,
+      123,
+      139,
+      160,
+      191,
+      218,
+      240,
+      262,
+      283,
+      296,
+      313,
+      326,
+      346,
+      359,
+      379,
+      397,
+      405,
+      436,
+      482,
+      499,
+      519,
+      533,
+      575,
+      606,
+      619,
+      645,
+      666,
+      691,
+      705,
+      727,
+      764,
+      796,
+      827,
+      850
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2694",
+    "category": "G",
+    "stopNames": [
+      "潮汕",
+      "普宁",
+      "汕尾",
+      "惠阳",
+      "深圳北",
+      "惠州北",
+      "河源东",
+      "河源北",
+      "龙川西",
+      "和平北",
+      "信丰西",
+      "赣州西",
+      "新干东",
+      "南昌西",
+      "庐山",
+      "黄梅东",
+      "宿松东",
+      "太湖南",
+      "潜山",
+      "桐城东",
+      "舒城东",
+      "合肥西",
+      "淮南南",
+      "临泉",
+      "界首南",
+      "沈丘北",
+      "周口东",
+      "西华",
+      "鄢陵",
+      "许昌北",
+      "郑州东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2694.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9b4d9bc9418abd1082b0ade47bbc3c14e2a176ec8e21a376d5831cad1be99060",
+    "elapsedMinutes": [
+      0,
+      17,
+      48,
+      79,
+      107,
+      142,
+      163,
+      178,
+      195,
+      213,
+      251,
+      270,
+      336,
+      375,
+      426,
+      446,
+      459,
+      478,
+      491,
+      514,
+      534,
+      561,
+      597,
+      642,
+      654,
+      675,
+      694,
+      709,
+      729,
+      742,
+      774
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2793",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "舒城东",
+      "庐江西",
+      "庐山",
+      "永修",
+      "南昌西",
+      "丰城东",
+      "吉安西",
+      "赣州西",
+      "惠州北",
+      "东莞南",
+      "光明城",
+      "深圳北",
+      "福田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2793.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b86a8437ca76aabd0bba7d9c3b713027de9d7aef0457f3c18a44ce3894ff4fdf",
+    "elapsedMinutes": [
+      0,
+      19,
+      33,
+      94,
+      123,
+      146,
+      184,
+      220,
+      269,
+      352,
+      370,
+      381,
+      400,
+      413
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2794",
+    "category": "G",
+    "stopNames": [
+      "福田",
+      "深圳北",
+      "光明城",
+      "东莞南",
+      "仲恺",
+      "惠州北",
+      "河源东",
+      "定南南",
+      "赣州西",
+      "吉安西",
+      "丰城东",
+      "南昌西",
+      "庐山",
+      "黄梅东",
+      "潜山",
+      "庐江西",
+      "舒城东",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2794.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e3841cdb0df0478d3c275a231674059cdf2c2b7b9b5a63636dffadefc54034b7",
+    "elapsedMinutes": [
+      0,
+      8,
+      26,
+      37,
+      53,
+      65,
+      87,
+      132,
+      167,
+      218,
+      254,
+      281,
+      329,
+      350,
+      375,
+      404,
+      418,
+      439
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2795",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "舒城东",
+      "桐城东",
+      "安庆西",
+      "潜山",
+      "太湖南",
+      "宿松东",
+      "庐山",
+      "南昌西",
+      "峡江",
+      "万安县",
+      "赣州西",
+      "龙川西",
+      "河源东",
+      "深圳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2795.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5045ca61dbe5ca3a114407c4bfceaa4303a3549e6812abac7590e9dec7c84c76",
+    "elapsedMinutes": [
+      0,
+      19,
+      39,
+      56,
+      69,
+      82,
+      96,
+      120,
+      165,
+      217,
+      252,
+      286,
+      340,
+      364,
+      425
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2796",
+    "category": "G",
+    "stopNames": [
+      "深圳",
+      "惠州北",
+      "河源北",
+      "龙川西",
+      "赣州西",
+      "吉安西",
+      "吉水西",
+      "新干东",
+      "丰城东",
+      "南昌西",
+      "永修",
+      "德安",
+      "庐山",
+      "黄梅东",
+      "宿松东",
+      "潜山",
+      "安庆西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2796.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ce294116c51d4637ee33cc0577bacd17cce98b84d2f6d6f7690c8bc496e3ffcf",
+    "elapsedMinutes": [
+      0,
+      34,
+      62,
+      75,
+      131,
+      180,
+      192,
+      211,
+      230,
+      262,
+      289,
+      305,
+      323,
+      344,
+      355,
+      376,
+      388,
+      433
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3066",
+    "category": "G",
+    "stopNames": [
+      "广州东",
+      "广州新塘",
+      "罗浮山",
+      "惠州北",
+      "和平北",
+      "赣州西",
+      "吉安西",
+      "樟树东",
+      "南昌西",
+      "永修",
+      "庐山",
+      "潜山",
+      "安庆西",
+      "桐城东",
+      "庐江西",
+      "肥西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3066.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3b02927a9ff9c5594ba8971b7353b250e5c76566ebd41494e9cb8b635ec51b27",
+    "elapsedMinutes": [
+      0,
+      22,
+      42,
+      59,
+      105,
+      147,
+      196,
+      226,
+      259,
+      286,
+      314,
+      355,
+      367,
+      384,
+      398,
+      419,
+      434
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3069",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "桐城东",
+      "太湖南",
+      "宿松东",
+      "庐山",
+      "南昌西",
+      "吉安西",
+      "泰和",
+      "赣州西",
+      "惠州北",
+      "广州新塘",
+      "广州东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3069.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5a2b3b38ed736ec2eeabd688d78c7acb30c796ce274200ad6345c84ce503afd4",
+    "elapsedMinutes": [
+      0,
+      32,
+      61,
+      76,
+      101,
+      146,
+      205,
+      219,
+      261,
+      344,
+      379,
+      403
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3082",
+    "category": "G",
+    "stopNames": [
+      "广州东",
+      "广州新塘",
+      "增城",
+      "惠州北",
+      "河源东",
+      "赣州西",
+      "吉安西",
+      "吉水西",
+      "南昌西",
+      "永修",
+      "共青城",
+      "庐山",
+      "太湖南",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3082.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2dd214ee81e7088adb17dea26998fd10744c9f3e88153b11dbf388285abaebf6",
+    "elapsedMinutes": [
+      0,
+      21,
+      34,
+      57,
+      78,
+      147,
+      200,
+      212,
+      263,
+      289,
+      303,
+      324,
+      360,
+      418
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3083",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "庐江西",
+      "潜山",
+      "黄梅东",
+      "庐山",
+      "南昌西",
+      "吉安西",
+      "赣州西",
+      "惠州北",
+      "广州新塘",
+      "广州东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3083.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4323d7d4407d93cac71ea267153498cfa37bee915abb3c41c8cce71ebc0be9e8",
+    "elapsedMinutes": [
+      0,
+      26,
+      55,
+      81,
+      101,
+      150,
+      212,
+      262,
+      346,
+      377,
+      402
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3127",
+    "category": "G",
+    "stopNames": [
+      "太原南",
+      "长治东",
+      "晋城东",
+      "郑州",
+      "郑州东",
+      "商丘",
+      "亳州南",
+      "阜阳西",
+      "淮南南",
+      "合肥南",
+      "巢湖东",
+      "铜陵北",
+      "泾县",
+      "旌德",
+      "绩溪北",
+      "黄山北",
+      "上饶",
+      "武夷山北",
+      "延平",
+      "福州",
+      "福州南",
+      "莆田",
+      "泉州东",
+      "泉州南",
+      "厦门北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3127.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6f4aa31f858c4c254697d928f24b97a70c5fc40ea917834077b59290f7ca8652",
+    "elapsedMinutes": [
+      0,
+      63,
+      93,
+      147,
+      168,
+      222,
+      249,
+      278,
+      317,
+      357,
+      380,
+      402,
+      421,
+      438,
+      451,
+      471,
+      514,
+      538,
+      574,
+      615,
+      634,
+      660,
+      680,
+      693,
+      717
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3128",
+    "category": "G",
+    "stopNames": [
+      "厦门北",
+      "泉州南",
+      "莆田",
+      "福清西",
+      "福州南",
+      "福州",
+      "延平",
+      "武夷山北",
+      "上饶",
+      "黄山北",
+      "绩溪北",
+      "泾县",
+      "铜陵北",
+      "巢湖东",
+      "合肥南",
+      "阜阳西",
+      "太和东",
+      "亳州南",
+      "商丘",
+      "郑州东",
+      "郑州",
+      "焦作",
+      "长治东",
+      "太原南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3128.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "20796fd47440e9d9e963f0e9bf98865f53c358dce75fdb501fc179a3db3b44fd",
+    "elapsedMinutes": [
+      0,
+      17,
+      43,
+      60,
+      77,
+      99,
+      137,
+      173,
+      198,
+      242,
+      260,
+      282,
+      301,
+      323,
+      347,
+      420,
+      435,
+      457,
+      485,
+      538,
+      562,
+      599,
+      649,
+      715
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3129",
+    "category": "G",
+    "stopNames": [
+      "厦门北",
+      "泉州南",
+      "莆田",
+      "福清西",
+      "福州南",
+      "福州",
+      "延平",
+      "武夷山北",
+      "上饶",
+      "黄山北",
+      "绩溪北",
+      "泾县",
+      "铜陵北",
+      "巢湖东",
+      "合肥南",
+      "阜阳西",
+      "太和东",
+      "亳州南",
+      "商丘",
+      "郑州东",
+      "郑州",
+      "焦作",
+      "长治东",
+      "太原南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3129.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "35f6ca437001181fa5b1e0ecf932dfeae440ca625ff391e2634333e6126ddcbf",
+    "elapsedMinutes": [
+      0,
+      17,
+      43,
+      60,
+      77,
+      99,
+      137,
+      173,
+      198,
+      242,
+      260,
+      282,
+      301,
+      323,
+      347,
+      420,
+      435,
+      457,
+      485,
+      538,
+      562,
+      599,
+      649,
+      715
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3130",
+    "category": "G",
+    "stopNames": [
+      "太原南",
+      "长治东",
+      "晋城东",
+      "郑州",
+      "郑州东",
+      "商丘",
+      "亳州南",
+      "阜阳西",
+      "淮南南",
+      "合肥南",
+      "巢湖东",
+      "铜陵北",
+      "泾县",
+      "旌德",
+      "绩溪北",
+      "黄山北",
+      "上饶",
+      "武夷山北",
+      "延平",
+      "福州",
+      "福州南",
+      "莆田",
+      "泉州东",
+      "泉州南",
+      "厦门北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3130.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a7f573aaf53d6faa042b89fc02a546f42db9a8ad13b2f5680a6dcb43c81efacc",
+    "elapsedMinutes": [
+      0,
+      63,
+      93,
+      147,
+      168,
+      222,
+      249,
+      278,
+      317,
+      357,
+      380,
+      402,
+      421,
+      438,
+      451,
+      471,
+      514,
+      538,
+      574,
+      615,
+      634,
+      660,
+      680,
+      693,
+      717
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3141",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "巢湖东",
+      "南陵",
+      "旌德",
+      "绩溪北",
+      "黄山北",
+      "婺源",
+      "上饶",
+      "五府山",
+      "南平市",
+      "建瓯西",
+      "延平西",
+      "三明北",
+      "三明",
+      "永安南",
+      "双洋",
+      "漳平西",
+      "龙岩",
+      "南靖",
+      "漳州",
+      "云霄",
+      "潮汕",
+      "陆丰",
+      "汕尾",
+      "惠阳",
+      "深圳坪山",
+      "深圳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3141.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cf742684de53c5bf6debd0c3639fb871e8fbd9fb28175aa7faca552c35fdb853",
+    "elapsedMinutes": [
+      0,
+      21,
+      50,
+      71,
+      87,
+      104,
+      129,
+      156,
+      170,
+      195,
+      213,
+      235,
+      253,
+      269,
+      287,
+      305,
+      321,
+      347,
+      386,
+      414,
+      460,
+      491,
+      530,
+      545,
+      576,
+      587,
+      607
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3142",
+    "category": "G",
+    "stopNames": [
+      "深圳北",
+      "深圳坪山",
+      "惠阳",
+      "鲘门",
+      "汕尾",
+      "普宁",
+      "潮阳",
+      "潮汕",
+      "漳浦",
+      "漳州",
+      "龙岩",
+      "漳平西",
+      "永安南",
+      "三明",
+      "三明北",
+      "延平西",
+      "建瓯西",
+      "南平市",
+      "武夷山北",
+      "上饶",
+      "婺源",
+      "黄山北",
+      "绩溪北",
+      "泾县",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3142.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "30bf48e2fc9ea99f0a321fde4f3dd9d722026d05005153b78ffb7b09e4ab19c1",
+    "elapsedMinutes": [
+      0,
+      17,
+      28,
+      51,
+      65,
+      96,
+      109,
+      124,
+      165,
+      184,
+      248,
+      276,
+      304,
+      322,
+      337,
+      356,
+      381,
+      398,
+      413,
+      438,
+      463,
+      491,
+      508,
+      530,
+      581
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3155",
+    "category": "G",
+    "stopNames": [
+      "西安北",
+      "华山北",
+      "洛阳龙门",
+      "郑州东",
+      "商丘",
+      "商丘东",
+      "亳州南",
+      "阜阳西",
+      "淮南南",
+      "合肥西",
+      "舒城东",
+      "庐江西",
+      "桐城东",
+      "太湖南",
+      "庐山",
+      "南昌西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3155.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "87416eadf49e38a8455df796918c947986284233b4d656194e518d6bfd0064a7",
+    "elapsedMinutes": [
+      0,
+      31,
+      85,
+      124,
+      177,
+      189,
+      210,
+      239,
+      280,
+      312,
+      351,
+      364,
+      378,
+      406,
+      445,
+      490
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3156",
+    "category": "G",
+    "stopNames": [
+      "南昌西",
+      "永修",
+      "共青城",
+      "德安",
+      "庐山",
+      "宿松东",
+      "安庆西",
+      "桐城东",
+      "庐江西",
+      "合肥西",
+      "淮南南",
+      "阜阳西",
+      "亳州南",
+      "商丘",
+      "民权北",
+      "郑州东",
+      "洛阳龙门",
+      "华山北",
+      "西安北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3156.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "6c994b96cf5cae538afe1dd7404c35ac6ad2f575c6548042bdb7576d227cca02",
+    "elapsedMinutes": [
+      0,
+      20,
+      34,
+      42,
+      60,
+      84,
+      112,
+      135,
+      149,
+      182,
+      220,
+      255,
+      283,
+      310,
+      329,
+      372,
+      411,
+      465,
+      500
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3157",
+    "category": "G",
+    "stopNames": [
+      "南昌西",
+      "永修",
+      "共青城",
+      "德安",
+      "庐山",
+      "宿松东",
+      "安庆西",
+      "桐城东",
+      "庐江西",
+      "合肥西",
+      "淮南南",
+      "阜阳西",
+      "亳州南",
+      "商丘",
+      "民权北",
+      "郑州东",
+      "洛阳龙门",
+      "华山北",
+      "西安北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3157.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "beaca757e2d1c853368bdb6bd58de82b1c69ccb492667179dcc314151a1eac8b",
+    "elapsedMinutes": [
+      0,
+      20,
+      34,
+      42,
+      60,
+      84,
+      112,
+      135,
+      149,
+      182,
+      220,
+      255,
+      283,
+      310,
+      329,
+      372,
+      411,
+      465,
+      500
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3158",
+    "category": "G",
+    "stopNames": [
+      "西安北",
+      "华山北",
+      "洛阳龙门",
+      "郑州东",
+      "商丘",
+      "商丘东",
+      "亳州南",
+      "阜阳西",
+      "淮南南",
+      "合肥西",
+      "舒城东",
+      "庐江西",
+      "桐城东",
+      "太湖南",
+      "庐山",
+      "南昌西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3158.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "28b55108874abf89d939ef96725a55ffcfdb1925a001db8f6e106a1b48999388",
+    "elapsedMinutes": [
+      0,
+      31,
+      85,
+      124,
+      177,
+      189,
+      210,
+      239,
+      280,
+      312,
+      351,
+      364,
+      378,
+      406,
+      445,
+      490
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3183",
+    "category": "G",
+    "stopNames": [
+      "兰州西",
+      "定西北",
+      "秦安",
+      "天水南",
+      "宝鸡南",
+      "杨陵南",
+      "西安北",
+      "洛阳龙门",
+      "郑州东",
+      "商丘",
+      "商丘东",
+      "亳州南",
+      "古城东",
+      "阜阳西",
+      "淮南南",
+      "合肥北城",
+      "合肥南",
+      "无为",
+      "泾县",
+      "绩溪北",
+      "黄山北",
+      "黟县东",
+      "景德镇北",
+      "鄱阳",
+      "余干",
+      "南昌东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3183.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d2e329c8f19138ba094eda2179771cde769174720b6ae1b406b408a8aedd69f3",
+    "elapsedMinutes": [
+      0,
+      28,
+      68,
+      84,
+      129,
+      154,
+      184,
+      268,
+      309,
+      362,
+      379,
+      403,
+      419,
+      444,
+      488,
+      509,
+      535,
+      570,
+      597,
+      619,
+      636,
+      651,
+      690,
+      715,
+      728,
+      753
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3184",
+    "category": "G",
+    "stopNames": [
+      "南昌东",
+      "余干",
+      "鄱阳",
+      "景德镇北",
+      "祁门南",
+      "黄山北",
+      "旌德",
+      "泾县",
+      "南陵",
+      "无为",
+      "巢湖东",
+      "合肥南",
+      "淮南南",
+      "寿县",
+      "阜阳西",
+      "商丘",
+      "民权北",
+      "郑州东",
+      "洛阳龙门",
+      "华山北",
+      "西安北",
+      "咸阳西",
+      "宝鸡南",
+      "天水南",
+      "秦安",
+      "定西北",
+      "兰州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3184.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1244e1a2520b832e6cfd790a07acb426e524e561bca04e8fc7c84b18a52f2da3",
+    "elapsedMinutes": [
+      0,
+      19,
+      35,
+      59,
+      88,
+      111,
+      137,
+      153,
+      165,
+      186,
+      201,
+      230,
+      273,
+      284,
+      315,
+      361,
+      382,
+      424,
+      465,
+      524,
+      554,
+      573,
+      615,
+      661,
+      677,
+      718,
+      751
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3185",
+    "category": "G",
+    "stopNames": [
+      "南昌东",
+      "余干",
+      "鄱阳",
+      "景德镇北",
+      "祁门南",
+      "黄山北",
+      "旌德",
+      "泾县",
+      "南陵",
+      "无为",
+      "巢湖东",
+      "合肥南",
+      "淮南南",
+      "寿县",
+      "阜阳西",
+      "商丘",
+      "民权北",
+      "郑州东",
+      "洛阳龙门",
+      "华山北",
+      "西安北",
+      "咸阳西",
+      "宝鸡南",
+      "天水南",
+      "秦安",
+      "定西北",
+      "兰州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3185.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "64db448147d754b5c352fd36cd55feae91e034b6e3f9b0395f7d53ef20d56bc3",
+    "elapsedMinutes": [
+      0,
+      19,
+      35,
+      59,
+      88,
+      111,
+      137,
+      153,
+      165,
+      186,
+      201,
+      230,
+      273,
+      284,
+      315,
+      361,
+      382,
+      424,
+      465,
+      524,
+      554,
+      573,
+      615,
+      661,
+      677,
+      718,
+      751
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3186",
+    "category": "G",
+    "stopNames": [
+      "兰州西",
+      "定西北",
+      "秦安",
+      "天水南",
+      "宝鸡南",
+      "杨陵南",
+      "西安北",
+      "洛阳龙门",
+      "郑州东",
+      "商丘",
+      "商丘东",
+      "亳州南",
+      "古城东",
+      "阜阳西",
+      "淮南南",
+      "合肥北城",
+      "合肥南",
+      "无为",
+      "泾县",
+      "绩溪北",
+      "黄山北",
+      "黟县东",
+      "景德镇北",
+      "鄱阳",
+      "余干",
+      "南昌东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3186.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d31238aa6c218ee0d78c0f6cc430c4da773f1bb8eb52ef9467157db549cb63ff",
+    "elapsedMinutes": [
+      0,
+      28,
+      68,
+      84,
+      129,
+      154,
+      184,
+      268,
+      309,
+      362,
+      379,
+      403,
+      419,
+      444,
+      488,
+      509,
+      535,
+      570,
+      597,
+      619,
+      636,
+      651,
+      690,
+      715,
+      728,
+      753
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3239",
+    "category": "G",
+    "stopNames": [
+      "泗县东",
+      "五河",
+      "明光西",
+      "定远东",
+      "合肥西",
+      "六安",
+      "麻城北",
+      "红安西",
+      "汉口"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3239.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "73b4f4fae6f511b92b2d29b63b0341c99dd8e254e3f3e25a2ffe86d488377947",
+    "elapsedMinutes": [
+      0,
+      14,
+      30,
+      44,
+      77,
+      110,
+      168,
+      194,
+      226
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3240",
+    "category": "G",
+    "stopNames": [
+      "汉口",
+      "红安西",
+      "麻城北",
+      "六安",
+      "合肥西",
+      "定远东",
+      "明光西",
+      "五河",
+      "泗县东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3240.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3c6b2a3138f3519c24cacbf21c33d3c9c9e79501038966982b265166a3481665",
+    "elapsedMinutes": [
+      0,
+      30,
+      50,
+      98,
+      130,
+      164,
+      179,
+      194,
+      210
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3365",
+    "category": "G",
+    "stopNames": [
+      "南昌西",
+      "德安",
+      "庐山",
+      "黄梅东",
+      "太湖南",
+      "合肥西",
+      "淮南南",
+      "颍上北",
+      "阜阳西",
+      "沈丘北",
+      "周口东",
+      "郑州东",
+      "新乡东",
+      "濮阳东",
+      "聊城西",
+      "济南",
+      "淄博",
+      "青州市",
+      "潍坊",
+      "青岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3365.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2ee33b6eb285a0fe557a5511d9b157c7836c2c8d1d04996eb7493fddcf21fedf",
+    "elapsedMinutes": [
+      0,
+      30,
+      49,
+      73,
+      91,
+      155,
+      193,
+      216,
+      236,
+      265,
+      282,
+      332,
+      360,
+      395,
+      426,
+      464,
+      510,
+      530,
+      553,
+      628
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3366",
+    "category": "G",
+    "stopNames": [
+      "青岛",
+      "青岛北",
+      "潍坊",
+      "青州市",
+      "淄博",
+      "济南",
+      "长清",
+      "茌平南",
+      "聊城西",
+      "莘县",
+      "濮阳东",
+      "新乡东",
+      "郑州东",
+      "周口东",
+      "沈丘北",
+      "临泉",
+      "阜阳西",
+      "淮南南",
+      "合肥西",
+      "庐江西",
+      "庐山",
+      "南昌西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3366.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "429ca0550b680c133b68ec0bc9d0e4318d31e4d84892592a2766e79c533a210e",
+    "elapsedMinutes": [
+      0,
+      19,
+      77,
+      101,
+      122,
+      170,
+      192,
+      208,
+      224,
+      237,
+      266,
+      300,
+      328,
+      384,
+      401,
+      420,
+      445,
+      481,
+      515,
+      553,
+      612,
+      657
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3367",
+    "category": "G",
+    "stopNames": [
+      "青岛",
+      "青岛北",
+      "潍坊",
+      "青州市",
+      "淄博",
+      "济南",
+      "长清",
+      "茌平南",
+      "聊城西",
+      "莘县",
+      "濮阳东",
+      "新乡东",
+      "郑州东",
+      "周口东",
+      "沈丘北",
+      "临泉",
+      "阜阳西",
+      "淮南南",
+      "合肥西",
+      "庐江西",
+      "庐山",
+      "南昌西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3367.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8e25f1ae12274ac9689b527578b078f63f3efa5b51e1e6fc48d3e5c8a9afd90a",
+    "elapsedMinutes": [
+      0,
+      19,
+      77,
+      101,
+      122,
+      170,
+      192,
+      208,
+      224,
+      237,
+      266,
+      300,
+      328,
+      384,
+      401,
+      420,
+      445,
+      481,
+      515,
+      553,
+      612,
+      657
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3368",
+    "category": "G",
+    "stopNames": [
+      "南昌西",
+      "德安",
+      "庐山",
+      "黄梅东",
+      "太湖南",
+      "合肥西",
+      "淮南南",
+      "颍上北",
+      "阜阳西",
+      "沈丘北",
+      "周口东",
+      "郑州东",
+      "新乡东",
+      "濮阳东",
+      "聊城西",
+      "济南",
+      "淄博",
+      "青州市",
+      "潍坊",
+      "青岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3368.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b4771cbcda1b4a917a254b8400227e550845f9dcb631dcbceb565c573bd7b511",
+    "elapsedMinutes": [
+      0,
+      30,
+      49,
+      73,
+      91,
+      155,
+      193,
+      216,
+      236,
+      265,
+      282,
+      332,
+      360,
+      395,
+      426,
+      464,
+      510,
+      530,
+      553,
+      628
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3945",
+    "category": "G",
+    "stopNames": [
+      "襄阳东",
+      "荆门西",
+      "汉口",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3945.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "70a216ba15fcb177c9592ac0ee92ccfb42f0097480ea22e52fc321c5e7de0c61",
+    "elapsedMinutes": [
+      0,
+      32,
+      116,
+      224
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3946",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "汉口",
+      "荆门西",
+      "襄阳东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3946.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "6f1291ec9188e0bce75d69c54d86877a5522953085c615872e8a77f977885a86",
+    "elapsedMinutes": [
+      0,
+      108,
+      176,
+      229
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3947",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "汉口",
+      "荆门西",
+      "襄阳东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3947.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "14405ee755c6c4aed9dd9918c5848557e60a683a12f62166e199c0477b5e9ef0",
+    "elapsedMinutes": [
+      0,
+      108,
+      176,
+      229
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3948",
+    "category": "G",
+    "stopNames": [
+      "襄阳东",
+      "荆门西",
+      "汉口",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3948.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "aae2c144c8aa683e0ae3f06fcd1adab5a8fe48b13872d8f9741aac309e0f636f",
+    "elapsedMinutes": [
+      0,
+      32,
+      116,
+      224
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4077",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "巢湖东",
+      "南陵",
+      "旌德",
+      "绩溪北",
+      "黄山北",
+      "婺源",
+      "上饶",
+      "五府山",
+      "南平市",
+      "建瓯西",
+      "延平西",
+      "三明北",
+      "三明",
+      "永安南",
+      "双洋",
+      "漳平西",
+      "龙岩"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4077.html",
+    "sourceUpdatedAt": "2026-07-25",
+    "sourceSha256": "747d7ae80115a73f6aa8bc7e5858b7b8d6e4ca106229476c83e5ba9af1d39ac1",
+    "elapsedMinutes": [
+      0,
+      21,
+      50,
+      71,
+      87,
+      104,
+      129,
+      156,
+      170,
+      195,
+      213,
+      235,
+      253,
+      269,
+      287,
+      305,
+      321,
+      347
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4078",
+    "category": "G",
+    "stopNames": [
+      "龙岩",
+      "漳平西",
+      "永安南",
+      "三明",
+      "三明北",
+      "延平西",
+      "建瓯西",
+      "南平市",
+      "武夷山北",
+      "上饶",
+      "婺源",
+      "黄山北",
+      "绩溪北",
+      "泾县",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4078.html",
+    "sourceUpdatedAt": "2026-07-25",
+    "sourceSha256": "432ce6fba8ef095126fad1f0768392ce791783aa3c2e30975370cb4423639830",
+    "elapsedMinutes": [
+      0,
+      24,
+      52,
+      70,
+      85,
+      104,
+      129,
+      146,
+      161,
+      186,
+      211,
+      239,
+      256,
+      278,
+      329
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4222",
+    "category": "G",
+    "stopNames": [
+      "宜昌东",
+      "汉口",
+      "六安",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4222.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "29a4d21279d31f50b3d56014af9da2742b8bdb3a0adfabcc5374a49e468b8d47",
+    "elapsedMinutes": [
+      0,
+      102,
+      206,
+      239
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4292",
+    "category": "G",
+    "stopNames": [
+      "宜昌东",
+      "汉口",
+      "六安",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4292.html",
+    "sourceUpdatedAt": "2026-02-24",
+    "sourceSha256": "cdcaa3654e98cde5b1f7ab9fffafd82a9911eb816d4430df868b1bcd28197846",
+    "elapsedMinutes": [
+      0,
+      102,
+      206,
+      239
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4764",
+    "category": "G",
+    "stopNames": [
+      "武汉",
+      "麻城北",
+      "金寨",
+      "六安",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4764.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "916b812787b6e3355d279205de5fa5974eabe350c976e76f817a4a5016c0080c",
+    "elapsedMinutes": [
+      0,
+      37,
+      73,
+      94,
+      128
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4801",
+    "category": "G",
+    "stopNames": [
+      "贵阳北",
+      "广州南",
+      "深圳北",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4801.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "8ded90ce04fb82f9dca7f0d4ef34cdd5f689cb8b1813e8ccd0a873984edf3b8d",
+    "elapsedMinutes": [
+      0,
+      232,
+      265,
+      206
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4
+      ]
+    }
+  },
+  {
+    "trainNumber": "G4804",
+    "category": "G",
+    "stopNames": [
+      "贵阳北",
+      "广州南",
+      "深圳北",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4804.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "0963b3135258383e81d6e0855ff1df02afbdf975fbe47facda4927b9146266be",
+    "elapsedMinutes": [
+      0,
+      232,
+      265,
+      206
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4
+      ]
+    }
+  },
+  {
+    "trainNumber": "G51",
+    "category": "G",
+    "stopNames": [
+      "北京南",
+      "天津南",
+      "济南西",
+      "合肥南",
+      "巢湖东",
+      "芜湖"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g51.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "69008d40d36d22e74bbb92ac8f6584f6127775d1616221f8a6454b6e80ebbc6b",
+    "elapsedMinutes": [
+      0,
+      31,
+      90,
+      221,
+      247,
+      271
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G53",
+    "category": "G",
+    "stopNames": [
+      "北京南",
+      "济南西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g53.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a77f7275d70f4193aed935f3dd55da38e9128c8f868ddefa67c0ef581ce61f1b",
+    "elapsedMinutes": [
+      0,
+      82,
+      216
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G54",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "蚌埠南",
+      "济南西",
+      "北京南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g54.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "249c79f92991958896d165f5c6ebf99073c223ccc543d6527cdab0d58c94b032",
+    "elapsedMinutes": [
+      0,
+      50,
+      136,
+      222
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G56",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "蚌埠南",
+      "济南西",
+      "北京南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g56.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c4e435b82327546d6ee00b0e01db31790d983c421505ebe2823541eec9dc7b57",
+    "elapsedMinutes": [
+      0,
+      50,
+      136,
+      226
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G58",
+    "category": "G",
+    "stopNames": [
+      "芜湖",
+      "巢湖东",
+      "合肥南",
+      "济南西",
+      "北京南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g58.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "298f40cd412dc29bdd013c44e971efeebc09aed0a3735342ed456ad3a8f54768",
+    "elapsedMinutes": [
+      0,
+      21,
+      46,
+      182,
+      269
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G635",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "肥西",
+      "桐城东",
+      "太湖南",
+      "庐山",
+      "德安",
+      "永修",
+      "南昌西",
+      "赣州西",
+      "河源东",
+      "惠州北",
+      "光明城",
+      "深圳北",
+      "福田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g635.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "63db1e3e625f0d054bcbe078b0033e2e56c92f2e5b80ac35a12c01e59fd276ab",
+    "elapsedMinutes": [
+      0,
+      12,
+      40,
+      70,
+      101,
+      120,
+      136,
+      159,
+      261,
+      329,
+      350,
+      371,
+      387,
+      403
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G636",
+    "category": "G",
+    "stopNames": [
+      "福田",
+      "深圳北",
+      "河源东",
+      "龙川西",
+      "和平北",
+      "龙南东",
+      "赣州西",
+      "吉安西",
+      "南昌西",
+      "共青城",
+      "黄梅东",
+      "宿松东",
+      "太湖南",
+      "安庆西",
+      "桐城东",
+      "肥西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g636.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "729e6c559ea9eaefdcc797aa53711ea0b30ab191a23e9d4b2b1f01109737c7be",
+    "elapsedMinutes": [
+      0,
+      8,
+      54,
+      74,
+      93,
+      113,
+      143,
+      192,
+      249,
+      293,
+      331,
+      342,
+      356,
+      376,
+      394,
+      421,
+      435
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G649",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "六安",
+      "金寨",
+      "武汉",
+      "咸宁北",
+      "长沙南",
+      "郴州西",
+      "韶关",
+      "广州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g649.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3e07757f733045f4fbb3b9955c538d9248ff7d605919f86455a3554867f936c8",
+    "elapsedMinutes": [
+      0,
+      24,
+      45,
+      114,
+      142,
+      218,
+      294,
+      327,
+      386
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G650",
+    "category": "G",
+    "stopNames": [
+      "广州",
+      "广州白云",
+      "广州北",
+      "韶关",
+      "郴州西",
+      "衡阳东",
+      "长沙南",
+      "岳阳东",
+      "咸宁北",
+      "武汉",
+      "红安西",
+      "麻城北",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g650.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4d6fc3ba3120be462a1d541cadd4e2bf1335c0fd47c99a8bb75d192bf834eaae",
+    "elapsedMinutes": [
+      0,
+      11,
+      31,
+      72,
+      105,
+      140,
+      180,
+      218,
+      252,
+      278,
+      304,
+      320,
+      389
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7413",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "巢湖东",
+      "南陵",
+      "旌德",
+      "绩溪北",
+      "黄山北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7413.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ffa9000e7cca051b0354866e99df53ecaee130ed76c57cfafcaecca6ca8cb483",
+    "elapsedMinutes": [
+      0,
+      21,
+      50,
+      71,
+      84,
+      101
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7414",
+    "category": "G",
+    "stopNames": [
+      "黄山北",
+      "绩溪北",
+      "旌德",
+      "泾县",
+      "南陵",
+      "无为",
+      "合肥南",
+      "淮南东",
+      "蚌埠南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7414.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3e0de27b4e664085d3d04da0e45df869649542129b138204fa28ed3aef8954a0",
+    "elapsedMinutes": [
+      0,
+      14,
+      27,
+      43,
+      55,
+      76,
+      108,
+      156,
+      175
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7415",
+    "category": "G",
+    "stopNames": [
+      "蚌埠南",
+      "淮南东",
+      "合肥南",
+      "泾县",
+      "歙县北",
+      "黄山北",
+      "黟县东",
+      "祁门南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7415.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0ce6890c485b67359b5e1d44c7f39e749c118c4b8f009a1b1de5f302c1639a9b",
+    "elapsedMinutes": [
+      0,
+      16,
+      57,
+      109,
+      137,
+      147,
+      164,
+      180
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7416",
+    "category": "G",
+    "stopNames": [
+      "祁门南",
+      "黟县东",
+      "黄山北",
+      "旌德",
+      "无为",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7416.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cdf470b41c10e4172a93bb93d048de8e38e3ca85440e4ca4f1d5086ff3ca09a6",
+    "elapsedMinutes": [
+      0,
+      12,
+      28,
+      53,
+      88,
+      120
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7417",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "无为",
+      "铜陵",
+      "池州",
+      "安庆"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7417.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b7c74d98dd0e14ae886ef2f796a769510f95c4962b1db3ee733e4e93ebf2c44a",
+    "elapsedMinutes": [
+      0,
+      29,
+      52,
+      72,
+      92
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7419",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "铜陵北",
+      "泾县",
+      "绩溪北",
+      "歙县北",
+      "黄山北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7419.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "824cf9f4790434cbf4924f1fb5adedc6d899478e9e543944eb427c60dbc77773",
+    "elapsedMinutes": [
+      0,
+      37,
+      56,
+      78,
+      90,
+      107
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7424",
+    "category": "G",
+    "stopNames": [
+      "安庆",
+      "池州",
+      "铜陵",
+      "铜陵北",
+      "无为",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7424.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "734643b59d41b2b152414e699be29d959c61b2aa2d44216b1f2a1d0a99f522d7",
+    "elapsedMinutes": [
+      0,
+      17,
+      36,
+      62,
+      78,
+      122
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7460",
+    "category": "G",
+    "stopNames": [
+      "黄山北",
+      "歙县北",
+      "旌德",
+      "泾县",
+      "南陵",
+      "无为",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7460.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "beb3b184c9a7c4ad6e1c44009a9ee5af0fa592ba67fd77cf4d1851f9b0959624",
+    "elapsedMinutes": [
+      0,
+      8,
+      27,
+      43,
+      55,
+      76,
+      108
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G757",
+    "category": "G",
+    "stopNames": [
+      "北京南",
+      "济南西",
+      "水家湖",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g757.html",
+    "sourceUpdatedAt": "2026-08-24",
+    "sourceSha256": "62d0f06f59c17abe3831dc7addbd1aef48c197fa9f3895e272d6d0352466fb07",
+    "elapsedMinutes": [
+      0,
+      82,
+      190,
+      230
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7703",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "芜湖",
+      "宣城",
+      "宁国南",
+      "黄山北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7703.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9c4d1564643369b61c3699d6d380d8dbef94f29765f13c885e37e277aca4d500",
+    "elapsedMinutes": [
+      0,
+      37,
+      65,
+      86,
+      121
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7704",
+    "category": "G",
+    "stopNames": [
+      "黄山北",
+      "绩溪北",
+      "宁国南",
+      "宣城",
+      "芜湖",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7704.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e2753f88c83d0392790bd8659e612a835f7f84eb18ac6aeee092dc5527b4566c",
+    "elapsedMinutes": [
+      0,
+      14,
+      39,
+      56,
+      83,
+      126
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7705",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "巢湖东",
+      "芜湖",
+      "宣城",
+      "宁国南",
+      "黄山北",
+      "黟县东",
+      "祁门南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7705.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e8f30d13bf44bf1bf8b07b4653bdd1cf7d845d8f74d6df6404c270fa6adaf5b4",
+    "elapsedMinutes": [
+      0,
+      21,
+      44,
+      72,
+      90,
+      125,
+      142,
+      158
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7706",
+    "category": "G",
+    "stopNames": [
+      "祁门南",
+      "黟县东",
+      "黄山北",
+      "绩溪北",
+      "宁国南",
+      "宣城",
+      "芜湖",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7706.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7903aee45e1f0e5088e8701df454e7cafe8b28389251bf24c5308f3491219efd",
+    "elapsedMinutes": [
+      0,
+      12,
+      27,
+      45,
+      69,
+      87,
+      117,
+      158
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7709",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "巢湖东",
+      "南陵",
+      "泾县",
+      "绩溪北",
+      "黄山北",
+      "黟县东",
+      "祁门南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7709.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1992acfc89e0487436d7319bd8c2bcd39802bc0485535d0fe239c6d9b588c873",
+    "elapsedMinutes": [
+      0,
+      21,
+      50,
+      62,
+      84,
+      101,
+      116,
+      132
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7710",
+    "category": "G",
+    "stopNames": [
+      "祁门南",
+      "黄山北",
+      "歙县北",
+      "无为",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7710.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "387059693034013d54b2f2ea1c4422fec7dabe275c9a11ef1d579d7463fd0d18",
+    "elapsedMinutes": [
+      0,
+      21,
+      36,
+      83,
+      115
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7719",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "无为",
+      "南陵",
+      "旌德",
+      "绩溪北",
+      "黄山北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7719.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "25775bad655e42bb9e82b634aa41ced52adf186b4c4d77e1bf42adc673cbe1ab",
+    "elapsedMinutes": [
+      0,
+      30,
+      51,
+      72,
+      85,
+      102
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7722",
+    "category": "G",
+    "stopNames": [
+      "芜湖",
+      "巢湖东",
+      "合肥南",
+      "合肥西",
+      "淮南南",
+      "寿县",
+      "凤台南",
+      "阜阳西",
+      "临泉",
+      "界首南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7722.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f72b282784f6f507d8c94f6d045c2aa6464884b7c676cdf6e4d5e3546396bc5e",
+    "elapsedMinutes": [
+      0,
+      21,
+      46,
+      64,
+      96,
+      107,
+      127,
+      155,
+      172,
+      184
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7723",
+    "category": "G",
+    "stopNames": [
+      "界首南",
+      "临泉",
+      "阜阳西",
+      "颍上北",
+      "合肥西",
+      "合肥南",
+      "无为",
+      "铜陵",
+      "安庆"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7723.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f67e52a363e07172443b058c46fc32f636bda8456e698d6d1778a890716aa75e",
+    "elapsedMinutes": [
+      0,
+      10,
+      27,
+      50,
+      98,
+      113,
+      147,
+      170,
+      203
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7732",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "水家湖",
+      "淮南南",
+      "阜阳西",
+      "临泉",
+      "界首南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7732.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "84e1e3c8e02e093da6f5be8407117b221a3bdde9fbcf0030551a2ef14b6b75f1",
+    "elapsedMinutes": [
+      0,
+      35,
+      46,
+      82,
+      98,
+      110
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7737",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "芜湖"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7737.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "97a7f4a6ff6f65e6cf69284bd655824832f81c191e8c5cc916922812ef4813e4",
+    "elapsedMinutes": [
+      0,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7738",
+    "category": "G",
+    "stopNames": [
+      "芜湖",
+      "巢湖东",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7738.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "04e2fbd362f90f83660fd5f668af5878685359a39af31c9f5a2758182fcd1700",
+    "elapsedMinutes": [
+      0,
+      21,
+      46
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7745",
+    "category": "G",
+    "stopNames": [
+      "亳州南",
+      "阜阳西",
+      "水家湖",
+      "合肥南",
+      "巢湖东",
+      "铜陵北",
+      "泾县",
+      "旌德",
+      "绩溪北",
+      "黄山北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7745.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e74236d9bc86e4b4266678a6729d7ddf48daf78044879bb7a294b64895969923",
+    "elapsedMinutes": [
+      0,
+      27,
+      69,
+      106,
+      131,
+      154,
+      173,
+      189,
+      202,
+      219
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7746",
+    "category": "G",
+    "stopNames": [
+      "黄山北",
+      "歙县北",
+      "旌德",
+      "泾县",
+      "南陵",
+      "合肥南",
+      "淮南南",
+      "颍上北",
+      "阜阳西",
+      "古城东",
+      "亳州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7746.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "34d2a2fbb4e7d7db0bc6abc60802b9095982c2015051e802fd39c3012104db18",
+    "elapsedMinutes": [
+      0,
+      8,
+      27,
+      43,
+      55,
+      101,
+      142,
+      165,
+      188,
+      213,
+      227
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7748",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "铜陵",
+      "池州",
+      "安庆",
+      "太湖南",
+      "宿松东",
+      "黄梅东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7748.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ee5107b600c4c337aca7b22bfa397c61a1bbe945982e37ff9d63611d2b24cb38",
+    "elapsedMinutes": [
+      0,
+      45,
+      66,
+      85,
+      117,
+      131,
+      143
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7749",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "铜陵",
+      "池州",
+      "安庆",
+      "太湖南",
+      "宿松东",
+      "黄梅东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7749.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0f62b7c02e5702636cd8b910ad92b1478f8004c939b61e638f17dfb3be016401",
+    "elapsedMinutes": [
+      0,
+      45,
+      66,
+      85,
+      117,
+      131,
+      143
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7750",
+    "category": "G",
+    "stopNames": [
+      "安庆",
+      "池州",
+      "铜陵",
+      "无为",
+      "巢湖东",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7750.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f19a811d1772e5b3218348795417c818423253253342b1e06581da9c7e8f32c8",
+    "elapsedMinutes": [
+      0,
+      17,
+      36,
+      60,
+      75,
+      101
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8331",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "安庆",
+      "池州",
+      "铜陵",
+      "无为",
+      "合肥 南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8331.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c537c133be2a0807cb9d219f6d69e3a978d4b415d3ee1d4cc51756eeb509bf7d",
+    "elapsedMinutes": [
+      0,
+      55,
+      76,
+      95,
+      119,
+      151
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8332",
+    "category": "G",
+    "stopNames": [
+      "安庆",
+      "桐城东",
+      "庐江西",
+      "舒城东",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8332.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9ba6de3a1592a1cba70ff07fae160c30282e419f26591d2d5bb43d54e93f0b23",
+    "elapsedMinutes": [
+      0,
+      25,
+      38,
+      52,
+      73
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8334",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "安庆",
+      "池州",
+      "铜陵",
+      "无为",
+      "合肥 南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8334.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "02e3e2457bd82fc91245f29aacba6d4730009dd32a1db594316c354c21ad594a",
+    "elapsedMinutes": [
+      0,
+      55,
+      76,
+      95,
+      119,
+      151
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8340",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "巢湖东",
+      "铜陵",
+      "池州",
+      "安庆",
+      "桐城东",
+      "舒城东",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8340.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3251be79d88da7cd81090b3965780e7b775b16da19a386c72a6c2c017200f092",
+    "elapsedMinutes": [
+      0,
+      21,
+      52,
+      71,
+      91,
+      118,
+      138,
+      179
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8341",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "巢湖东",
+      "铜陵",
+      "池州",
+      "安庆",
+      "桐城东",
+      "舒城东",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8341.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "169c9b8de0c6be701953104ede0835f73a05ee93ec42625d26194215918d8570",
+    "elapsedMinutes": [
+      0,
+      21,
+      52,
+      71,
+      91,
+      118,
+      138,
+      179
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8343",
+    "category": "G",
+    "stopNames": [
+      "合肥",
+      "舒城东",
+      "庐江西",
+      "桐城东",
+      "安庆",
+      "铜陵",
+      "无为",
+      "巢湖东",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8343.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "abfc8a70fc6f3f52a69cbe7279e9d7cb8cab112964a292e9dc8082765acb409a",
+    "elapsedMinutes": [
+      0,
+      38,
+      52,
+      65,
+      93,
+      127,
+      151,
+      166,
+      190
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8344",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "巢湖东",
+      "无为",
+      "铜陵",
+      "安庆",
+      "桐城东",
+      "庐江西",
+      "舒城东",
+      "合肥 南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8344.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "77bcc728fb7c327084e17d87b0401c0f9ce18142e1ea8646808dbddc7230dae4",
+    "elapsedMinutes": [
+      0,
+      21,
+      39,
+      63,
+      96,
+      125,
+      138,
+      152,
+      181
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8345",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "巢湖东",
+      "无为",
+      "铜陵",
+      "安庆",
+      "桐城东",
+      "庐江西",
+      "舒城东",
+      "合肥 南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8345.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a1f96fe738ee0a7369c0f11fa0e533c1c4e78c4ef2d22ed0ef7ce55170585d7e",
+    "elapsedMinutes": [
+      0,
+      21,
+      39,
+      63,
+      96,
+      125,
+      138,
+      152,
+      181
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8346",
+    "category": "G",
+    "stopNames": [
+      "合肥",
+      "舒城东",
+      "庐江西",
+      "桐城东",
+      "安庆",
+      "铜陵",
+      "无为",
+      "巢湖东",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8346.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f1fb8719c15a903c88671ddcf6f6b9596e9ecff5e6a2bb8334a62fd1b11f4420",
+    "elapsedMinutes": [
+      0,
+      38,
+      52,
+      65,
+      93,
+      127,
+      151,
+      166,
+      190
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8348",
+    "category": "G",
+    "stopNames": [
+      "安庆",
+      "桐城东",
+      "庐江西",
+      "舒城东",
+      "肥西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8348.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6197e589689aa3ce9d20ffc0f36bf52fe96b47d523758c7384d5321b34ba0dca",
+    "elapsedMinutes": [
+      0,
+      25,
+      38,
+      52,
+      66,
+      82
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8393",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "潜山",
+      "太湖南",
+      "宿松东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8393.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4787817a36b748bdafaf4225ed8a617dc6c524919fec27c02ced2367227b56be",
+    "elapsedMinutes": [
+      0,
+      48,
+      61,
+      76
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8394",
+    "category": "G",
+    "stopNames": [
+      "黄梅东",
+      "宿松东",
+      "太湖南",
+      "潜山",
+      "安庆西",
+      "桐城东",
+      "肥西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8394.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8b067caabfe153e3e8212d0fe9ccc2b25aaeea6f5637b36513aa93e063f31eaa",
+    "elapsedMinutes": [
+      0,
+      9,
+      23,
+      37,
+      49,
+      66,
+      93,
+      108
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8395",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "安庆西",
+      "潜山",
+      "宿松东",
+      "黄梅东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8395.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b2563624c27828b6adc0beaf7ac8b1587bc6ec16f0b35b96404cddd6e80e27cc",
+    "elapsedMinutes": [
+      0,
+      43,
+      59,
+      79,
+      92
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8396",
+    "category": "G",
+    "stopNames": [
+      "宿松东",
+      "太湖南",
+      "潜山",
+      "安庆西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8396.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3a79149eb63a5965bd25a327316ce8dcbd81175418a4466907c07a3691373499",
+    "elapsedMinutes": [
+      0,
+      12,
+      25,
+      38,
+      82
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8397",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "肥西",
+      "庐江西",
+      "桐城南",
+      "安庆西",
+      "潜山",
+      "太湖南",
+      "宿松东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8397.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d2d5968598170cd4ab3c4dd9a00081104643902b8dec512c49be6a50a5a9079c",
+    "elapsedMinutes": [
+      0,
+      12,
+      33,
+      50,
+      63,
+      76,
+      89,
+      105
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8398",
+    "category": "G",
+    "stopNames": [
+      "黄梅东",
+      "宿松东",
+      "太湖南",
+      "潜山",
+      "安庆西",
+      "肥西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8398.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c1093c36969c364e08fce552f460153f7713430d0c307c0ef550e8b4347eb9d6",
+    "elapsedMinutes": [
+      0,
+      9,
+      23,
+      37,
+      49,
+      87,
+      102
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G859",
+    "category": "G",
+    "stopNames": [
+      "西安北",
+      "华山北",
+      "洛阳龙门",
+      "郑州东",
+      "商丘",
+      "商丘东",
+      "亳州南",
+      "古城东",
+      "太和东",
+      "阜阳西",
+      "凤台南",
+      "淮南南",
+      "合肥南",
+      "南陵",
+      "旌德",
+      "黄山北",
+      "婺源",
+      "上饶",
+      "武夷山北",
+      "南平市",
+      "延平",
+      "福州",
+      "福州南",
+      "平潭"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g859.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7f8fd69035caf91ba985e10129f6f80ba5e577370d809673ca3714ce1d702848",
+    "elapsedMinutes": [
+      0,
+      28,
+      83,
+      124,
+      179,
+      193,
+      222,
+      235,
+      254,
+      269,
+      299,
+      315,
+      355,
+      402,
+      423,
+      446,
+      473,
+      499,
+      524,
+      538,
+      567,
+      607,
+      624,
+      654
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G860",
+    "category": "G",
+    "stopNames": [
+      "平潭",
+      "长乐东",
+      "福州南",
+      "福州",
+      "南平市",
+      "上饶",
+      "婺源",
+      "黄山北",
+      "绩溪北",
+      "泾县",
+      "南陵",
+      "无为",
+      "合肥南",
+      "淮南南",
+      "颍上北",
+      "阜阳西",
+      "亳州南",
+      "商丘",
+      "民权北",
+      "郑州东",
+      "渑池南",
+      "灵宝西",
+      "西安北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g860.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6dfb8858c516df1443f0c51e608670159529bd61be8d649cb050f96269322396",
+    "elapsedMinutes": [
+      0,
+      18,
+      35,
+      53,
+      113,
+      146,
+      171,
+      195,
+      213,
+      235,
+      247,
+      268,
+      300,
+      343,
+      366,
+      385,
+      414,
+      440,
+      462,
+      505,
+      561,
+      590,
+      631
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G861",
+    "category": "G",
+    "stopNames": [
+      "平潭",
+      "长乐东",
+      "福州南",
+      "福州",
+      "南平市",
+      "上饶",
+      "婺源",
+      "黄山北",
+      "绩溪北",
+      "泾县",
+      "南陵",
+      "无为",
+      "合肥南",
+      "淮南南",
+      "颍上北",
+      "阜阳西",
+      "亳州南",
+      "商丘",
+      "民权北",
+      "郑州东",
+      "渑池南",
+      "灵宝西",
+      "西安北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g861.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "02a15be3bb976c18413a29f1e550e7c0fd1286f3ddef66139b802f13e2bb8b45",
+    "elapsedMinutes": [
+      0,
+      18,
+      35,
+      53,
+      113,
+      146,
+      171,
+      195,
+      213,
+      235,
+      247,
+      268,
+      300,
+      343,
+      366,
+      385,
+      414,
+      440,
+      462,
+      505,
+      561,
+      590,
+      631
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G862",
+    "category": "G",
+    "stopNames": [
+      "西安北",
+      "华山北",
+      "洛阳龙门",
+      "郑州东",
+      "商丘",
+      "商丘东",
+      "亳州南",
+      "古城东",
+      "太和东",
+      "阜阳西",
+      "凤台南",
+      "淮南南",
+      "合肥南",
+      "南陵",
+      "旌德",
+      "黄山北",
+      "婺源",
+      "上饶",
+      "武夷山北",
+      "南平市",
+      "延平",
+      "福州",
+      "福州南",
+      "平潭"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g862.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6a600ac60896f64e84f91f2331a9fbf8c08d2e5d0f33c85c38d96687f51b553f",
+    "elapsedMinutes": [
+      0,
+      28,
+      83,
+      124,
+      179,
+      193,
+      222,
+      235,
+      254,
+      269,
+      299,
+      315,
+      355,
+      402,
+      423,
+      446,
+      473,
+      499,
+      524,
+      538,
+      567,
+      607,
+      624,
+      654
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G88",
+    "category": "G",
+    "stopNames": [
+      "福州",
+      "延平",
+      "南平市",
+      "上饶",
+      "婺源",
+      "黄山北",
+      "合肥南",
+      "蚌埠南",
+      "济南西",
+      "北京南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g88.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4077603f17d60ae5a4a8edca9dbc921dbfc2fe30326b04b7fa060a39da12bf22",
+    "elapsedMinutes": [
+      0,
+      34,
+      62,
+      95,
+      121,
+      147,
+      225,
+      279,
+      365,
+      455
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8967",
+    "category": "G",
+    "stopNames": [
+      "泗县东",
+      "五河",
+      "明光西",
+      "定远东",
+      "合肥西",
+      "舒城东",
+      "庐江西",
+      "桐城东",
+      "安庆"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8967.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d597f0a651646b7dc7e3e5201178b146656b2e69d48249e1ed76d91cc97db6f7",
+    "elapsedMinutes": [
+      0,
+      14,
+      30,
+      44,
+      76,
+      106,
+      120,
+      133,
+      161
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8968",
+    "category": "G",
+    "stopNames": [
+      "安庆",
+      "庐江西",
+      "合肥西",
+      "定远东",
+      "明光西",
+      "五河",
+      "泗县东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8968.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e7ba22c514a84b95cfc89fea57f6c8b49348cd3bc817a75e0f52103bfe33d9b1",
+    "elapsedMinutes": [
+      0,
+      31,
+      65,
+      98,
+      113,
+      128,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9261",
+    "category": "G",
+    "stopNames": [
+      "亳州南",
+      "阜阳西",
+      "淮南南",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9261.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "0eb4a35b05cf8103412d60e2d327ff160a342a70faece944244bb13fd659b052",
+    "elapsedMinutes": [
+      0,
+      27,
+      70,
+      101
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9262",
+    "category": "G",
+    "stopNames": [
+      "合肥",
+      "合肥北城",
+      "淮南南",
+      "阜阳西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9262.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "00b6c0035244030dbe8914bb6233cbb5120bd2854e7f6fdf9bd7105b1bfd7b14",
+    "elapsedMinutes": [
+      0,
+      13,
+      35,
+      76
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9281",
+    "category": "G",
+    "stopNames": [
+      "阜阳西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9281.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "f055ed78293ef3751a5a5ca233c45be8fc6c55f804a645f86d597edd1205a0c1",
+    "elapsedMinutes": [
+      0,
+      66
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9282",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "阜阳西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9282.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "e32ab4d3f69ee3f0a1b51ff72513d71df5c6fb68c34435e19829f252dc2eaeb0",
+    "elapsedMinutes": [
+      0,
+      67
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9283",
+    "category": "G",
+    "stopNames": [
+      "阜阳西",
+      "凤台南",
+      "淮南南",
+      "合肥西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9283.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "d3bcec7228a3193012f7b5d98a3fae94d1217a15c5e27c7ffc81f30d9c926e5c",
+    "elapsedMinutes": [
+      0,
+      25,
+      41,
+      75,
+      90
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9284",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "合肥西",
+      "合肥北城",
+      "寿县",
+      "阜阳西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9284.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "46fa1206760692ae9aed530100257703b8bedbf6e4f30676fec695aa068e3b16",
+    "elapsedMinutes": [
+      0,
+      14,
+      35,
+      60,
+      92
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9285",
+    "category": "G",
+    "stopNames": [
+      "界首南",
+      "临泉",
+      "阜阳西",
+      "淮南南",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9285.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "8f82ee89b42034b6749b46543aa542c13eb3fd4ed2dd62f823f0330b284d6c5a",
+    "elapsedMinutes": [
+      0,
+      10,
+      26,
+      62,
+      102
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9286",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "淮南南",
+      "寿县",
+      "阜阳西",
+      "界首南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9286.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "cf3c5f04166c15e8919ae4da08351e0ca5b283aa40a4e14ecd0f52bc7d215b73",
+    "elapsedMinutes": [
+      0,
+      39,
+      50,
+      92,
+      113
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9287",
+    "category": "G",
+    "stopNames": [
+      "阜阳西",
+      "淮南南",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9287.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "af017fb45c2527621ead926437f24f13a35f8114abcc4caf100607b9bd014aab",
+    "elapsedMinutes": [
+      0,
+      33,
+      73
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9288",
+    "category": "G",
+    "stopNames": [
+      "宣城",
+      "芜湖",
+      "巢湖东",
+      "合肥南",
+      "合肥西",
+      "淮南南",
+      "阜阳西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9288.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "5e1a69f6cbc03b117839595dac18e8f549599bccdf88f2a4ccd6e1495bc71ea9",
+    "elapsedMinutes": [
+      0,
+      27,
+      50,
+      75,
+      94,
+      126,
+      164
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9289",
+    "category": "G",
+    "stopNames": [
+      "阜阳西",
+      "凤台南",
+      "淮南南",
+      "合肥南",
+      "芜湖",
+      "宣城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9289.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "b4f305aa8ab7732df1715150a5dc4cf8ce4b651b405d345917eedf5750cf312d",
+    "elapsedMinutes": [
+      0,
+      24,
+      40,
+      88,
+      128,
+      157
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9290",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "合肥西",
+      "淮南南",
+      "颍上北",
+      "阜阳西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9290.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "a3e0164e92e27f85397ca71c6ef4b422a545cd8c0e4b0a6d0a2830b39214ff46",
+    "elapsedMinutes": [
+      0,
+      14,
+      55,
+      80,
+      99
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9293",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "巢湖东",
+      "芜湖"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9293.html",
+    "sourceUpdatedAt": "2026-08-22",
+    "sourceSha256": "9fcafb7d5ff0825d4dac482ae21ab8f141bc2e50d671894a72e64183ea15ea26",
+    "elapsedMinutes": [
+      0,
+      21,
+      45
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9294",
+    "category": "G",
+    "stopNames": [
+      "芜湖",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9294.html",
+    "sourceUpdatedAt": "2026-08-22",
+    "sourceSha256": "4747958892579fea96f47b07e4c00f4933d86f65bffa99cf034c97c9b3d63545",
+    "elapsedMinutes": [
+      0,
+      39
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9482",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "阜阳西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9482.html",
+    "sourceUpdatedAt": "2026-04-02",
+    "sourceSha256": "adadf85d01de65bc613d6737e627a02f3e9ace19d32d204a7d9f5046a1293fba",
+    "elapsedMinutes": [
+      0,
+      67
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9483",
+    "category": "G",
+    "stopNames": [
+      "蚌埠南",
+      "淮南东",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9483.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "a25e82d5c04455bb277f4ad50ac40df42b316df25fd8df8c9fdbaa850093be37",
+    "elapsedMinutes": [
+      0,
+      16,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9487",
+    "category": "G",
+    "stopNames": [
+      "亳州南",
+      "阜阳西",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9487.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "5f3e0e3a88e9fa0daa7afbba43f5460a6a826eca5f040ef94617af7151b9e696",
+    "elapsedMinutes": [
+      0,
+      27,
+      84
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9488",
+    "category": "G",
+    "stopNames": [
+      "合肥",
+      "淮南南",
+      "寿县",
+      "阜阳西",
+      "亳州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9488.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "9794d2f8d0e7dc9777f96d707bc3c4ba5c45bc1908fbc4dfde35569107a28584",
+    "elapsedMinutes": [
+      0,
+      34,
+      45,
+      81,
+      110
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9489",
+    "category": "G",
+    "stopNames": [
+      "阜阳西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9489.html",
+    "sourceUpdatedAt": "2026-04-05",
+    "sourceSha256": "d86136fdf55cf24891bfdeb3b6d915c681153db238f5160d0ce03042c336bc9d",
+    "elapsedMinutes": [
+      0,
+      66
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9491",
+    "category": "G",
+    "stopNames": [
+      "阜阳西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9491.html",
+    "sourceUpdatedAt": "2026-04-03",
+    "sourceSha256": "eea1e0901b45aaa7f29a385761f7fb40f44df4d404a06db19254b0762fd736a7",
+    "elapsedMinutes": [
+      0,
+      66
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9494",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "淮南南",
+      "阜阳西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9494.html",
+    "sourceUpdatedAt": "2026-04-19",
+    "sourceSha256": "110a300ea78d091b89bc916158c7f4fbff18e1da16f93b491958be4f0a0cc467",
+    "elapsedMinutes": [
+      0,
+      39,
+      75
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9499",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "金寨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9499.html",
+    "sourceUpdatedAt": "2026-04-28",
+    "sourceSha256": "4e699d042e2f9ab08bd7e12fced685bbfdd23458bb6110ca67325eedf75c0fa5",
+    "elapsedMinutes": [
+      0,
+      42
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9515",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "无为",
+      "铜陵",
+      "安庆"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9515.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "8a8bd408a877ad5482280c3e397e7125650c812652a4d2e11a29ae912fe5c44a",
+    "elapsedMinutes": [
+      0,
+      29,
+      53,
+      86
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9516",
+    "category": "G",
+    "stopNames": [
+      "安庆",
+      "池州",
+      "铜陵",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9516.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "af0fb75d503e3e1af7a8c4efbb16ae87a84b274a05a3f49b2c4af17bcf723860",
+    "elapsedMinutes": [
+      0,
+      17,
+      36,
+      85
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9517",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "肥西",
+      "庐江西",
+      "桐城东",
+      "安庆"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9517.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "666934faefe397d535bff8b89feb4eedf33207cdb9e2254a4e19340c8da02b15",
+    "elapsedMinutes": [
+      0,
+      12,
+      33,
+      46,
+      74
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9518",
+    "category": "G",
+    "stopNames": [
+      "安庆",
+      "庐江西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9518.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "d5ceac86936ddb5b710594bb76fc108667125ea8b7dac55fadf2b4a4bfa1de01",
+    "elapsedMinutes": [
+      0,
+      31,
+      59
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9519",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "庐江西",
+      "桐城东",
+      "太湖南",
+      "宿松东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9519.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "b41983bff707c3df7c92314f773c38595c047963a23b79ccf20157f34bbafa74",
+    "elapsedMinutes": [
+      0,
+      26,
+      39,
+      68,
+      83
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9520",
+    "category": "G",
+    "stopNames": [
+      "宿松东",
+      "潜山",
+      "庐江西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9520.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "8fd400caef420ccad5ce2132340584725b34c440140fa7a890185273e967709f",
+    "elapsedMinutes": [
+      0,
+      18,
+      47,
+      76
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9521",
+    "category": "G",
+    "stopNames": [
+      "合肥南",
+      "舒城东",
+      "桐城东",
+      "宿松东",
+      "黄梅东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9521.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "0bef3ff28b1506031acbfc103afc2576da5fca6d098f16ddb9e79d45a6efc922",
+    "elapsedMinutes": [
+      0,
+      19,
+      39,
+      75,
+      96
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9522",
+    "category": "G",
+    "stopNames": [
+      "黄梅东",
+      "太湖南",
+      "潜山",
+      "安庆西",
+      "桐城东",
+      "庐江西",
+      "肥西",
+      "合肥南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9522.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "50a0bc8affe6af6da5e459f1890533662678a691d23e4014bbedb2d4c71a5ded",
+    "elapsedMinutes": [
+      0,
+      16,
+      30,
+      42,
+      59,
+      73,
+      93,
+      111
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G963",
+    "category": "G",
+    "stopNames": [
+      "北京南",
+      "沧州西",
+      "德州东",
+      "济南西",
+      "泰安",
+      "蚌埠南",
+      "淮南东",
+      "水家湖",
+      "合肥北城",
+      "合肥南",
+      "巢湖东",
+      "铜陵北",
+      "南陵",
+      "绩溪北",
+      "黄山北",
+      "婺源",
+      "德兴",
+      "上饶",
+      "南平市",
+      "福州",
+      "莆田",
+      "泉州南",
+      "厦门北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g963.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1714f5b51156d5fc76bae8a959ccc897b6ceb2b0ba19a0976aa30ac74205a95f",
+    "elapsedMinutes": [
+      0,
+      51,
+      80,
+      112,
+      131,
+      219,
+      237,
+      248,
+      266,
+      292,
+      321,
+      343,
+      357,
+      384,
+      401,
+      428,
+      441,
+      461,
+      492,
+      554,
+      593,
+      619,
+      640
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G981",
+    "category": "G",
+    "stopNames": [
+      "北京南",
+      "天津南",
+      "沧州西",
+      "德州东",
+      "济南西",
+      "泰安",
+      "蚌埠南",
+      "淮南东",
+      "合肥南",
+      "芜湖",
+      "宣城",
+      "宁国南",
+      "黄山北",
+      "婺源",
+      "德兴",
+      "上饶",
+      "武夷山北",
+      "南平市",
+      "延平",
+      "福州",
+      "福州南",
+      "莆田",
+      "泉州南",
+      "厦门北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g981.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "07f8529f1d8639a55db3e5d61bdf0a84d40da50edaa64eb5d01859fb132cc8cc",
+    "elapsedMinutes": [
+      0,
+      34,
+      68,
+      95,
+      121,
+      140,
+      226,
+      245,
+      286,
+      325,
+      355,
+      373,
+      410,
+      435,
+      448,
+      468,
+      492,
+      506,
+      535,
+      575,
+      597,
+      623,
+      649,
+      671
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1071",
+    "category": "K",
+    "stopNames": [
+      "北京丰台",
+      "任丘",
+      "衡水",
+      "聊城",
+      "菏泽",
+      "曹县",
+      "亳州",
+      "阜阳",
+      "合肥",
+      "庐江",
+      "桐城",
+      "怀宁",
+      "天柱山",
+      "太湖",
+      "宿松"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1071.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "46354178227e4046ae18f167d2b646f294293b7aadd4da351ccaa78fa65f4955",
+    "elapsedMinutes": [
+      0,
+      85,
+      170,
+      272,
+      369,
+      408,
+      516,
+      595,
+      798,
+      883,
+      915,
+      946,
+      971,
+      1001,
+      1038
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1072",
+    "category": "K",
+    "stopNames": [
+      "宿松",
+      "太湖",
+      "天柱山",
+      "怀宁",
+      "桐城",
+      "庐江",
+      "合肥",
+      "淮南",
+      "阜阳",
+      "商丘南",
+      "菏泽",
+      "聊城",
+      "衡水",
+      "饶阳",
+      "任丘",
+      "霸州",
+      "固安",
+      "北京丰台"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1072.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "89bf8c3097e69b9648f00b7245acfe45a6328c33373768fe98a4a657223cacd8",
+    "elapsedMinutes": [
+      0,
+      31,
+      61,
+      88,
+      118,
+      147,
+      234,
+      324,
+      414,
+      583,
+      666,
+      764,
+      886,
+      929,
+      969,
+      1007,
+      1033,
+      1081
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1109",
+    "category": "K",
+    "stopNames": [
+      "北京丰台",
+      "固安",
+      "任丘",
+      "肃宁",
+      "衡水",
+      "枣强",
+      "临清",
+      "聊城",
+      "台前",
+      "菏泽",
+      "曹县",
+      "商丘南",
+      "亳州",
+      "阜阳",
+      "合肥",
+      "芜湖",
+      "宣城",
+      "绩溪县",
+      "黄山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1109.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c2813a18722ef24ce65d2376050a228d387e733bea55376de3169214c56fb943",
+    "elapsedMinutes": [
+      0,
+      37,
+      92,
+      121,
+      185,
+      210,
+      265,
+      298,
+      342,
+      405,
+      444,
+      487,
+      545,
+      662,
+      812,
+      916,
+      975,
+      1129,
+      1195
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1110",
+    "category": "K",
+    "stopNames": [
+      "黄山",
+      "绩溪县",
+      "宣城",
+      "芜湖",
+      "巢湖",
+      "合肥",
+      "阜阳",
+      "菏泽",
+      "聊城",
+      "清河城",
+      "衡水",
+      "饶阳",
+      "霸州",
+      "固安",
+      "北京丰台"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1110.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f901679c0cc3b12d402eb935b67fac207fd62724097aa7da21101cf4571ab35f",
+    "elapsedMinutes": [
+      0,
+      60,
+      231,
+      289,
+      340,
+      393,
+      549,
+      755,
+      848,
+      909,
+      968,
+      1016,
+      1107,
+      1133,
+      1180
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4091",
+    "category": "K",
+    "stopNames": [
+      "兰州",
+      "定西",
+      "陇西",
+      "甘谷",
+      "天水",
+      "宝鸡",
+      "咸阳",
+      "西安",
+      "唐河",
+      "桐柏",
+      "信阳",
+      "息县",
+      "潢川",
+      "商城",
+      "固始",
+      "六安",
+      "合肥",
+      "巢湖",
+      "芜湖"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4091.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0368210b0c2054e35016f1c42a929eddba6c71dc0706a6c224992f63802fdc48",
+    "elapsedMinutes": [
+      0,
+      77,
+      131,
+      214,
+      294,
+      452,
+      573,
+      609,
+      1040,
+      1090,
+      1168,
+      1231,
+      1262,
+      1324,
+      1346,
+      1420,
+      1536,
+      1618,
+      1696
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4092",
+    "category": "K",
+    "stopNames": [
+      "芜湖",
+      "巢湖",
+      "合肥",
+      "六安",
+      "固始",
+      "信阳",
+      "丹凤",
+      "商洛北",
+      "渭南西",
+      "西安",
+      "咸阳",
+      "蔡家坡",
+      "宝鸡",
+      "天水",
+      "甘谷",
+      "武山",
+      "陇西",
+      "定西",
+      "兰州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4092.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "98d69914b3c8388576f3bacd2ce5dc0cad336a8485b5abd0f3de35f57a7e068f",
+    "elapsedMinutes": [
+      0,
+      51,
+      105,
+      199,
+      255,
+      368,
+      697,
+      736,
+      819,
+      893,
+      921,
+      985,
+      1022,
+      1144,
+      1196,
+      1226,
+      1255,
+      1315,
+      1409
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4093",
+    "category": "K",
+    "stopNames": [
+      "芜湖",
+      "巢湖",
+      "合肥",
+      "六安",
+      "固始",
+      "信阳",
+      "丹凤",
+      "商洛北",
+      "渭南西",
+      "西安",
+      "咸阳",
+      "蔡家坡",
+      "宝鸡",
+      "天水",
+      "甘谷",
+      "武山",
+      "陇西",
+      "定西",
+      "兰州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4093.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a41232fb8db2f29c7d4dcab53f1f928cde7bbca93bc3e4febe1c25acde60b6ef",
+    "elapsedMinutes": [
+      0,
+      51,
+      105,
+      199,
+      255,
+      368,
+      697,
+      736,
+      819,
+      893,
+      921,
+      985,
+      1022,
+      1144,
+      1196,
+      1226,
+      1255,
+      1315,
+      1409
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4094",
+    "category": "K",
+    "stopNames": [
+      "兰州",
+      "定西",
+      "陇西",
+      "甘谷",
+      "天水",
+      "宝鸡",
+      "咸阳",
+      "西安",
+      "唐河",
+      "桐柏",
+      "信阳",
+      "息县",
+      "潢川",
+      "商城",
+      "固始",
+      "六安",
+      "合肥",
+      "巢湖",
+      "芜湖"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4094.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b2416132240e8f0a362be1199c695847f08f2bbaa448e5c3466356f8da5eac94",
+    "elapsedMinutes": [
+      0,
+      77,
+      131,
+      214,
+      294,
+      452,
+      573,
+      609,
+      1040,
+      1090,
+      1168,
+      1231,
+      1262,
+      1324,
+      1346,
+      1420,
+      1536,
+      1618,
+      1696
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4140",
+    "category": "K",
+    "stopNames": [
+      "成都西",
+      "南充",
+      "营山",
+      "达州",
+      "宣汉",
+      "万源",
+      "安康",
+      "信阳",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4140.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "894d67acd725a4d76a99abf653901fc0a49997fde1347fdd18e74c805a095e3e",
+    "elapsedMinutes": [
+      0,
+      260,
+      301,
+      371,
+      419,
+      476,
+      562,
+      1099,
+      1380
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4173",
+    "category": "K",
+    "stopNames": [
+      "北京西",
+      "衡水",
+      "聊城",
+      "菏泽",
+      "阜阳",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4173.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "d1f8aeb39e028b569a609463defbd374e0658128d2b3e11b5894903edbaa06f9",
+    "elapsedMinutes": [
+      0,
+      179,
+      281,
+      391,
+      580,
+      755
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4174",
+    "category": "K",
+    "stopNames": [
+      "合肥",
+      "淮南",
+      "阜阳",
+      "亳州",
+      "商丘南",
+      "菏泽",
+      "聊城",
+      "衡水",
+      "北京西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4174.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "47c04392d0f8286fa7840bfe2d41f01746ef4d04278f6f3a5bc622d7941ea9f8",
+    "elapsedMinutes": [
+      0,
+      61,
+      158,
+      264,
+      313,
+      388,
+      479,
+      613,
+      893
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5621",
+    "category": "K",
+    "stopNames": [
+      "阜阳",
+      "淮南",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5621.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "6ea89fe2392999f1617694b53ebab34f2c67b1e8a13bce1a23c0ff354308cd4a",
+    "elapsedMinutes": [
+      0,
+      85,
+      165
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5622",
+    "category": "K",
+    "stopNames": [
+      "合肥",
+      "淮南",
+      "阜阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5622.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "336c595a265c19c2ce41873e1c48e8e4ad94cc4f95d92f51645250febe272e7f",
+    "elapsedMinutes": [
+      0,
+      72,
+      171
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5651",
+    "category": "K",
+    "stopNames": [
+      "阜阳",
+      "淮南",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5651.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "a28c826cc9dbfe2d3990674856565bb766d4336ebef95fc34ecc68d662ba2312",
+    "elapsedMinutes": [
+      0,
+      83,
+      171
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5652",
+    "category": "K",
+    "stopNames": [
+      "合肥",
+      "淮南",
+      "阜阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5652.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "ff4489c2df20cdf89cc1c04942b060c3d72d7d51a615dc9f69eff5e6200c1ee0",
+    "elapsedMinutes": [
+      0,
+      61,
+      173
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5653",
+    "category": "K",
+    "stopNames": [
+      "阜阳",
+      "淮南",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5653.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "bef4d948dd1f44e148b47ced6e390c18c8d19124b82ba2a4df267e7c6a4b4598",
+    "elapsedMinutes": [
+      0,
+      80,
+      160
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5654",
+    "category": "K",
+    "stopNames": [
+      "合肥",
+      "淮南",
+      "阜阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5654.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "c1a88be313cfd35772c96dcb240e8bd820cff9b4f3970a7cad47aaf209b7f709",
+    "elapsedMinutes": [
+      0,
+      61,
+      158
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5655",
+    "category": "K",
+    "stopNames": [
+      "阜阳",
+      "淮南",
+      "合肥",
+      "巢湖",
+      "芜湖"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5655.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "915ec32720ddc0f7374ffbe18da5729039121c6a8d2293c1c1713cebae009ade",
+    "elapsedMinutes": [
+      0,
+      105,
+      232,
+      297,
+      347
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5656",
+    "category": "K",
+    "stopNames": [
+      "合肥",
+      "淮南",
+      "阜阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5656.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "0ef026c83fa8df7b5d4a9379aef7342be4647d30edcfc874ecddceea79b43419",
+    "elapsedMinutes": [
+      0,
+      61,
+      167
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5657",
+    "category": "K",
+    "stopNames": [
+      "阜阳",
+      "淮南",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5657.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "51bd58b9f53a4dd91f6aaff9879b93070c1eed4344e602113bbaa93bd9d888df",
+    "elapsedMinutes": [
+      0,
+      80,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5658",
+    "category": "K",
+    "stopNames": [
+      "芜湖",
+      "巢湖",
+      "合肥",
+      "淮南",
+      "阜阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5658.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "37c65b1385457f76db08aa61836a4178f6b02f84ffaad6424cb19d19f2916e85",
+    "elapsedMinutes": [
+      0,
+      42,
+      94,
+      181,
+      264
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5829",
+    "category": "K",
+    "stopNames": [
+      "阜阳",
+      "淮南",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5829.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "562ac43b1d71e3c2c0742b2f313a11d21219cdf8354be01ef89ab7e6aeb55afb",
+    "elapsedMinutes": [
+      0,
+      80,
+      167
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5830",
+    "category": "K",
+    "stopNames": [
+      "合肥",
+      "淮南",
+      "阜阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5830.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "dfdfc055567427df5d6b2b1a3be1fdb11fd5fa9e363671696c8b5a2cc2f1f702",
+    "elapsedMinutes": [
+      0,
+      61,
+      152
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K715",
+    "category": "K",
+    "stopNames": [
+      "大连",
+      "金州",
+      "普兰店",
+      "瓦房店",
+      "熊岳城",
+      "盖州",
+      "大石桥",
+      "海城",
+      "鞍山",
+      "辽阳",
+      "沈阳",
+      "大虎山",
+      "锦州",
+      "葫芦岛",
+      "山海关",
+      "秦皇岛",
+      "唐山",
+      "天津",
+      "衡水",
+      "聊城",
+      "菏泽",
+      "曹县",
+      "商丘南",
+      "阜阳",
+      "淮南",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k715.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a65cae828295ab8f9006a21d47c631a9bb1549529b78fe63142a19829d307e75",
+    "elapsedMinutes": [
+      0,
+      25,
+      63,
+      87,
+      141,
+      165,
+      196,
+      225,
+      255,
+      276,
+      328,
+      432,
+      505,
+      546,
+      640,
+      666,
+      777,
+      870,
+      1091,
+      1201,
+      1303,
+      1344,
+      1393,
+      1513,
+      1620,
+      1711
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K716",
+    "category": "K",
+    "stopNames": [
+      "合肥",
+      "淮南",
+      "阜阳",
+      "亳州",
+      "商丘南",
+      "菏泽",
+      "聊城",
+      "衡水",
+      "天津",
+      "唐山",
+      "滦县",
+      "秦皇岛",
+      "山海关",
+      "绥中",
+      "兴城",
+      "葫芦岛",
+      "锦州",
+      "沟帮子",
+      "大虎山",
+      "沈阳",
+      "苏家屯",
+      "辽阳",
+      "鞍山",
+      "大石桥",
+      "盖州",
+      "熊岳城",
+      "瓦房店",
+      "普兰店",
+      "大连"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k716.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "507a3ab678d603c3e52d1ec46845964d790944ded5e24b2370f587f7679c1075",
+    "elapsedMinutes": [
+      0,
+      61,
+      144,
+      241,
+      287,
+      356,
+      450,
+      572,
+      758,
+      846,
+      899,
+      996,
+      1040,
+      1097,
+      1131,
+      1152,
+      1196,
+      1250,
+      1281,
+      1400,
+      1442,
+      1480,
+      1501,
+      1557,
+      1580,
+      1604,
+      1655,
+      1678,
+      1748
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K717",
+    "category": "K",
+    "stopNames": [
+      "合肥",
+      "淮南",
+      "阜阳",
+      "亳州",
+      "商丘南",
+      "菏泽",
+      "聊城",
+      "衡水",
+      "天津",
+      "唐山",
+      "滦县",
+      "秦皇岛",
+      "山海关",
+      "绥中",
+      "兴城",
+      "葫芦岛",
+      "锦州",
+      "沟帮子",
+      "大虎山",
+      "沈阳",
+      "苏家屯",
+      "辽阳",
+      "鞍山",
+      "大石桥",
+      "盖州",
+      "熊岳城",
+      "瓦房店",
+      "普兰店",
+      "大连"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k717.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "88c7f098ed1472ecde47960af08cf2d07ca3dc2fe0812da20e80489977336c1b",
+    "elapsedMinutes": [
+      0,
+      61,
+      144,
+      241,
+      287,
+      356,
+      450,
+      572,
+      758,
+      846,
+      899,
+      996,
+      1040,
+      1097,
+      1131,
+      1152,
+      1196,
+      1250,
+      1281,
+      1400,
+      1442,
+      1480,
+      1501,
+      1557,
+      1580,
+      1604,
+      1655,
+      1678,
+      1748
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K718",
+    "category": "K",
+    "stopNames": [
+      "大连",
+      "金州",
+      "普兰店",
+      "瓦房店",
+      "熊岳城",
+      "盖州",
+      "大石桥",
+      "海城",
+      "鞍山",
+      "辽阳",
+      "沈阳",
+      "大虎山",
+      "锦州",
+      "葫芦岛",
+      "山海关",
+      "秦皇岛",
+      "唐山",
+      "天津",
+      "衡水",
+      "聊城",
+      "菏泽",
+      "曹县",
+      "商丘南",
+      "阜阳",
+      "淮南",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k718.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fe75accdcaf2a93f8ef177763e31130408ac8588777e3203488e0e4d069dd032",
+    "elapsedMinutes": [
+      0,
+      25,
+      63,
+      87,
+      141,
+      165,
+      196,
+      225,
+      255,
+      276,
+      328,
+      432,
+      505,
+      546,
+      640,
+      666,
+      777,
+      870,
+      1091,
+      1201,
+      1303,
+      1344,
+      1393,
+      1513,
+      1620,
+      1711
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8381",
+    "category": "K",
+    "stopNames": [
+      "合肥",
+      "巢湖",
+      "芜湖",
+      "宣城",
+      "宁国南",
+      "绩溪县",
+      "歙县",
+      "黄山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8381.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5747a41dbe1ca8304690de41956e1b52c0f88d2619aa34e9284df18b53d902f7",
+    "elapsedMinutes": [
+      0,
+      45,
+      102,
+      159,
+      224,
+      354,
+      393,
+      426
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8382",
+    "category": "K",
+    "stopNames": [
+      "黄山",
+      "歙县",
+      "绩溪县",
+      "宁国南",
+      "宣城",
+      "芜湖",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8382.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f4741746d5aed3940165ab8295ef3b9aa934c8fbf3b7627da1614800ab21d1a8",
+    "elapsedMinutes": [
+      0,
+      30,
+      66,
+      184,
+      257,
+      313,
+      417
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8417",
+    "category": "K",
+    "stopNames": [
+      "淮北",
+      "宿州",
+      "固镇",
+      "蚌埠",
+      "合肥",
+      "芜湖"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8417.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "50c5c265339d3ae810558aa67b2431ef07591e1aa5bcab78ad4d48c5e0106225",
+    "elapsedMinutes": [
+      0,
+      57,
+      92,
+      138,
+      321,
+      438
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8418",
+    "category": "K",
+    "stopNames": [
+      "合肥",
+      "蚌埠",
+      "固镇",
+      "宿州",
+      "淮北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8418.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5e7509e85e3f69e939c608256455a8b2e423682989403ac330a44a01546e5853",
+    "elapsedMinutes": [
+      0,
+      130,
+      169,
+      205,
+      267
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8451",
+    "category": "K",
+    "stopNames": [
+      "合肥",
+      "舒城",
+      "庐江",
+      "天柱山",
+      "太湖",
+      "宿松"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8451.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f385132979d4d91625754ba7b7edbd32e76f13e1198410a325f5b0d2dd024448",
+    "elapsedMinutes": [
+      0,
+      59,
+      82,
+      173,
+      204,
+      244
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8452",
+    "category": "K",
+    "stopNames": [
+      "宿松",
+      "太湖",
+      "天柱山",
+      "怀宁",
+      "桐城",
+      "庐江",
+      "舒城",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8452.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0976c29dc4aa6b73f9ead019d1f6c77ac4820711619b52e76123e7a9a5ad2f7a",
+    "elapsedMinutes": [
+      0,
+      31,
+      60,
+      86,
+      115,
+      147,
+      164,
+      232
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8521",
+    "category": "K",
+    "stopNames": [
+      "合肥",
+      "六安",
+      "叶集"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8521.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "4ea8f39908505afa1fec3dd0f2204e1efdb5b467f8bb6395f3ff412a4913b89f",
+    "elapsedMinutes": [
+      0,
+      77,
+      136
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8522",
+    "category": "K",
+    "stopNames": [
+      "叶集",
+      "六安",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8522.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "c170a032f2b022b849cbfcecfd46fe30f5597df0817a61572c20a63790da7715",
+    "elapsedMinutes": [
+      0,
+      51,
+      142
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8525",
+    "category": "K",
+    "stopNames": [
+      "合肥",
+      "庐江",
+      "龙桥",
+      "无为南",
+      "芜湖"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8525.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3cfba34be79c86da86641adc8d8a1df460bc4da68a5e15bd4890247449729371",
+    "elapsedMinutes": [
+      0,
+      69,
+      108,
+      144,
+      231
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8526",
+    "category": "K",
+    "stopNames": [
+      "芜湖",
+      "无为南",
+      "龙桥",
+      "庐江",
+      "舒城",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8526.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7dd284249ebead6785e70565202eb1233bc81bf10fd4c3cd7e1151af73c558c0",
+    "elapsedMinutes": [
+      0,
+      73,
+      109,
+      153,
+      170,
+      230
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8527",
+    "category": "K",
+    "stopNames": [
+      "芜湖",
+      "无为南",
+      "龙桥",
+      "庐江",
+      "舒城",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8527.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "65cb45ef66eb1e436020dba5c9fa1704fa2eca5cd5dc2af06be1b16caf487fc6",
+    "elapsedMinutes": [
+      0,
+      73,
+      109,
+      153,
+      170,
+      230
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8528",
+    "category": "K",
+    "stopNames": [
+      "合肥",
+      "庐江",
+      "龙桥",
+      "无为南",
+      "芜湖"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8528.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "40f272d61a3296ab5f869b907337e4038ee3e590ce08ab6d24b60e046b875fa9",
+    "elapsedMinutes": [
+      0,
+      69,
+      108,
+      144,
+      231
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8597",
+    "category": "K",
+    "stopNames": [
+      "淮北",
+      "宿州",
+      "固镇",
+      "蚌埠",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8597.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1ab1e6b1d3aaaea80732494b2d8a729b7fa1f1e8bb8a20fbf5fa8244d47f64c2",
+    "elapsedMinutes": [
+      0,
+      45,
+      77,
+      116,
+      244
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8598",
+    "category": "K",
+    "stopNames": [
+      "合肥",
+      "蚌埠",
+      "固镇",
+      "宿州",
+      "淮北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8598.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bed1c1c00ebff516c8c13f1502649b1962220db4afebc681475a8876ee548114",
+    "elapsedMinutes": [
+      0,
+      157,
+      192,
+      227,
+      280
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T220",
+    "category": "T",
+    "stopNames": [
+      "合肥",
+      "桐城",
+      "怀宁",
+      "天柱山",
+      "太湖",
+      "九江",
+      "南昌",
+      "吉安",
+      "赣州",
+      "大余",
+      "始兴",
+      "韶关东",
+      "广州白云",
+      "广州东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t220.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f12987828f28e76b8b5b4fc903e84724a501001fe41c48098759e982d52a6417",
+    "elapsedMinutes": [
+      0,
+      99,
+      141,
+      167,
+      199,
+      305,
+      391,
+      558,
+      675,
+      757,
+      817,
+      870,
+      1034,
+      1047
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T221",
+    "category": "T",
+    "stopNames": [
+      "合肥",
+      "桐城",
+      "怀宁",
+      "天柱山",
+      "太湖",
+      "九江",
+      "南昌",
+      "吉安",
+      "赣州",
+      "大余",
+      "始兴",
+      "韶关东",
+      "广州白云",
+      "广州东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t221.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d5be44bc4be151975c70db1afdae48774a23a3b990b7dbe71df578a1059bb982",
+    "elapsedMinutes": [
+      0,
+      99,
+      141,
+      167,
+      199,
+      305,
+      391,
+      558,
+      675,
+      757,
+      817,
+      870,
+      1034,
+      1047
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T222",
+    "category": "T",
+    "stopNames": [
+      "广州白云",
+      "韶关东",
+      "丹霞山",
+      "始兴",
+      "南雄",
+      "大余",
+      "赣州",
+      "南昌",
+      "九江",
+      "怀宁",
+      "桐城",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t222.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "afef0867bd54d7d01bb9730dda26815ed72c3cd9e02a7bebae7810079693fb05",
+    "elapsedMinutes": [
+      0,
+      145,
+      175,
+      195,
+      233,
+      284,
+      335,
+      603,
+      702,
+      868,
+      943,
+      1041
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y228",
+    "category": "OTHER",
+    "stopNames": [
+      "芜湖",
+      "合肥",
+      "阜阳",
+      "衡水",
+      "北京丰台"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y228.html",
+    "sourceUpdatedAt": "2025-11-28",
+    "sourceSha256": "a9bb51610579cd128211c9555d60efa2d8905a844624d4435cc28e134a63302c",
+    "elapsedMinutes": [
+      0,
+      308,
+      527,
+      1142,
+      1374
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y661",
+    "category": "OTHER",
+    "stopNames": [
+      "十堰",
+      "襄阳",
+      "小林",
+      "信阳",
+      "六安",
+      "合肥",
+      "巢湖",
+      "芜湖"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y661.html",
+    "sourceUpdatedAt": "2026-03-22",
+    "sourceSha256": "da88371bddc2b6751bf51b69ab5904f38b8e9b9dbda7e9fcf28e84cc0f3d8f8a",
+    "elapsedMinutes": [
+      0,
+      140,
+      330,
+      384,
+      660,
+      754,
+      830,
+      903
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z225",
+    "category": "Z",
+    "stopNames": [
+      "北京丰台",
+      "阜阳",
+      "霍邱",
+      "六安",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z225.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7cee9914a20025cc9d2e62b5035a52299adf9af90a0ec61ec1c4089d1682c998",
+    "elapsedMinutes": [
+      0,
+      407,
+      468,
+      514,
+      584
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z226",
+    "category": "Z",
+    "stopNames": [
+      "合肥",
+      "六安",
+      "霍邱",
+      "阜阳",
+      "衡水",
+      "北京丰台"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z226.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5a1e8cd7d624149aa93b5e7ea85455a4aca1f70184dc8152acb5c3f2180a865b",
+    "elapsedMinutes": [
+      0,
+      60,
+      105,
+      177,
+      478,
+      614
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z227",
+    "category": "Z",
+    "stopNames": [
+      "合肥",
+      "六安",
+      "霍邱",
+      "阜阳",
+      "衡水",
+      "北京丰台"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z227.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "027fd77ff5490bc9c49c44144b276c85af124c5f9c86aef4207124d23bad0c42",
+    "elapsedMinutes": [
+      0,
+      60,
+      105,
+      177,
+      478,
+      614
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z228",
+    "category": "Z",
+    "stopNames": [
+      "北京丰台",
+      "阜阳",
+      "霍邱",
+      "六安",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z228.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e87c2b395af59b72d160d9b4b06f3a84f073d12ff9412b9843cea66ec6743f23",
+    "elapsedMinutes": [
+      0,
+      407,
+      468,
+      514,
+      584
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z4067",
+    "category": "Z",
+    "stopNames": [
+      "北京",
+      "衡水",
+      "聊城",
+      "菏泽",
+      "商丘南",
+      "阜阳",
+      "淮南",
+      "合肥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z4067.html",
+    "sourceUpdatedAt": "2026-03-11",
+    "sourceSha256": "8e10ece362485c28d57e59b2aa896d983a32495e274d3745fe8660e29b4c02ab",
+    "elapsedMinutes": [
+      0,
+      149,
+      236,
+      312,
+      381,
+      474,
+      574,
+      660
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z4068",
+    "category": "Z",
+    "stopNames": [
+      "合肥",
+      "淮南",
+      "阜阳",
+      "亳州",
+      "商丘南",
+      "菏泽",
+      "聊城",
+      "衡水",
+      "北京丰台",
+      "北京"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z4068.html",
+    "sourceUpdatedAt": "2026-03-11",
+    "sourceSha256": "39329062a83f88420e49c2acf0eb94011c2e83a929845c9ea06e8c14f014d6ec",
+    "elapsedMinutes": [
+      0,
+      67,
+      189,
+      268,
+      317,
+      380,
+      485,
+      598,
+      773,
+      811
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

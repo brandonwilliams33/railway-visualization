@@ -1,0 +1,232 @@
+[
+  {
+    "trainNumber": "D3109",
+    "category": "D",
+    "stopNames": [
+      "温州南",
+      "平阳",
+      "苍南",
+      "福鼎",
+      "霞浦",
+      "福安",
+      "宁德",
+      "罗源",
+      "连江",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d3109.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "748d4c88165f1f54348c953166534f3d7bee3826cbef7761364c437a70fc0bc6",
+    "elapsedMinutes": [
+      0,
+      16,
+      31,
+      50,
+      72,
+      88,
+      102,
+      115,
+      131,
+      157
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D3110",
+    "category": "D",
+    "stopNames": [
+      "福州",
+      "宁德",
+      "霞浦",
+      "福鼎",
+      "温州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d3110.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0324d4d08cc87ba54b1e45343c7edf7b4200a03b7ac1c531da3f861bae487cd2",
+    "elapsedMinutes": [
+      0,
+      39,
+      63,
+      84,
+      123
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4015",
+    "category": "D",
+    "stopNames": [
+      "温州南",
+      "瑞安",
+      "宁德",
+      "福州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4015.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "54301d83ec099bcbe36420fde3e1f28feac7aa79f8eef54b78f0b6a99ac1c04a",
+    "elapsedMinutes": [
+      0,
+      11,
+      78,
+      115
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4016",
+    "category": "D",
+    "stopNames": [
+      "厦门北",
+      "泉州",
+      "仙游",
+      "莆田",
+      "福州南",
+      "福安",
+      "霞浦",
+      "温州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4016.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "ef28b0598c0c56eb1a51b1512fffa9908c60f2f019311862caab6a3eeb46b7f4",
+    "elapsedMinutes": [
+      0,
+      27,
+      49,
+      62,
+      96,
+      140,
+      156,
+      212
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4595",
+    "category": "D",
+    "stopNames": [
+      "温州南",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4595.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "0a0cc200c7941f139d29c90a29dd47f23b65b177fe64d746499f42b6b64b6868",
+    "elapsedMinutes": [
+      0,
+      106
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4596",
+    "category": "D",
+    "stopNames": [
+      "福州",
+      "福安",
+      "霞浦",
+      "福鼎",
+      "温州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4596.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "c03be670826c6de459e756908673d7e925da77fab4c79b6f08e5d927d06848f9",
+    "elapsedMinutes": [
+      0,
+      47,
+      63,
+      84,
+      126
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D5671",
+    "category": "D",
+    "stopNames": [
+      "温州南",
+      "平阳",
+      "苍南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d5671.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7b6f0aed04ef17e908a9bf702863a3f4f33e97b786ebd2077d8848d9587fcb37",
+    "elapsedMinutes": [
+      0,
+      16,
+      30
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3966",
+    "category": "G",
+    "stopNames": [
+      "萍乡北",
+      "南昌西",
+      "温州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3966.html",
+    "sourceUpdatedAt": "2026-02-24",
+    "sourceSha256": "af248b25c2d669afa47552a442afd968700d0aed89c9e2480dfd67e10a7ab5e9",
+    "elapsedMinutes": [
+      0,
+      56,
+      225
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3967",
+    "category": "G",
+    "stopNames": [
+      "萍乡北",
+      "南昌西",
+      "温州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3967.html",
+    "sourceUpdatedAt": "2026-02-24",
+    "sourceSha256": "c2eba5b9eb8b9f038404f7c29e695daf0a99311d8fbce9d889e7e307dfab017a",
+    "elapsedMinutes": [
+      0,
+      56,
+      225
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

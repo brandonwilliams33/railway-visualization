@@ -13,7 +13,7 @@ def connect_corridors(data, physical_source=None):
     segments={s['id']:s for s in data['segments']}
     coords={sid:[s['longitude'],s['latitude']] for sid,s in stations.items()}
     graph=defaultdict(lambda:defaultdict(dict)); repairs=0
-    def family(s):return 'hs' if s['category']=='G' or ('xuzhou-east' in s['stations'] and s['category'] in 'DC') else 'ordinary'
+    def family(s):return 'hs' if s['category'] in ['G','C','D'] else 'ordinary'
     def schematic(a,b,fam,kind='corridor',end=None):
         pair=sorted([a,b]) if kind=='corridor' else [a,b]
         sid='schematic-'+hashlib.sha256((fam+'|'+kind+'|'+'|'.join(pair)).encode()).hexdigest()[:16]
@@ -27,8 +27,9 @@ def connect_corridors(data, physical_source=None):
             for field,value in [('serviceIds',service['id']),('passengerCategories',service['category'])]:
                 if value not in seg[field]:seg[field].append(value)
     def add_edge(a,b,fam,ids,cost):
-        old=graph[fam][a].get(b)
-        if old is None or cost<old[0]:graph[fam][a][b]=(cost,ids);graph[fam][b][a]=(cost,ids)
+        for corridor in [fam,'mixed']:
+            old=graph[corridor][a].get(b)
+            if old is None or cost<old[0]:graph[corridor][a][b]=(cost,ids);graph[corridor][b][a]=(cost,ids)
     # Join matched track endpoints to the actual station anchor, not a grid mean.
     for service in data['services']:
         fam=family(service)
@@ -77,6 +78,9 @@ def connect_corridors(data, physical_source=None):
             if service['segmentIds'][i]:continue
             ids=route(a,b,fam)
             if not ids and service['category'] in 'DC':ids=route(a,b,'ordinary' if fam=='hs' else 'hs')
+            # Reading geometry may share corridors used by other passenger
+            # categories. This never adds stops or changes a direct service.
+            if not ids:ids=route(a,b,'mixed')
             if ids:service['segmentIds'][i]=ids;attach(ids,service,a,b);repairs+=1
             else:remaining+=1
     # Resolve the remaining long gaps on the reviewed rail snapshot itself.
@@ -98,13 +102,36 @@ def connect_corridors(data, physical_source=None):
                     else:cache[pair]=None
                 sid=cache[pair]
                 if sid:service['segmentIds'][i]=[sid];attach([sid],service,a,b);rail_repairs+=1
+    # Some new overnight services span track families or a gap in the raw
+    # rail snapshot. Trace those through the already evidenced passenger
+    # drawing, including its station cuts and short schematic corridors.
+    shared_repairs=0
+    if physical_source and any(not leg for service in data['services'] for leg in service['segmentIds']):
+        # A short join closes nearby corridor cuts, without moving or
+        # identifying station markers as the same station.
+        shared_router=RailGapRouter({'edges':[*physical_source['edges'],*segments.values()]},join_km=3)
+        shared_cache={}
+        for service in data['services']:
+            for i,(a,b) in enumerate(zip(service['stations'],service['stations'][1:])):
+                if service['segmentIds'][i]:continue
+                pair=tuple(sorted([a,b]))
+                if pair not in shared_cache:
+                    traced=shared_router.route(coords[pair[0]],coords[pair[1]])
+                    sid=None
+                    if traced:
+                        sid='schematic-'+hashlib.sha256(('shared-path|'+'|'.join(pair)).encode()).hexdigest()[:16]
+                        segments[sid]={'id':sid,'name':f"{stations[pair[0]]['name']}—{stations[pair[1]]['name']} · 共用走廊示意",'coverageStationIds':list(pair),'railwayNames':traced['railwayNames'],'osmSourceId':'','geometrySource':'shared-passenger-corridor-route','geometryAccuracy':'approximate','routingConfidence':'inferred-corridor','family':'mixed','schematic':True,'geometry':{'type':'LineString','coordinates':traced['coordinates']},'passengerCategories':[],'serviceIds':[]}
+                    shared_cache[pair]=sid
+                sid=shared_cache[pair]
+                if sid:service['segmentIds'][i]=[sid];attach([sid],service,a,b);shared_repairs+=1
     remaining=sum(not leg for service in data['services'] for leg in service['segmentIds'])
     used={sid for s in data['services'] for leg in s['segmentIds'] for sid in leg}
     data['segments']=[segments[sid] for sid in sorted(used)]
     for hub,n in data['networks'].items():
         n['railwaySegmentIds']=sorted({sid for s in data['services'] if s['id'] in n['serviceIds'] for leg in s['segmentIds'] for sid in leg})
-    data['audit']['schematicRepairedIntervals']=repairs+rail_repairs
+    data['audit']['schematicRepairedIntervals']=repairs+rail_repairs+shared_repairs
     data['audit']['railCorridorRepairedIntervals']=rail_repairs
+    data['audit']['sharedCorridorRepairedIntervals']=shared_repairs
     data['audit']['remainingUnmappedIntervals']=remaining
     data['audit']['schematicSegments']=sum(bool(s.get('schematic')) for s in data['segments'])
     print('Schematic interval repairs',repairs,'OSM corridor repairs',rail_repairs,'remaining',remaining,'schematic sections',data['audit']['schematicSegments'],flush=True)

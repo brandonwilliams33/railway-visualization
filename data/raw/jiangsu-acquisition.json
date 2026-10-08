@@ -1,0 +1,12 @@
+{
+  "retrievedAt": "2026-10-08",
+  "stationCount": 86,
+  "candidateServices": 3572,
+  "acquiredAdditionalServices": 2343,
+  "failedPages": [
+    {
+      "trainNumber": "D4186",
+      "error": "No complete passenger stop table"
+    }
+  ]
+}

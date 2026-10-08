@@ -1,0 +1,326 @@
+[
+  {
+    "name": "周宁",
+    "wikidataId": "Q110521433",
+    "coordinate": {
+      "latitude": 26.93878,
+      "longitude": 119.374722,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q110521433",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Zhouning Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "周宁站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Fujian, China"
+      }
+    }
+  },
+  {
+    "name": "商洛西",
+    "wikidataId": "Q141203018",
+    "coordinate": {
+      "latitude": 33.86788333333333,
+      "longitude": 109.85687777777778,
+      "altitude": null,
+      "precision": 2.777777777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q141203018",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "商洛西站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Shangluo West railway station"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "陕西省商洛市商州区铁路车站"
+      }
+    }
+  },
+  {
+    "name": "屏南",
+    "wikidataId": "Q110528037",
+    "coordinate": {
+      "latitude": 26.90062,
+      "longitude": 119.1226,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q110528037",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Pingnan Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "屏南站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Ningde, Fujian"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "福建省宁德市屏南县铁路车站"
+      }
+    }
+  },
+  {
+    "name": "漫川关",
+    "wikidataId": "Q141202931",
+    "coordinate": {
+      "latitude": 33.25806388888889,
+      "longitude": 110.07025555555556,
+      "altitude": null,
+      "precision": 2.777777777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q141202931",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "漫川关站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Manchuanguan railway station"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "陕西省商洛市山阳县铁路车站"
+      }
+    }
+  },
+  {
+    "name": "莘县",
+    "wikidataId": "Q122972732",
+    "coordinate": {
+      "latitude": 36.207073,
+      "longitude": 115.681317,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q122972732",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Shenxian Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "莘县站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Shen County, Liaocheng, Shandong"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "山东省聊城市莘县铁路车站"
+      }
+    }
+  },
+  {
+    "name": "郧西",
+    "wikidataId": "Q140386233",
+    "coordinate": {
+      "latitude": 33.00732222222222,
+      "longitude": 110.45964722222222,
+      "altitude": null,
+      "precision": 2.777777777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q140386233",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "郧西站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Yunxi railway station"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "湖北省十堰市郧西县铁路车站"
+      }
+    }
+  },
+  {
+    "name": "长清",
+    "wikidataId": "Q122972729",
+    "coordinate": {
+      "latitude": 36.564634,
+      "longitude": 116.724757,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q122972729",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Changqing Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "长清站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Changqing, Jinan, Shandong"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "山东省济南市长清区铁路车站"
+      }
+    }
+  },
+  {
+    "name": "大方",
+    "wikidataId": "Q78330518",
+    "coordinate": {
+      "latitude": 27.210875,
+      "longitude": 105.592153,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q78330518",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Dafang Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "大方站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Bijie, Guizhou"
+      }
+    }
+  },
+  {
+    "name": "惠东南",
+    "wikidataId": "Q5934969",
+    "coordinate": {
+      "latitude": 22.8475,
+      "longitude": 114.79,
+      "altitude": null,
+      "precision": 0.0097479626657852,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q5934969",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Huidong South railway station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "惠东南站"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "广东省惠州市惠东县铁路车站"
+      },
+      "en": {
+        "language": "en",
+        "value": "railway station in Renshan, People's Republic of China"
+      }
+    }
+  },
+  {
+    "name": "政和",
+    "wikidataId": "Q110528039",
+    "coordinate": {
+      "latitude": 27.33009,
+      "longitude": 118.84611,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q110528039",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Zhenghe Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "政和站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Nanping, Fujian"
+      }
+    }
+  },
+  {
+    "name": "松溪",
+    "wikidataId": "Q110528038",
+    "coordinate": {
+      "latitude": 27.53678,
+      "longitude": 118.8234,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q110528038",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Songxi Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "松溪站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Nanping, Fujian"
+      }
+    }
+  }
+]

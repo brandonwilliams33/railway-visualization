@@ -36,3 +36,9 @@ class Corridors(unittest.TestCase):
         d=connect_corridors(fixture(False))
         self.assertEqual(d['segments'],[])
         self.assertEqual(d['audit']['remainingUnmappedIntervals'],1)
+    def test_shared_drawing_can_close_a_short_cut_without_moving_endpoints(self):
+        source={'edges':[{'railwayNames':['客运走廊'],'geometry':{'coordinates':[[100,30],[100.49,30]]}}, {'railwayNames':['客运走廊'],'geometry':{'coordinates':[[100.515,30],[101,30]]}}]}
+        self.assertIsNone(RailGapRouter(source).route([100,30],[101,30]))
+        path=RailGapRouter(source,join_km=3).route([100,30],[101,30])
+        self.assertEqual(path['coordinates'][0],[100,30])
+        self.assertEqual(path['coordinates'][-1],[101,30])

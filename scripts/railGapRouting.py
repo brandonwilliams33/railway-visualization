@@ -37,7 +37,7 @@ def simplify(points,tolerance=.18):
     return [points[i] for i in sorted(keep)]
 
 class RailGapRouter:
-    def __init__(self,source):
+    def __init__(self,source,join_km=1):
         self.edges=source['edges'];self.graph=defaultdict(list);self.boxes=[];self.prefix=[];self.coords={};buckets=defaultdict(list)
         for i,edge in enumerate(self.edges):
             cs=edge['geometry']['coordinates'];xs=[p[0] for p in cs];ys=[p[1] for p in cs]
@@ -55,7 +55,7 @@ class RailGapRouter:
                     for other in buckets[(xx,yy)]:
                         if other>=node:continue
                         distance=km(p,self.coords[other])
-                        if distance<=1:self._join(node,other,[p,self.coords[other]],[],distance*2)
+                        if distance<=join_km:self._join(node,other,[p,self.coords[other]],[],distance*2)
     def _join(self,a,b,points,names,cost=None):
         cost=cost if cost is not None else sum(km(x,y) for x,y in zip(points,points[1:]))
         self.graph[a].append((b,cost,points,names));self.graph[b].append((a,cost,points[::-1],names))

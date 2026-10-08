@@ -1,0 +1,26 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "上海",
+  "stationCount": 19,
+  "candidateServices": 2543,
+  "acquiredAdditionalServices": 564,
+  "failedPages": [
+    {
+      "trainNumber": "G4664",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "G4416",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "D4454",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "supplementaryStations": [
+    "上海松江",
+    "莘庄",
+    "黄渡"
+  ]
+}

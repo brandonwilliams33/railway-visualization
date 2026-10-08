@@ -1,0 +1,158 @@
+[
+  {
+    "trainNumber": "D157",
+    "category": "D",
+    "stopNames": [
+      "衢州",
+      "遂昌",
+      "松阳",
+      "龙泉市",
+      "庆元",
+      "松溪",
+      "政和",
+      "屏南",
+      "周宁",
+      "宁德",
+      "连江",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d157.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "efc5cc76192a6bf4dcead0ccfefbaa605de4e53f7d8283316ba50e5cf6eb1c6f",
+    "elapsedMinutes": [
+      0,
+      42,
+      60,
+      113,
+      153,
+      172,
+      189,
+      232,
+      254,
+      281,
+      319,
+      350
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D158",
+    "category": "D",
+    "stopNames": [
+      "福州",
+      "宁德",
+      "周宁",
+      "屏南",
+      "政和",
+      "松溪",
+      "庆元",
+      "龙泉市",
+      "松阳",
+      "遂昌",
+      "衢州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d158.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "03941f3df518b6de1fc5ab3188ff0721bc62b68e68157f9ddcc666475d072fce",
+    "elapsedMinutes": [
+      0,
+      48,
+      88,
+      113,
+      157,
+      177,
+      203,
+      269,
+      303,
+      325,
+      381
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D159",
+    "category": "D",
+    "stopNames": [
+      "福州",
+      "宁德",
+      "周宁",
+      "屏南",
+      "政和",
+      "松溪",
+      "庆元",
+      "龙泉市",
+      "松阳",
+      "遂昌",
+      "衢州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d159.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "296db2e7ee7f5f02c3e5e3cfdf5767f31f714fcd5a87761a6a623a103ac11de6",
+    "elapsedMinutes": [
+      0,
+      48,
+      88,
+      113,
+      157,
+      177,
+      203,
+      269,
+      303,
+      325,
+      381
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D160",
+    "category": "D",
+    "stopNames": [
+      "衢州",
+      "遂昌",
+      "松阳",
+      "龙泉市",
+      "庆元",
+      "松溪",
+      "政和",
+      "屏南",
+      "周宁",
+      "宁德",
+      "连江",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d160.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "79a7312e3b29684ba32d4cb1abb5f5ba656b1faa436a30f69e605bd909fc33f3",
+    "elapsedMinutes": [
+      0,
+      42,
+      60,
+      113,
+      153,
+      172,
+      189,
+      232,
+      254,
+      281,
+      319,
+      350
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

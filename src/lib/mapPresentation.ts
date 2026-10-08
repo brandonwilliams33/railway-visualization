@@ -3,9 +3,11 @@ type Point=[number,number];
 export interface DisplayLine {id:string;positions:Point[];segmentIds:string[]}
 // This graph exists only to aggregate ink at the current map scale. It is
 // never used to calculate destinations, transfers or operational routes.
-export function corridorLines(segments:RailwaySegment[],zoom:number,anchors:Station[]=[]):DisplayLine[]{
- if(zoom>=8)return segments.map(s=>({id:s.id,positions:s.geometry.coordinates.map(c=>[c[1],c[0]]),segmentIds:[s.id]}));
- const cellKm=zoom<6?12:zoom<7?5:1.5;
+export function corridorLines(segments:RailwaySegment[],zoom:number,anchors:Station[]=[],hubId?:string):DisplayLine[]{
+ if(!segments.length)return [];
+ // Nearby tracks share one geographic corridor at every scale. The map shows
+ // reachability, not an individual train's rail-by-rail itinerary.
+ const cellKm=zoom<6?24:zoom<7?12:zoom<8?6:zoom<9?3:1.5;
  const nodes=new Map<string,{sum:Point;count:number}>(),edges=new Map<string,{a:string;b:string;ids:Set<string>}>();
  const baseKey=(c:number[])=>`${Math.round(c[0]*91/cellKm)},${Math.round(c[1]*111/cellKm)}`;
  const anchorCells=new Map<string,Station[]>();for(const s of anchors){const k=baseKey([s.longitude,s.latitude]);anchorCells.set(k,[...(anchorCells.get(k)||[]),s])}
@@ -27,6 +29,29 @@ export function corridorLines(segments:RailwaySegment[],zoom:number,anchors:Stat
  }
  const adjacency=new Map<string,string[]>();for(const [id,e] of edges)for(const n of [e.a,e.b])adjacency.set(n,[...(adjacency.get(n)||[]),id]);
  const point=(k:string):Point=>{const n=nodes.get(k)!;if(pinned.has(k))return pinned.get(k)!;return [n.sum[0]/n.count,n.sum[1]/n.count]};
+ // Retain a single shared trunk from the departure station to each visible
+ // station. This removes parallel alternatives and loops near busy junctions.
+ if(hubId&&adjacency.has(`station:${hubId}`)){
+  const root=`station:${hubId}`,distance=new Map([[root,0]]),parent=new Map<string,string>();
+  const heap:{cost:number;node:string}[]=[];
+  function push(cost:number,node:string){let i=heap.length;heap.push({cost,node});while(i){const p=(i-1)>>1;if(heap[p].cost<=cost)break;heap[i]=heap[p];i=p}heap[i]={cost,node}}
+  function pop(){const top=heap[0],last=heap.pop()!;if(heap.length){let i=0;while(i*2+1<heap.length){let child=i*2+1;if(child+1<heap.length&&heap[child+1].cost<heap[child].cost)child++;if(last.cost<=heap[child].cost)break;heap[i]=heap[child];i=child}heap[i]=last}return top}
+  push(0,root);
+  while(heap.length){const {cost,node}=pop();if(cost!==distance.get(node))continue;
+   for(const id of adjacency.get(node)||[]){const edge=edges.get(id)!,next=edge.a===node?edge.b:edge.a,a=point(node),b=point(next);
+    const km=Math.hypot((a[1]-b[1])*91,(a[0]-b[0])*111);
+    const candidate=cost+km/(1+Math.log2(1+edge.ids.size)*.45);
+    if(candidate<(distance.get(next)??Infinity)){distance.set(next,candidate);parent.set(next,id);push(candidate,next)}
+   }
+  }
+  const kept=new Set<string>();
+  for(const s of anchors){let node=`station:${s.id}`;const visited=new Set<string>();
+   while(node!==root&&parent.has(node)&&!visited.has(node)){visited.add(node);const id=parent.get(node)!;kept.add(id);const e=edges.get(id)!;node=e.a===node?e.b:e.a}
+  }
+  if(kept.size){for(const id of edges.keys())if(!kept.has(id))edges.delete(id);
+   adjacency.clear();for(const [id,e] of edges)for(const n of [e.a,e.b])adjacency.set(n,[...(adjacency.get(n)||[]),id]);
+  }
+ }
  const seen=new Set<string>(),lines:DisplayLine[]=[];
  function walk(start:string,first:string){const positions=[point(start)],ids=new Set<string>();let node=start,eid=first;
   while(!seen.has(eid)){seen.add(eid);const e=edges.get(eid)!;e.ids.forEach(id=>ids.add(id));node=e.a===node?e.b:e.a;positions.push(point(node));const next=adjacency.get(node)!;if(next.length!==2||pinned.has(node))break;const available=next.find(id=>!seen.has(id));if(!available)break;eid=available}
@@ -39,11 +64,22 @@ export function corridorLines(segments:RailwaySegment[],zoom:number,anchors:Stat
  for(const [id,e] of edges)if(!seen.has(id))walk(e.a,id);
  return lines;
 }
+export function pathLineIds(lines:DisplayLine[],start:Station,end:Station):Set<string>{
+ const key=(p:Point)=>p.map(v=>v.toFixed(8)).join(',');
+ const graph=new Map<string,{next:string;id:string}[]>();
+ for(const line of lines){const a=key(line.positions[0]),b=key(line.positions.at(-1)!);
+  graph.set(a,[...(graph.get(a)||[]),{next:b,id:line.id}]);graph.set(b,[...(graph.get(b)||[]),{next:a,id:line.id}]);
+ }
+ const source=key([start.latitude,start.longitude]),target=key([end.latitude,end.longitude]);
+ const seen=new Set([source]),parent=new Map<string,{previous:string;id:string}>(),queue=[source];
+ for(const node of queue){if(node===target)break;for(const edge of graph.get(node)||[])if(!seen.has(edge.next)){seen.add(edge.next);parent.set(edge.next,{previous:node,id:edge.id});queue.push(edge.next)}}
+ const ids=new Set<string>();let node=target;
+ while(node!==source&&parent.has(node)){const p=parent.get(node)!;ids.add(p.id);node=p.previous}
+ return ids;
+}
 export function visibleStations(stations:Station[],zoom:number,hubId:string,selectedId:string|null){
- if(zoom>=7||stations.length<=35)return stations;
- if(zoom<6)return stations.filter(s=>s.major||s.isHub||s.id===hubId||s.id===selectedId);
- const cells=new Map<string,Station>();const cell=zoom<6?35:15;
- for(const s of stations){const key=`${Math.round(s.longitude*91/cell)},${Math.round(s.latitude*111/cell)}`,old=cells.get(key);if(!old||(!old.major&&s.major))cells.set(key,s)}
- const ids=new Set([...cells.values()].map(s=>s.id));stations.forEach(s=>{if(s.isHub||s.id===hubId||s.id===selectedId)ids.add(s.id)});
- return stations.filter(s=>ids.has(s.id));
+ // Only limit which stops are shown at the nationwide scale. Once the map is
+ // enlarged, every station keeps its own marker and interaction target.
+ if(zoom>=6||stations.length<=35)return stations;
+ return stations.filter(s=>s.major||s.id===hubId||s.id===selectedId);
 }

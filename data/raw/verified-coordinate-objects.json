@@ -1,0 +1,246 @@
+{
+  "elements": [
+    {
+      "type": "node",
+      "id": 4724795895,
+      "lon": 117.4379223,
+      "lat": 31.1367607,
+      "tags": {
+        "alt_name": "龙桥站;龙桥火车站;Longqiao Railway Station",
+        "construction": "yes",
+        "name": "龙桥",
+        "name:en": "Longqiao",
+        "name:zh": "龙桥",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1692209509,
+      "lon": 109.9025268,
+      "lat": 22.7408919,
+      "tags": {
+        "name": "兴业",
+        "name:en": "Xingye",
+        "old_name": "石南",
+        "public_transport": "station",
+        "railway": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4858245585,
+      "lon": 110.3174114,
+      "lat": 22.7327674,
+      "tags": {
+        "alt_name": "北流站;北流火车站;Beiliu Railway Station",
+        "name": "北流",
+        "name:en": "Beiliu",
+        "name:zh": "北流",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q24835715"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4858076963,
+      "lon": 110.5271387,
+      "lat": 22.8621872,
+      "tags": {
+        "alt_name": "容县站;容县火车站;Rongxian Railway Station",
+        "name": "容县",
+        "name:en": "Rongxian",
+        "name:zh": "容县",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5072511977,
+      "lon": 111.356813,
+      "lat": 24.7950209,
+      "tags": {
+        "alt_name": "富川站;富川火车站;Fuchuan Railway Station",
+        "name": "富川",
+        "name:en": "Fuchuan",
+        "name:zh": "富川",
+        "operator": "中国铁路南宁局集团有限公司",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q47524490",
+        "wikipedia": "zh:富川站 (中国)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5625820075,
+      "lon": 110.9435892,
+      "lat": 22.9063507,
+      "tags": {
+        "alt_name": "岑溪站;岑溪火车站;Cenxi Railway Station",
+        "name": "岑溪",
+        "name:en": "Cenxi",
+        "name:zh": "岑溪",
+        "operator": "中国铁路南宁局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q24840241",
+        "wikipedia": "zh:岑溪站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5097780534,
+      "lon": 111.2348403,
+      "lat": 23.4896297,
+      "tags": {
+        "addr:state": "湖滨路",
+        "alt_name": "梧州站;梧州火车站;Wuzhou Railway Station",
+        "name": "梧州",
+        "name:en": "Wuzhou",
+        "name:zh": "梧州",
+        "operator": "中国铁路南宁局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3060261931,
+      "lon": 111.5341203,
+      "lat": 24.4572255,
+      "tags": {
+        "alt_name": "贺州站;贺州火车站;Hezhou Railway Station",
+        "name": "贺州",
+        "name:en": "Hezhou",
+        "name:ko": "허조우",
+        "name:zh": "贺州",
+        "operator": "中国铁路南宁局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:益湛": "576.534",
+        "railway:ref": "35848",
+        "railway:station_category": "CN:2",
+        "railway:traffic_mode": "passenger",
+        "train": "yes",
+        "wikidata": "Q19853754",
+        "wikipedia": "zh:贺州站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3695336868,
+      "lon": 106.9250578,
+      "lat": 27.934499,
+      "tags": {
+        "name": "娄山关南",
+        "name:en": "Loushanguannan",
+        "name:zh": "娄山关南",
+        "railway": "station",
+        "wikidata": "Q47455063"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2941775894,
+      "lon": 115.0856591,
+      "lat": 27.2813836,
+      "tags": {
+        "alt_name": "吉水西站;Jishui West;Jishui West Railway Station;Jishuixi Railway Station",
+        "name": "吉水西",
+        "name:en": "Jishuixi",
+        "name:zh": "吉水西",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2381028366,
+      "lon": 113.3107151,
+      "lat": 30.8677259,
+      "tags": {
+        "addr:postcode": "431703",
+        "alt_name": "天门北站;Tianmenbei Railway Station",
+        "name": "天门北",
+        "name:en": "Tianmenbei",
+        "name:zh": "天门北",
+        "old_name": "天门",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8509167177,
+      "lat": 31.1573405,
+      "lon": 117.9246834,
+      "timestamp": "2025-03-25T23:24:57Z",
+      "version": 3,
+      "changeset": 164100645,
+      "user": "橘ヒカリ",
+      "uid": 19194886,
+      "tags": {
+        "name": "无为南",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8526666000,
+      "lon": 120.2309551,
+      "lat": 28.8367105,
+      "tags": {
+        "name": "壶镇",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2719758932,
+      "lon": 114.7897316,
+      "lat": 22.8475822,
+      "tags": {
+        "description": "2023年4月10日，本站由惠东站更名为惠东南站",
+        "name": "惠东南",
+        "name:en": "Huidongnan",
+        "name:zh": "惠东南",
+        "name:zh-Latn-pinyin": "Huìdōng Nán",
+        "old_name": "惠东",
+        "old_name:en": "Huidong",
+        "old_name:zh": "惠东",
+        "old_name:zh-Latn-pinyin": "Huìdōng",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q5934969"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5895931044,
+      "lon": 113.7345963,
+      "lat": 32.2723385,
+      "tags": {
+        "alt_name": "小林站;小林火车站;Xiaolin Railway Station",
+        "name": "小林",
+        "name:en": "Xiaolin",
+        "name:zh": "小林",
+        "railway": "station",
+        "train": "yes"
+      }
+    }
+  ]
+}

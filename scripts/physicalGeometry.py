@@ -109,7 +109,7 @@ def apply_physical(data,source):
     for service in data['services']:
         # Preserve directness from the published service, not graph reachability.
         indices=[service['completeStopNames'].index(stations[s]['name']) for s in service['stations']]
-        prefer='hs' if 'xuzhou-east' in service['stations'] or service['category']=='G' else 'ordinary'
+        prefer='hs' if service['category'] in ['G','C','D'] else 'ordinary'
         service['segmentIds']=[]
         for i,(a,b) in enumerate(zip(service['stations'],service['stations'][1:])):
             if indices[i+1]!=indices[i]+1:

@@ -1,0 +1,22 @@
+[
+  {
+    "trainNumber": "G9444",
+    "category": "G",
+    "stopNames": [
+      "淮北",
+      "萧县北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9444.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "2931f7fe2da32befb611d155e38e82cced339c22c290dbbe65779af60c0f6cc9",
+    "elapsedMinutes": [
+      0,
+      22
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

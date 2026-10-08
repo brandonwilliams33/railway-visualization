@@ -1,0 +1,251 @@
+[
+  {
+    "trainNumber": "G3119",
+    "category": "G",
+    "stopNames": [
+      "济南",
+      "聊城西",
+      "郑州东",
+      "许昌东",
+      "黄梅东",
+      "潜山",
+      "安庆",
+      "铜陵",
+      "芜湖"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3119.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "14ae1abe6e714fb8b102118854802f0a23ed4b2af1184b0e8450a08b2a71d56d",
+    "elapsedMinutes": [
+      0,
+      37,
+      112,
+      137,
+      158,
+      184,
+      208,
+      241,
+      273
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3122",
+    "category": "G",
+    "stopNames": [
+      "济南",
+      "聊城西",
+      "郑州东",
+      "许昌东",
+      "黄梅东",
+      "潜山",
+      "安庆",
+      "铜陵",
+      "芜湖"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3122.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6ef28ed0e6220669642962fb4fec7b14dc9666ec1d1be9986662f391558d5e82",
+    "elapsedMinutes": [
+      0,
+      37,
+      112,
+      137,
+      158,
+      184,
+      208,
+      241,
+      273
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4359",
+    "category": "G",
+    "stopNames": [
+      "荔波",
+      "都匀东",
+      "芜湖",
+      "龙里北",
+      "龙洞堡",
+      "宣城",
+      "贵阳北",
+      "安顺西",
+      "关岭",
+      "普安县",
+      "曲靖北",
+      "昆明南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4359.html",
+    "sourceUpdatedAt": "2026-07-18",
+    "sourceSha256": "b33964b2acbe9696074eec98581c25a415e66e52dfb4c5b0d98b722d0ef91209",
+    "elapsedMinutes": [
+      0,
+      27,
+      174,
+      53,
+      66,
+      212,
+      86,
+      126,
+      143,
+      184,
+      234,
+      275
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4,
+        7
+      ]
+    }
+  },
+  {
+    "trainNumber": "G4360",
+    "category": "G",
+    "stopNames": [
+      "宣城",
+      "芜湖"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4360.html",
+    "sourceUpdatedAt": "2026-07-18",
+    "sourceSha256": "4d78aa4cd4815d0fc316ce37aba5c4db60f17769cf1c72d9e903595471acd232",
+    "elapsedMinutes": [
+      112,
+      140
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4362",
+    "category": "G",
+    "stopNames": [
+      "荔波",
+      "都匀东",
+      "芜湖",
+      "龙里北",
+      "龙洞堡",
+      "宣城",
+      "贵阳北",
+      "安顺西",
+      "关岭",
+      "普安县",
+      "曲靖北",
+      "昆明南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4362.html",
+    "sourceUpdatedAt": "2026-07-18",
+    "sourceSha256": "9331cfdc504fa60884335ace2142a4cb3c465e9eb58bffeffa943bc97a7bab01",
+    "elapsedMinutes": [
+      0,
+      27,
+      174,
+      53,
+      66,
+      212,
+      86,
+      126,
+      143,
+      184,
+      234,
+      275
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4,
+        7
+      ]
+    }
+  },
+  {
+    "trainNumber": "G4363",
+    "category": "G",
+    "stopNames": [
+      "荔波",
+      "都匀东",
+      "芜湖",
+      "龙里北",
+      "龙洞堡",
+      "宣城",
+      "贵阳北",
+      "安顺西",
+      "关岭",
+      "普安县",
+      "曲靖北",
+      "昆明南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4363.html",
+    "sourceUpdatedAt": "2026-07-18",
+    "sourceSha256": "1f1d31f3ddd07f7637cc7ecf390a6d8f888739abc9e89b85dcbe7ca633164bc7",
+    "elapsedMinutes": [
+      0,
+      27,
+      174,
+      53,
+      66,
+      212,
+      86,
+      126,
+      143,
+      184,
+      234,
+      275
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4,
+        7
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y664",
+    "category": "OTHER",
+    "stopNames": [
+      "十堰",
+      "襄阳",
+      "小林",
+      "信阳",
+      "六安",
+      "合肥",
+      "巢湖",
+      "芜湖"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y664.html",
+    "sourceUpdatedAt": "2026-03-22",
+    "sourceSha256": "1fee6709c610067276e292615c0155da068adf90739951af34ff9b8af8ef58c4",
+    "elapsedMinutes": [
+      0,
+      140,
+      330,
+      384,
+      660,
+      754,
+      830,
+      903
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

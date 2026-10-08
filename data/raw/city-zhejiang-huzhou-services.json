@@ -1,0 +1,204 @@
+[
+  {
+    "trainNumber": "D4401",
+    "category": "D",
+    "stopNames": [
+      "汉口",
+      "合肥南",
+      "湖州",
+      "湖州东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4401.html",
+    "sourceUpdatedAt": "2026-02-24",
+    "sourceSha256": "0c6054ab0bec4c9b197a67dd742d6714b34f0506d5bb844cbf5571b3ab55e0d2",
+    "elapsedMinutes": [
+      0,
+      105,
+      220,
+      241
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4402",
+    "category": "D",
+    "stopNames": [
+      "湖州东",
+      "湖州",
+      "合肥南",
+      "汉口"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4402.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "9f5413efeca772f8953db00e19295cb3d57bc327f638ee0d6eed1302f16a6adb",
+    "elapsedMinutes": [
+      0,
+      10,
+      117,
+      232
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4403",
+    "category": "D",
+    "stopNames": [
+      "湖州东",
+      "湖州",
+      "合肥南",
+      "汉口"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4403.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "51b8a473523a4e446a9dacaf16d9671222693a589af27d93b2fb0c56eefe5acf",
+    "elapsedMinutes": [
+      0,
+      10,
+      117,
+      232
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4404",
+    "category": "D",
+    "stopNames": [
+      "汉口",
+      "合肥南",
+      "湖州",
+      "湖州东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4404.html",
+    "sourceUpdatedAt": "2026-02-24",
+    "sourceSha256": "dcd7ab490370e9f3d9a661a9fed91171f9b69e472dc98bd1dfd707acc6a37f0d",
+    "elapsedMinutes": [
+      0,
+      105,
+      220,
+      241
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4741",
+    "category": "G",
+    "stopNames": [
+      "赤峰",
+      "宁城",
+      "承德南",
+      "兴隆县西",
+      "商丘",
+      "密云",
+      "阜阳西",
+      "北京朝阳",
+      "颍上北",
+      "淮南南",
+      "合肥南",
+      "长临河",
+      "巢湖东",
+      "含山南",
+      "芜湖",
+      "宣城",
+      "安吉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4741.html",
+    "sourceUpdatedAt": "2026-07-18",
+    "sourceSha256": "a133c38b5ddbbffe5f5e58c9e2ca2670818d5d2b5532479cfd0a152fb3a2f5b7",
+    "elapsedMinutes": [
+      0,
+      31,
+      88,
+      109,
+      170,
+      150,
+      217,
+      178,
+      239,
+      268,
+      315,
+      331,
+      356,
+      376,
+      393,
+      426,
+      451
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        6,
+        8
+      ]
+    }
+  },
+  {
+    "trainNumber": "G4744",
+    "category": "G",
+    "stopNames": [
+      "赤峰",
+      "宁城",
+      "承德南",
+      "兴隆县西",
+      "商丘",
+      "密云",
+      "阜阳西",
+      "北京朝阳",
+      "颍上北",
+      "淮南南",
+      "合肥南",
+      "长临河",
+      "巢湖东",
+      "含山南",
+      "芜湖",
+      "宣城",
+      "安吉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4744.html",
+    "sourceUpdatedAt": "2026-07-18",
+    "sourceSha256": "9c8414b650ec98e4bfc7a20bb89efe46c3b3739fb736edbebd6a15c1fa110fbe",
+    "elapsedMinutes": [
+      0,
+      31,
+      88,
+      109,
+      170,
+      150,
+      217,
+      178,
+      239,
+      268,
+      315,
+      331,
+      356,
+      376,
+      393,
+      426,
+      451
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        6,
+        8
+      ]
+    }
+  }
+]

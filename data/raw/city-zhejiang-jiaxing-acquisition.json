@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "嘉兴",
+  "stationCount": 7,
+  "candidateServices": 492,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "嘉善"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "retrievedAt": "2026-10-08",
+  "notes": {
+    "常山": "Exact Chinese railway station inside Zhejiang; Japanese homonym excluded.",
+    "郏县": "OSM node linked to Wikidata Q67934462, the Zhengzhou–Chongqing high-speed railway station.",
+    "鄯善北": "Exact name:zh on the bilingual OSM station node.",
+    "香港西九龙": "Exact name:zh-Hans on the Hong Kong West Kowloon railway station node."
+  },
+  "stations": [
+    {
+      "id": "st-osm-node-6732058638",
+      "name": "常山",
+      "city": "衢州",
+      "province": "浙江",
+      "provinceId": "zhejiang",
+      "latitude": 28.9257657,
+      "longitude": 118.5556738,
+      "isHub": false,
+      "major": false,
+      "coordinateSource": "https://www.openstreetmap.org/node/6732058638"
+    },
+    {
+      "id": "st-osm-node-5575721523",
+      "name": "郏县",
+      "city": "平顶山",
+      "province": "河南",
+      "provinceId": "henan",
+      "latitude": 33.9467065,
+      "longitude": 113.2644081,
+      "isHub": false,
+      "major": false,
+      "coordinateSource": "https://www.openstreetmap.org/node/5575721523"
+    },
+    {
+      "id": "st-osm-node-2987138033",
+      "name": "鄯善北",
+      "city": "吐鲁番",
+      "province": "新疆",
+      "provinceId": "xinjiang",
+      "latitude": 42.9172553,
+      "longitude": 90.1937129,
+      "isHub": false,
+      "major": false,
+      "coordinateSource": "https://www.openstreetmap.org/node/2987138033"
+    },
+    {
+      "id": "st-osm-node-7919700008",
+      "name": "香港西九龙",
+      "city": "香港",
+      "province": "香港",
+      "provinceId": "hongkong",
+      "latitude": 22.3036814,
+      "longitude": 114.1649267,
+      "isHub": false,
+      "major": false,
+      "coordinateSource": "https://www.openstreetmap.org/node/7919700008"
+    }
+  ]
+}
