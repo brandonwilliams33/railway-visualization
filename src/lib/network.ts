@@ -28,7 +28,6 @@ export function getNetwork(hub:HubId,filters:Filters){
   }
  }
  const segments=data.segments.filter(s=>selectedSegments.has(s.id));
- segments.forEach(s=>{s.coverageStationIds.forEach(id=>pathStationIds.add(id))});
  const stations=data.stations.filter(s=>pathStationIds.has(s.id));
  return {hubStation,services,destinations,destinationIds,segments,stations,provinces:[...new Map(availableStations.map(s=>[s.provinceId,{id:s.provinceId,name:s.province}])).values()].sort((a,b)=>a.name.localeCompare(b.name,'zh-CN'))};
 }

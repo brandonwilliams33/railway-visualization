@@ -48,7 +48,7 @@ def apply_physical(data,source):
             if na==nb:continue
             pair=tuple(sorted((na,nb)));eid='osm-'+hashlib.sha256(str(pair).encode()).hexdigest()[:16]
             if eid in edges:continue
-            edges[eid]={'a':na,'b':nb,'coords':[list(a),list(b)],'names':chain['railwayNames'],'sources':chain['sourceWayIds'],'family':family}
+            edges[eid]={'a':na,'b':nb,'coords':[list(nodes[na]),list(nodes[nb])],'names':chain['railwayNames'],'sources':chain['sourceWayIds'],'family':family}
             weight=km(a,b)
             graphs[family][na].append((nb,eid,weight));graphs[family][nb].append((na,eid,weight))
     stations={s['id']:s for s in data['stations']};snaps=station_points
