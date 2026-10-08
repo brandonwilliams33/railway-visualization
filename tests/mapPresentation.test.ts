@@ -8,3 +8,7 @@ describe('map presentation never defines passenger reachability',()=>{
  it('restores the original curve and track separation at close zoom',()=>{const s=segment('a',[[116,34],[116.2,34.1],[116.3,34]]);expect(corridorLines([s],8)[0].positions).toEqual([[34,116],[34.1,116.2],[34,116.3]])});
  it('keeps the selected station and hub visible when clustering dense stops',()=>{const stations=Array.from({length:60},(_,i)=>({id:`s${i}`,longitude:117+i*.001,latitude:34,name:`站${i}`,city:'城市',province:'省',provinceId:'p',isHub:i===0,major:false,coordinateSource:'test'} as Station));const visible=visibleStations(stations,5,'s0','s59');expect(visible.length).toBeLessThan(stations.length);expect(visible.map(s=>s.id)).toContain('s59');expect(visible.map(s=>s.id)).toContain('s0');expect(visibleStations(stations,7,'s0',null)).toHaveLength(60)});
 });
+
+describe('station anchors and complete visible paths',()=>{
+ it('keeps a station on the joined line instead of replacing it with a cell average',()=>{const station={id:'anchor',name:'站',latitude:34,longitude:117,major:true,isHub:true,city:'',province:'',provinceId:'',coordinateSource:''};const lines=corridorLines([segment('a',[[116.8,34],[117,34]]),segment('b',[[117,34],[117.2,34]])],5,[station]);expect(lines.filter(l=>l.positions.some(p=>p[0]===34&&p[1]===117)).length).toBeGreaterThanOrEqual(2)});
+});

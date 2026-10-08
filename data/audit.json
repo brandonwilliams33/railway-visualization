@@ -1,11 +1,11 @@
 {
   "summary": {
     "candidates": 1229,
-    "acceptedServices": 1019,
+    "acceptedServices": 1007,
     "rejectedNoHub": 0,
     "excludedTemporary": 201,
     "nonPassenger": 5,
-    "malformedSequences": 3,
+    "malformedSequences": 0,
     "unlocatedStations": [
       "九华山",
       "平阳",
@@ -17,10 +17,31 @@
       "鄯善北"
     ],
     "failedPages": 1,
-    "matchedPhysicalIntervals": 9955,
-    "unmatchedPhysicalIntervals": 5851,
+    "invalidTimingServices": [
+      "C9710",
+      "C9711",
+      "C9714",
+      "D111",
+      "D114",
+      "D115",
+      "G1936",
+      "G1937",
+      "G2696",
+      "G2697",
+      "G281",
+      "G284",
+      "Z215",
+      "Z218",
+      "Z219"
+    ],
+    "matchedPhysicalIntervals": 9825,
+    "unmatchedPhysicalIntervals": 5733,
     "physicalSourceSnapshot": "2026-05-10",
-    "physicalGeometryBuild": "2026-05-10"
+    "physicalGeometryBuild": "2026-05-10",
+    "schematicRepairedIntervals": 5733,
+    "railCorridorRepairedIntervals": 50,
+    "remainingUnmappedIntervals": 0,
+    "schematicSegments": 1846
   },
   "failedPages": [
     "/huoche/g4516.html"
@@ -236,10 +257,6 @@
     "Y451",
     "Y454"
   ],
-  "malformedSequences": [
-    "C9710",
-    "C9711",
-    "C9714"
-  ],
-  "geometryMethod": "OSM physical corridor matching on reviewed passenger mainlines, deduplicated by track geometry. Operational routing remains inferred; unmatched intervals are not drawn."
+  "malformedSequences": [],
+  "geometryMethod": "Reviewed OSM corridor geometry, with schematic station links and short published-stop corridors. Remaining long gaps are traced along reviewed OSM corridor geometry. Display routes do not establish operational train paths or create direct destinations."
 }

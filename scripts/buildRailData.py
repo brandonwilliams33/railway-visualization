@@ -24,6 +24,7 @@ def build():
     raw=load('passenger-services.json')
     services=[];rejected=[];temporary=[];nonpassenger=[];malformed=[]
     missing=set()
+    invalid_timing=[]
     for r in raw:
         code=r['trainNumber']
         if not r['passenger'] or not r['stopNames'] or r['category'] not in ['G','C','D','Z','T','K','OTHER']:
@@ -34,6 +35,8 @@ def build():
             temporary.append(code);continue
         if not any(h in r['stopNames'] for h in ['徐州','徐州东']):
             rejected.append(code);continue
+        if r.get('sourceValidation',{}).get('elapsedTimeMonotonic') is False:
+            invalid_timing.append(code);continue
         r['stopNames']=[n for i,n in enumerate(r['stopNames']) if i==0 or n!=r['stopNames'][i-1]]
         if len(r['stopNames'])!=len(set(r['stopNames'])):
             malformed.append(code);continue
@@ -96,16 +99,19 @@ def build():
         {'name':'China-rail-way-stations-data','url':'https://github.com/listenzcc/China-rail-way-stations-data','description':'WGS84 车站坐标与城市信息补充；保留每个车站的坐标来源。'},
         {'name':'Natural Earth','url':'https://www.naturalearthdata.com/','description':'公共领域行政区地理底图，离线静态展示。'},
     ]
-    data={'updatedAt':acquisition['sourceUpdatedAt'],'retrievedAt':acquisition['retrievedAt'],'stations':[s for s in registry if s['id'] in used], 'services':services,'segments':sorted(segments.values(),key=lambda s:s['id']),'networks':networks,'sources':sources,'audit':{'candidates':acquisition['candidates'],'acceptedServices':len(services),'rejectedNoHub':len(rejected),'excludedTemporary':len(temporary),'nonPassenger':len(nonpassenger),'malformedSequences':len(malformed),'unlocatedStations':sorted(missing),'failedPages':len(acquisition['failedPages'])}}
+    data={'updatedAt':acquisition['sourceUpdatedAt'],'retrievedAt':acquisition['retrievedAt'],'stations':[s for s in registry if s['id'] in used], 'services':services,'segments':sorted(segments.values(),key=lambda s:s['id']),'networks':networks,'sources':sources,'audit':{'candidates':acquisition['candidates'],'acceptedServices':len(services),'rejectedNoHub':len(rejected),'excludedTemporary':len(temporary),'nonPassenger':len(nonpassenger),'malformedSequences':len(malformed),'unlocatedStations':sorted(missing),'failedPages':len(acquisition['failedPages']),'invalidTimingServices':invalid_timing}}
     from physicalGeometry import apply_physical
-    data=apply_physical(data,load('physical-rails.json'))
+    physical=load('physical-rails.json')
+    data=apply_physical(data,physical)
+    from connectCorridors import connect_corridors
+    data=connect_corridors(data, physical)
     overview={k:data[k] for k in ['updatedAt','retrievedAt','stations','sources','audit']}
     overview.update({'services':[],'segments':[],'networks':{},'physicalSources':{}})
     (ROOT/'src/data/overview.json').write_text(json.dumps(overview,ensure_ascii=False,separators=(',',':'))+'\n')
     (ROOT/'src/data/network.json').write_text(json.dumps(data,ensure_ascii=False,separators=(',',':'))+'\n')
     geo={'type':'FeatureCollection','features':[{'type':'Feature','id':s['id'],'properties':{k:v for k,v in s.items() if k!='geometry'},'geometry':s['geometry']} for s in data['segments']]}
     (ROOT/'data/railway-segments.geojson').write_text(json.dumps(geo,ensure_ascii=False,separators=(',',':'))+'\n')
-    audit={'summary':data['audit'],'failedPages':acquisition['failedPages'],'rejectedNoHub':rejected,'excludedTemporary':temporary,'nonPassenger':nonpassenger,'malformedSequences':malformed,'geometryMethod':'OSM physical corridor matching on reviewed passenger mainlines, deduplicated by track geometry. Operational routing remains inferred; unmatched intervals are not drawn.'}
+    audit={'summary':data['audit'],'failedPages':acquisition['failedPages'],'rejectedNoHub':rejected,'excludedTemporary':temporary,'nonPassenger':nonpassenger,'malformedSequences':malformed,'geometryMethod':'Reviewed OSM corridor geometry, with schematic station links and short published-stop corridors. Remaining long gaps are traced along reviewed OSM corridor geometry. Display routes do not establish operational train paths or create direct destinations.'}
     (ROOT/'data/audit.json').write_text(json.dumps(audit,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps({**{h:len(n['destinationStationIds']) for h,n in networks.items()},'segments':len(data['segments']),'services':len(services),'audit':data['audit']},ensure_ascii=False))
 if __name__=='__main__':build()
