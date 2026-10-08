@@ -1,0 +1,21 @@
+{
+  "completedCities": [
+    "hefei",
+    "wuhu",
+    "bengbu",
+    "huainan",
+    "maanshan",
+    "huaibei",
+    "tongling",
+    "anqing",
+    "huangshan",
+    "chuzhou",
+    "fuyang",
+    "suzhou",
+    "luan",
+    "bozhou",
+    "chizhou",
+    "xuancheng"
+  ],
+  "failedCities": []
+}

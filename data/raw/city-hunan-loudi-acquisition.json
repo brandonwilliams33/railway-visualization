@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "娄底",
+  "stationCount": 7,
+  "candidateServices": 592,
+  "acquiredAdditionalServices": 2,
+  "failedPages": [
+    {
+      "trainNumber": "G9794",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

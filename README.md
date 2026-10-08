@@ -4,9 +4,9 @@
 
 从已开放城市的客运车站出发，探索有公开客运服务依据的直达车站与铁路走廊。
 
-| 独立车站选择 | 杭州西出发网络 | 手机布局 |
+| 独立车站选择 | 天河机场出发网络 | 手机布局 |
 | --- | --- | --- |
-| ![上海的独立客运车站](docs/screenshots/preview-expanded-city.png) | ![杭州西站直达网络](docs/screenshots/preview-expanded-network.png) | ![手机端客运网络](docs/screenshots/preview-expanded-mobile.png) |
+| ![武汉的独立客运车站](docs/screenshots/preview-expanded-city.png) | ![天河机场站直达网络](docs/screenshots/preview-expanded-network.png) | ![手机端客运网络](docs/screenshots/preview-expanded-mobile.png) |
 
 ## 本地运行
 
@@ -49,26 +49,27 @@ npm run data:build
 
 ## 扩展范围与数据边界
 
-已开放30个城市、234个独立出发站：江苏13市86站；上海19站；浙江10市93站；安徽的合肥、芜湖、蚌埠、淮南、马鞍山、淮北6市36站。各站可展开其直达全国目的地的网络，站点保持独立 ID、名称和坐标。城市入口按省份分组，旧徐州链接继续有效。逐市清单见 [扩展进度](docs/EXPANSION-PROGRESS.md)。
+已开放 149 个城市、1,249 个独立出发站，涵盖江苏、上海、浙江、安徽、山东、河南、湖北、江西、福建、北京、天津、河北、山西、湖南。各站可展开其直达全国目的地的网络，站点保持独立 ID、名称和坐标。逐市清单见 [扩展进度](docs/EXPANSION-PROGRESS.md)，暂停位置和续传步骤见 [接班说明](HANDOFF.md)。目录采集完成不代表覆盖官方全部现行车次。
 
-- 5,226 个候选车次；接受 4,054 个客运服务，使用 1,328 个有来源坐标的车站。
-- 全部 50,290 个服务区间有连续绘图路径，未留下断线区间。显示线形与客运直达关系分别核验。
-- 嘉善已定位，但缺少本轮可核验的正常客运服务，因此没有开放空入口。南川北、武隆南、枫林3个全国目的站尚未定位，暂不绘出；原始停站事实保留。
-- 所有已开放出发站坐标与所属城市已核验。其他目的站的一部分城市字段仍待确认，可按站名或省份查询。
-- 隔离 44 个时间倒退服务、10 个异常站序记录；排除 1,109 个临客候选。没有把含空格的“合肥 南”当作新车站。
+- 接受 10,803 个客运服务，使用 1,962 个有来源坐标的车站。
+- 已定位站点之间的 104,732 个服务区间全部具有连续绘图路径，未留下断线区间。线路只表达可达联系，不声明列车实际运行径路。
+- 139 个全国目的站仍待坐标核验；原始停站事实保留，地图暂不显示，不以城市中心替代。96 个目录入口未开放，原因与明细见扩展进度。
+- 黄渡独立站点仍保留；本轮仅有未取得普通售票证据的旅游候选，因此暂停其出发入口。牛车河、向阳、石城的错误所在地目录条目隔离；芦台归属纠正至天津。不同站点没有合并。
+- 广州的43站目录与760条新增服务事实已保存，但该城市采集尚未完成，因此暂不开放广州出发入口。其完整单条服务事实可作为其他已开放出发站的证据。
+- 隔离 137 个时间倒退服务、38 个速度/时间矛盾服务和 98 个异常站序记录；排除 3,498 个临客候选。
 
 ## 逐城市继续扩展
 
 `data/raw/jiangsu-station-index.json` 保留江苏底稿；新增城市使用 `city-*-station-index.json` 和 `city-*-services.json`，并保存 URL、源日期及页面哈希。完整服务事实在城市间复用，出发站登记自动生成城市与站点入口。坐标只接受已核验的独立车站，不能用城市中心代替。
 
 ```sh
-python3 scripts/acquireCity.py anhui tongling 安徽
+python3 scripts/acquireCity.py guangdong guangzhou 广东
 npm run data:build
 npm test
 npm run build
 ```
 
-若有未定位站点，先用 `resolveStationCoordinates.py` 补坐标；`verifyCoordinateCandidates.py` 仅把英文坐标表当候选区域，再通过原始 OSM 对象上的中文站名验证；`acquireWikidataCoordinates.py` 配合明确的同名消歧义登记补充高精度铁路车站坐标。采集与坐标步骤需要联网，已提交快照的构建完全离线。
+当前广州还有发布隔离，先遵循 HANDOFF.md 的核验与解锁步骤，再构建。若有未定位站点，先用 `resolveStationCoordinates.py` 补坐标；`verifyCoordinateCandidates.py` 仅把英文坐标表当候选区域，再通过原始 OSM 对象上的中文站名验证；`acquireWikidataCoordinates.py` 配合明确的同名消歧义登记补充高精度铁路车站坐标。采集与坐标步骤需要联网，已提交快照的构建完全离线。
 
 ## 来源与许可
 

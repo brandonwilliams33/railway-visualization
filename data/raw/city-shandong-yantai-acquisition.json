@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "烟台",
+  "stationCount": 17,
+  "candidateServices": 356,
+  "acquiredAdditionalServices": 6,
+  "failedPages": [],
+  "stationIssues": [
+    "烟台南"
+  ]
+}

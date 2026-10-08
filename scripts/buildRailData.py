@@ -19,7 +19,7 @@ def build():
     assert len({s['id'] for s in registry})==len(registry), 'Duplicate station IDs'
     from originSources import indexes as origin_indexes, services as source_services
     indexes=origin_indexes()
-    origin_names={s['name'] for s in indexes}
+    origin_names={s['name'] for s in indexes if s['name'] in by_name and by_name[s['name']]['provinceId']==s['provinceId']}
     rows=source_services()
     js_acquisition=load('jiangsu-acquisition.json')
     acquisition['retrievedAt']=max([js_acquisition['retrievedAt']]+[s.get('retrievedAt','') for s in indexes])
@@ -28,7 +28,9 @@ def build():
     candidate_codes={code for s in indexes for code in s.get('candidateTrainNumbers',[])}
     acquisition['failedPages']=[f'/huoche/{code.lower()}.html' for code in sorted(candidate_codes-acquired)]
     services=[];rejected=[];temporary=[];nonpassenger=[];malformed=[]
-    missing=set();invalid_timing=[]
+    missing=set();invalid_timing=[];impossible_timing={};unverified_ticketability=[]
+    ticket_evidence={r['trainNumber']:r for r in load('public-ticket-evidence.json')['services']}
+    from validateTimetable import impossible_intervals
     for code,r in sorted(rows.items()):
         if not r['passenger'] or len(r['stopNames'])<2 or r['category'] not in ['G','C','D','Z','T','K','OTHER']:
             nonpassenger.append(code);continue
@@ -43,6 +45,11 @@ def build():
         names=[n for i,n in enumerate(r['stopNames']) if i==0 or n!=r['stopNames'][i-1]]
         if len(names)!=len(set(names)):
             malformed.append(code);continue
+        impossible=impossible_intervals(r,by_name)
+        if impossible:
+            impossible_timing[code]=impossible;continue
+        if code.startswith('Y') and code not in ticket_evidence:
+            unverified_ticketability.append(code);continue
         missing.update(n for n in names if n not in by_name)
         known=[by_name[n]['id'] for n in names if n in by_name]
         services.append({'id':'svc-'+code.lower(),'trainNumber':code,'category':r['category'],'stations':known,
@@ -56,6 +63,8 @@ def build():
     networks={};origins=[];pending=[]
     for entry in indexes:
         station=by_name.get(entry['name'])
+        if station and station['provinceId']!=entry['provinceId']:
+            pending.append({'name':entry['name'],'reason':'station identity conflicts with catalogue'});continue
         if not station or not service_at[station['id']]:
             pending.append({'name':entry['name'],'reason':'coordinate missing' if not station else 'no validated regular passenger service'});continue
         hub=station['id'];ss=service_at[hub]
@@ -66,7 +75,7 @@ def build():
             'tier':'major' if major else 'local','sourceUrl':entry['sourceUrl'],'sourceUpdatedAt':entry.get('sourceUpdatedAt') or max(s['sourceUpdatedAt'] for s in ss),
             'candidateServiceCount':len(entry.get('candidateTrainNumbers',[])),'verifiedServiceCount':len(ss)})
         networks[hub]={'hubStationId':hub,'destinationStationIds':sorted({x for service in ss for x in service['stations']}-{hub}),
-            'railwaySegmentIds':[],'serviceIds':[service['id'] for service in ss]}
+            'serviceIds':[service['id'] for service in ss]}
     used={x for service in services for x in service['stations']}
     for station in registry:station['isHub']=station['id'] in networks
     sources=[
@@ -88,13 +97,21 @@ def build():
     data=apply_physical(data,physical)
     from connectCorridors import connect_corridors
     data=connect_corridors(data, physical)
+    data['audit']['impossibleTimingServices']=sorted(impossible_timing)
+    data['audit']['unverifiedTourismServices']=unverified_ticketability
     overview={k:data[k] for k in ['updatedAt','retrievedAt','stations','sources','audit','origins']}
     overview.update({'services':[],'segments':[],'networks':{},'physicalSources':{}})
     (ROOT/'src/data/overview.json').write_text(json.dumps(overview,ensure_ascii=False,separators=(',',':'))+'\n')
-    (ROOT/'src/data/network.json').write_text(json.dumps(data,ensure_ascii=False,separators=(',',':'))+'\n')
+    from compactNetwork import compact_network
+    (ROOT/'src/data/network.json').write_text(json.dumps(compact_network(data),ensure_ascii=False,separators=(',',':'))+'\n')
     geo={'type':'FeatureCollection','features':[{'type':'Feature','id':s['id'],'properties':{k:v for k,v in s.items() if k!='geometry'},'geometry':s['geometry']} for s in data['segments']]}
     (ROOT/'data/railway-segments.geojson').write_text(json.dumps(geo,ensure_ascii=False,separators=(',',':'))+'\n')
     audit={'summary':data['audit'],'failedPages':acquisition['failedPages'],'rejectedNoHub':rejected,'originMembershipMismatches':{entry['name']:[code for code in entry.get('candidateTrainNumbers',[]) if code in rows and entry['name'] not in rows[code]['stopNames']] for entry in indexes},'excludedTemporary':temporary,'nonPassenger':nonpassenger,'malformedSequences':malformed,'geometryMethod':'Reviewed OSM corridor geometry, with schematic station links and short published-stop corridors. Remaining long gaps are traced along reviewed OSM and shared passenger corridor geometry; nearby corridor cuts may be joined for readability without merging station identities. Display routes do not establish operational train paths or create direct destinations.'}
+    station_name_by_id={s['id']:s['name'] for s in data['stations']}
+    audit['impossibleTimingDetails']=impossible_timing
+    audit['quarantinedOriginEntries']=load('origin-index-exclusions.json')
+    audit['correctedOriginEntries']=load('origin-index-corrections.json')
+    audit['missingDrawingIntervals']=[{'trainNumber':service['trainNumber'],'from':station_name_by_id[service['stations'][i]],'to':station_name_by_id[service['stations'][i+1]],'sourceUrl':service['sourceUrl']} for service in services for i,leg in enumerate(service['segmentIds']) if not leg]
     (ROOT/'data/audit.json').write_text(json.dumps(audit,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps({'origins':len(origins),'cities':len({s['cityId'] for s in origins}),'stations':len(data['stations']),'segments':len(data['segments']),'services':len(services),'audit':data['audit']},ensure_ascii=False))
 if __name__=='__main__':build()

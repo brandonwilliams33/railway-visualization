@@ -1,0 +1,21 @@
+{
+  "completedCities": [
+    "jinan",
+    "qingdao",
+    "zibo",
+    "zaozhuang",
+    "dongying",
+    "yantai",
+    "weifang",
+    "jining",
+    "taian",
+    "weihai",
+    "rizhao",
+    "linyi",
+    "dezhou",
+    "liaocheng",
+    "binzhou",
+    "heze"
+  ],
+  "failedCities": []
+}

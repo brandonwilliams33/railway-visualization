@@ -1,0 +1,22 @@
+{
+  "completedCities": [
+    "wuhan",
+    "huangshi",
+    "shiyan",
+    "yichang",
+    "xiangyang",
+    "ezhou",
+    "jingmen",
+    "xiaogan",
+    "jingzhou",
+    "huanggang",
+    "xianning",
+    "suizhou",
+    "enshi",
+    "xiantao",
+    "qianjiang",
+    "tianmen",
+    "shennongjia"
+  ],
+  "failedCities": []
+}

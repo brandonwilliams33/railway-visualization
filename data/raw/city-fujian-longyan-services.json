@@ -1,0 +1,270 @@
+[
+  {
+    "trainNumber": "C5156",
+    "category": "C",
+    "stopNames": [
+      "龙岩",
+      "长汀南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c5156.html",
+    "sourceUpdatedAt": "2026-04-05",
+    "sourceSha256": "0b7b45b29e000131865ce205e2324b10a2d4b3535b2cff1bba85585c8e41c8f2",
+    "elapsedMinutes": [
+      0,
+      42
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C5283",
+    "category": "C",
+    "stopNames": [
+      "长汀南",
+      "龙岩"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c5283.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "593f72f0d6359cbfee7b9a88cde919c3a33e602b9368587de1b161fa2848dead",
+    "elapsedMinutes": [
+      0,
+      42
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4328",
+    "category": "D",
+    "stopNames": [
+      "深圳北",
+      "普宁",
+      "潮汕",
+      "龙岩"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4328.html",
+    "sourceUpdatedAt": "2026-08-16",
+    "sourceSha256": "04bf69182108f2a58d3159de333f215fad8f7cc341ef961fa6f454112bd24cdf",
+    "elapsedMinutes": [
+      0,
+      73,
+      96,
+      219
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6361",
+    "category": "D",
+    "stopNames": [
+      "龙岩",
+      "上杭",
+      "武平"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6361.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "853c4f8fa02587fa7b6fb01d71c545c348635c1539369d7f325caa94b2aa0a9e",
+    "elapsedMinutes": [
+      0,
+      28,
+      41
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6364",
+    "category": "D",
+    "stopNames": [
+      "龙岩",
+      "上杭",
+      "武平"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6364.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f25e74a2f09e99e03b00c3c08fde1b1ad0c8aa4d5a6731b5d414ef7147236abb",
+    "elapsedMinutes": [
+      0,
+      28,
+      41
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6385",
+    "category": "D",
+    "stopNames": [
+      "龙岩",
+      "上杭",
+      "武平"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6385.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3b7ec48720cbdeae6460734cc79fbeec93e5bac54e321746643648c4b9c0e732",
+    "elapsedMinutes": [
+      0,
+      28,
+      41
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6386",
+    "category": "D",
+    "stopNames": [
+      "武平",
+      "上杭",
+      "古田会址",
+      "龙岩"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6386.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2d816f80e940e0969d8bb38896bf19a9b7c953b15b9e35b57d799533cd806729",
+    "elapsedMinutes": [
+      0,
+      10,
+      31,
+      48
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6387",
+    "category": "D",
+    "stopNames": [
+      "武平",
+      "上杭",
+      "古田会址",
+      "龙岩"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6387.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "65622240bf3b1d4394b4b3d46d93354fdcdb4b29681cdf01124761eec59c0030",
+    "elapsedMinutes": [
+      0,
+      10,
+      31,
+      48
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6388",
+    "category": "D",
+    "stopNames": [
+      "龙岩",
+      "上杭",
+      "武平"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6388.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c5dbe15c54535096ad049b21ef288369e9619011e539111b7ec6f20fb7ebcf94",
+    "elapsedMinutes": [
+      0,
+      28,
+      41
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6471",
+    "category": "D",
+    "stopNames": [
+      "长汀南",
+      "冠豸山南",
+      "古田会址",
+      "龙岩"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6471.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "919cbda4c0a15230dc8e246285f094969fa25024cc86106e4123777726312c76",
+    "elapsedMinutes": [
+      0,
+      17,
+      36,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9951",
+    "category": "D",
+    "stopNames": [
+      "长汀南",
+      "龙岩"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9951.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "15d8f245b97cbeed40e9104896280eae60c1233e8f8c05548adcfde978e3f951",
+    "elapsedMinutes": [
+      0,
+      42
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9952",
+    "category": "D",
+    "stopNames": [
+      "龙岩",
+      "古田会址",
+      "冠豸山南",
+      "长汀南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9952.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "326efab94b76065c1c4d0acc1be9703e385014e8cef6eb13abaf2227b8b99801",
+    "elapsedMinutes": [
+      0,
+      15,
+      34,
+      55
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

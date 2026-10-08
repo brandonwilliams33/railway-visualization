@@ -1,0 +1,192 @@
+[
+  {
+    "trainNumber": "D4520",
+    "category": "D",
+    "stopNames": [
+      "抚州",
+      "南昌西",
+      "德安",
+      "阳新",
+      "莱阳",
+      "大冶北",
+      "烟台",
+      "黄石北",
+      "武汉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4520.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "1f07ca19b8b284e3e508e4acdbcd2b5228317d9ef2744eb5d091bf4d207cf515",
+    "elapsedMinutes": [
+      0,
+      37,
+      73,
+      118,
+      341,
+      136,
+      410,
+      147,
+      197
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        6,
+        8
+      ]
+    }
+  },
+  {
+    "trainNumber": "D4521",
+    "category": "D",
+    "stopNames": [
+      "抚州",
+      "南昌西",
+      "德安",
+      "阳新",
+      "莱阳",
+      "大冶北",
+      "烟台",
+      "黄石北",
+      "武汉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4521.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "612344575d1105a11a34b694054665fe6393ce93f2793fb31f78f788fcc2f0c8",
+    "elapsedMinutes": [
+      0,
+      37,
+      73,
+      118,
+      341,
+      136,
+      410,
+      147,
+      197
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        6,
+        8
+      ]
+    }
+  },
+  {
+    "trainNumber": "G5326",
+    "category": "G",
+    "stopNames": [
+      "临沂北",
+      "厉家寨",
+      "日照",
+      "烟台"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5326.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d976a4ac439766ed3d0c7bc68b1c585aebe6b89517892a5de5d6b3ee8ab89e19",
+    "elapsedMinutes": [
+      0,
+      20,
+      44,
+      217
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5327",
+    "category": "G",
+    "stopNames": [
+      "临沂北",
+      "厉家寨",
+      "日照",
+      "烟台"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5327.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2e025ae0980146297965b06dba4ac803ce502d6b90dc103629775bf28e0c61c7",
+    "elapsedMinutes": [
+      0,
+      20,
+      44,
+      217
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8282",
+    "category": "K",
+    "stopNames": [
+      "曹县",
+      "菏泽",
+      "巨野",
+      "嘉祥",
+      "济宁",
+      "兖州",
+      "临沂",
+      "莱阳",
+      "桃村"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8282.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "28dac8bf37f14762241c4c0c6ed5282dcf31188df140e5958302c743b2d8b5a7",
+    "elapsedMinutes": [
+      0,
+      31,
+      81,
+      101,
+      121,
+      155,
+      273,
+      530,
+      571
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8283",
+    "category": "K",
+    "stopNames": [
+      "曹县",
+      "菏泽",
+      "巨野",
+      "嘉祥",
+      "济宁",
+      "兖州",
+      "临沂",
+      "莱阳",
+      "桃村"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8283.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9e97b376fd8c8c4e7245f8de67c8a06ba9720ca6b9d5777b6c453a6f0d6ecbd7",
+    "elapsedMinutes": [
+      0,
+      31,
+      81,
+      101,
+      121,
+      155,
+      273,
+      530,
+      571
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

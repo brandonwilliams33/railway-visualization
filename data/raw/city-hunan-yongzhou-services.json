@@ -1,0 +1,152 @@
+[
+  {
+    "trainNumber": "D2966",
+    "category": "D",
+    "stopNames": [
+      "广州南",
+      "佛山西",
+      "肇庆东",
+      "贺州",
+      "恭城",
+      "桂林北",
+      "全州南",
+      "东安东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d2966.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bfa3e91833a6a60ada6e94e319e256793295d852666719944d2f3e47c2e7aae7",
+    "elapsedMinutes": [
+      0,
+      18,
+      39,
+      97,
+      127,
+      165,
+      227,
+      253
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D2986",
+    "category": "D",
+    "stopNames": [
+      "东安东",
+      "全州南",
+      "桂林",
+      "桂林北",
+      "阳朔",
+      "贺州",
+      "广宁",
+      "肇庆东",
+      "三水南",
+      "广州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d2986.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1d36264b50ed6fe7cfc9f1d1f4a71b2ed217dc99ebcfdea47bb6813cfd889444",
+    "elapsedMinutes": [
+      0,
+      23,
+      72,
+      102,
+      130,
+      191,
+      235,
+      254,
+      267,
+      300
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D2987",
+    "category": "D",
+    "stopNames": [
+      "东安东",
+      "全州南",
+      "桂林",
+      "桂林北",
+      "阳朔",
+      "贺州",
+      "广宁",
+      "肇庆东",
+      "三水南",
+      "广州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d2987.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ba228d3636ddc02fd977b6be0f8e339898081c9888a4b098c0675a3af2e2c43c",
+    "elapsedMinutes": [
+      0,
+      23,
+      72,
+      102,
+      130,
+      191,
+      235,
+      254,
+      267,
+      300
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9663",
+    "category": "D",
+    "stopNames": [
+      "东安东",
+      "全州南",
+      "兴安北",
+      "桂林北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9663.html",
+    "sourceUpdatedAt": "2026-05-25",
+    "sourceSha256": "da10ae1b45801235fa9397e046a95a58ed28034fea840ef41d83663e71d09712",
+    "elapsedMinutes": [
+      0,
+      23,
+      47,
+      82
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9664",
+    "category": "D",
+    "stopNames": [
+      "桂林北",
+      "全州南",
+      "东安东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9664.html",
+    "sourceUpdatedAt": "2026-05-25",
+    "sourceSha256": "f6caba8a3efcaea6b5f9a92b7ca2cd435f657b0ff346d545618b90aa2793a687",
+    "elapsedMinutes": [
+      0,
+      40,
+      66
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

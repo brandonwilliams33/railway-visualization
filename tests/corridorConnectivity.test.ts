@@ -16,6 +16,7 @@ describe('real network regression checks',()=>{
   expect(seen.has(end)).toBe(true);
  });
  it('quarantines the mixed D111 table rather than drawing Luoyang–Chengdu from it',()=>{expect(data.audit.invalidTimingServices).toContain('D111');expect(data.services.some(s=>s.trainNumber==='D111')).toBe(false)});
+ it('quarantines tourist tables with physically impossible Linyi–Lijiang joins',()=>{expect(data.audit.impossibleTimingServices).toContain('Y878');expect(data.audit.impossibleTimingServices).toContain('Y879');expect(data.services.some(s=>['Y878','Y879'].includes(s.trainNumber))).toBe(false)});
  it('uses multi-point geometry instead of long schematic chords',()=>{for(const s of data.segments.filter(s=>s.schematic))for(const [a,b] of s.geometry.coordinates.slice(1).map((p,i)=>[s.geometry.coordinates[i],p])){const km=Math.hypot((a[0]-b[0])*Math.cos((a[1]+b[1])/2*Math.PI/180),(a[1]-b[1]))*111.195;expect(km).toBeLessThanOrEqual(180.001)}});
 });
 

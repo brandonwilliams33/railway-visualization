@@ -1,0 +1,1272 @@
+[
+  {
+    "trainNumber": "G2060",
+    "category": "G",
+    "stopNames": [
+      "郑州东",
+      "兰考南",
+      "庄寨",
+      "菏泽东",
+      "巨野北",
+      "济宁北",
+      "蒙山",
+      "临沂北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2060.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3cc92a4a8616b576e163fe63c229e6356d9be8ae4fb8e0e91575ca7a4e6c18e5",
+    "elapsedMinutes": [
+      0,
+      32,
+      53,
+      69,
+      89,
+      107,
+      137,
+      159
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3269",
+    "category": "G",
+    "stopNames": [
+      "临沂北",
+      "费县北",
+      "曲阜东",
+      "济宁北",
+      "嘉祥北",
+      "巨野北",
+      "菏泽东",
+      "庄寨",
+      "兰考南",
+      "郑州东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3269.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "f33aa43d11050f1ac05a4895e1f3bbad48e3717eff33ae8db0d5cd5508bdd8bd",
+    "elapsedMinutes": [
+      0,
+      13,
+      41,
+      83,
+      95,
+      107,
+      128,
+      145,
+      164,
+      201
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3301",
+    "category": "G",
+    "stopNames": [
+      "日照",
+      "莒南北",
+      "临沂北",
+      "嘉祥北",
+      "菏泽东",
+      "兰考南",
+      "郑州东",
+      "郑州航空港",
+      "长葛北",
+      "郏县",
+      "平顶山西",
+      "南阳东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3301.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8632dfbf0dc68ba9ca56e615552d310411c9e70fd3ff9564756a05dd9b0d58ba",
+    "elapsedMinutes": [
+      0,
+      29,
+      45,
+      97,
+      122,
+      149,
+      184,
+      215,
+      230,
+      250,
+      262,
+      292
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3302",
+    "category": "G",
+    "stopNames": [
+      "南阳东",
+      "平顶山西",
+      "郏县",
+      "禹州",
+      "郑州东",
+      "菏泽东",
+      "嘉祥北",
+      "济宁北",
+      "临沂北",
+      "日照"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3302.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5b3ef94a6647324fbb7635066a7f092fa41178e823af285a2965f22048b9f087",
+    "elapsedMinutes": [
+      0,
+      28,
+      40,
+      55,
+      91,
+      147,
+      172,
+      184,
+      229,
+      267
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3303",
+    "category": "G",
+    "stopNames": [
+      "日照",
+      "厉家寨",
+      "临沂北",
+      "嘉祥北",
+      "巨野北",
+      "菏泽东",
+      "兰考南",
+      "郑州东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3303.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "17a924e13bdbe1cd8471d7a635a7b812aac7bba9582bf407d11ea95a8be7d163",
+    "elapsedMinutes": [
+      0,
+      23,
+      45,
+      95,
+      108,
+      127,
+      158,
+      195
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3304",
+    "category": "G",
+    "stopNames": [
+      "郑州东",
+      "兰考南",
+      "菏泽东",
+      "嘉祥北",
+      "蒙山",
+      "临沂北",
+      "日照"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3304.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "aa47cc81943b3944fe9448beb3e22072187ae28dd4348a6f2df1c00f464c614a",
+    "elapsedMinutes": [
+      0,
+      31,
+      61,
+      87,
+      122,
+      144,
+      182
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3305",
+    "category": "G",
+    "stopNames": [
+      "日照",
+      "莒南北",
+      "临沂北",
+      "费县北",
+      "泗水南",
+      "济宁北",
+      "巨野北",
+      "菏泽东",
+      "兰考南",
+      "开封北",
+      "郑州东",
+      "许昌东",
+      "漯河西",
+      "驻马店西",
+      "信阳东",
+      "武汉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3305.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "41fb13ee7a0bfb545ade036a0c310c3d7a96c7c83eb2664e313038bdea48fe8a",
+    "elapsedMinutes": [
+      0,
+      29,
+      46,
+      64,
+      84,
+      107,
+      125,
+      144,
+      171,
+      189,
+      220,
+      247,
+      265,
+      285,
+      313,
+      359
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3306",
+    "category": "G",
+    "stopNames": [
+      "武汉",
+      "孝感北",
+      "信阳东",
+      "许昌东",
+      "郑州东",
+      "兰考南",
+      "巨野北",
+      "嘉祥北",
+      "济宁北",
+      "费县北",
+      "临沂北",
+      "莒南北",
+      "日照"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3306.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "90ee64ecdcddebef40e0a82ebdb918ac908ca9d2e7c90123deee415c9aad08ad",
+    "elapsedMinutes": [
+      0,
+      30,
+      53,
+      108,
+      132,
+      170,
+      212,
+      224,
+      236,
+      272,
+      288,
+      305,
+      335
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3308",
+    "category": "G",
+    "stopNames": [
+      "西安北",
+      "华山北",
+      "三门峡南",
+      "洛阳龙门",
+      "郑州东",
+      "兰考南",
+      "菏泽东",
+      "嘉祥北",
+      "济宁北",
+      "蒙山",
+      "临沂北",
+      "日照"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3308.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e90b81ef33ae291ed73ab5635079135674320a8b8affe6122a74545208f8815e",
+    "elapsedMinutes": [
+      0,
+      28,
+      57,
+      94,
+      142,
+      178,
+      209,
+      235,
+      247,
+      278,
+      299,
+      339
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3311",
+    "category": "G",
+    "stopNames": [
+      "日照",
+      "临沂北",
+      "蒙山",
+      "曲阜东",
+      "嘉祥北",
+      "巨野北",
+      "菏泽东",
+      "庄寨",
+      "兰考南",
+      "郑州东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3311.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "b52b189ccd7b7a759a7a510d94f208e5b7c42d1cd9d4e6a66841c22a63e80a8c",
+    "elapsedMinutes": [
+      0,
+      38,
+      60,
+      83,
+      127,
+      140,
+      159,
+      175,
+      195,
+      234
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3355",
+    "category": "G",
+    "stopNames": [
+      "成都东",
+      "重庆西",
+      "重庆北",
+      "万州北",
+      "奉节",
+      "巴东",
+      "兴山",
+      "保康县",
+      "南漳",
+      "襄阳东",
+      "南阳东",
+      "平顶山西",
+      "禹州",
+      "郑州东",
+      "兰考南",
+      "菏泽东",
+      "济宁北",
+      "蒙山",
+      "临沂北",
+      "莒南北",
+      "日照"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3355.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bf23db270290e04dfc9d720eaa1570ed057cf3af2f300723f4e3f81e0e6ce6bf",
+    "elapsedMinutes": [
+      0,
+      114,
+      149,
+      222,
+      262,
+      302,
+      322,
+      347,
+      368,
+      386,
+      427,
+      458,
+      482,
+      514,
+      552,
+      582,
+      613,
+      643,
+      665,
+      689,
+      718
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3356",
+    "category": "G",
+    "stopNames": [
+      "日照",
+      "莒南北",
+      "临沂北",
+      "费县北",
+      "蒙山",
+      "曲阜南",
+      "济宁东",
+      "菏泽东",
+      "兰考南",
+      "郑州东",
+      "郑州航空港",
+      "南阳东",
+      "襄阳东",
+      "兴山",
+      "万州北",
+      "重庆北",
+      "重庆西",
+      "永川南",
+      "泸州",
+      "富顺",
+      "自贡",
+      "天府机场",
+      "成都东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3356.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c9a6471bd242f0a50b3868464c2a48c3352b6b567b2263d2c1cd20338d1ace55",
+    "elapsedMinutes": [
+      0,
+      29,
+      45,
+      64,
+      79,
+      104,
+      118,
+      151,
+      181,
+      215,
+      235,
+      290,
+      328,
+      378,
+      450,
+      522,
+      555,
+      584,
+      605,
+      633,
+      645,
+      678,
+      708
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3357",
+    "category": "G",
+    "stopNames": [
+      "日照",
+      "莒南北",
+      "临沂北",
+      "费县北",
+      "蒙山",
+      "曲阜南",
+      "济宁东",
+      "菏泽东",
+      "兰考南",
+      "郑州东",
+      "郑州航空港",
+      "南阳东",
+      "襄阳东",
+      "兴山",
+      "万州北",
+      "重庆北",
+      "重庆西",
+      "永川南",
+      "泸州",
+      "富顺",
+      "自贡",
+      "天府机场",
+      "成都东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3357.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "002001e7dd41d357aff9891f4c26dc5577a61f686c8110dde53a1ba168af26de",
+    "elapsedMinutes": [
+      0,
+      29,
+      45,
+      64,
+      79,
+      104,
+      118,
+      151,
+      181,
+      215,
+      235,
+      290,
+      328,
+      378,
+      450,
+      522,
+      555,
+      584,
+      605,
+      633,
+      645,
+      678,
+      708
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3358",
+    "category": "G",
+    "stopNames": [
+      "成都东",
+      "重庆西",
+      "重庆北",
+      "万州北",
+      "奉节",
+      "巴东",
+      "兴山",
+      "保康县",
+      "南漳",
+      "襄阳东",
+      "南阳东",
+      "平顶山西",
+      "禹州",
+      "郑州东",
+      "兰考南",
+      "菏泽东",
+      "济宁北",
+      "蒙山",
+      "临沂北",
+      "莒南北",
+      "日照"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3358.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1a2b5359deb40987860a6b1f58ccb0c794a0cb779b4a3e883322fba8dd407067",
+    "elapsedMinutes": [
+      0,
+      114,
+      149,
+      222,
+      262,
+      302,
+      322,
+      347,
+      368,
+      386,
+      427,
+      458,
+      482,
+      514,
+      552,
+      582,
+      613,
+      643,
+      665,
+      689,
+      718
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4417",
+    "category": "G",
+    "stopNames": [
+      "日照",
+      "临沂北",
+      "济宁北",
+      "巨野北",
+      "菏泽东",
+      "兰考南",
+      "郑州东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4417.html",
+    "sourceUpdatedAt": "2026-07-24",
+    "sourceSha256": "de7c221fab731ff680d7bc920e963e90748b5ee863b653333498662f03a0a0f6",
+    "elapsedMinutes": [
+      0,
+      39,
+      85,
+      103,
+      128,
+      159,
+      197
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5281",
+    "category": "G",
+    "stopNames": [
+      "临沂北",
+      "费县北",
+      "蒙山",
+      "曲阜东",
+      "曲阜南",
+      "济宁北",
+      "嘉祥北",
+      "巨野北",
+      "菏泽东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5281.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "735bceaa617097e24b378a65822dbf94a1dd654919a338c3a1b4f1eab5feafd5",
+    "elapsedMinutes": [
+      0,
+      13,
+      27,
+      49,
+      80,
+      96,
+      108,
+      120,
+      140
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5288",
+    "category": "G",
+    "stopNames": [
+      "菏泽东",
+      "巨野北",
+      "嘉祥北",
+      "济宁北",
+      "曲阜东",
+      "临沂北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5288.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "53a77773d53a89d98f819b12af830a5aed06faa176e9264f868a7811e1b53497",
+    "elapsedMinutes": [
+      0,
+      17,
+      29,
+      43,
+      67,
+      121
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5290",
+    "category": "G",
+    "stopNames": [
+      "菏泽东",
+      "济宁北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5290.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ff725c887cc0f3ee5fac728169d864dc2d1754b602ba6124f7634f28f2e80ff2",
+    "elapsedMinutes": [
+      0,
+      28
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5531",
+    "category": "G",
+    "stopNames": [
+      "临沂北",
+      "费县北",
+      "蒙山",
+      "泗水南",
+      "曲阜东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5531.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a8622cba1c30789fc9531a985fec96ef5efd1fad4dd8f9e08f058cb1284f6fd6",
+    "elapsedMinutes": [
+      0,
+      13,
+      26,
+      41,
+      55
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5593",
+    "category": "G",
+    "stopNames": [
+      "临沂北",
+      "嘉祥北",
+      "菏泽东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5593.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1c150eefd86dcdec38b59d2d41ee7ef319221dba98854e6ce721c22e369ee8d2",
+    "elapsedMinutes": [
+      0,
+      47,
+      72
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1901",
+    "category": "K",
+    "stopNames": [
+      "北京丰台",
+      "任丘",
+      "衡水",
+      "聊城",
+      "菏泽",
+      "巨野",
+      "嘉祥",
+      "济宁",
+      "兖州",
+      "曲阜",
+      "平邑",
+      "费县",
+      "临沂",
+      "莒南",
+      "日照"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1901.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cb96f9e746c4ff314eee8fd54ee7175bb26e49231f20891bd3547c9f8c0fea64",
+    "elapsedMinutes": [
+      0,
+      91,
+      199,
+      303,
+      399,
+      470,
+      490,
+      510,
+      545,
+      584,
+      624,
+      653,
+      686,
+      728,
+      795
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1902",
+    "category": "K",
+    "stopNames": [
+      "日照",
+      "莒南",
+      "临沂",
+      "费县",
+      "平邑",
+      "泗水",
+      "曲阜",
+      "兖州",
+      "济宁",
+      "菏泽",
+      "台前",
+      "阳谷",
+      "聊城",
+      "临清",
+      "清河城",
+      "衡水",
+      "深州",
+      "任丘",
+      "霸州",
+      "北京丰台"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1902.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4384d58dfdd049509070528c354e1bf1dc4dc7d357261a63050e0384c303039e",
+    "elapsedMinutes": [
+      0,
+      50,
+      89,
+      121,
+      150,
+      177,
+      201,
+      233,
+      274,
+      348,
+      438,
+      459,
+      489,
+      533,
+      553,
+      608,
+      634,
+      687,
+      730,
+      798
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1903",
+    "category": "K",
+    "stopNames": [
+      "日照",
+      "莒南",
+      "临沂",
+      "费县",
+      "平邑",
+      "泗水",
+      "曲阜",
+      "兖州",
+      "济宁",
+      "菏泽",
+      "台前",
+      "阳谷",
+      "聊城",
+      "临清",
+      "清河城",
+      "衡水",
+      "深州",
+      "任丘",
+      "霸州",
+      "北京丰台"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1903.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "698ca31dffd0fab32011e4de0ea348ca22b0e5d45a1fbaf617961a4d0e78439c",
+    "elapsedMinutes": [
+      0,
+      50,
+      89,
+      121,
+      150,
+      177,
+      201,
+      233,
+      274,
+      348,
+      438,
+      459,
+      489,
+      533,
+      553,
+      608,
+      634,
+      687,
+      730,
+      798
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1904",
+    "category": "K",
+    "stopNames": [
+      "北京丰台",
+      "任丘",
+      "衡水",
+      "聊城",
+      "菏泽",
+      "巨野",
+      "嘉祥",
+      "济宁",
+      "兖州",
+      "曲阜",
+      "平邑",
+      "费县",
+      "临沂",
+      "莒南",
+      "日照"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1904.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "471ffdd83c5eae6a04ef5653f930362e549e3366dce8e683e7097c13b0f87683",
+    "elapsedMinutes": [
+      0,
+      91,
+      199,
+      303,
+      399,
+      470,
+      490,
+      510,
+      545,
+      584,
+      624,
+      653,
+      686,
+      728,
+      795
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K2155",
+    "category": "K",
+    "stopNames": [
+      "日照",
+      "莒南",
+      "临沂",
+      "费县",
+      "平邑",
+      "曲阜",
+      "兖州",
+      "济宁",
+      "嘉祥",
+      "菏泽",
+      "新乡",
+      "郑州",
+      "许昌"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k2155.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bd57e0eade5396dca327e462005847ca0cf5114f430e62fc3c8cc680c60778c2",
+    "elapsedMinutes": [
+      0,
+      52,
+      113,
+      147,
+      176,
+      225,
+      260,
+      289,
+      309,
+      369,
+      536,
+      647,
+      731
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K2156",
+    "category": "K",
+    "stopNames": [
+      "许昌",
+      "长葛",
+      "郑州",
+      "新乡",
+      "菏泽",
+      "兖州",
+      "临沂",
+      "日照"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k2156.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bcb29f76993d0d8bd7a7f5166107db8fe69350c1b793e3c90652b37f4194ad3b",
+    "elapsedMinutes": [
+      0,
+      15,
+      77,
+      147,
+      328,
+      436,
+      556,
+      652
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K2157",
+    "category": "K",
+    "stopNames": [
+      "许昌",
+      "长葛",
+      "郑州",
+      "新乡",
+      "菏泽",
+      "兖州",
+      "临沂",
+      "日照"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k2157.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d9cd9e7be2b3491fe0e8c44feb6b2560150d154937432225140184750a3532ba",
+    "elapsedMinutes": [
+      0,
+      15,
+      77,
+      147,
+      328,
+      436,
+      556,
+      652
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K2158",
+    "category": "K",
+    "stopNames": [
+      "日照",
+      "莒南",
+      "临沂",
+      "费县",
+      "平邑",
+      "曲阜",
+      "兖州",
+      "济宁",
+      "嘉祥",
+      "菏泽",
+      "新乡",
+      "郑州",
+      "许昌"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k2158.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "82d90ca103880935e10af185c3c399deb813677d4c69ef193e1f0a1a19b21cef",
+    "elapsedMinutes": [
+      0,
+      52,
+      113,
+      147,
+      176,
+      225,
+      260,
+      289,
+      309,
+      369,
+      536,
+      647,
+      731
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5512",
+    "category": "K",
+    "stopNames": [
+      "曹县",
+      "菏泽",
+      "巨野",
+      "嘉祥",
+      "济宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5512.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "0ab7255ff5b8de0502d5df8d78bfcdf5ecc286e545b430c93526f13da6a7494c",
+    "elapsedMinutes": [
+      0,
+      31,
+      75,
+      95,
+      115
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y232",
+    "category": "OTHER",
+    "stopNames": [
+      "曲阜",
+      "兖州",
+      "菏泽南",
+      "新乡",
+      "焦作"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y232.html",
+    "sourceUpdatedAt": "2026-04-12",
+    "sourceSha256": "302cc0237e97d9a8f31c531d43c5f529fd809f88ca0bd09cd4be817a8a72fb8e",
+    "elapsedMinutes": [
+      0,
+      84,
+      237,
+      476,
+      554
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y233",
+    "category": "OTHER",
+    "stopNames": [
+      "曲阜",
+      "兖州",
+      "菏泽南",
+      "新乡",
+      "焦作"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y233.html",
+    "sourceUpdatedAt": "2026-04-12",
+    "sourceSha256": "12ae7e6f9e6e7c648b6491cd78e30e1b3764ae31e249822b37efdb0e49a00967",
+    "elapsedMinutes": [
+      0,
+      84,
+      237,
+      476,
+      554
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z159",
+    "category": "Z",
+    "stopNames": [
+      "北京",
+      "天津西",
+      "沧州",
+      "泰山",
+      "兖州",
+      "临沂",
+      "莒南",
+      "日照西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z159.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f3f79eef939ae0a3885443669ebedc6fb1d6301f8415a775cf1c62bdec10af84",
+    "elapsedMinutes": [
+      0,
+      78,
+      137,
+      301,
+      354,
+      465,
+      506,
+      551
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z160",
+    "category": "Z",
+    "stopNames": [
+      "日照西",
+      "莒南",
+      "临沂",
+      "平邑",
+      "曲阜",
+      "兖州",
+      "泰山",
+      "沧州",
+      "天津西",
+      "北京"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z160.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "59b73015ea1bbf9978acd10271a3d9f227169ebb1385f542ba8f203713df03dc",
+    "elapsedMinutes": [
+      0,
+      43,
+      82,
+      137,
+      180,
+      212,
+      268,
+      424,
+      498,
+      593
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

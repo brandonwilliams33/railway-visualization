@@ -1,0 +1,54 @@
+[
+  {
+    "trainNumber": "8187",
+    "category": "OTHER",
+    "stopNames": [
+      "柴沟堡",
+      "天镇",
+      "阳高",
+      "大同东",
+      "大同"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/8187.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2784190086d93db39b4e16aadc6602d0eb7f467d027d19beb856c82cd8307cd1",
+    "elapsedMinutes": [
+      0,
+      59,
+      91,
+      154,
+      166
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "8188",
+    "category": "OTHER",
+    "stopNames": [
+      "大同",
+      "大同东",
+      "阳高",
+      "天镇",
+      "柴沟堡"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/8188.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "861f9a0e9c5ef4c4f9f95959e2fc70f80a9b6f11892dba2adfb54b0b676ebeab",
+    "elapsedMinutes": [
+      0,
+      8,
+      64,
+      94,
+      154
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

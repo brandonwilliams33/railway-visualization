@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "张家界",
+  "stationCount": 4,
+  "candidateServices": 345,
+  "acquiredAdditionalServices": 25,
+  "failedPages": [
+    {
+      "trainNumber": "K6598",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

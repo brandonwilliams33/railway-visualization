@@ -1,0 +1,12 @@
+{
+  "pausedCityIds": [
+    "guangdong-guangzhou"
+  ],
+  "reason": "User requested pause; Guangzhou catalogue is checkpointed but acquisition is incomplete. Preserve facts and resume explicitly before releasing origins.",
+  "checkpoint": {
+    "city": "广州",
+    "catalogueStations": 43,
+    "savedServiceFacts": 760,
+    "candidateServices": 2814
+  }
+}

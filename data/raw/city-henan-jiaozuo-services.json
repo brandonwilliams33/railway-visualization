@@ -1,0 +1,254 @@
+[
+  {
+    "trainNumber": "D3363",
+    "category": "D",
+    "stopNames": [
+      "太原南",
+      "晋城东",
+      "焦作"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d3363.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "842a428f21d6b55fa208a9c5c9f46dfe8b13d9a673bf0e46c581b2eb6db48a8d",
+    "elapsedMinutes": [
+      0,
+      86,
+      110
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D3370",
+    "category": "D",
+    "stopNames": [
+      "焦作",
+      "焦作西",
+      "晋城东",
+      "长治南",
+      "长治东",
+      "武乡",
+      "太谷东",
+      "晋中",
+      "太原南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d3370.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2c0b79c21b6ceef5e609ae803bd36654e1e1151fa7799df34f0dedae896b47ea",
+    "elapsedMinutes": [
+      0,
+      9,
+      36,
+      64,
+      76,
+      107,
+      133,
+      149,
+      166
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D3371",
+    "category": "D",
+    "stopNames": [
+      "太原南",
+      "晋中",
+      "太谷东",
+      "榆社西",
+      "襄垣东",
+      "长治东",
+      "高平东",
+      "晋城东",
+      "焦作西",
+      "焦作"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d3371.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6c9fbedaaab31e05461c0d0842da97b75ee85bd8c9fcfa8c45454c37d3f84d04",
+    "elapsedMinutes": [
+      0,
+      13,
+      30,
+      49,
+      79,
+      95,
+      119,
+      133,
+      152,
+      163
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D3374",
+    "category": "D",
+    "stopNames": [
+      "焦作",
+      "晋城东",
+      "高平东",
+      "长治东",
+      "襄垣东",
+      "武乡",
+      "太谷东",
+      "太原南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d3374.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "be8b8812d12dba3d3b18e3b444e02f821f2686705c719e14d0ba8e023d6beb3e",
+    "elapsedMinutes": [
+      0,
+      22,
+      36,
+      62,
+      79,
+      100,
+      135,
+      161
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D3375",
+    "category": "D",
+    "stopNames": [
+      "太原南",
+      "榆社西",
+      "武乡",
+      "襄垣东",
+      "晋城东",
+      "焦作西",
+      "焦作"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d3375.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b94a7d9087bf8a40b38e27594a43b1aa763bbc5204a34e0c6cf0cf4b67a365ed",
+    "elapsedMinutes": [
+      0,
+      33,
+      50,
+      71,
+      113,
+      131,
+      142
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D3381",
+    "category": "D",
+    "stopNames": [
+      "太原南",
+      "榆社西",
+      "武乡",
+      "襄垣东",
+      "长治东",
+      "晋城东",
+      "焦作"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d3381.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e95019944a13c46fbfb7095afc4e6ba6814897cf551188d1e39d512750a21e82",
+    "elapsedMinutes": [
+      0,
+      33,
+      49,
+      70,
+      86,
+      116,
+      140
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D3382",
+    "category": "D",
+    "stopNames": [
+      "焦作",
+      "焦作西",
+      "晋城东",
+      "长治东",
+      "武乡",
+      "晋中",
+      "太原南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d3382.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ab3ad1aa4274d7254d1da2fe21fa47c7aa7b7a6f1b6821a11c319ebd7afe3431",
+    "elapsedMinutes": [
+      0,
+      9,
+      28,
+      61,
+      92,
+      127,
+      152
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D3388",
+    "category": "D",
+    "stopNames": [
+      "焦作",
+      "焦作西",
+      "晋城东",
+      "长治南",
+      "长治东",
+      "襄垣东",
+      "武乡",
+      "榆社西",
+      "太谷东",
+      "晋中",
+      "太原南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d3388.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "905b0773a15b6563dbcd7347c4d3cbe37871d6000e4e204641375e5ffc744bda",
+    "elapsedMinutes": [
+      0,
+      9,
+      28,
+      54,
+      66,
+      83,
+      104,
+      121,
+      139,
+      155,
+      172
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

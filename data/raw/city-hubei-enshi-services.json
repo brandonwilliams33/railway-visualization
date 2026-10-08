@@ -1,0 +1,1606 @@
+[
+  {
+    "trainNumber": "C5090",
+    "category": "C",
+    "stopNames": [
+      "利川",
+      "恩施"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c5090.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "b8e07c2a01389c6084b40add425fa03b116158d2a4512d67e9ea587f837fcb7f",
+    "elapsedMinutes": [
+      0,
+      39
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8895",
+    "category": "C",
+    "stopNames": [
+      "长沙南",
+      "韶山南",
+      "邵阳北",
+      "怀化南",
+      "麻阳西",
+      "凤凰古城",
+      "吉首东",
+      "芙蓉镇",
+      "张家界西",
+      "来凤",
+      "咸丰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8895.html",
+    "sourceUpdatedAt": "2026-07-18",
+    "sourceSha256": "ec513d67db78d29684d52e22e05fb92b2a2afcc85abf1e7ee15e2fcb3780ee9c",
+    "elapsedMinutes": [
+      0,
+      23,
+      53,
+      96,
+      123,
+      135,
+      148,
+      172,
+      197,
+      259,
+      275
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8896",
+    "category": "C",
+    "stopNames": [
+      "咸丰",
+      "来凤",
+      "张家界西",
+      "芙蓉镇",
+      "吉首东",
+      "凤凰古城",
+      "麻阳西",
+      "怀化南",
+      "娄底南",
+      "湘潭北",
+      "长沙南",
+      "岳阳东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8896.html",
+    "sourceUpdatedAt": "2026-07-18",
+    "sourceSha256": "8996cca465de406d31ff0535a1be8eaebf9767e9ffc0b5c16eb451c9ec3f3c9a",
+    "elapsedMinutes": [
+      0,
+      13,
+      59,
+      101,
+      131,
+      143,
+      156,
+      179,
+      234,
+      262,
+      277,
+      315
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8897",
+    "category": "C",
+    "stopNames": [
+      "咸丰",
+      "来凤",
+      "张家界西",
+      "芙蓉镇",
+      "吉首东",
+      "凤凰古城",
+      "麻阳西",
+      "怀化南",
+      "娄底南",
+      "湘潭北",
+      "长沙南",
+      "岳阳东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8897.html",
+    "sourceUpdatedAt": "2026-07-18",
+    "sourceSha256": "965a4964de06a70f4f84d552a7eac6ec27ff464391ee2887e3dadc050f8ad38c",
+    "elapsedMinutes": [
+      0,
+      13,
+      59,
+      101,
+      131,
+      143,
+      156,
+      179,
+      234,
+      262,
+      277,
+      315
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8898",
+    "category": "C",
+    "stopNames": [
+      "长沙南",
+      "韶山南",
+      "邵阳北",
+      "怀化南",
+      "麻阳西",
+      "凤凰古城",
+      "吉首东",
+      "芙蓉镇",
+      "张家界西",
+      "来凤",
+      "咸丰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8898.html",
+    "sourceUpdatedAt": "2026-07-18",
+    "sourceSha256": "0b4d66755f5e08d163b9f0f1bdc0e7d9b629f8b91625cabc370eda45eb822c7a",
+    "elapsedMinutes": [
+      0,
+      23,
+      53,
+      96,
+      123,
+      135,
+      148,
+      172,
+      197,
+      259,
+      275
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D3969",
+    "category": "D",
+    "stopNames": [
+      "重庆东",
+      "武隆南",
+      "彭水西",
+      "黔江",
+      "咸丰",
+      "来凤",
+      "张家界西",
+      "吉首东",
+      "凤凰古城",
+      "怀化南",
+      "洞口",
+      "隆回",
+      "邵阳",
+      "邵东",
+      "衡阳东",
+      "祁东",
+      "祁阳",
+      "永州",
+      "全州南",
+      "桂林北",
+      "永福南",
+      "鹿寨北",
+      "柳州",
+      "南宁东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d3969.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9f522888d22495377692126ebc9fe25162748fd3b99639d0a2a4968f12c8dc9e",
+    "elapsedMinutes": [
+      0,
+      45,
+      60,
+      92,
+      115,
+      131,
+      178,
+      242,
+      255,
+      282,
+      318,
+      338,
+      360,
+      376,
+      426,
+      458,
+      474,
+      499,
+      537,
+      581,
+      611,
+      634,
+      668,
+      736
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D3970",
+    "category": "D",
+    "stopNames": [
+      "南宁东",
+      "来宾北",
+      "柳州",
+      "桂林",
+      "桂林北",
+      "全州南",
+      "东安东",
+      "永州",
+      "祁阳",
+      "祁东",
+      "衡阳东",
+      "西渡",
+      "邵东",
+      "邵阳",
+      "隆回",
+      "洞口",
+      "怀化南",
+      "麻阳西",
+      "凤凰古城",
+      "吉首东",
+      "古丈西",
+      "张家界西",
+      "桑植",
+      "龙山北",
+      "咸丰",
+      "武隆南",
+      "水江西",
+      "重庆东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d3970.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0006de4ab49d598faf49166e83793654434b06a2d14c7229d589c8918b13edd6",
+    "elapsedMinutes": [
+      0,
+      41,
+      74,
+      138,
+      150,
+      194,
+      219,
+      236,
+      256,
+      272,
+      303,
+      334,
+      364,
+      381,
+      403,
+      423,
+      456,
+      482,
+      495,
+      507,
+      526,
+      560,
+      598,
+      625,
+      645,
+      696,
+      719,
+      748
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9791",
+    "category": "D",
+    "stopNames": [
+      "咸丰",
+      "龙山北",
+      "张家界西",
+      "芙蓉镇",
+      "吉首东",
+      "凤凰古城",
+      "怀化南",
+      "隆回",
+      "邵阳",
+      "衡阳东",
+      "广州南",
+      "虎门",
+      "深圳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9791.html",
+    "sourceUpdatedAt": "2026-08-26",
+    "sourceSha256": "672e06b7bca8f5c6c11c9f8191449c3d9492ba67618049968eb9316d2c5c8a64",
+    "elapsedMinutes": [
+      0,
+      23,
+      70,
+      114,
+      139,
+      152,
+      179,
+      228,
+      250,
+      310,
+      814,
+      834,
+      855
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9792",
+    "category": "D",
+    "stopNames": [
+      "深圳北",
+      "虎门",
+      "广州南",
+      "衡阳东",
+      "凤凰古城",
+      "吉首东",
+      "芙蓉镇",
+      "张家界西",
+      "龙山北",
+      "咸丰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9792.html",
+    "sourceUpdatedAt": "2026-08-24",
+    "sourceSha256": "64de355b848409e89c94f1f35b6a1ab353fb0159be9e5400db38a4c5b5d05ac5",
+    "elapsedMinutes": [
+      0,
+      18,
+      39,
+      167,
+      621,
+      633,
+      658,
+      686,
+      743,
+      764
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2417",
+    "category": "G",
+    "stopNames": [
+      "成都东",
+      "内江北",
+      "重庆西",
+      "重庆东",
+      "南川北",
+      "武隆南",
+      "彭水西",
+      "咸丰",
+      "来凤",
+      "龙山北",
+      "张家界西",
+      "吉首东",
+      "凤凰古城",
+      "怀化南",
+      "洞口",
+      "隆回",
+      "邵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2417.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ca4246f21fa4b69b5f912fef98e8d17d9e9db1f1f7ecab8844d288c88f6d1156",
+    "elapsedMinutes": [
+      0,
+      39,
+      83,
+      129,
+      171,
+      196,
+      211,
+      250,
+      267,
+      278,
+      323,
+      380,
+      392,
+      419,
+      453,
+      473,
+      496
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2425",
+    "category": "G",
+    "stopNames": [
+      "重庆东",
+      "水江西",
+      "武隆南",
+      "咸丰",
+      "来凤",
+      "龙山北",
+      "桑植",
+      "张家界西",
+      "常德",
+      "益阳南",
+      "长沙"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2425.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "64501edef907d1babf3757c52b685ed64ff4d82e23eadbf613d43a21084f1d47",
+    "elapsedMinutes": [
+      0,
+      25,
+      45,
+      94,
+      111,
+      122,
+      150,
+      171,
+      226,
+      253,
+      287
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2432",
+    "category": "G",
+    "stopNames": [
+      "长沙",
+      "益阳南",
+      "常德",
+      "张家界西",
+      "来凤",
+      "咸丰",
+      "彭水西",
+      "水江西",
+      "巴南",
+      "重庆东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2432.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b79cac08d55a5037ee69d887ae085938bbb0cc76722dc41d7adebc66915fa108",
+    "elapsedMinutes": [
+      0,
+      32,
+      60,
+      113,
+      162,
+      179,
+      217,
+      244,
+      265,
+      279
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2434",
+    "category": "G",
+    "stopNames": [
+      "长沙",
+      "益阳南",
+      "常德",
+      "桃源",
+      "张家界西",
+      "桑植",
+      "龙山北",
+      "咸丰",
+      "黔江",
+      "水江西",
+      "南川北",
+      "巴南",
+      "重庆东",
+      "重庆西",
+      "重庆北",
+      "万州北",
+      "云阳",
+      "奉节",
+      "巫山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2434.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "248fc1a4f32c2197148683d8da631bc8ce23d41785d293ee326362fe1546c6d4",
+    "elapsedMinutes": [
+      0,
+      33,
+      64,
+      83,
+      123,
+      145,
+      173,
+      195,
+      216,
+      259,
+      270,
+      286,
+      300,
+      357,
+      391,
+      467,
+      484,
+      505,
+      526
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2435",
+    "category": "G",
+    "stopNames": [
+      "重庆东",
+      "水江西",
+      "彭水西",
+      "咸丰",
+      "来凤",
+      "桑植",
+      "张家界西",
+      "桃源",
+      "常德",
+      "益阳南",
+      "长沙"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2435.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8c51d49db70855df9103aa498c993fee02ef02570186f6b75df1de1118c22ad2",
+    "elapsedMinutes": [
+      0,
+      25,
+      52,
+      93,
+      112,
+      146,
+      168,
+      215,
+      234,
+      262,
+      298
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2438",
+    "category": "G",
+    "stopNames": [
+      "长沙",
+      "益阳南",
+      "常德",
+      "张家界西",
+      "桑植",
+      "咸丰",
+      "黔江",
+      "南川北",
+      "重庆东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2438.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8768a2ae607c63465996af80af3574ef70684eced26e0add781fc16843dcc55f",
+    "elapsedMinutes": [
+      0,
+      32,
+      59,
+      115,
+      137,
+      186,
+      207,
+      256,
+      282
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2441",
+    "category": "G",
+    "stopNames": [
+      "重庆东",
+      "水江西",
+      "咸丰",
+      "来凤",
+      "龙山北",
+      "桑植",
+      "张家界西",
+      "常德",
+      "长沙"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2441.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b821960b008da04bcb33dcd2b20bfd378e1b42bdfcdb4d32d206b4f7ef63c488",
+    "elapsedMinutes": [
+      0,
+      25,
+      83,
+      100,
+      111,
+      139,
+      160,
+      217,
+      271
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2448",
+    "category": "G",
+    "stopNames": [
+      "长沙",
+      "汉寿",
+      "常德",
+      "张家界西",
+      "来凤",
+      "武隆南",
+      "水江西",
+      "重庆东",
+      "重庆西",
+      "成都东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2448.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7bb0a49325391108fc64d42cecda791288009a16bf3aa1b43938c4721e875046",
+    "elapsedMinutes": [
+      0,
+      45,
+      61,
+      113,
+      162,
+      218,
+      239,
+      266,
+      325,
+      406
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2451",
+    "category": "G",
+    "stopNames": [
+      "成都东",
+      "重庆西",
+      "重庆东",
+      "南川北",
+      "彭水西",
+      "咸丰",
+      "来凤",
+      "桑植",
+      "张家界西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2451.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "625e3c12b29f9a8b7869c7f42b44764c037e41a299d64a3131776b42d2ed23db",
+    "elapsedMinutes": [
+      0,
+      75,
+      122,
+      163,
+      195,
+      233,
+      250,
+      282,
+      303
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3449",
+    "category": "G",
+    "stopNames": [
+      "巴东",
+      "万州北",
+      "重庆北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3449.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9cd3b2cc999fc54fc95f39b9560da2f3a23a630093da27050eb3acb8b146bc26",
+    "elapsedMinutes": [
+      0,
+      53,
+      127
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3450",
+    "category": "G",
+    "stopNames": [
+      "重庆北",
+      "万州北",
+      "奉节",
+      "巴东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3450.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e0642dc2da701c5d2ea3d73094dcb24ab097bddd25def7b0d658a21686b1963c",
+    "elapsedMinutes": [
+      0,
+      69,
+      106,
+      143
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3763",
+    "category": "G",
+    "stopNames": [
+      "西安北",
+      "佛坪",
+      "城固北",
+      "汉中",
+      "广元",
+      "江油",
+      "绵阳",
+      "德阳",
+      "成都东",
+      "重庆北",
+      "江北机场",
+      "统景",
+      "重庆东",
+      "武隆南",
+      "黔江",
+      "咸丰",
+      "龙山北",
+      "张家界西",
+      "常德",
+      "益阳南",
+      "长沙"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3763.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4ae45b7dd242a2acd74835993e5bc47c84720e63049a8b383549de09038a8b05",
+    "elapsedMinutes": [
+      0,
+      42,
+      68,
+      82,
+      127,
+      171,
+      194,
+      213,
+      241,
+      332,
+      355,
+      373,
+      407,
+      454,
+      488,
+      510,
+      530,
+      573,
+      633,
+      660,
+      694
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3764",
+    "category": "G",
+    "stopNames": [
+      "长沙",
+      "益阳南",
+      "常德",
+      "张家界西",
+      "桑植",
+      "龙山北",
+      "来凤",
+      "黔江",
+      "彭水西",
+      "武隆南",
+      "南川北",
+      "重庆东",
+      "江北机场",
+      "重庆北",
+      "荣昌北",
+      "内江北",
+      "成都东",
+      "德阳",
+      "绵阳",
+      "江油",
+      "剑门关",
+      "广元",
+      "汉中",
+      "西安西",
+      "西安北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3764.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "da40cd20bd73140ddbbb4923f60b630886160574ef1e507185c25139ae1910e5",
+    "elapsedMinutes": [
+      0,
+      32,
+      60,
+      113,
+      135,
+      163,
+      174,
+      206,
+      229,
+      242,
+      267,
+      291,
+      341,
+      357,
+      402,
+      421,
+      464,
+      492,
+      511,
+      530,
+      562,
+      579,
+      627,
+      691,
+      706
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3765",
+    "category": "G",
+    "stopNames": [
+      "长沙",
+      "益阳南",
+      "常德",
+      "张家界西",
+      "桑植",
+      "龙山北",
+      "来凤",
+      "黔江",
+      "彭水西",
+      "武隆南",
+      "南川北",
+      "重庆东",
+      "江北机场",
+      "重庆北",
+      "荣昌北",
+      "内江北",
+      "成都东",
+      "德阳",
+      "绵阳",
+      "江油",
+      "剑门关",
+      "广元",
+      "汉中",
+      "西安西",
+      "西安北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3765.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "26b2e1f9376d27fda3cb0bd748e2e281216ef22412f75c5eb4e54791db59f576",
+    "elapsedMinutes": [
+      0,
+      32,
+      60,
+      113,
+      135,
+      163,
+      174,
+      206,
+      229,
+      242,
+      267,
+      291,
+      341,
+      357,
+      402,
+      421,
+      464,
+      492,
+      511,
+      530,
+      562,
+      579,
+      627,
+      691,
+      706
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3766",
+    "category": "G",
+    "stopNames": [
+      "西安北",
+      "佛坪",
+      "城固北",
+      "汉中",
+      "广元",
+      "江油",
+      "绵阳",
+      "德阳",
+      "成都东",
+      "重庆北",
+      "江北机场",
+      "统景",
+      "重庆东",
+      "武隆南",
+      "黔江",
+      "咸丰",
+      "龙山北",
+      "张家界西",
+      "常德",
+      "益阳南",
+      "长沙"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3766.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7bf27b73c1ae47e1e4b8cba08c07b1b2243f5c572a7b8445b1eaa3860fff6ddf",
+    "elapsedMinutes": [
+      0,
+      42,
+      68,
+      82,
+      127,
+      171,
+      194,
+      213,
+      241,
+      332,
+      355,
+      373,
+      407,
+      454,
+      488,
+      510,
+      530,
+      573,
+      633,
+      660,
+      694
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3869",
+    "category": "G",
+    "stopNames": [
+      "重庆东",
+      "彭水西",
+      "黔江",
+      "来凤",
+      "张家界西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3869.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a36a7022669012d1c74c353c9dfee666e1d98a7296999308042b9ffbaf5e6bb4",
+    "elapsedMinutes": [
+      0,
+      45,
+      69,
+      102,
+      149
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3870",
+    "category": "G",
+    "stopNames": [
+      "张家界西",
+      "龙山北",
+      "咸丰",
+      "彭水西",
+      "武隆南",
+      "南川北",
+      "重庆东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3870.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9173326a89561c0cd16386f334104c88f23d61bad8fbb8534f74c50d629f2cf8",
+    "elapsedMinutes": [
+      0,
+      40,
+      61,
+      99,
+      118,
+      144,
+      166
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G3957",
+    "category": "G",
+    "stopNames": [
+      "重庆东",
+      "水江西",
+      "彭水西",
+      "咸丰",
+      "来凤",
+      "龙山北",
+      "桑植",
+      "张家界西",
+      "常德",
+      "益阳南",
+      "长沙"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g3957.html",
+    "sourceUpdatedAt": "2026-02-20",
+    "sourceSha256": "abe457a887414357bef49c5d6f1c5c1a8311489efab7129949bdf012df829553",
+    "elapsedMinutes": [
+      0,
+      25,
+      54,
+      94,
+      111,
+      122,
+      150,
+      171,
+      226,
+      253,
+      287
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4439",
+    "category": "G",
+    "stopNames": [
+      "重庆西",
+      "遵义",
+      "贵阳北",
+      "重庆北",
+      "昆明南",
+      "万州北",
+      "巫山",
+      "巴东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4439.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "1f3257d9b11fa116fd208200e9d33d5fbc6ae199c8d478ef86437a623967bee0",
+    "elapsedMinutes": [
+      0,
+      79,
+      126,
+      95,
+      276,
+      170,
+      216,
+      256
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4,
+        6
+      ]
+    }
+  },
+  {
+    "trainNumber": "G4442",
+    "category": "G",
+    "stopNames": [
+      "重庆西",
+      "遵义",
+      "贵阳北",
+      "重庆北",
+      "昆明南",
+      "万州北",
+      "巫山",
+      "巴东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4442.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "15a59aab68525156300677ba72c042d641c648e5675f8f3dfc21e9c338cce38a",
+    "elapsedMinutes": [
+      0,
+      79,
+      126,
+      95,
+      276,
+      170,
+      216,
+      256
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4,
+        6
+      ]
+    }
+  },
+  {
+    "trainNumber": "G4601",
+    "category": "G",
+    "stopNames": [
+      "重庆东",
+      "南川北",
+      "武隆南",
+      "黔江",
+      "咸丰",
+      "来凤",
+      "张家界西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4601.html",
+    "sourceUpdatedAt": "2026-05-06",
+    "sourceSha256": "f3fc41e2fe9d250b1716f5f4fb36b6be0ada26d2763816153698e271d543392f",
+    "elapsedMinutes": [
+      0,
+      21,
+      46,
+      77,
+      99,
+      121,
+      169
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4602",
+    "category": "G",
+    "stopNames": [
+      "张家界西",
+      "龙山北",
+      "来凤",
+      "咸丰",
+      "黔江",
+      "彭水西",
+      "武隆南",
+      "南川北",
+      "重庆东",
+      "重庆西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4602.html",
+    "sourceUpdatedAt": "2026-05-06",
+    "sourceSha256": "f4ee3c3978314ae634596de6362b1ad88a0e2c4cfd61343e429b3fa6c4b0f15a",
+    "elapsedMinutes": [
+      0,
+      40,
+      51,
+      68,
+      89,
+      112,
+      126,
+      151,
+      175,
+      234
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4852",
+    "category": "G",
+    "stopNames": [
+      "长沙",
+      "谷山",
+      "益阳南",
+      "常德",
+      "张家界西",
+      "桑植",
+      "来凤",
+      "武隆南",
+      "重庆东",
+      "重庆西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4852.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "df709d2207e3fadd5190d5cf944999d7f82ab618aeffa5033b6783d541e787cd",
+    "elapsedMinutes": [
+      0,
+      8,
+      36,
+      63,
+      117,
+      139,
+      171,
+      227,
+      267,
+      332
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4946",
+    "category": "G",
+    "stopNames": [
+      "张家界西",
+      "龙山北",
+      "来凤",
+      "咸丰",
+      "黔江",
+      "彭水西",
+      "重庆东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4946.html",
+    "sourceUpdatedAt": "2026-08-12",
+    "sourceSha256": "4c6281233b406c5e7b7637af603d2a18d7b97359fec65b8593008b836ea81fd3",
+    "elapsedMinutes": [
+      0,
+      39,
+      50,
+      67,
+      89,
+      113,
+      159
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4947",
+    "category": "G",
+    "stopNames": [
+      "重庆东",
+      "南川北",
+      "武隆南",
+      "黔江",
+      "咸丰",
+      "来凤",
+      "张家界西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4947.html",
+    "sourceUpdatedAt": "2026-08-12",
+    "sourceSha256": "e70d13b5891349677d1344db50d13e9e04a964afbd44060708889244a58b95b4",
+    "elapsedMinutes": [
+      0,
+      21,
+      45,
+      75,
+      97,
+      114,
+      162
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4948",
+    "category": "G",
+    "stopNames": [
+      "张家界西",
+      "桑植",
+      "来凤",
+      "咸丰",
+      "黔江",
+      "南川北",
+      "重庆东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4948.html",
+    "sourceUpdatedAt": "2026-08-12",
+    "sourceSha256": "21ba3e2d3fcf29d34ca746c650e8e9f3276d0ec29794d22ff357bdf873fe4043",
+    "elapsedMinutes": [
+      0,
+      18,
+      50,
+      67,
+      89,
+      136,
+      158
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4949",
+    "category": "G",
+    "stopNames": [
+      "重庆东",
+      "武隆南",
+      "黔江",
+      "咸丰",
+      "龙山北",
+      "张家界西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4949.html",
+    "sourceUpdatedAt": "2026-08-12",
+    "sourceSha256": "8011e758ba6c0712b0d181796d29b6c34d15725308556399bfab4c6bac206b2d",
+    "elapsedMinutes": [
+      0,
+      38,
+      68,
+      90,
+      111,
+      154
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4950",
+    "category": "G",
+    "stopNames": [
+      "张家界西",
+      "龙山北",
+      "咸丰",
+      "黔江",
+      "重庆东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4950.html",
+    "sourceUpdatedAt": "2026-08-12",
+    "sourceSha256": "5a09197d47a4305a66b59d4197863148664a3fdddcde077e18fcc8fa4413dc93",
+    "elapsedMinutes": [
+      0,
+      39,
+      61,
+      83,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9671",
+    "category": "G",
+    "stopNames": [
+      "长沙南",
+      "韶山南",
+      "邵阳北",
+      "怀化南",
+      "麻阳西",
+      "凤凰古城",
+      "吉首东",
+      "芙蓉镇",
+      "张家界西",
+      "来凤",
+      "咸丰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9671.html",
+    "sourceUpdatedAt": "2026-08-01",
+    "sourceSha256": "2b9a4981bf22e8f68fa28ad2c703243cbe4806555da3c90f203c45eefc2f0264",
+    "elapsedMinutes": [
+      0,
+      23,
+      53,
+      96,
+      123,
+      135,
+      148,
+      172,
+      197,
+      259,
+      275
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9672",
+    "category": "G",
+    "stopNames": [
+      "咸丰",
+      "来凤",
+      "张家界西",
+      "芙蓉镇",
+      "吉首东",
+      "凤凰古城",
+      "麻阳西",
+      "怀化南",
+      "娄底南",
+      "湘潭北",
+      "长沙南",
+      "岳阳东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9672.html",
+    "sourceUpdatedAt": "2026-08-01",
+    "sourceSha256": "d93668b651d686fe3313a6c805a3caf61fce9291d5041affbf1878e81ce95a90",
+    "elapsedMinutes": [
+      0,
+      13,
+      59,
+      101,
+      131,
+      143,
+      156,
+      179,
+      234,
+      262,
+      277,
+      315
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9673",
+    "category": "G",
+    "stopNames": [
+      "咸丰",
+      "来凤",
+      "张家界西",
+      "芙蓉镇",
+      "吉首东",
+      "凤凰古城",
+      "麻阳西",
+      "怀化南",
+      "娄底南",
+      "湘潭北",
+      "长沙南",
+      "岳阳东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9673.html",
+    "sourceUpdatedAt": "2026-08-01",
+    "sourceSha256": "6d464cef3ab0d622a583385c36e4295ab53b4b009a44feb4617a086efc1e3f74",
+    "elapsedMinutes": [
+      0,
+      13,
+      59,
+      101,
+      131,
+      143,
+      156,
+      179,
+      234,
+      262,
+      277,
+      315
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9674",
+    "category": "G",
+    "stopNames": [
+      "长沙南",
+      "韶山南",
+      "邵阳北",
+      "怀化南",
+      "麻阳西",
+      "凤凰古城",
+      "吉首东",
+      "芙蓉镇",
+      "张家界西",
+      "来凤",
+      "咸丰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9674.html",
+    "sourceUpdatedAt": "2026-08-01",
+    "sourceSha256": "90e1e5b6974db4685406743fc5b77eb05f573145ec42b1cb983518dfcfc2fb66",
+    "elapsedMinutes": [
+      0,
+      23,
+      53,
+      96,
+      123,
+      135,
+      148,
+      172,
+      197,
+      259,
+      275
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

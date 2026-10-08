@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "湘潭",
+  "stationCount": 8,
+  "candidateServices": 539,
+  "acquiredAdditionalServices": 38,
+  "failedPages": [
+    {
+      "trainNumber": "Y132",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

@@ -1,0 +1,12 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "唐山",
+  "stationCount": 15,
+  "candidateServices": 646,
+  "acquiredAdditionalServices": 14,
+  "failedPages": [],
+  "stationIssues": [
+    "唐山南",
+    "古冶"
+  ]
+}

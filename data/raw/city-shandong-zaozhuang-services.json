@@ -1,0 +1,366 @@
+[
+  {
+    "trainNumber": "5005",
+    "category": "OTHER",
+    "stopNames": [
+      "枣庄西",
+      "枣庄东",
+      "兰陵北",
+      "临沂"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5005.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5c170adf3f5963631a8a57f5d2e9697d9403d48191551d20607704cc85abc2f8",
+    "elapsedMinutes": [
+      0,
+      29,
+      67,
+      107
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5006",
+    "category": "OTHER",
+    "stopNames": [
+      "临沂",
+      "兰陵北",
+      "枣庄东",
+      "枣庄西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5006.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e9f1726db620bd324df0bb832cae7613da5cb3666cb18c6ebd13570a963ceb9d",
+    "elapsedMinutes": [
+      0,
+      36,
+      75,
+      114
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5007",
+    "category": "OTHER",
+    "stopNames": [
+      "枣庄西",
+      "枣庄东",
+      "兰陵北",
+      "临沂",
+      "莒南",
+      "日照"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5007.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4d4fe02978024f913f15bd68f9f4408319e1989f45918694f6be3a6f4d69d663",
+    "elapsedMinutes": [
+      0,
+      29,
+      68,
+      106,
+      144,
+      197
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5008",
+    "category": "OTHER",
+    "stopNames": [
+      "日照",
+      "莒南",
+      "临沂",
+      "兰陵北",
+      "枣庄东",
+      "枣庄西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5008.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "490a5d7079678adc0d0fc322505c54b87af86d8dc8449fb803ed78b29d4104c8",
+    "elapsedMinutes": [
+      0,
+      50,
+      85,
+      126,
+      164,
+      196
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5036",
+    "category": "OTHER",
+    "stopNames": [
+      "枣庄西",
+      "滕州",
+      "邹城",
+      "兖州",
+      "临沂",
+      "烟台"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5036.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8d985c2fc988b16f4a816ad2d47c6a1f056c086738423d292bed14eee31b51d0",
+    "elapsedMinutes": [
+      0,
+      22,
+      54,
+      73,
+      212,
+      540
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5037",
+    "category": "OTHER",
+    "stopNames": [
+      "枣庄西",
+      "滕州",
+      "邹城",
+      "兖州",
+      "临沂",
+      "烟台"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5037.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3c81fbd2411f2313d5fb45105e2beba2438054502332d48a9a1950efa79df482",
+    "elapsedMinutes": [
+      0,
+      22,
+      54,
+      73,
+      212,
+      540
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8255",
+    "category": "K",
+    "stopNames": [
+      "枣庄西",
+      "滕州",
+      "邹城",
+      "兖州",
+      "济宁",
+      "嘉祥",
+      "巨野",
+      "菏泽"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8255.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "127415e2c2371b4150b1088b1a9e417269c58f529a1ae38f08adb63c2644b925",
+    "elapsedMinutes": [
+      0,
+      22,
+      55,
+      74,
+      105,
+      125,
+      144,
+      189
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8256",
+    "category": "K",
+    "stopNames": [
+      "菏泽",
+      "巨野",
+      "嘉祥",
+      "济宁",
+      "兖州",
+      "邹城",
+      "滕州",
+      "枣庄西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8256.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "350a9367fadab718fb21cb238d847f0fd4d9778fb1645f1a58ac34f6b5842f99",
+    "elapsedMinutes": [
+      0,
+      38,
+      59,
+      79,
+      157,
+      179,
+      208,
+      233
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8257",
+    "category": "K",
+    "stopNames": [
+      "菏泽",
+      "巨野",
+      "嘉祥",
+      "济宁",
+      "兖州",
+      "邹城",
+      "滕州",
+      "枣庄西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8257.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3af2e914a6dd7dabf4198e325f4e4dbe29b812e4ac6dd7a4cc136d48e9c8c990",
+    "elapsedMinutes": [
+      0,
+      38,
+      59,
+      79,
+      157,
+      179,
+      208,
+      233
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8258",
+    "category": "K",
+    "stopNames": [
+      "枣庄西",
+      "滕州",
+      "邹城",
+      "兖州",
+      "济宁",
+      "嘉祥",
+      "巨野",
+      "菏泽"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8258.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "88dcf5dcc3de7d5c147fa51997fdbde40d8a1ff2e08365e1983aa280ca273eff",
+    "elapsedMinutes": [
+      0,
+      22,
+      55,
+      74,
+      105,
+      125,
+      144,
+      189
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y877",
+    "category": "OTHER",
+    "stopNames": [
+      "枣庄西",
+      "临沂",
+      "桃村",
+      "威海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y877.html",
+    "sourceUpdatedAt": "2026-08-27",
+    "sourceSha256": "42ed729e727348278a5a37749e6ba0c865185d4bed4b9d70db09e88fbcc6101c",
+    "elapsedMinutes": [
+      0,
+      113,
+      455,
+      645
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y878",
+    "category": "OTHER",
+    "stopNames": [
+      "威海",
+      "桃村",
+      "临沂",
+      "丽江",
+      "枣庄西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y878.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "ce112acd983e5d9bca3f9e6ab0b22143d53e09521e3a7d874fce7f8d3dcfc348",
+    "elapsedMinutes": [
+      0,
+      148,
+      554,
+      718,
+      733
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y879",
+    "category": "OTHER",
+    "stopNames": [
+      "威海",
+      "桃村",
+      "临沂",
+      "丽江",
+      "枣庄西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y879.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "b51b97b71b010c14890258d0ff34da52034944c10ebdde728472142987845add",
+    "elapsedMinutes": [
+      0,
+      148,
+      554,
+      718,
+      733
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

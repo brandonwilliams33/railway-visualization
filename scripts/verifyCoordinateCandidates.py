@@ -18,7 +18,7 @@ def verify(path,names):
    hits=[]
    for node in doc.findall('node'):
     tags={t.get('k'):t.get('v') for t in node.findall('tag')}
-    if tags.get('railway') not in ('station','halt'):continue
+    if tags.get('railway') not in ('station','halt') or tags.get('station') in ('subway','light_rail') or tags.get('subway')=='yes':continue
     labels=[tags.get(k,'').removesuffix('站') for k in ('name','name:zh','name:zh-Hans')]
     if chinese not in labels:continue
     hits.append({'type':'node','id':int(node.get('id')),'lon':float(node.get('lon')),'lat':float(node.get('lat')),'tags':tags})

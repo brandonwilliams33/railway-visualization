@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "抚州",
+  "stationCount": 6,
+  "candidateServices": 264,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "资溪"
+  ]
+}

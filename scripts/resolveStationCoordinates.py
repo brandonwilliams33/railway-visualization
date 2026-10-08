@@ -46,6 +46,7 @@ def resolve(csv_path,admin_path,osm_path,fetch_osm=False):
             name=fact['name'];coord=[fact['coordinate']['longitude'],fact['coordinate']['latitude']]
             province=province_at(coord)
             if name in by_name or not province or fact['coordinate'].get('precision',1)>.001:continue
+            if name in js and province!=js[name]['province']:continue
             station={'id':'st-wikidata-'+fact['wikidataId'].lower(),'name':name,'city':js[name]['city'] if name in js else '城市待核验','province':province,'provinceId':provinces[province],'longitude':coord[0],'latitude':coord[1],'isHub':False,'major':False,'coordinateSource':fact['sourceUrl']}
             registry.append(station);by_name[name]=station
     csv_rows={normalize(s['站名']):s for s in csv.DictReader(csv_path.open())}
@@ -78,7 +79,7 @@ def resolve(csv_path,admin_path,osm_path,fetch_osm=False):
             candidates.sort(key=lambda x:x[0]['type']!='node')
         row=csv_rows.get(name);city=js[name]['city'] if name in js else (row.get('市','城市待核验') if row else '城市待核验')
         if candidates:
-            element,coord=candidates[0];province=js[name]['province'] if name in js else province_at(coord)
+            element,coord=candidates[0];province=province_at(coord)
             source=f"https://www.openstreetmap.org/{element['type']}/{element['id']}";sid=f"st-osm-{element['type']}-{element['id']}"
         elif row:
             coord=[float(row['WGS84_Lng']),float(row['WGS84_Lat'])];province=row['省']
@@ -86,17 +87,22 @@ def resolve(csv_path,admin_path,osm_path,fetch_osm=False):
             sid='st-source-'+hashlib.sha256(name.encode()).hexdigest()[:16]
         else:continue
         if province not in provinces or not (73<coord[0]<135 and 18<coord[1]<54):continue
+        if name in js and province!=js[name]['province']:continue
         station={'id':sid,'name':name,'city':city,'province':province,'provinceId':provinces[province],
                  'longitude':coord[0],'latitude':coord[1],'isHub':False,'major':name==city,'coordinateSource':source}
         registry.append(station);by_name[name]=station;added.append(name)
     # The province index is evidence for municipality membership, including
     # Jiangsu stations whose earlier registry city was still unverified.
+    identity_conflicts=[]
     for name,entry in js.items():
         if name in by_name:
-            by_name[name]['city']=entry['city'];by_name[name]['province']=entry['province'];by_name[name]['provinceId']=entry['provinceId']
+            if by_name[name]['provinceId']!=entry['provinceId']:
+                identity_conflicts.append({'name':name,'catalogueProvince':entry['province'],'coordinateProvince':by_name[name]['province']})
+                continue
+            by_name[name]['city']=entry['city']
     write(RAW/'stations.json',sorted(registry,key=lambda s:s['name']))
     remaining=sorted(needed-set(by_name))
-    write(RAW/'coordinate-resolution.json',{'addedStations':added,'ambiguousNames':ambiguous,'unlocatedStations':remaining,'unlocatedOrigins':sorted(set(js)-set(by_name))})
+    write(RAW/'coordinate-resolution.json',{'addedStations':added,'originIdentityConflicts':identity_conflicts,'ambiguousNames':ambiguous,'unlocatedStations':remaining,'unlocatedOrigins':sorted(set(js)-set(by_name))})
     print('Added',len(added),'remaining',len(remaining),'Origins missing',sorted(set(js)-set(by_name)),flush=True)
 
 if __name__=='__main__':

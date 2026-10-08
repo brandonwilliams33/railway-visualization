@@ -86,7 +86,9 @@ def station_index(page):
     return list(result.values())
 
 def save(path, value):
-    path.write_text(json.dumps(value,ensure_ascii=False,indent=2)+'\n')
+    temporary=path.with_name(path.name+'.tmp')
+    temporary.write_text(json.dumps(value,ensure_ascii=False,indent=2)+'\n')
+    temporary.replace(path)
 
 def acquire(index_only=False, max_new=None):
     RAW.mkdir(exist_ok=True)

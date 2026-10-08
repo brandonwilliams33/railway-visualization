@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "石家庄",
+  "stationCount": 13,
+  "candidateServices": 1096,
+  "acquiredAdditionalServices": 14,
+  "failedPages": [],
+  "stationIssues": [
+    "井陉"
+  ]
+}

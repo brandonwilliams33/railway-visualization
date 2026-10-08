@@ -1,0 +1,12 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "德州",
+  "stationCount": 10,
+  "candidateServices": 559,
+  "acquiredAdditionalServices": 34,
+  "failedPages": [],
+  "stationIssues": [
+    "临邑",
+    "陵城"
+  ]
+}

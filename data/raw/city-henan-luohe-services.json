@@ -1,0 +1,563 @@
+[
+  {
+    "trainNumber": "G9370",
+    "category": "G",
+    "stopNames": [
+      "武汉",
+      "孝感北",
+      "信阳东",
+      "驻马店西",
+      "漯河西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9370.html",
+    "sourceUpdatedAt": "2026-02-20",
+    "sourceSha256": "3a4855f27705ab67dbe8dcdb45be01963e0934cdf42ffcb8399c36fb0f2033f3",
+    "elapsedMinutes": [
+      0,
+      30,
+      50,
+      79,
+      99
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1005",
+    "category": "K",
+    "stopNames": [
+      "广州白云",
+      "韶关东",
+      "乐昌",
+      "郴州",
+      "衡阳",
+      "株洲",
+      "长沙",
+      "岳阳",
+      "武昌",
+      "信阳",
+      "驻马店",
+      "西平",
+      "漯河",
+      "周口"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1005.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "90fb82e5d2afe18380c83bd2a9eefe027099bb6dc5963fbc50216856c86d2309",
+    "elapsedMinutes": [
+      0,
+      141,
+      181,
+      273,
+      380,
+      479,
+      528,
+      617,
+      786,
+      984,
+      1044,
+      1074,
+      1097,
+      1184
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1006",
+    "category": "K",
+    "stopNames": [
+      "周口",
+      "漯河",
+      "西平",
+      "驻马店",
+      "确山",
+      "信阳",
+      "广水",
+      "花园",
+      "孝感",
+      "武昌",
+      "咸宁",
+      "赤壁",
+      "岳阳",
+      "长沙",
+      "衡阳",
+      "郴州",
+      "韶关东",
+      "英德",
+      "源潭",
+      "广州白云"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1006.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "586c17fdf1bc1e355bf88abb3cfe911bc44335adcb01f112a655bd3af8f0128d",
+    "elapsedMinutes": [
+      0,
+      50,
+      108,
+      147,
+      166,
+      230,
+      285,
+      321,
+      345,
+      425,
+      535,
+      578,
+      658,
+      789,
+      937,
+      1042,
+      1149,
+      1212,
+      1264,
+      1336
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1007",
+    "category": "K",
+    "stopNames": [
+      "周口",
+      "漯河",
+      "西平",
+      "驻马店",
+      "确山",
+      "信阳",
+      "广水",
+      "花园",
+      "孝感",
+      "武昌",
+      "咸宁",
+      "赤壁",
+      "岳阳",
+      "长沙",
+      "衡阳",
+      "郴州",
+      "韶关东",
+      "英德",
+      "源潭",
+      "广州白云"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1007.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "45517929f17101ce062b2e8df6360bcda8cb5a8cef472d8396dcd8ad399c952f",
+    "elapsedMinutes": [
+      0,
+      50,
+      108,
+      147,
+      166,
+      230,
+      285,
+      321,
+      345,
+      425,
+      535,
+      578,
+      658,
+      789,
+      937,
+      1042,
+      1149,
+      1212,
+      1264,
+      1336
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1008",
+    "category": "K",
+    "stopNames": [
+      "广州白云",
+      "韶关东",
+      "乐昌",
+      "郴州",
+      "衡阳",
+      "株洲",
+      "长沙",
+      "岳阳",
+      "武昌",
+      "信阳",
+      "驻马店",
+      "西平",
+      "漯河",
+      "周口"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1008.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b8ca3a45c45f99970368d496575a9945f38a754e9e5a273b9e78c124c59a37e8",
+    "elapsedMinutes": [
+      0,
+      141,
+      181,
+      273,
+      380,
+      479,
+      528,
+      617,
+      786,
+      984,
+      1044,
+      1074,
+      1097,
+      1184
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5410",
+    "category": "K",
+    "stopNames": [
+      "周口",
+      "漯河",
+      "驻马店",
+      "信阳",
+      "花园",
+      "孝感",
+      "武昌"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5410.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "d52c3931cbcea467aa61cdc07f84e3ebb36e1cccc3208337dec9dbb7f604be60",
+    "elapsedMinutes": [
+      0,
+      55,
+      129,
+      191,
+      274,
+      299,
+      368
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5411",
+    "category": "K",
+    "stopNames": [
+      "周口",
+      "漯河",
+      "驻马店",
+      "信阳",
+      "花园",
+      "孝感",
+      "武昌"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5411.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "80a86680c6a0f3c9a50128488c2f996021b2701dde0abedf83731a1c045d2ef2",
+    "elapsedMinutes": [
+      0,
+      55,
+      129,
+      191,
+      274,
+      299,
+      368
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6175",
+    "category": "K",
+    "stopNames": [
+      "武昌",
+      "孝感",
+      "花园",
+      "广水",
+      "信阳",
+      "确山",
+      "驻马店",
+      "西平",
+      "漯河",
+      "周口"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6175.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "6fb6bd01e198ed3d781e79dcbb78af7df084be03fcf30f4165cc08fade48e639",
+    "elapsedMinutes": [
+      0,
+      63,
+      95,
+      129,
+      192,
+      250,
+      271,
+      303,
+      327,
+      419
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6176",
+    "category": "K",
+    "stopNames": [
+      "周口",
+      "漯河",
+      "西平",
+      "驻马店",
+      "确山",
+      "信阳",
+      "广水",
+      "孝感",
+      "武昌"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6176.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "fa6d1b2e5023ecd5745ce9c71cd3609368d0bbd7818b49adc133df700431a883",
+    "elapsedMinutes": [
+      0,
+      51,
+      107,
+      138,
+      159,
+      209,
+      267,
+      322,
+      393
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6177",
+    "category": "K",
+    "stopNames": [
+      "周口",
+      "漯河",
+      "西平",
+      "驻马店",
+      "确山",
+      "信阳",
+      "广水",
+      "孝感",
+      "武昌"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6177.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "050420b5a721692a1157c30e96a93a4ee59cddcb3aed39743114870eabd7ab88",
+    "elapsedMinutes": [
+      0,
+      51,
+      107,
+      138,
+      159,
+      209,
+      267,
+      322,
+      393
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6178",
+    "category": "K",
+    "stopNames": [
+      "武昌",
+      "孝感",
+      "花园",
+      "广水",
+      "信阳",
+      "确山",
+      "驻马店",
+      "西平",
+      "漯河",
+      "周口"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6178.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "78d7fcd16e4de397b45c27cf153894f9874794cfa1c876e089ee5dbbe65fb7d1",
+    "elapsedMinutes": [
+      0,
+      63,
+      95,
+      129,
+      192,
+      250,
+      271,
+      303,
+      327,
+      419
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8136",
+    "category": "K",
+    "stopNames": [
+      "赤壁",
+      "咸宁",
+      "武昌",
+      "孝感",
+      "花园",
+      "广水",
+      "信阳",
+      "确山",
+      "驻马店",
+      "西平",
+      "漯河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8136.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "fb93dd62aea33cc40f9fd17879a551d198e1690515a638cbffcbe06e269eca11",
+    "elapsedMinutes": [
+      0,
+      28,
+      119,
+      213,
+      239,
+      274,
+      340,
+      396,
+      415,
+      456,
+      479
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8138",
+    "category": "K",
+    "stopNames": [
+      "赤壁",
+      "咸宁",
+      "云梦",
+      "武昌",
+      "安陆",
+      "花园",
+      "随州",
+      "广水",
+      "枣阳",
+      "信阳",
+      "襄阳",
+      "驻马店",
+      "西平",
+      "漯河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8138.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "c476eb38121199782b323a491487076ef39fa09d5ce2a641a306a02074d6acbc",
+    "elapsedMinutes": [
+      0,
+      28,
+      68,
+      98,
+      89,
+      202,
+      135,
+      236,
+      194,
+      300,
+      245,
+      368,
+      398,
+      420
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        5,
+        7,
+        9,
+        11
+      ]
+    }
+  },
+  {
+    "trainNumber": "K8146",
+    "category": "K",
+    "stopNames": [
+      "周口",
+      "漯河",
+      "驻马店",
+      "信阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8146.html",
+    "sourceUpdatedAt": "2025-12-19",
+    "sourceSha256": "74ca96ae5e2ea19fcf8f6e580ee6ca05e01cdf0152279d48828a1cf45faab0dd",
+    "elapsedMinutes": [
+      0,
+      54,
+      129,
+      191
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8147",
+    "category": "K",
+    "stopNames": [
+      "周口",
+      "漯河",
+      "驻马店",
+      "信阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8147.html",
+    "sourceUpdatedAt": "2025-12-19",
+    "sourceSha256": "fe846105b7f9560d394c9db100424f0345c6cbcfa039bde45607a06c7e6ec82d",
+    "elapsedMinutes": [
+      0,
+      54,
+      129,
+      191
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

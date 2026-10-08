@@ -1,0 +1,322 @@
+[
+  {
+    "trainNumber": "S951",
+    "category": "OTHER",
+    "stopNames": [
+      "阳泉北",
+      "阳泉东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s951.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6395582da785068955de23291bb7d9ddb186e12743fa31aede605020f51f1e66",
+    "elapsedMinutes": [
+      0,
+      28
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S952",
+    "category": "OTHER",
+    "stopNames": [
+      "阳泉东",
+      "阳泉北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s952.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "24ca4632ecce06d8bdd2c67981e6002bba090e96ebe4e0adfb35ac1f5499e219",
+    "elapsedMinutes": [
+      0,
+      28
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S953",
+    "category": "OTHER",
+    "stopNames": [
+      "阳泉北",
+      "阳泉东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s953.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bf7bcf0c9147c476e6840955d761f8d8124d596b01f6fbcf5d5917abd456edc1",
+    "elapsedMinutes": [
+      0,
+      28
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S954",
+    "category": "OTHER",
+    "stopNames": [
+      "阳泉东",
+      "阳泉北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s954.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5e98563fa9924fd167d10e2d0ffd051d46f5e52fa52f2a572637070860c16274",
+    "elapsedMinutes": [
+      0,
+      46
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S955",
+    "category": "OTHER",
+    "stopNames": [
+      "阳泉北",
+      "阳泉东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s955.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5956783d807980d21947545d39d66ec40575f2786efb67e73ef0ea090982c819",
+    "elapsedMinutes": [
+      0,
+      28
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S956",
+    "category": "OTHER",
+    "stopNames": [
+      "阳泉东",
+      "阳泉北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s956.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f3b10abbccf9cb291952fbc30fdea07199b7bc0be183dcb983b2e75f7b4e2f4d",
+    "elapsedMinutes": [
+      0,
+      28
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S957",
+    "category": "OTHER",
+    "stopNames": [
+      "阳泉北",
+      "阳泉东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s957.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9378035a2abf4019737a878b68da527e11b9005d91bf0171c42b234f70a0ac02",
+    "elapsedMinutes": [
+      0,
+      28
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S958",
+    "category": "OTHER",
+    "stopNames": [
+      "阳泉东",
+      "阳泉北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s958.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cf6b1775dd8eb1fe8567b2ae6441cedac83667d2ea1a38c1b08338295686ba10",
+    "elapsedMinutes": [
+      0,
+      28
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S959",
+    "category": "OTHER",
+    "stopNames": [
+      "阳泉北",
+      "阳泉东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s959.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "478fdeaf2202f79dfdad2d8f833554bd77ea3384b2af5f0ac11d380e20954fef",
+    "elapsedMinutes": [
+      0,
+      28
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S960",
+    "category": "OTHER",
+    "stopNames": [
+      "阳泉东",
+      "阳泉北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s960.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a78d72a67b43baff3508549856e9160a891e235663b2563b5e4f439faf3323d1",
+    "elapsedMinutes": [
+      0,
+      28
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S961",
+    "category": "OTHER",
+    "stopNames": [
+      "阳泉北",
+      "阳泉东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s961.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8c1d2c53318f0c25a7017eebafc801c14ba9d0c481cef479906436d7fe3e6c2a",
+    "elapsedMinutes": [
+      0,
+      28
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S962",
+    "category": "OTHER",
+    "stopNames": [
+      "阳泉东",
+      "阳泉北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s962.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e96395fdfcaedef6655e629df1857b13879e728a9dbeed72c547ee1ddd4f1b7a",
+    "elapsedMinutes": [
+      0,
+      28
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S963",
+    "category": "OTHER",
+    "stopNames": [
+      "阳泉北",
+      "阳泉东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s963.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "511267ef383dc5922a5592de7c29a2799df5fe7658898c9389eb14db959d4b07",
+    "elapsedMinutes": [
+      0,
+      28
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S964",
+    "category": "OTHER",
+    "stopNames": [
+      "阳泉东",
+      "阳泉北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s964.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ea84890a4313bffafb9c71aa04c26b5795066d5d49ca6cda914f38fd3acb0eef",
+    "elapsedMinutes": [
+      0,
+      28
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S965",
+    "category": "OTHER",
+    "stopNames": [
+      "阳泉北",
+      "阳泉东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s965.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a3252a8bd839c4b2f3413a9cdca80d90c01086903e7fe1943a2e2d7c258a6586",
+    "elapsedMinutes": [
+      0,
+      28
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S966",
+    "category": "OTHER",
+    "stopNames": [
+      "阳泉东",
+      "阳泉北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s966.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "74bc8353db947df6c214c4b0ce6674f5cf60c4bbf31e0de786a6b14294670453",
+    "elapsedMinutes": [
+      0,
+      28
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

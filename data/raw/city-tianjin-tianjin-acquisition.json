@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "天津",
+  "stationCount": 23,
+  "candidateServices": 1195,
+  "acquiredAdditionalServices": 153,
+  "failedPages": [],
+  "stationIssues": [
+    "杨村"
+  ]
+}

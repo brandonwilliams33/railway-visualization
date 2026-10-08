@@ -1,0 +1,42 @@
+[
+  {
+    "trainNumber": "4052",
+    "category": "OTHER",
+    "stopNames": [
+      "鸡西",
+      "滴道",
+      "青龙",
+      "麻山",
+      "西麻山",
+      "奎山",
+      "林口",
+      "向阳",
+      "宝林",
+      "朱家沟",
+      "柴河",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4052.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5d77633cf668773d0a7f3ed7267496e677f9b0f464069649131700cab0ff9991",
+    "elapsedMinutes": [
+      0,
+      15,
+      48,
+      62,
+      72,
+      84,
+      118,
+      143,
+      174,
+      204,
+      230,
+      265
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

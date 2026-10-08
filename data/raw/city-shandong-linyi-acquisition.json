@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "临沂",
+  "stationCount": 14,
+  "candidateServices": 307,
+  "acquiredAdditionalServices": 18,
+  "failedPages": [],
+  "stationIssues": [
+    "沂南"
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "trainNumber": "K4779",
+    "category": "K",
+    "stopNames": [
+      "北京丰台",
+      "保定",
+      "石家庄",
+      "邢台",
+      "邯郸",
+      "汤阴",
+      "鹤壁",
+      "新乡",
+      "获嘉",
+      "焦作",
+      "济源",
+      "南阳",
+      "邓州",
+      "襄阳",
+      "谷城",
+      "十堰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4779.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "135ad6039c8d8c505ea67f4058939fdce37b0d143900bdda0ebe2aa027c8a42d",
+    "elapsedMinutes": [
+      0,
+      83,
+      199,
+      274,
+      333,
+      399,
+      443,
+      487,
+      538,
+      574,
+      641,
+      937,
+      990,
+      1089,
+      1163,
+      1229
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

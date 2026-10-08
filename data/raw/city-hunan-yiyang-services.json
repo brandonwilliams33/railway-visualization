@@ -1,0 +1,76 @@
+[
+  {
+    "trainNumber": "7278",
+    "category": "OTHER",
+    "stopNames": [
+      "新晃",
+      "怀化",
+      "辰溪",
+      "溆浦",
+      "低庄",
+      "安化",
+      "新化",
+      "冷水江东",
+      "涟源",
+      "娄底",
+      "益阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7278.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7d931d29fff2d598e615e445df9175840d53773293ec7b7f433dc3063dab4c7a",
+    "elapsedMinutes": [
+      0,
+      93,
+      151,
+      211,
+      239,
+      310,
+      350,
+      372,
+      398,
+      440,
+      566
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7279",
+    "category": "OTHER",
+    "stopNames": [
+      "益阳",
+      "娄底",
+      "涟源",
+      "冷水江东",
+      "新化",
+      "安化",
+      "低庄",
+      "溆浦",
+      "辰溪",
+      "怀化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7279.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5456c15071068c8be4c1fc28efbd030c9603a92098680f18c44eedfad9f79bb0",
+    "elapsedMinutes": [
+      0,
+      112,
+      154,
+      181,
+      202,
+      243,
+      315,
+      346,
+      407,
+      470
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

@@ -14,7 +14,7 @@ class PhysicalGeometryTests(unittest.TestCase):
         return apply_physical(data,source)
     def test_excludes_freight_and_nonoperating_track_names(self):
         for name in ['大秦铁路','浩吉铁路','京沪货线','徐州动车所','京沪专用线','试验高铁',None]:self.assertFalse(approved(name))
-        for name in ['京沪线','徐盐客专线','京沪高铁']:self.assertTrue(approved(name))
+        for name in ['京沪线','徐盐客专线','京沪高铁','辛泰线','干武线','平齐线','达万线','榆树线','榆红线']:self.assertTrue(approved(name))
     def test_unmatched_interval_never_gets_a_chord(self):
         data=self.fixture(False)
         self.assertEqual(data['segments'],[])

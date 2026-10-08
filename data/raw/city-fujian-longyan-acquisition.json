@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "龙岩",
+  "stationCount": 11,
+  "candidateServices": 308,
+  "acquiredAdditionalServices": 12,
+  "failedPages": [
+    {
+      "trainNumber": "C5282",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

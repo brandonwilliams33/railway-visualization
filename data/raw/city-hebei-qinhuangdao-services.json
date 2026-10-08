@@ -1,0 +1,1116 @@
+[
+  {
+    "trainNumber": "C515",
+    "category": "C",
+    "stopNames": [
+      "山海关",
+      "绥中北",
+      "葫芦岛北",
+      "锦州南",
+      "盘锦北",
+      "台安",
+      "辽中",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c515.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2a14b323248073a58bb3d298d8f2a092e8977103996f7a11d46ace0c68e941da",
+    "elapsedMinutes": [
+      0,
+      28,
+      56,
+      78,
+      109,
+      137,
+      158,
+      207
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C516",
+    "category": "C",
+    "stopNames": [
+      "沈阳",
+      "辽中",
+      "锦州南",
+      "葫芦岛北",
+      "绥中北",
+      "山海关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c516.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "acff0a6e0ffdd1b84867ed685e7e82b16b9f22c4a81c23e03c495da8c35468b8",
+    "elapsedMinutes": [
+      0,
+      40,
+      106,
+      131,
+      164,
+      198
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8071",
+    "category": "D",
+    "stopNames": [
+      "山海关",
+      "绥中北",
+      "葫芦岛北",
+      "锦州南",
+      "盘锦北",
+      "台安",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8071.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "86325f41de2a099d041d499af80d9e04ec1dc2e45f74dafbd556011ad5bab43d",
+    "elapsedMinutes": [
+      0,
+      24,
+      48,
+      67,
+      94,
+      116,
+      160
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8072",
+    "category": "D",
+    "stopNames": [
+      "沈阳",
+      "盘锦北",
+      "葫芦岛北",
+      "山海关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8072.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7cfa72bafa2e554598b6492fae6d853305dd9b09cd0ab964425cbc57aed90800",
+    "elapsedMinutes": [
+      0,
+      59,
+      106,
+      151
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4009",
+    "category": "K",
+    "stopNames": [
+      "山海关",
+      "葫芦岛",
+      "锦州",
+      "沟帮子",
+      "大虎山",
+      "沈阳北",
+      "铁岭",
+      "四平",
+      "长春",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4009.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "c46cdc9c3c286130db8edba2ae8c2921ad34c55f124922d1b956484f417f45f8",
+    "elapsedMinutes": [
+      0,
+      85,
+      126,
+      198,
+      240,
+      352,
+      458,
+      583,
+      660,
+      824
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4010",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨西",
+      "扶余",
+      "德惠",
+      "长春",
+      "公主岭",
+      "四平",
+      "沈阳北",
+      "大虎山",
+      "沟帮子",
+      "锦州",
+      "葫芦岛",
+      "兴城",
+      "绥中",
+      "山海关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4010.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "6dcc34c7594a1cc8d2003d4a116ed92c7a8124f8fdc7e51733eb177ec0d08f93",
+    "elapsedMinutes": [
+      0,
+      71,
+      121,
+      185,
+      235,
+      279,
+      468,
+      589,
+      622,
+      674,
+      719,
+      739,
+      774,
+      828
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5042",
+    "category": "K",
+    "stopNames": [
+      "沈阳",
+      "新民",
+      "大虎山",
+      "沟帮子",
+      "锦州",
+      "葫芦岛",
+      "兴城",
+      "绥中",
+      "山海关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5042.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "edb864401bdc43f3bbf4fb5cb3664ce83f6f2178a6b8fbb3721897bcb2e3b4a3",
+    "elapsedMinutes": [
+      0,
+      51,
+      98,
+      134,
+      182,
+      227,
+      247,
+      282,
+      335
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5045",
+    "category": "K",
+    "stopNames": [
+      "山海关",
+      "绥中",
+      "兴城",
+      "葫芦岛",
+      "锦州",
+      "沟帮子",
+      "沈阳北",
+      "铁岭",
+      "开原",
+      "昌图",
+      "四平",
+      "长春",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5045.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "cc2d602bf382db9deb4470e4ff148b20a529c022ff1850350212156530db56b2",
+    "elapsedMinutes": [
+      0,
+      44,
+      78,
+      99,
+      145,
+      200,
+      344,
+      421,
+      446,
+      471,
+      512,
+      589,
+      713
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5046",
+    "category": "K",
+    "stopNames": [
+      "吉林",
+      "九台",
+      "长春",
+      "公主岭",
+      "四平",
+      "昌图",
+      "开原",
+      "铁岭",
+      "沈阳北",
+      "锦州",
+      "葫芦岛",
+      "山海关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5046.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "f8699234e1e65bd619e095d9d0b068fc71b18e8794c5c3ed959d9fe60875bf55",
+    "elapsedMinutes": [
+      0,
+      61,
+      114,
+      186,
+      230,
+      266,
+      289,
+      315,
+      368,
+      538,
+      587,
+      681
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5049",
+    "category": "K",
+    "stopNames": [
+      "山海关",
+      "绥中",
+      "兴城",
+      "葫芦岛",
+      "锦州",
+      "沟帮子",
+      "大虎山",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5049.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "4113efca21e839d28db562cd1fd3d062ddea3ca6672592af4f413bcf543c80c9",
+    "elapsedMinutes": [
+      0,
+      44,
+      76,
+      97,
+      141,
+      193,
+      223,
+      342
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5050",
+    "category": "K",
+    "stopNames": [
+      "锦州",
+      "葫芦岛",
+      "兴城",
+      "绥中",
+      "山海关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5050.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "064fde45b34d1a36a29577e4d17b6686590b781f065eb16cd71dec6f4144747c",
+    "elapsedMinutes": [
+      0,
+      36,
+      56,
+      91,
+      143
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5072",
+    "category": "K",
+    "stopNames": [
+      "山海关",
+      "绥中",
+      "兴城",
+      "葫芦岛",
+      "锦州",
+      "沟帮子",
+      "盘锦",
+      "大石桥",
+      "盖州",
+      "熊岳城",
+      "瓦房店",
+      "普兰店",
+      "金州",
+      "大连"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5072.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "864e867b147714e183e16806a4d50fcfa9329d619a1eb672f5eed3fb831bfaa8",
+    "elapsedMinutes": [
+      0,
+      44,
+      76,
+      97,
+      141,
+      188,
+      217,
+      292,
+      315,
+      339,
+      390,
+      413,
+      452,
+      495
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5073",
+    "category": "K",
+    "stopNames": [
+      "山海关",
+      "绥中",
+      "兴城",
+      "葫芦岛",
+      "锦州",
+      "沟帮子",
+      "盘锦",
+      "大石桥",
+      "盖州",
+      "熊岳城",
+      "瓦房店",
+      "普兰店",
+      "金州",
+      "大连"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5073.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2b3bc3d05dd236d38734fcd3cdbfcd50508e1f459831306fe998ae78363b67be",
+    "elapsedMinutes": [
+      0,
+      44,
+      76,
+      97,
+      141,
+      188,
+      217,
+      292,
+      315,
+      339,
+      390,
+      413,
+      452,
+      495
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5079",
+    "category": "K",
+    "stopNames": [
+      "山海关",
+      "绥中",
+      "葫芦岛",
+      "锦州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5079.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "dce6614a8f6d0f79449f0cc246085eab674af93260c481be3cf66a0b4071462d",
+    "elapsedMinutes": [
+      0,
+      44,
+      90,
+      133
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5080",
+    "category": "K",
+    "stopNames": [
+      "锦州",
+      "兴城",
+      "绥中",
+      "山海关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5080.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "38a83c2d35919d5e4b3834579e800cad1b39b896d773ff332992c338b4a8a1c9",
+    "elapsedMinutes": [
+      0,
+      50,
+      84,
+      135
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5083",
+    "category": "K",
+    "stopNames": [
+      "大连",
+      "金州",
+      "普兰店",
+      "瓦房店",
+      "熊岳城",
+      "大石桥",
+      "盘锦",
+      "沟帮子",
+      "锦州",
+      "葫芦岛",
+      "兴城",
+      "绥中",
+      "山海关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5083.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "58d35e38dfd1d3ff7c4aaa5c92a34d75aa9fe11a108a54d9ddbaf71c4f8af91f",
+    "elapsedMinutes": [
+      0,
+      25,
+      61,
+      85,
+      140,
+      189,
+      308,
+      340,
+      388,
+      435,
+      457,
+      495,
+      576
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5084",
+    "category": "K",
+    "stopNames": [
+      "山海关",
+      "绥中",
+      "兴城",
+      "葫芦岛",
+      "锦州",
+      "沟帮子",
+      "盘锦",
+      "大石桥",
+      "盖州",
+      "熊岳城",
+      "瓦房店",
+      "普兰店",
+      "金州",
+      "大连"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5084.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "90f5e54e8f74019087111b67c1c501a500b77437ac38429fa205fba7e797f655",
+    "elapsedMinutes": [
+      0,
+      44,
+      76,
+      97,
+      141,
+      188,
+      217,
+      292,
+      315,
+      339,
+      390,
+      413,
+      452,
+      495
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5085",
+    "category": "K",
+    "stopNames": [
+      "山海关",
+      "绥中",
+      "兴城",
+      "葫芦岛",
+      "锦州",
+      "沟帮子",
+      "盘锦",
+      "大石桥",
+      "盖州",
+      "熊岳城",
+      "瓦房店",
+      "普兰店",
+      "金州",
+      "大连"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5085.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "f43b80ba86fb646e2b20654020c88f4f6f536f2b30846437fc5f9b63a9daba63",
+    "elapsedMinutes": [
+      0,
+      44,
+      76,
+      97,
+      141,
+      188,
+      217,
+      292,
+      315,
+      339,
+      390,
+      413,
+      452,
+      495
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5086",
+    "category": "K",
+    "stopNames": [
+      "大连",
+      "金州",
+      "普兰店",
+      "瓦房店",
+      "熊岳城",
+      "大石桥",
+      "盘锦",
+      "沟帮子",
+      "锦州",
+      "葫芦岛",
+      "兴城",
+      "绥中",
+      "山海关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5086.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "b98b4f4ae094c8be5e61272a5fd01162884670eacaa209dbbb4fabc186f87da9",
+    "elapsedMinutes": [
+      0,
+      25,
+      61,
+      85,
+      140,
+      189,
+      308,
+      340,
+      388,
+      435,
+      457,
+      495,
+      576
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5093",
+    "category": "K",
+    "stopNames": [
+      "大连",
+      "金州",
+      "普兰店",
+      "瓦房店",
+      "熊岳城",
+      "大石桥",
+      "盘锦",
+      "沟帮子",
+      "锦州",
+      "葫芦岛",
+      "兴城",
+      "绥中",
+      "山海关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5093.html",
+    "sourceUpdatedAt": "2026-02-27",
+    "sourceSha256": "1f6ab256f819c8cd6e2f39004a06c65cf32ea77de1395790fadf752262b143ea",
+    "elapsedMinutes": [
+      0,
+      25,
+      61,
+      85,
+      141,
+      191,
+      268,
+      299,
+      346,
+      388,
+      415,
+      450,
+      502
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5094",
+    "category": "K",
+    "stopNames": [
+      "山海关",
+      "绥中",
+      "兴城",
+      "葫芦岛",
+      "锦州",
+      "沟帮子",
+      "盘锦",
+      "大石桥",
+      "瓦房店",
+      "大连"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5094.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "6b8777d0eb0c23a6f05abf1e691ff525ecd906b29ccdfb16fd314a6a0cbc6a62",
+    "elapsedMinutes": [
+      0,
+      44,
+      76,
+      97,
+      141,
+      188,
+      214,
+      289,
+      374,
+      463
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5095",
+    "category": "K",
+    "stopNames": [
+      "山海关",
+      "绥中",
+      "兴城",
+      "葫芦岛",
+      "锦州",
+      "沟帮子",
+      "盘锦",
+      "大石桥",
+      "瓦房店",
+      "大连"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5095.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "6475cad158f421bd005ffa1854c01cdaedc45be5a77bfeda19d1255275f6d14f",
+    "elapsedMinutes": [
+      0,
+      44,
+      76,
+      97,
+      141,
+      188,
+      214,
+      289,
+      374,
+      463
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5096",
+    "category": "K",
+    "stopNames": [
+      "大连",
+      "金州",
+      "普兰店",
+      "瓦房店",
+      "熊岳城",
+      "大石桥",
+      "盘锦",
+      "沟帮子",
+      "锦州",
+      "葫芦岛",
+      "兴城",
+      "绥中",
+      "山海关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5096.html",
+    "sourceUpdatedAt": "2026-02-27",
+    "sourceSha256": "78ba43e5dff1c873307fe91688192d6f401cf4c63e89486efb8f18eb6a3ceced",
+    "elapsedMinutes": [
+      0,
+      25,
+      61,
+      85,
+      141,
+      191,
+      268,
+      299,
+      346,
+      388,
+      415,
+      450,
+      502
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y34",
+    "category": "OTHER",
+    "stopNames": [
+      "沈阳",
+      "山海关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y34.html",
+    "sourceUpdatedAt": "2026-08-01",
+    "sourceSha256": "c698080f053e3528c37fb4aeb624ed2c3c5e86ba13ad277f26c74a61abe4bc76",
+    "elapsedMinutes": [
+      0,
+      316
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y349",
+    "category": "OTHER",
+    "stopNames": [
+      "山海关",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y349.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "e462554494dae8b5c8762607087ebe46d03e2ca969ff396f06ad7536d74e8d47",
+    "elapsedMinutes": [
+      0,
+      829
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y429",
+    "category": "OTHER",
+    "stopNames": [
+      "山海关",
+      "锦州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y429.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "e574f50b0f592f5ed8b08600da534a36199cac0e37676abea3baa466f07ee855",
+    "elapsedMinutes": [
+      0,
+      143
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y471",
+    "category": "OTHER",
+    "stopNames": [
+      "山海关",
+      "盘锦"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y471.html",
+    "sourceUpdatedAt": "2026-08-17",
+    "sourceSha256": "2920beb9f6f7868d11bb153470ff348aff53b73a6b2e6f39e439f41657b9992a",
+    "elapsedMinutes": [
+      0,
+      246
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y514",
+    "category": "OTHER",
+    "stopNames": [
+      "阿尔山",
+      "乌兰浩特",
+      "白城",
+      "通辽",
+      "锦州",
+      "葫芦岛",
+      "山海关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y514.html",
+    "sourceUpdatedAt": "2026-08-12",
+    "sourceSha256": "c35871156c026ac3f199fc424a0077511f4e340c590bc8109a142a342814fb9a",
+    "elapsedMinutes": [
+      0,
+      232,
+      328,
+      534,
+      788,
+      837,
+      936
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y555",
+    "category": "OTHER",
+    "stopNames": [
+      "霍林郭勒",
+      "安康",
+      "通辽",
+      "万源",
+      "大虎山",
+      "锦州",
+      "葫芦岛",
+      "山海关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y555.html",
+    "sourceUpdatedAt": "2026-08-02",
+    "sourceSha256": "4c16bbf99d34f4436c5c06078eb11647fc4d7de0385f0642cd5a0620b22f2e8a",
+    "elapsedMinutes": [
+      0,
+      213,
+      254,
+      350,
+      460,
+      541,
+      587,
+      695
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y558",
+    "category": "OTHER",
+    "stopNames": [
+      "霍林郭勒",
+      "安康",
+      "通辽",
+      "万源",
+      "大虎山",
+      "锦州",
+      "葫芦岛",
+      "山海关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y558.html",
+    "sourceUpdatedAt": "2026-08-02",
+    "sourceSha256": "a0bff5c5e78149e017941c7583be866303a7f93974d820ed2458caffb5638f03",
+    "elapsedMinutes": [
+      0,
+      213,
+      254,
+      350,
+      460,
+      541,
+      587,
+      695
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y703",
+    "category": "OTHER",
+    "stopNames": [
+      "山海关",
+      "锦州",
+      "沟帮子",
+      "盘锦"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y703.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "ae764a63ca6e0df007f3dc511bd2ac94aef2ad8bcbbb4c581dfb71a40280ceda",
+    "elapsedMinutes": [
+      0,
+      130,
+      216,
+      246
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y861",
+    "category": "OTHER",
+    "stopNames": [
+      "山海关",
+      "盘锦"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y861.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "2feb71e2e02482c3116c3057700a74bdc49068a009160f4f6a42b9e7e8da3ec8",
+    "elapsedMinutes": [
+      0,
+      246
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y871",
+    "category": "OTHER",
+    "stopNames": [
+      "山海关",
+      "盘锦"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y871.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "51b094e2feced9b11304d8ed96d973be6dd26faaa68de5d96178589dd0de9b34",
+    "elapsedMinutes": [
+      0,
+      246
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y893",
+    "category": "OTHER",
+    "stopNames": [
+      "山海关",
+      "锦州",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y893.html",
+    "sourceUpdatedAt": "2026-07-01",
+    "sourceSha256": "28cbc929b512b9d0c4cf5d7fd321cd5b21dba36a9f9265e9b9d7c2c0d7643115",
+    "elapsedMinutes": [
+      0,
+      123,
+      349
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y910",
+    "category": "OTHER",
+    "stopNames": [
+      "盘锦",
+      "锦州",
+      "山海关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y910.html",
+    "sourceUpdatedAt": "2026-05-19",
+    "sourceSha256": "570ae997f304985264a936c649e720259a901d1c3b493ac255fa82bd32117612",
+    "elapsedMinutes": [
+      0,
+      70,
+      242
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

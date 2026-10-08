@@ -1,0 +1,24 @@
+[
+  {
+    "trainNumber": "G4707",
+    "category": "G",
+    "stopNames": [
+      "北京南",
+      "潍坊北",
+      "荣成"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4707.html",
+    "sourceUpdatedAt": "2026-08-21",
+    "sourceSha256": "eb1f7042b1d4e3b25f826c5db76c8109c4344018062c7e118b13c151efa13d6b",
+    "elapsedMinutes": [
+      0,
+      161,
+      252
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

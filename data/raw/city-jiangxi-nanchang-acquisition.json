@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "南昌",
+  "stationCount": 8,
+  "candidateServices": 1579,
+  "acquiredAdditionalServices": 769,
+  "failedPages": [
+    {
+      "trainNumber": "C5245",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

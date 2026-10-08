@@ -1,0 +1,78 @@
+[
+  {
+    "trainNumber": "K1785",
+    "category": "K",
+    "stopNames": [
+      "北京丰台",
+      "广阳",
+      "沧州",
+      "东光",
+      "吴桥",
+      "德州",
+      "商河北",
+      "阳信",
+      "利津南",
+      "东营"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1785.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5554c69e1a361e6b956bb49dae93d7b0b18cf146471df184e9ec95cf4052e3e3",
+    "elapsedMinutes": [
+      0,
+      36,
+      161,
+      203,
+      231,
+      257,
+      318,
+      352,
+      392,
+      421
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1786",
+    "category": "K",
+    "stopNames": [
+      "东营",
+      "利津南",
+      "阳信",
+      "商河北",
+      "德州",
+      "泊头",
+      "沧州",
+      "杨柳青",
+      "天津西",
+      "广阳",
+      "北京丰台",
+      "北京"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1786.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "aa839a6862e4ef54edff992fc8e433f777f811f3e71c9965968cb3bb8877ccbf",
+    "elapsedMinutes": [
+      0,
+      28,
+      67,
+      102,
+      170,
+      217,
+      245,
+      318,
+      338,
+      381,
+      423,
+      452
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

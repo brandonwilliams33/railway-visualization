@@ -1,0 +1,14 @@
+{
+  "completedCities": [
+    "fuzhou",
+    "xiamen",
+    "putian",
+    "sanming",
+    "quanzhou",
+    "zhangzhou",
+    "nanping",
+    "longyan",
+    "ningde"
+  ],
+  "failedCities": []
+}

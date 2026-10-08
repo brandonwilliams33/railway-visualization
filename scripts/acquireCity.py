@@ -4,11 +4,11 @@ from concurrent.futures import ThreadPoolExecutor,as_completed
 from acquireJiangsu import RAW,BASE,Tables,fetch,date,parse_service,save
 from originSources import services
 
-def acquire(province,city,province_name):
+def acquire(province,city,province_name,catalog_page=None):
     key=province+'-'+city; index_path=RAW/f'city-{key}-station-index.json'
     if index_path.exists():index=json.loads(index_path.read_text())
     else:
-        doc=Tables(fetch(BASE+'/'+province+'/'))
+        doc=Tables(catalog_page if catalog_page is not None else fetch(BASE+'/'+province+'/'))
         names={h.split('/')[2]:n for h,n in doc.links if re.fullmatch('/'+province+r'/[^/]+/',h)}
         city_name=province_name if city==province else names[city]
         prefix='/'+province+'/' if city==province else '/'+province+'/'+city+'/'
@@ -17,18 +17,26 @@ def acquire(province,city,province_name):
         index=list(entries.values());assert index,'Empty city index';save(index_path,index)
     def major(s):return s['name'] in {s['city']+x for x in ('','东','西','南','北','虹桥')}
     index.sort(key=lambda s:(not major(s),s['name']))
-    for i,s in enumerate(index):
-        if 'candidateTrainNumbers' in s:continue
+    def read_station(s):
         try:page=fetch(s['sourceUrl'])
         except Exception as e:
-            print('Station unavailable',s['name'],str(e),flush=True);continue
+            print('Station unavailable',s['name'],str(e),flush=True);return None
         doc=Tables(page)
         codes=sorted({h.rsplit('/',1)[-1][:-5].upper() for h,_ in doc.links if re.fullmatch(r'/huoche/[a-z0-9]+\.html',h)})
         try:snapshot=date(page)
         except ValueError:
             codes=[];snapshot='';print('No published timetable',s['name'],flush=True)
-        index[i]={**s,'candidateTrainNumbers':codes,'sourceUpdatedAt':snapshot,'sourceSha256':hashlib.sha256(page.encode()).hexdigest(),'retrievedAt':time.strftime('%Y-%m-%d')}
-        save(index_path,index);print('Station',s['name'],len(codes),flush=True)
+        print('Station',s['name'],len(codes),flush=True)
+        return {**s,'candidateTrainNumbers':codes,'sourceUpdatedAt':snapshot,'sourceSha256':hashlib.sha256(page.encode()).hexdigest(),'retrievedAt':time.strftime('%Y-%m-%d')}
+    # Finish the major-station phase first. Bounded parallel page requests
+    # inside one city do not mix checkpoints from different cities.
+    for is_major in (True,False):
+        pending=[(i,s) for i,s in enumerate(index) if 'candidateTrainNumbers' not in s and major(s)==is_major]
+        with ThreadPoolExecutor(max_workers=4) as pool:
+            futures={pool.submit(read_station,s):i for i,s in pending}
+            for future in as_completed(futures):
+                result=future.result()
+                if result is not None:index[futures[future]]=result;save(index_path,index)
     codes={c for s in index for c in s.get('candidateTrainNumbers',[])};known=services();missing=sorted(codes-set(known))
     service_path=RAW/f'city-{key}-services.json';records=json.loads(service_path.read_text()) if service_path.exists() else []
     print(key,'stations',len(index),'new services',len(missing),flush=True);failures=[]

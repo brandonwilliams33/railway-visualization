@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "济宁",
+  "stationCount": 13,
+  "candidateServices": 584,
+  "acquiredAdditionalServices": 33,
+  "failedPages": [],
+  "stationIssues": [
+    "梁山"
+  ]
+}

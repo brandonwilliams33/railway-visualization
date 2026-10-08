@@ -241,6 +241,2540 @@
         "railway": "station",
         "train": "yes"
       }
+    },
+    {
+      "type": "node",
+      "id": 10561477666,
+      "lon": 107.1145337,
+      "lat": 29.187095,
+      "tags": {
+        "name": "南川北",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10561588367,
+      "lon": 107.8132942,
+      "lat": 29.2993008,
+      "tags": {
+        "name": "武隆南",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4710991169,
+      "lon": 115.4039285,
+      "lat": 29.7531844,
+      "tags": {
+        "alt_name": "枫林站;枫林火车站;Fenglin Railway Station",
+        "internet_access": "yes",
+        "name": "枫林",
+        "name:en": "Fenglin Railway Station",
+        "name:zh": "枫林",
+        "network": "www.12306.cn",
+        "operator": "中国铁路武汉局有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3328325801,
+      "lon": 105.5249234,
+      "lat": 25.9682623,
+      "tags": {
+        "name": "关岭",
+        "name:en": "Guanling",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q28064624"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10277066232,
+      "lon": 117.2016493,
+      "lat": 36.6660053,
+      "tags": {
+        "name": "历城",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:济莱高速": "12.259",
+        "railway:ref": "17657",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10277066297,
+      "lon": 117.4680668,
+      "lat": 36.5845614,
+      "tags": {
+        "name": "章丘南",
+        "name:zh": "章丘南",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:济莱高速": "43.308",
+        "railway:ref": "17659",
+        "ref": "章丘南",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10277100557,
+      "lon": 117.7009937,
+      "lat": 36.2816413,
+      "tags": {
+        "name": "莱芜北",
+        "name:zh": "莱芜北",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:济莱高速": "84.623",
+        "railway:ref": "17663",
+        "ref": "莱芜北",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10282066317,
+      "lon": 117.5831482,
+      "lat": 36.4605169,
+      "tags": {
+        "name": "雪野",
+        "name:zh": "雪野",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:济莱高速": "61.334",
+        "railway:ref": "17661",
+        "ref": "雪野",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3739089059,
+      "lon": 106.7957002,
+      "lat": 26.5454666,
+      "tags": {
+        "name": "龙洞堡",
+        "name:en": "Longdongbao",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q24833425",
+        "wikipedia": "zh:龙洞堡站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4906402909,
+      "lon": 106.5359848,
+      "lat": 34.443955,
+      "tags": {
+        "addr:city": "天水",
+        "addr:province": "甘肃",
+        "name": "东岔",
+        "operator": "中国铁路兰州局集团有限公司",
+        "public_transport": "station",
+        "railway": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9125461495,
+      "lon": 122.0565391,
+      "lat": 46.0687386,
+      "tags": {
+        "name": "乌兰浩特",
+        "operator": "中国铁路沈阳局集团有限公司 白城车务段",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "56081"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8211935366,
+      "lon": 106.7488999,
+      "lat": 26.854589,
+      "tags": {
+        "name": "修文县",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10650882517,
+      "lon": 115.4072218,
+      "lat": 36.0122649,
+      "tags": {
+        "name": "南乐",
+        "name:zh-Hant": "南樂",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9521570747,
+      "lon": 114.1326641,
+      "lat": 35.3905971,
+      "tags": {
+        "name": "卫辉南",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9255881282,
+      "lon": 119.126038,
+      "lat": 35.2830092,
+      "tags": {
+        "name": "厉家寨",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:日兰高速": "33.616",
+        "railway:ref": "38146"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14196478112,
+      "lon": 126.2650816,
+      "lat": 45.4242285,
+      "tags": {
+        "alt_name": "双城北站;Shuangcheng North;Shuangcheng North Railway Station;Shuangchengbei Railway Station",
+        "name": "双城北",
+        "name:en": "Shuangchengbei",
+        "name:zh": "双城北",
+        "name:zh-Hant": "雙城北",
+        "operator": "中国铁路哈尔滨局集团有限公司 哈尔滨站",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "53472",
+        "train": "yes",
+        "wikidata": "Q18651973"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8093813877,
+      "lon": 118.0705948,
+      "lat": 36.4769091,
+      "tags": {
+        "alt_name": "口头;西石门",
+        "name": "口头",
+        "railway": "halt",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3590285440,
+      "lon": 88.8723047,
+      "lat": 43.1499316,
+      "tags": {
+        "name": "吐鲁番 تۇرپان",
+        "name:en": "Turpan",
+        "name:ru": "Турфан",
+        "name:ug": "تۇرپان",
+        "name:zh": "吐鲁番",
+        "public_transport": "station",
+        "railway": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3701366547,
+      "lon": 126.5295861,
+      "lat": 45.8480841,
+      "tags": {
+        "alt_name": "哈尔滨北站;Harbin North;Harbin North Railway Station",
+        "name": "哈尔滨北",
+        "name:en": "Harbin North",
+        "name:ru": "Харбин-Северный",
+        "name:zh": "哈尔滨北",
+        "operator": "中国铁路哈尔滨局集团有限公司 哈尔滨站",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "57301",
+        "wikidata": "Q5654429"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9354508779,
+      "lon": 116.3636526,
+      "lat": 35.4713899,
+      "tags": {
+        "name": "嘉祥北",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:日兰高速": "302.853",
+        "railway:ref": "38966",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9334658570,
+      "lon": 105.7420242,
+      "lat": 29.4235956,
+      "tags": {
+        "name": "大足南",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "46550"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4253918671,
+      "lon": 122.0430167,
+      "lat": 37.4953271,
+      "tags": {
+        "name": "威海北",
+        "name:en": "Weihaibei",
+        "name:zh": "威海北",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:青荣城际": "248.178",
+        "railway:ref": "18671",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9500070312,
+      "lon": 122.7345157,
+      "lat": 44.0285486,
+      "tags": {
+        "name": "宝龙山",
+        "operator": "中国铁路沈阳局集团有限公司 通辽车务段",
+        "railway": "station",
+        "railway:ref": "56822"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3315761473,
+      "lon": 119.8796406,
+      "lat": 36.7616887,
+      "tags": {
+        "alt_name": "平度西站;Pingdu West;Pingdu West Railway Station;Pingduxi Railway Station",
+        "name": "平度西",
+        "name:en": "Pingduxi",
+        "name:zh": "平度西",
+        "old_name": "平度",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:海青": "38.557",
+        "railway:ref": "18005",
+        "train": "yes",
+        "wikidata": "Q22774453",
+        "wikipedia": "zh:平度西站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9354508782,
+      "lon": 115.1862692,
+      "lat": 35.0334147,
+      "tags": {
+        "name": "庄寨",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:日兰高速": "427.584",
+        "railway:ref": "38972",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10536357430,
+      "lon": 120.2769203,
+      "lat": 37.459627,
+      "tags": {
+        "name": "招远",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:潍烟高速": "109.825",
+        "railway:ref": "55753",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6382928240,
+      "lon": 122.2534298,
+      "lat": 37.2404317,
+      "tags": {
+        "name": "文登东",
+        "name:en": "Wendengdong",
+        "name:zh": "文登东",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:青荣城际": "284.595",
+        "railway:ref": "18673",
+        "train": "yes",
+        "wikidata": "Q19855761",
+        "wikipedia": "zh:文登东站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10554222144,
+      "lon": 125.0704468,
+      "lat": 41.7140274,
+      "tags": {
+        "bus": "yes",
+        "name": "新宾",
+        "name:en": "Xinbin",
+        "name:zh": "新宾",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2025-09-28",
+        "train": "yes",
+        "wikidata": "Q135920946",
+        "wikipedia": "zh:新宾站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4765197373,
+      "lon": 104.1920332,
+      "lat": 30.8020223,
+      "tags": {
+        "alt_name": "新都东站;Xindu East;Xindu East Railway Station;Xindudong Railway Station",
+        "name": "新都东",
+        "name:en": "Xindudong",
+        "name:zh": "新都东",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q24831264",
+        "wikipedia": "zh:新都东站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9354508776,
+      "lon": 117.0181063,
+      "lat": 35.5109173,
+      "tags": {
+        "name": "曲阜南",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:日兰高速": "238.635",
+        "railway:ref": "38960",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2339632256,
+      "lon": 118.1177379,
+      "lat": 36.946761,
+      "tags": {
+        "alt_name": "桓台站;桓台火车站;Huantai Railway Station",
+        "name": "桓台",
+        "name:en": "Huantai",
+        "name:zh": "桓台",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:张东": "19.508",
+        "railway:ref": "18131",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5130313330,
+      "lon": 105.0722604,
+      "lat": 31.9853742,
+      "tags": {
+        "alt_name": "江油北站;Jiangyou North;Jiangyou North Railway Station;Jiangyoubei Railway Station",
+        "name": "江油北",
+        "name:en": "Jiangyoubei",
+        "name:zh": "江油北",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q28654315",
+        "wikipedia": "zh:江油北站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9255881277,
+      "lon": 117.2761614,
+      "lat": 35.5351641,
+      "tags": {
+        "name": "泗水南",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:日兰高速": "213.381",
+        "railway:ref": "38156"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9354508778,
+      "lon": 116.6082682,
+      "lat": 35.5245755,
+      "tags": {
+        "name": "济宁北",
+        "name:en": "Jiningbei",
+        "name:zh": "济宁北",
+        "network": "中国铁路",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:日兰高速": "278.072",
+        "railway:ref": "39864",
+        "start_date": "2021-12-26",
+        "train": "yes",
+        "wikidata": "Q110528669",
+        "wikipedia": "zh:济宁北站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10536348992,
+      "lon": 119.6665096,
+      "lat": 36.9765089,
+      "tags": {
+        "name": "灰埠",
+        "name:en": "Huibu",
+        "name:zh": "灰埠",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:潍烟高速": "30.612",
+        "railway:ref": "55751",
+        "start_date": "2024-10-21",
+        "toilets": "yes",
+        "train": "yes",
+        "wikidata": "Q133514647",
+        "wikipedia": "zh:灰埠站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8259765804,
+      "lon": 121.0495084,
+      "lat": 37.6571931,
+      "tags": {
+        "name": "烟台西",
+        "name:en": "Yantaixi",
+        "old_name": "大季家",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:季港": "0.908",
+        "railway:position:exact:潍烟高速": "198.418",
+        "railway:position:exact:龙烟": "80.830",
+        "railway:ref": "55748",
+        "train": "yes",
+        "wikidata": "Q117481174",
+        "wikipedia": "zh:烟台西站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7249740473,
+      "lon": 110.994977,
+      "lat": 29.0340034,
+      "tags": {
+        "name": "牛车河",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q81060016",
+        "wikipedia": "zh:牛车河站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3283374417,
+      "lon": 119.6708754,
+      "lat": 45.5623658,
+      "tags": {
+        "name": "珠斯花",
+        "name:en": "Zhusihua",
+        "name:ru": "Джус-Хуа",
+        "operator": "中国铁路沈阳局集团有限公司 霍林郭勒运营维修段",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "57155"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2329423073,
+      "lon": 114.6213979,
+      "lat": 38.0496512,
+      "tags": {
+        "alt_name:en": "Shijiazhuangdong",
+        "name": "石家庄东",
+        "name:de": "Shijiazhuang Ost",
+        "name:en": "Shijiazhuang East",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact": "19.490",
+        "railway:ref": "66866",
+        "train": "yes",
+        "wikidata": "Q15953466",
+        "wikipedia": "zh:石家庄东站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6382928235,
+      "lon": 121.3371502,
+      "lat": 37.4644676,
+      "tags": {
+        "name": "芝罘",
+        "name:en": "Zhifu",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:潍烟高速:上": "237.693",
+        "railway:position:exact:潍烟高速:下": "237.789",
+        "railway:position:exact:烟荣联络": "-0.789",
+        "railway:position:exact:青烟直通": "6.437",
+        "railway:ref": "18665"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3953290518,
+      "lon": 117.8391161,
+      "lat": 39.3283901,
+      "tags": {
+        "alt_name": "芦台站;芦台火车站;Lutai Railway Station",
+        "name": "芦台",
+        "name:en": "Lutai",
+        "postal_code": "301500",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "10199",
+        "railway:station_category": "CN:3",
+        "start_date": "1887",
+        "train": "yes",
+        "wikidata": "Q15911878",
+        "wikipedia": "zh:芦台站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10536357343,
+      "lon": 119.9138967,
+      "lat": 37.1329673,
+      "tags": {
+        "name": "莱州",
+        "operator": "山东高速轨道交通集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:潍烟高速": "59.455",
+        "railway:ref": "55752",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11247677863,
+      "lon": 120.7463381,
+      "lat": 36.7207329,
+      "tags": {
+        "name": "莱阳南",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:广深:四": "146.178",
+        "railway:position:exact:潍荣高速": "151.520",
+        "railway:ref": "18644",
+        "train": "yes",
+        "wikidata": "Q136009248"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4038110668,
+      "lon": 127.293615,
+      "lat": 43.726727,
+      "tags": {
+        "alt_name": "蛟河西站;Jiaohe West;Jiaohe West Railway Station;Jiaohexi Railway Station",
+        "name": "蛟河西",
+        "name:en": "Jiaohexi",
+        "name:zh": "蛟河西",
+        "operator": "中国铁路沈阳局集团有限公司 延吉车务段",
+        "railway": "station",
+        "railway:ref": "63065"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5332590673,
+      "lon": 117.5567323,
+      "lat": 44.6230757,
+      "tags": {
+        "name": "西乌旗",
+        "name:en": "Xiwuqi",
+        "name:zh": "西乌旗",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "DigitalGlobe Premium Imagery",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9255881279,
+      "lon": 117.9303602,
+      "lat": 35.3193907,
+      "tags": {
+        "name": "费县北",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:日兰高速": "146.690",
+        "railway:ref": "38152"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2381431791,
+      "lon": 127.4754868,
+      "lat": 42.1869367,
+      "tags": {
+        "alt_name": "松江河站;松江河火车站;Songjianghe Railway Station",
+        "name": "长白山西",
+        "name:en": "Changbaishanxi",
+        "name:zh": "长白山西",
+        "note": "2025年3月30日起，浑白铁路松江河站更名为长白山西站",
+        "old_name": "松江河",
+        "operator": "中国铁路沈阳局集团有限公司 通化车务段",
+        "railway": "station",
+        "railway:ref": "64742",
+        "wikidata": "Q28410929"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9546662163,
+      "lon": 104.9569401,
+      "lat": 33.377143,
+      "tags": {
+        "alt_name": "陇南站",
+        "name": "陇南",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q28417245"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10297769454,
+      "lon": 112.7919371,
+      "lat": 39.0483904,
+      "tags": {
+        "name": "雁门关",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7872489296,
+      "lon": 123.9653116,
+      "lat": 47.2824806,
+      "tags": {
+        "addr:city": "齐齐哈尔市",
+        "addr:district": "龙沙区",
+        "addr:housenumber": "136号",
+        "addr:postcode": "161000",
+        "addr:province": "黑龙江省",
+        "addr:street": "三合村",
+        "air_conditioning": "yes",
+        "alt_name": "齐齐哈尔南站;Qiqiha'er South;Qiqiha'er South Railway Station;Qiqiha'ernan Railway Station",
+        "internet_access": "no",
+        "name": "齐齐哈尔南",
+        "name:en": "Qiqiha'ernan",
+        "operator": "中国铁路哈尔滨局集团有限公司 齐齐哈尔站",
+        "railway": "station",
+        "railway:ref": "56675",
+        "train": "yes",
+        "wikidata": "Q7267906"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5075522332,
+      "lon": 120.517906,
+      "lat": 37.6183042,
+      "tags": {
+        "name": "龙口市",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:潍烟高速": "140.166",
+        "railway:position:exact:龙烟": "17.621",
+        "railway:ref": "18563"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7072113720,
+      "lon": 112.9287567,
+      "lat": 28.2341483,
+      "tags": {
+        "name": "八方山",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q54824031"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8069276053,
+      "lon": 118.1690204,
+      "lat": 37.4064587,
+      "tags": {
+        "alt_name": "利津南站;Lijin South;Lijin South Railway Station;Lijinnan Railway Station",
+        "name": "利津南",
+        "name:en": "Lijinnan",
+        "name:zh": "利津南",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:利港联络": "-1.109",
+        "railway:position:exact:德大": "182.203",
+        "railway:ref": "16249",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7164830501,
+      "lon": 117.0933612,
+      "lat": 37.4363824,
+      "tags": {
+        "name": "商河北",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:德大": "77.406",
+        "railway:ref": "16231",
+        "train": "yes",
+        "wikidata": "Q24835773"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9521843730,
+      "lon": 112.5307516,
+      "lat": 28.2995173,
+      "tags": {
+        "name": "宁乡西",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12260049299,
+      "lon": 111.9390138,
+      "lat": 28.8445213,
+      "tags": {
+        "addr:city": "常德市",
+        "addr:district": "汉寿县",
+        "addr:province": "湖南省",
+        "addr:street": "双驱路",
+        "name": "汉寿",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3500459008,
+      "lon": 106.2207032,
+      "lat": 29.5066589,
+      "tags": {
+        "name": "璧山",
+        "name:en": "Bishan",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "46552",
+        "wikidata": "Q4917330"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10556364298,
+      "lon": 126.4858931,
+      "lat": 41.9856769,
+      "tags": {
+        "name": "白山东",
+        "name:en": "Baishandong",
+        "name:ja": "白山東",
+        "name:ko": "바이산 동",
+        "name:zh": "白山东",
+        "name:zh-Hans": "白山东",
+        "name:zh-Hant": "白山東",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "53889",
+        "start_date": "2025-09-28",
+        "train": "yes",
+        "wikidata": "Q135920948",
+        "wikipedia": "zh:白山东站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9521850456,
+      "lon": 112.3214783,
+      "lat": 28.5181988,
+      "tags": {
+        "name": "益阳南",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9657303776,
+      "lon": 121.2110825,
+      "lat": 37.4841353,
+      "tags": {
+        "name": "福山",
+        "name:en": "Fushan",
+        "name:zh": "福山",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:潍烟高速": "223.710",
+        "railway:ref": "55754",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5075522342,
+      "lon": 120.7965615,
+      "lat": 37.7568482,
+      "tags": {
+        "name": "蓬莱",
+        "note": "2024年8月20日后，蓬莱市站更名蓬莱站",
+        "old_name": "蓬莱市",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:潍烟高速": "171.873",
+        "railway:position:exact:龙烟": "52.593",
+        "railway:ref": "18565",
+        "wikidata": "Q47500682",
+        "wikipedia": "zh:蓬莱站 (烟台市)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3410058504,
+      "lon": 112.9454149,
+      "lat": 28.2341084,
+      "tags": {
+        "name": "观沙岭",
+        "name:en": "Guanshaling",
+        "public_transport": "station",
+        "railway": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4391676558,
+      "lon": 117.6125701,
+      "lat": 37.5686529,
+      "tags": {
+        "alt_name": "阳信站;阳信火车站;Yangxin Railway Station",
+        "name": "阳信",
+        "name:en": "Yangxin",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:德大": "127.297",
+        "railway:ref": "16239",
+        "train": "yes",
+        "wikidata": "Q24835822"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8239658478,
+      "lon": 116.8389796,
+      "lat": 37.3125952,
+      "tags": {
+        "name": "临邑",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:德大": "50.593",
+        "railway:ref": "16227",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5229679253,
+      "lon": 111.9130844,
+      "lat": 37.0179736,
+      "tags": {
+        "alt_name": "介休站;介休火车站;Jiexiu Railway Station",
+        "name": "介休",
+        "name:en": "Jiexiu",
+        "name:zh": "介休",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q10884017",
+        "wikipedia": "zh:介休站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9126260256,
+      "lon": 124.1185836,
+      "lat": 50.4180875,
+      "tags": {
+        "alt_name": "加格达奇站;加格达奇火车站;Jiagedaqi Railway Station",
+        "name": "加格达奇",
+        "name:en": "Jiagedaqi",
+        "name:ru": "Джагдачи",
+        "name:zh": "加格达奇",
+        "operator": "中国铁路哈尔滨局集团有限公司 加格达奇车务段",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "58910",
+        "wikidata": "Q10900832",
+        "wikipedia": "zh:加格达奇站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3717120378,
+      "lon": 113.7845091,
+      "lat": 34.6794401,
+      "tags": {
+        "alt_name": "经开区站;经开区火车站;Jingkaiqu Railway Station",
+        "name": "南曹",
+        "name:de": "Nancao",
+        "name:en": "Nancao",
+        "name:zh": "南曹",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q27943284",
+        "wikipedia": "en:Nancao railway station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3717102991,
+      "lon": 113.6109018,
+      "lat": 34.8154786,
+      "tags": {
+        "alt_name": "南阳寨站;南阳寨火车站;Nanyangzhai Railway Station",
+        "name": "南阳寨",
+        "name:en": "Nanyangzhai",
+        "name:zh": "南阳寨",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikipedia": "zh:南阳寨站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9129186263,
+      "lon": 124.6028857,
+      "lat": 49.7474251,
+      "tags": {
+        "alt_name": "大杨树站;大杨树火车站;Dayangshu Railway Station",
+        "name": "大杨树",
+        "name:en": "Dayangshu",
+        "name:ru": "Даяншу",
+        "name:zh": "大杨树",
+        "operator": "中国铁路哈尔滨局集团有限公司 加格达奇车务段",
+        "railway": "station",
+        "railway:ref": "58868",
+        "wikidata": "Q10935744",
+        "wikipedia": "zh:大杨树站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10931476414,
+      "lon": 104.4428034,
+      "lat": 30.3163166,
+      "tags": {
+        "name": "天府机场",
+        "name:en": "Tianfu International Airport",
+        "name:zh": "天府机场",
+        "name:zh-Hans": "天府机场",
+        "name:zh-Hant": "天府機場",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5157238246,
+      "lon": 112.5636791,
+      "lat": 37.4212901,
+      "tags": {
+        "alt_name": "太谷站",
+        "name": "太谷",
+        "name:en": "Taigu",
+        "name:ru": "Тайгу",
+        "name:zh": "太谷",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q10941760",
+        "wikipedia": "zh:太谷站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1588514418,
+      "lon": 103.5752622,
+      "lat": 29.7538309,
+      "tags": {
+        "alt_name": "夹江站;Jiajiang;Jiajiang Railway Station",
+        "name": "夹江",
+        "name:en": "Jiajiang",
+        "old_name": "乐山北",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6708802185,
+      "lon": 114.2785621,
+      "lat": 34.7857534,
+      "tags": {
+        "alt_name": "宋城路站;宋城路火车站;Songchenglu Railway Station",
+        "name": "宋城路",
+        "name:en": "Songchenglu",
+        "name:zh": "宋城路",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikipedia": "en:Songchenglu railway station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2372888814,
+      "lon": 112.161594,
+      "lat": 37.2064926,
+      "tags": {
+        "addr:city": "Pingyao",
+        "addr:country": "CN",
+        "name": "平遥",
+        "name:en": "Pingyao",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q11061323"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6672557609,
+      "lon": 113.7692387,
+      "lat": 34.3835787,
+      "tags": {
+        "alt_name": "新郑站;新郑火车站;Xinzheng Railway Station",
+        "name": "新郑",
+        "name:de": "Xinzheng",
+        "name:en": "Xinzheng",
+        "name:fr": "Xinzheng",
+        "name:ja": "新鄭",
+        "name:vi": "Tân Trịnh",
+        "name:zh": "新郑",
+        "name:zh-Latn-pinyin": "Xīnzhèng",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q11084390",
+        "wikipedia": "zh:新郑站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8308266734,
+      "lon": 114.5510825,
+      "lat": 38.1621065,
+      "tags": {
+        "name": "正定",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact": "251.166",
+        "railway:ref": "20360",
+        "railway:station_category": "CN:3",
+        "start_date": "1902",
+        "wikidata": "Q11123404",
+        "wikipedia": "zh:正定站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9160197909,
+      "lon": 119.7356021,
+      "lat": 49.2287551,
+      "tags": {
+        "name": "海拉尔",
+        "name:en": "Hailaer",
+        "name:fr": "Gare de Hailaer",
+        "name:ru": "Хайлар",
+        "operator": "中国铁路哈尔滨局集团有限公司 海拉尔车务段",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "57785",
+        "start_date": "1903",
+        "train": "yes",
+        "wikidata": "Q11150806",
+        "wikipedia": "zh:海拉尔站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4391676555,
+      "lon": 118.0122142,
+      "lat": 37.4532549,
+      "tags": {
+        "alt_name": "滨州站;滨州火车站;Binzhou Railway Station",
+        "name": "滨州",
+        "name:en": "Binzhou",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:大唐滨州电厂": "-1.589",
+        "railway:position:exact:德大": "166.505",
+        "railway:position:exact:滨小联络": "-2.692",
+        "railway:position:exact:滨沾联络": "0.801",
+        "railway:ref": "16245",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4076265640,
+      "lon": 111.7653483,
+      "lat": 36.8597105,
+      "tags": {
+        "name": "灵石",
+        "public_transport": "station",
+        "railway": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9126260266,
+      "lon": 120.7311845,
+      "lat": 49.2770342,
+      "tags": {
+        "alt_name": "牙克石站;牙克石火车站;Yakeshi Railway Station",
+        "name": "牙克石",
+        "name:en": "Yakeshi",
+        "name:ru": "Якэши",
+        "name:zh": "牙克石",
+        "operator": "中国铁路哈尔滨局集团有限公司 海拉尔车务段",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "57749",
+        "train": "yes",
+        "wikidata": "Q17036346",
+        "wikipedia": "zh:牙克石站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7371981475,
+      "lon": 86.0604894,
+      "lat": 44.2674834,
+      "tags": {
+        "name": "石河子",
+        "public_transport": "station",
+        "railway": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5238964683,
+      "lon": 112.3245542,
+      "lat": 37.3458769,
+      "tags": {
+        "name": "祁县",
+        "name:en": "Qixian",
+        "name:ru": "Цисянь",
+        "public_transport": "station",
+        "railway": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6233214903,
+      "lon": 115.4454142,
+      "lat": 35.2229112,
+      "tags": {
+        "alt_name": "菏泽南站;Heze South;Heze South Railway Station;Hezenan Railway Station",
+        "name": "菏泽南",
+        "name:en": "Hezenan",
+        "name:zh": "菏泽南",
+        "operator": "中国铁路济南局集团有限公司",
+        "railway": "station",
+        "railway:position:exact:新兖": "158.905",
+        "railway:ref": "38288",
+        "train": "yes",
+        "wikidata": "Q19853608"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9320122089,
+      "lon": 113.8437948,
+      "lat": 34.7761075,
+      "tags": {
+        "name": "贾鲁河",
+        "name:en": "Jialuhe",
+        "network": "郑开城际铁路",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikipedia": "en:Jialuhe railway station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6708802113,
+      "lon": 114.1903439,
+      "lat": 34.797107,
+      "tags": {
+        "alt_name": "运粮河站;运粮河火车站;Yunlianghe Railway Station",
+        "name": "运粮河",
+        "name:en": "Yunlianghe",
+        "name:zh": "运粮河",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikipedia": "Yunlianghe railway station",
+        "wikipedia:zh": "运粮河站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4729023821,
+      "lon": 116.5779594,
+      "lat": 37.2932162,
+      "tags": {
+        "alt_name": "陵城站;陵城火车站;Lingcheng Railway Station",
+        "name": "陵城",
+        "name:en": "Lingcheng",
+        "operator": "中国铁路济南局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:德大": "27.239",
+        "railway:ref": "16223",
+        "train": "yes",
+        "wikidata": "Q24835761"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3717101415,
+      "lon": 113.5267584,
+      "lat": 34.9322488,
+      "tags": {
+        "alt_name": "黄河景区站;黄河景区火车站;Huanghejingqu Railway Station",
+        "name": "黄河景区",
+        "name:en": "Huanghejingqu",
+        "name:en1": "Yellow River Scenic Area",
+        "name:zh": "黄河景区",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2015",
+        "train": "yes",
+        "wikidata": "Q22100457",
+        "wikipedia": "zh:黄河景区站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3926612094,
+      "lon": 108.9350242,
+      "lat": 18.4471603,
+      "tags": {
+        "name": "乐东",
+        "name:en": "Ledong",
+        "name:zh": "乐东",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q24836916"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8437135034,
+      "lon": 105.0527903,
+      "lat": 29.5632623,
+      "tags": {
+        "alt_name": "内江东站;Neijiang East;Neijiang East Railway Station;Neijiangdong Railway Station",
+        "name": "内江东",
+        "name:en": "Neijiangdong",
+        "name:zh": "内江东",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8385846445,
+      "lon": 113.4852438,
+      "lat": 22.8687149,
+      "tags": {
+        "addr:city": "广州",
+        "addr:district": "南沙",
+        "addr:housenumber": "88",
+        "addr:province": "广东",
+        "addr:street": "庆沙路",
+        "alt_name:en": "Nansha North",
+        "name": "南沙北",
+        "name:en": "Nanshabei",
+        "name:zh": "南沙北",
+        "network": "广深港高速铁路",
+        "old_name": "庆盛",
+        "old_name:en": "Qingsheng",
+        "old_name:zh": "庆盛",
+        "operator": "中国铁路广州局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q1038121",
+        "wikipedia": "zh:南沙北站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7635531004,
+      "lon": 105.0560417,
+      "lat": 27.8232811,
+      "tags": {
+        "alt_name": "威信火车站",
+        "name": "威信",
+        "name:en": "Weixin",
+        "name:zh": "威信",
+        "official_name": "威信站",
+        "official_name:en": "Weixin Railway Station",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "47649",
+        "train": "yes",
+        "wikidata": "Q78331236",
+        "wikipedia": "zh:威信站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11124350882,
+      "lon": 109.1309317,
+      "lat": 35.411414,
+      "tags": {
+        "name": "宜君",
+        "name:en": "Yijun",
+        "name:zh": "宜君",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2025-12-26",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3740929616,
+      "lon": 103.4646539,
+      "lat": 29.5785842,
+      "tags": {
+        "alt_name": "峨眉山站;峨眉山火车站;Emeishan Railway Station",
+        "name": "峨眉山",
+        "name:en": "Emeishan",
+        "name:zh": "峨眉山",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q24834199",
+        "wikipedia": "zh:峨眉山站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3328336259,
+      "lon": 103.1356653,
+      "lat": 25.2425678,
+      "tags": {
+        "alt_name": "嵩明站;嵩明火车站;Songming Railway Station",
+        "name": "嵩明",
+        "name:en": "Songming",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q28059559"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4087268660,
+      "lon": 103.8595909,
+      "lat": 30.2103951,
+      "tags": {
+        "alt_name": "彭山北站;Pengshan North;Pengshan North Railway Station;Pengshanbei Railway Station",
+        "name": "彭山北",
+        "name:en": "Pengshanbei",
+        "name:zh": "彭山北",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8166863511,
+      "lon": 102.1646869,
+      "lat": 27.4001656,
+      "tags": {
+        "alt_name": "德昌西站;Dechang West Railway Station",
+        "name": "德昌西",
+        "name:en": "Dechang West",
+        "name:zh": "德昌西",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q110109739",
+        "wikipedia": "zh:德昌西站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11910000304,
+      "lon": 106.6723129,
+      "lat": 37.4782371,
+      "tags": {
+        "alt_name": "惠安堡站",
+        "name": "惠安堡",
+        "name:en": "Hui'anbao",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact": "西银客专:476.091",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7276282770,
+      "lon": 104.1686135,
+      "lat": 35.8515222,
+      "tags": {
+        "alt_name": "榆中站;榆中火车站;Yuzhong Railway Station",
+        "name": "榆中",
+        "name:en": "Yuzhong",
+        "name:zh": "榆中",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10925473050,
+      "lon": 107.5738319,
+      "lat": 25.8627773,
+      "tags": {
+        "name": "独山东",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7702806061,
+      "lon": 102.7900198,
+      "lat": 28.9320799,
+      "tags": {
+        "alt_name": "甘洛南站;Ganluonan;Ganluo South Railway Station",
+        "name": "甘洛南",
+        "name:en": "Ganluo South",
+        "name:zh": "甘洛南",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q110109738",
+        "wikipedia": "zh:甘洛南站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9269060395,
+      "lon": 115.8685484,
+      "lat": 39.0686429,
+      "tags": {
+        "name": "白洋淀",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact": "115.094",
+        "railway:ref": "20387"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9846723811,
+      "lon": 102.1259612,
+      "lat": 26.9095137,
+      "tags": {
+        "name": "米易东",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3174472512,
+      "lon": 113.8404771,
+      "lat": 36.1800198,
+      "tags": {
+        "name": "红旗渠",
+        "name:en": "Hongqiqu",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q135921035"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3949357977,
+      "lon": 116.7534957,
+      "lat": 39.1376536,
+      "tags": {
+        "alt_name": "胜芳站;胜芳火车站;Shengfang Railway Station",
+        "name": "胜芳",
+        "name:en": "Shengfang",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:津兴城际": "66.733",
+        "railway:position:exact:津霸城际": "36.159",
+        "railway:ref": "20381",
+        "train": "yes",
+        "wikidata": "Q23013337"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10925995018,
+      "lon": 108.1100343,
+      "lat": 23.9705395,
+      "tags": {
+        "name": "都安",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11124350855,
+      "lon": 109.0433024,
+      "lat": 35.089624,
+      "tags": {
+        "name": "铜川北",
+        "name:en": "Tongchuanbei",
+        "name:zh": "铜川北",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2025-12-26",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5485730495,
+      "lon": 111.9859931,
+      "lat": 21.8131032,
+      "tags": {
+        "name": "阳江",
+        "name:en": "Yangjiang",
+        "name:zh": "阳江",
+        "public_transport": "station",
+        "railway": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3931584035,
+      "lon": 116.3441688,
+      "lat": 39.092365,
+      "tags": {
+        "alt_name": "霸州西站;Bazhou West;Bazhou West Railway Station;Bazhouxi Railway Station",
+        "name": "霸州西",
+        "name:en": "Bazhouxi",
+        "note": "霸徐 K73+174 津霸上行 K82+464 津霸下行 K81+360",
+        "railway": "station",
+        "railway:position:exact": "73.174",
+        "railway:ref": "20383",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9527375843,
+      "lon": 112.8659875,
+      "lat": 23.1158845,
+      "tags": {
+        "alt_name": "三水南站",
+        "name": "三水南",
+        "name:en": "Sanshuinan",
+        "name:zh": "三水南",
+        "operator": "中国铁路广州局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9526280425,
+      "lon": 113.5014471,
+      "lat": 30.3232467,
+      "tags": {
+        "alt_name": "仙桃站",
+        "name": "仙桃",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3377844348,
+      "lon": 114.3748113,
+      "lat": 30.4688182,
+      "tags": {
+        "alt_name": "南湖东站;Nanhu East;Nanhu East Railway Station;Nanhudong Railway Station",
+        "name": "南湖东",
+        "name:en": "Nanhudong",
+        "name:zh": "南湖东",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q24839651",
+        "wikipedia": "zh:南湖东站 (武汉市)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9119790820,
+      "lon": 118.6333751,
+      "lat": 43.5229591,
+      "tags": {
+        "name": "大板",
+        "name:en": "Daban",
+        "name:mn": "ᠭᠠᠯᠲᠤ ᠲᠡᠷᠭᠡᠨ ᠦ᠌ ᠥᠷᠲᠡᠭᠡ",
+        "name:zh": "大板",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:集通": "601.619",
+        "railway:ref": "13198",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4585422027,
+      "lon": 103.5332886,
+      "lat": 30.5629877,
+      "tags": {
+        "alt_name": "大邑站;大邑火车站;Dayi Railway Station",
+        "name": "大邑",
+        "name:en": "Dayi",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9317600734,
+      "lon": 114.2114291,
+      "lat": 30.7727489,
+      "tags": {
+        "name": "天河机场",
+        "name:en": "Tianhe International Airport",
+        "name:zh": "天河机场",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q126960451"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3688836605,
+      "lon": 101.2048807,
+      "lat": 38.0943227,
+      "tags": {
+        "name": "山丹马场",
+        "name:en": "Shandanmachang",
+        "public_transport": "station",
+        "railway": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4585404860,
+      "lon": 103.680308,
+      "lat": 30.6125684,
+      "tags": {
+        "alt_name": "崇州站;崇州火车站;Chongzhou Railway Station",
+        "name": "崇州",
+        "name:en": "Chongzhou",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4585401968,
+      "lon": 103.4433349,
+      "lat": 30.1698298,
+      "tags": {
+        "alt_name": "朝阳湖站;朝阳湖火车站;Chaoyanghu Railway Station",
+        "name": "朝阳湖",
+        "name:en": "Chaoyanghu",
+        "name:zh": "朝阳湖",
+        "note": "包含西侧原叶家湾线路所三组道岔",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q60674807",
+        "wikipedia": "zh:朝阳湖站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2492511780,
+      "lon": 111.6017277,
+      "lat": 30.1754583,
+      "tags": {
+        "alt_name": "松滋西站;Songzixi Railway Station",
+        "name": "松滋西",
+        "name:en": "Songzixi",
+        "name:zh": "松滋西",
+        "old_name": "松滋;张家畈村畈",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 843276831,
+      "lon": 115.034171,
+      "lat": 42.279367,
+      "tags": {
+        "name": "正镶白旗",
+        "name:en": "Zhengxiangbaiqi",
+        "name:zh": "正镶白旗",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1578026849,
+      "lon": 112.8472049,
+      "lat": 36.8556679,
+      "tags": {
+        "alt_name": "武乡站;武乡火车站;Wuxiang Railway Station",
+        "name": "武乡东",
+        "name:en": "Wuxiang",
+        "name:zh": "武乡东",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8204698626,
+      "lon": 106.376122,
+      "lat": 26.8050308,
+      "tags": {
+        "name": "清镇西",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2492511750,
+      "lon": 111.5988868,
+      "lat": 29.8219977,
+      "tags": {
+        "alt_name": "澧县北站;澧县北火车站;Lixianbei Railway Station",
+        "name": "澧县北",
+        "name:en": "Lixianbei",
+        "name:zh": "澧县北",
+        "old_name": "澧县站;澧县火车站;Lixian Railway Station",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q17033870"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7434696459,
+      "lon": 103.9571804,
+      "lat": 29.3510787,
+      "tags": {
+        "alt_name": "犍为站;Qianwei Station;Qianwei Railway Station",
+        "name": "犍为",
+        "name:en": "Qianwei",
+        "name:zh": "犍为",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q59667943",
+        "wikipedia": "zh:犍为站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3257681290,
+      "lon": 113.927791,
+      "lat": 34.7814784,
+      "tags": {
+        "name": "绿博园",
+        "name:en": "Lvboyuan",
+        "name:ja": "緑博園",
+        "public_transport": "station",
+        "railway": "station",
+        "wikipedia": "en:Lüboyuan railway station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10931476416,
+      "lon": 104.6105499,
+      "lat": 29.8947574,
+      "tags": {
+        "name": "资中西",
+        "name:en": "Zizhongxi",
+        "name:zh": "资中西",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4585404888,
+      "lon": 103.4829162,
+      "lat": 30.41374,
+      "tags": {
+        "alt_name": "邛崃站;邛崃火车站;Qionglai Railway Station",
+        "name": "邛崃",
+        "name:en": "Qionglai",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4346679979,
+      "lon": 111.4641282,
+      "lat": 23.2479552,
+      "tags": {
+        "alt_name": "郁南站;郁南火车站;Yunan Railway Station",
+        "name": "郁南",
+        "name:en": "Yunan",
+        "name:zh": "郁南",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q20064141"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8018359582,
+      "lon": 112.1428665,
+      "lat": 32.1655592,
+      "tags": {
+        "alt_name": "郜营站;郜营火车站;Gaoying Railway Station",
+        "name": "郜营",
+        "name:en": "Gaoying",
+        "name:zh": "郜营",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3500369577,
+      "lon": 107.1999716,
+      "lat": 29.9679275,
+      "tags": {
+        "alt_name": "长寿湖站;长寿湖火车站;Changshouhu Railway Station",
+        "name": "长寿湖",
+        "name:en": "Changshouhu",
+        "name:zh": "长寿湖",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "65401",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9674103621,
+      "lon": 111.9049824,
+      "lat": 22.1891207,
+      "tags": {
+        "name": "阳春东",
+        "name:en": "Yangchundong",
+        "name:zh": "阳春东",
+        "name:zh-Hans": "阳春东",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position:exact:广湛高速": "190.331",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8536809977,
+      "lon": 113.2044496,
+      "lat": 31.7678634,
+      "tags": {
+        "name": "随县",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7369730796,
+      "lon": 103.0546975,
+      "lat": 30.0313155,
+      "tags": {
+        "alt_name": "雅安站;雅安火车站;Ya'an Railway Station",
+        "name": "雅安",
+        "name:en": "Ya'an",
+        "name:zh": "雅安",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q60164223",
+        "wikipedia": "zh:雅安站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3377737911,
+      "lon": 114.1360859,
+      "lat": 30.8257602,
+      "tags": {
+        "alt_name": "闵集站;闵集火车站;Minji Railway Station",
+        "name": "闵集",
+        "name:en": "Minji",
+        "name:zh": "闵集",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3628718237,
+      "lon": 113.9855785,
+      "lat": 30.8662303,
+      "tags": {
+        "alt_name": "毛陈站;毛陈火车站;Maochen Railway Station",
+        "name": "毛陈",
+        "name:en": "Maochen",
+        "name:zh": "毛陈",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8417536128,
+      "lon": 116.003504,
+      "lat": 29.8149711,
+      "tags": {
+        "alt_name": "小池口站;小池口火车站;Xiaochikou Railway Station",
+        "name": "小池口",
+        "name:en": "Xiaochikou",
+        "name:zh": "小池口",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2381093541,
+      "lon": 112.1782112,
+      "lat": 31.6319146,
+      "tags": {
+        "alt_name": "宜城南站;宜城南火车站;Yicheng South Railway Station",
+        "name": "宜城南",
+        "name:en": "Yichengnan",
+        "name:zh": "宜城南",
+        "old_name": "宜城;宜城站;宜城火车站;Yicheng Railway Station",
+        "old_name:en": "Yicheng",
+        "old_name:zh": "宜城",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "usage": "main"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1692209495,
+      "lon": 110.1939935,
+      "lat": 21.9543741,
+      "tags": {
+        "alt_name": "文地站;Wendi Railway Station;Wendi Station",
+        "name": "文地",
+        "name:en": "Wendi",
+        "name:zh": "文地",
+        "railway": "station",
+        "wikidata": "Q28412495",
+        "wikipedia": "zh:文地站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9497085064,
+      "lon": 130.0808024,
+      "lat": 45.1877526,
+      "tags": {
+        "name": "向阳",
+        "operator": "中国铁路哈尔滨局集团有限公司 牡丹江车务段",
+        "railway": "station",
+        "railway:ref": "61283"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3499334914,
+      "lon": 108.8086804,
+      "lat": 30.2619167,
+      "tags": {
+        "name": "凉雾",
+        "name:en": "Liangwu",
+        "railway": "station",
+        "railway:ref": "30182",
+        "wikidata": "Q6540057"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1763859669,
+      "lon": 107.7965626,
+      "lat": 30.9162375,
+      "tags": {
+        "alt_name": "开江南站;开江南火车站;Kaijiang Railway Station",
+        "name": "开江南",
+        "name:en": "Kaijiangnan",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q28413257"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9126260273,
+      "lon": 121.502995,
+      "lat": 50.775276,
+      "tags": {
+        "name": "根河",
+        "name:en": "Genhe",
+        "name:ru": "Гэньхэ",
+        "operator": "中国铁路哈尔滨局集团有限公司 海拉尔车务段",
+        "railway": "station",
+        "railway:ref": "58325",
+        "wikidata": "Q11111000",
+        "wikipedia": "zh:根河站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1613124731,
+      "lon": 111.94181,
+      "lat": 28.77311,
+      "tags": {
+        "alt_name": "汉寿南站",
+        "name": "汉寿南",
+        "name:en": "Hanshou South",
+        "name:zh": "汉寿南",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11357632967,
+      "lon": 106.6517924,
+      "lat": 29.7095733,
+      "tags": {
+        "name": "江北机场",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "35283",
+        "train": "yes",
+        "wikidata": "Q116247920"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9126260275,
+      "lon": 122.0674186,
+      "lat": 52.0349302,
+      "tags": {
+        "name": "满归",
+        "name:en": "Mangui",
+        "name:ru": "Маньгуй",
+        "operator": "中国铁路哈尔滨局集团有限公司 海拉尔车务段",
+        "railway": "station",
+        "railway:ref": "58421",
+        "wikidata": "Q17032351",
+        "wikipedia": "zh:满归站"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8330592279,
+      "lon": 113.8714671,
+      "lat": 29.7017285,
+      "tags": {
+        "alt_name": "蒲圻站;蒲圻火车站;Puqi Railway Station",
+        "name": "蒲圻",
+        "name:en": "Puqi",
+        "name:zh": "蒲圻",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q17034785"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7638983866,
+      "lon": 108.6877602,
+      "lat": 19.0901338,
+      "tags": {
+        "name": "东方",
+        "name:en": "Dongfang",
+        "name:zh": "东方",
+        "railway": "station",
+        "wikidata": "Q24837752"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13061379941,
+      "lon": 116.1861424,
+      "lat": 23.8069818,
+      "tags": {
+        "internet_access": "yes",
+        "name": "丰顺东",
+        "name:en": "Fengshun East",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2837802223,
+      "lon": 115.7806208,
+      "lat": 25.8298359,
+      "tags": {
+        "name": "会昌北",
+        "name:en": "Huichangbei",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q17499701"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4019707140,
+      "lon": 115.9701441,
+      "lat": 26.4032465,
+      "tags": {
+        "alt_name": "宁都站;宁都火车站;Ningdou Railway Station",
+        "name": "宁都",
+        "name:en": "Ningdou",
+        "name:zh": "宁都",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9202090143,
+      "lon": 116.5122816,
+      "lat": 23.5477424,
+      "tags": {
+        "name": "揭阳机场",
+        "railway": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11445451580,
+      "lon": 111.3936578,
+      "lat": 28.9075298,
+      "tags": {
+        "name": "桃源",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5774489263,
+      "lon": 104.273243,
+      "lat": 29.0091725,
+      "tags": {
+        "name": "泥溪",
+        "public_transport": "station",
+        "railway": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8154570894,
+      "lon": 111.5404632,
+      "lat": 26.4279204,
+      "tags": {
+        "name": "滩头湾",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4019707142,
+      "lon": 116.3449593,
+      "lat": 26.300227,
+      "tags": {
+        "alt_name": "石城站;石城火车站;Shicheng Railway Station",
+        "name": "石城东",
+        "name:en": "Shicheng Dong",
+        "name:zh": "石城东",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7781469283,
+      "lon": 117.2136283,
+      "lat": 26.2398837,
+      "tags": {
+        "alt_name": "明溪站;明溪火车站;Mingxi Railway Station",
+        "name": "明溪",
+        "name:en": "Mingxi",
+        "name:zh": "明溪",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7781469267,
+      "lon": 118.2503139,
+      "lat": 25.0642205,
+      "tags": {
+        "alt_name": "安溪东站;Anxi East;Anxi East Railway Station;Anxidong Railway Station",
+        "name": "安溪东",
+        "name:en": "Anxidong",
+        "name:zh": "安溪东",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7781469270,
+      "lon": 118.122548,
+      "lat": 25.3332364,
+      "tags": {
+        "alt_name": "永春站;永春火车站;Yongchun Railway Station",
+        "name": "永春",
+        "name:en": "Yongchun",
+        "name:zh": "永春",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7781469272,
+      "lon": 118.1777473,
+      "lat": 25.5068861,
+      "tags": {
+        "alt_name": "德化站;德化火车站;Dehua Railway Station",
+        "name": "德化",
+        "name:en": "Dehua",
+        "name:zh": "德化",
+        "name:zh-Hans": "德化",
+        "name:zh-Hant": "德化",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7781469275,
+      "lon": 117.8414933,
+      "lat": 25.7068642,
+      "tags": {
+        "alt_name": "大田站;大田火车站;Datian Railway Station",
+        "name": "大田北",
+        "name:en": "Datianbei",
+        "name:zh": "大田北",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7781469281,
+      "lon": 117.3800103,
+      "lat": 26.1765512,
+      "tags": {
+        "alt_name": "三元站;三元火车站;Sanyuan Railway Station",
+        "name": "三元西",
+        "name:en": "Sanyuanxi",
+        "name:zh": "三元西",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9292699684,
+      "lon": 110.0859059,
+      "lat": 35.2892238,
+      "tags": {
+        "name": "合阳北",
+        "name:en": "Heyangbei",
+        "name:zh": "合阳北",
+        "operator": "中国铁路西安局集团有限公司",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "28805",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4238806429,
+      "lon": 119.591247,
+      "lat": 25.757416,
+      "tags": {
+        "alt_name": "长乐南站;Changle South;Changle South Railway Station;Changlenan Railway Station",
+        "name": "长乐南",
+        "name:en": "Changlenan",
+        "name:zh": "长乐南",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7237831723,
+      "lon": 117.1489763,
+      "lat": 25.2440215,
+      "tags": {
+        "alt_name": "雁石南站;Yanshi South;Yanshi South Railway Station;Yanshinan Railway Station",
+        "name": "雁石南",
+        "name:en": "Yanshinan",
+        "name:zh": "雁石南",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
     }
   ]
 }

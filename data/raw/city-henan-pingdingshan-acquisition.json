@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "平顶山",
+  "stationCount": 6,
+  "candidateServices": 263,
+  "acquiredAdditionalServices": 30,
+  "failedPages": [
+    {
+      "trainNumber": "K8124",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

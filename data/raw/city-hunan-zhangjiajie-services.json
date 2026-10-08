@@ -1,0 +1,656 @@
+[
+  {
+    "trainNumber": "7265",
+    "category": "OTHER",
+    "stopNames": [
+      "张家界",
+      "吉首",
+      "麻阳",
+      "怀化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7265.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "df05ee430625626037c6a811a0cc24a160dfd70d6d79d1b279e99eb4aab8321d",
+    "elapsedMinutes": [
+      0,
+      191,
+      274,
+      343
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C7431",
+    "category": "C",
+    "stopNames": [
+      "张家界西",
+      "芙蓉镇",
+      "吉首东",
+      "凤凰古城",
+      "怀化南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c7431.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2c99e28611e7b4077d1fc5cbd29ec931724412c61c72af6bcb26c848d5fc9de2",
+    "elapsedMinutes": [
+      0,
+      23,
+      45,
+      58,
+      85
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C7432",
+    "category": "C",
+    "stopNames": [
+      "怀化南",
+      "凤凰古城",
+      "吉首东",
+      "芙蓉镇",
+      "张家界西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c7432.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "50eaa876c1f9a4cd6008e0e5cc3ecc4dbea6dcf2cabb7c2eea8d6683b8e4a1f7",
+    "elapsedMinutes": [
+      0,
+      24,
+      37,
+      60,
+      85
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C7433",
+    "category": "C",
+    "stopNames": [
+      "张家界西",
+      "芙蓉镇",
+      "古丈西",
+      "吉首东",
+      "凤凰古城",
+      "怀化南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c7433.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f4a55749ac258b0076fd671644fc2467644531ac4fe615aadb2a478f572e1e91",
+    "elapsedMinutes": [
+      0,
+      23,
+      40,
+      58,
+      70,
+      98
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C7434",
+    "category": "C",
+    "stopNames": [
+      "怀化南",
+      "吉首东",
+      "芙蓉镇",
+      "张家界西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c7434.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c6cc6dd8ae2d1a77c06d2cc4f3dc98f98b289e66b52e0015fe2b19f52291d74f",
+    "elapsedMinutes": [
+      0,
+      30,
+      53,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C7435",
+    "category": "C",
+    "stopNames": [
+      "张家界西",
+      "吉首东",
+      "凤凰古城",
+      "怀化南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c7435.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a01b1aeae9ae5a613cb55c0ce056884dd57001e78fbf1ea6ad6ba6434d2f5beb",
+    "elapsedMinutes": [
+      0,
+      38,
+      51,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C7436",
+    "category": "C",
+    "stopNames": [
+      "怀化南",
+      "凤凰古城",
+      "吉首东",
+      "芙蓉镇",
+      "张家界西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c7436.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a9b06dfd5633fdfafeec3d52b147ebeb1041e5ae282ed0bd988b2314252a3879",
+    "elapsedMinutes": [
+      0,
+      24,
+      37,
+      60,
+      86
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C7437",
+    "category": "C",
+    "stopNames": [
+      "张家界西",
+      "吉首东",
+      "凤凰古城",
+      "怀化南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c7437.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8ee3a0bcdd6c5233f557a0d61b4cd6636a810aecfb3dd27a01226fdd11631430",
+    "elapsedMinutes": [
+      0,
+      39,
+      51,
+      79
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C7438",
+    "category": "C",
+    "stopNames": [
+      "怀化南",
+      "吉首东",
+      "芙蓉镇",
+      "张家界西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c7438.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a41220b87694170f7d11ece98ff4e787300eefafe05dfbf0182734f3a5a410f2",
+    "elapsedMinutes": [
+      0,
+      30,
+      53,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C7439",
+    "category": "C",
+    "stopNames": [
+      "张家界西",
+      "芙蓉镇",
+      "吉首东",
+      "凤凰古城",
+      "怀化南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c7439.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c13e42656eb803e5cf9ea3b9609f35dc0b28771b6ebf54379549b0e02c055253",
+    "elapsedMinutes": [
+      0,
+      23,
+      45,
+      58,
+      85
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C7440",
+    "category": "C",
+    "stopNames": [
+      "怀化南",
+      "麻阳西",
+      "凤凰古城",
+      "吉首东",
+      "古丈西",
+      "芙蓉镇",
+      "张家界西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c7440.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d85ddad381d92be3665ceb697897f6d6876a538053c3f6d720acd5cf6f2b9483",
+    "elapsedMinutes": [
+      0,
+      19,
+      31,
+      44,
+      61,
+      74,
+      103
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C7441",
+    "category": "C",
+    "stopNames": [
+      "张家界西",
+      "芙蓉镇",
+      "古丈西",
+      "吉首东",
+      "凤凰古城",
+      "麻阳西",
+      "怀化南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c7441.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8fda382902b0c961e297f5e6b10987e84c093662fe5c414ffeb4300051ed73e0",
+    "elapsedMinutes": [
+      0,
+      23,
+      35,
+      52,
+      65,
+      78,
+      99
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C7442",
+    "category": "C",
+    "stopNames": [
+      "怀化南",
+      "麻阳西",
+      "凤凰古城",
+      "吉首东",
+      "古丈西",
+      "张家界西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c7442.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5051fb5a0a69a6816fa7404c17296b2df82beca13aecf540b095819f989305fc",
+    "elapsedMinutes": [
+      0,
+      19,
+      31,
+      44,
+      61,
+      92
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C7445",
+    "category": "C",
+    "stopNames": [
+      "张家界西",
+      "芙蓉镇",
+      "吉首东",
+      "凤凰古城",
+      "怀化南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c7445.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "29765186085929965dcc18bdb1d3052d8a772b8558973bd14d142826a145a82e",
+    "elapsedMinutes": [
+      0,
+      23,
+      45,
+      58,
+      85
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C7446",
+    "category": "C",
+    "stopNames": [
+      "怀化南",
+      "凤凰古城",
+      "吉首东",
+      "张家界西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c7446.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fb6294c9065bd24fbd06bbe91d1d3e48437f3ecabc3c5f641a32c4bf372268a3",
+    "elapsedMinutes": [
+      0,
+      24,
+      37,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8887",
+    "category": "C",
+    "stopNames": [
+      "张家界西",
+      "吉首东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8887.html",
+    "sourceUpdatedAt": "2026-04-06",
+    "sourceSha256": "cf3a8300f7b2fa81d74403f56e738b825e42cffae3b2831a6cbe31eca022b3f8",
+    "elapsedMinutes": [
+      0,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2452",
+    "category": "G",
+    "stopNames": [
+      "张家界西",
+      "龙山北",
+      "彭水西",
+      "重庆东",
+      "重庆西",
+      "内江北",
+      "简阳南",
+      "成都东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2452.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6e8c3d794217468c2686eb695689a7d94232ad33c4ea9e14b9f674941316b232",
+    "elapsedMinutes": [
+      0,
+      39,
+      94,
+      141,
+      200,
+      252,
+      280,
+      305
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4533",
+    "category": "G",
+    "stopNames": [
+      "张家界西",
+      "芙蓉镇",
+      "吉首东",
+      "凤凰古城",
+      "麻阳西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4533.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "6c8b665a0ef6e4a96be5b1046469a3c788d0114896e21b5561a20bc81cf0334b",
+    "elapsedMinutes": [
+      0,
+      24,
+      46,
+      60,
+      74
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G471",
+    "category": "G",
+    "stopNames": [
+      "张家界西",
+      "芙蓉镇",
+      "吉首东",
+      "凤凰古城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g471.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "6d7116efe9efa4b7bc16a58bcf901a2c399334069353ab8050ef66dec103ab8d",
+    "elapsedMinutes": [
+      0,
+      23,
+      45,
+      58
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G472",
+    "category": "G",
+    "stopNames": [
+      "怀化南",
+      "凤凰古城",
+      "吉首东",
+      "张家界西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g472.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3d92795ad45f3de8209523ff7b23ff8326077c4f5965bc8b00e4ff986ebd58e7",
+    "elapsedMinutes": [
+      351,
+      380,
+      393,
+      434
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4945",
+    "category": "G",
+    "stopNames": [
+      "重庆东",
+      "武隆南",
+      "彭水西",
+      "黔江",
+      "张家界西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4945.html",
+    "sourceUpdatedAt": "2026-08-12",
+    "sourceSha256": "09bb2219b517f1dc19853c019d0538218e37b34094275e249bcaad6468266694",
+    "elapsedMinutes": [
+      0,
+      38,
+      53,
+      76,
+      152
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5889",
+    "category": "G",
+    "stopNames": [
+      "湛江北",
+      "吴川",
+      "茂名南",
+      "新兴南",
+      "广州",
+      "张家界西",
+      "芙蓉镇",
+      "吉首东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5889.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "3637de4d0b41fbe3f97b8f3e7d9a57eed165be41086ffe0dca2b8fc8df868118",
+    "elapsedMinutes": [
+      0,
+      15,
+      27,
+      71,
+      113,
+      121,
+      148,
+      172
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5892",
+    "category": "G",
+    "stopNames": [
+      "湛江北",
+      "吴川",
+      "茂名南",
+      "新兴南",
+      "广州",
+      "张家界西",
+      "芙蓉镇",
+      "吉首东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5892.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "b14550b5d755a2afca64c9189decbd4db903edd397f433c767517f255e1572a7",
+    "elapsedMinutes": [
+      0,
+      15,
+      27,
+      71,
+      113,
+      121,
+      148,
+      172
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6596",
+    "category": "K",
+    "stopNames": [
+      "广州白云",
+      "韶关东",
+      "慈利",
+      "郴州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6596.html",
+    "sourceUpdatedAt": "2026-04-28",
+    "sourceSha256": "db2c0eda5479fb2dcdd24405a87e24c94f12e4ed4b0a7f8f384ef4f0d1d6bd32",
+    "elapsedMinutes": [
+      0,
+      137,
+      209,
+      242
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6597",
+    "category": "K",
+    "stopNames": [
+      "广州白云",
+      "韶关东",
+      "慈利",
+      "郴州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6597.html",
+    "sourceUpdatedAt": "2026-04-28",
+    "sourceSha256": "8dc7cb76f9816f11a01c9ffd9c3dbc137903c0df7fb2b7919f0b3b8d30231cd9",
+    "elapsedMinutes": [
+      0,
+      137,
+      209,
+      242
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

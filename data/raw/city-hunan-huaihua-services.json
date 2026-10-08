@@ -1,0 +1,874 @@
+[
+  {
+    "trainNumber": "7269",
+    "category": "OTHER",
+    "stopNames": [
+      "怀化",
+      "黔城",
+      "会同",
+      "靖州",
+      "通道",
+      "塘豹"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7269.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "aca5900fcabcb262472d2bcc631272cca311dacc28b5e66a705d6fef080ab10d",
+    "elapsedMinutes": [
+      0,
+      68,
+      132,
+      191,
+      241,
+      265
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7270",
+    "category": "OTHER",
+    "stopNames": [
+      "塘豹",
+      "通道",
+      "靖州",
+      "会同",
+      "黔城",
+      "怀化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7270.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8849ae49d7452bdceb6fb47a837fb517e72f60bc4b35efdd6fc26246b4cc55dc",
+    "elapsedMinutes": [
+      0,
+      19,
+      68,
+      129,
+      193,
+      285
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7271",
+    "category": "OTHER",
+    "stopNames": [
+      "梅江",
+      "松桃",
+      "桃映",
+      "铜仁",
+      "锦和",
+      "怀化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7271.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5e05b55dfde89577ad459b95aa8228c0d5544f46b438a85857c00ec68ac00b6e",
+    "elapsedMinutes": [
+      0,
+      22,
+      63,
+      89,
+      141,
+      191
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7272",
+    "category": "OTHER",
+    "stopNames": [
+      "怀化",
+      "锦和",
+      "铜仁",
+      "桃映",
+      "松桃",
+      "梅江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7272.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "11dbc21c88138b2801a806f77ca86a6d999df8063e9bdeb8d4efc75c72529488",
+    "elapsedMinutes": [
+      0,
+      44,
+      102,
+      127,
+      190,
+      226
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7277",
+    "category": "OTHER",
+    "stopNames": [
+      "怀化",
+      "新晃"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7277.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ad99a18d5637e6c7cf3b21c8d7ebc3c435d24d4492c6048db8a3276e4741e3a7",
+    "elapsedMinutes": [
+      0,
+      92
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9637",
+    "category": "G",
+    "stopNames": [
+      "广州南",
+      "虎门",
+      "怀化南",
+      "深圳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9637.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "f5cfd82bfd4c70c9d3f7127e66e12813ece2585001be1a71e50b65fe91d819dd",
+    "elapsedMinutes": [
+      0,
+      17,
+      32,
+      36
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9640",
+    "category": "G",
+    "stopNames": [
+      "广州南",
+      "虎门",
+      "怀化南",
+      "深圳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9640.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "6b770f03c1f491383dc6c5406074f8573f546b03db61bc8f0d452817bc299bfc",
+    "elapsedMinutes": [
+      0,
+      17,
+      32,
+      36
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4147",
+    "category": "K",
+    "stopNames": [
+      "重庆北",
+      "黔江",
+      "酉阳",
+      "秀山",
+      "怀化",
+      "广州白云"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4147.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "fbff38b128a12103929545a8d21fddf3cfecce622827f9de70ddeb83ced3b59e",
+    "elapsedMinutes": [
+      0,
+      223,
+      297,
+      335,
+      494,
+      1371
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4150",
+    "category": "K",
+    "stopNames": [
+      "重庆北",
+      "黔江",
+      "酉阳",
+      "秀山",
+      "怀化",
+      "广州白云"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4150.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "647f8cfd9d2b8d6752484cc7ca876ab724658c8beadb13e1807fc40f6a1bebab",
+    "elapsedMinutes": [
+      0,
+      223,
+      297,
+      335,
+      494,
+      1371
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4231",
+    "category": "K",
+    "stopNames": [
+      "达州",
+      "广安",
+      "重庆北",
+      "涪陵",
+      "彭水",
+      "黔江",
+      "酉阳",
+      "秀山",
+      "怀化",
+      "广州白云"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4231.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "923b08195221b864cafd3fc007a7b1ce0bd44c33ef2964a272c17c766dccd802",
+    "elapsedMinutes": [
+      0,
+      80,
+      185,
+      285,
+      379,
+      428,
+      489,
+      525,
+      711,
+      1684
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4232",
+    "category": "K",
+    "stopNames": [
+      "广州白云",
+      "娄底",
+      "怀化",
+      "秀山",
+      "酉阳",
+      "黔江",
+      "涪陵",
+      "重庆北",
+      "广安",
+      "渠县",
+      "达州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4232.html",
+    "sourceUpdatedAt": "2026-02-10",
+    "sourceSha256": "3f2351bcb972671433d076e3602982788ee97a3affa68c2fe18575e7e18859ad",
+    "elapsedMinutes": [
+      0,
+      562,
+      831,
+      1020,
+      1057,
+      1115,
+      1245,
+      1316,
+      1433,
+      1467,
+      1554
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4233",
+    "category": "K",
+    "stopNames": [
+      "广州白云",
+      "娄底",
+      "怀化",
+      "秀山",
+      "酉阳",
+      "黔江",
+      "涪陵",
+      "重庆北",
+      "广安",
+      "渠县",
+      "达州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4233.html",
+    "sourceUpdatedAt": "2026-02-10",
+    "sourceSha256": "4efef1a7d0a47cd4343a915f18e55133937b4a628fdd05ff2e9f4d95edb0f78a",
+    "elapsedMinutes": [
+      0,
+      562,
+      831,
+      1020,
+      1057,
+      1115,
+      1245,
+      1316,
+      1433,
+      1467,
+      1554
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4234",
+    "category": "K",
+    "stopNames": [
+      "达州",
+      "广安",
+      "重庆北",
+      "涪陵",
+      "彭水",
+      "黔江",
+      "酉阳",
+      "秀山",
+      "怀化",
+      "广州白云"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4234.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "d25ec3a67daab0e3defd002e4975b3c54a2cf8aaae992734e872f9d205628106",
+    "elapsedMinutes": [
+      0,
+      80,
+      185,
+      285,
+      379,
+      428,
+      489,
+      525,
+      711,
+      1684
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4655",
+    "category": "K",
+    "stopNames": [
+      "南充",
+      "广安南",
+      "重庆北",
+      "涪陵",
+      "武隆",
+      "彭水",
+      "黔江",
+      "酉阳",
+      "秀山",
+      "怀化",
+      "深圳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4655.html",
+    "sourceUpdatedAt": "2026-03-10",
+    "sourceSha256": "bb77952db42a1462bb4c7648fdbbd6ab87a5d81ea4ed281db4a9a461bf41e320",
+    "elapsedMinutes": [
+      0,
+      104,
+      202,
+      308,
+      368,
+      408,
+      456,
+      539,
+      596,
+      765,
+      1769
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4658",
+    "category": "K",
+    "stopNames": [
+      "南充",
+      "广安南",
+      "重庆北",
+      "涪陵",
+      "武隆",
+      "彭水",
+      "黔江",
+      "酉阳",
+      "秀山",
+      "怀化",
+      "深圳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4658.html",
+    "sourceUpdatedAt": "2026-03-10",
+    "sourceSha256": "5c2b79988c72169ce93bde818cfc22746a40e2bf11e2efba64db68fcdf5d457c",
+    "elapsedMinutes": [
+      0,
+      104,
+      202,
+      308,
+      368,
+      408,
+      456,
+      539,
+      596,
+      765,
+      1769
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4806",
+    "category": "K",
+    "stopNames": [
+      "东莞东",
+      "娄底",
+      "新化",
+      "怀化",
+      "秀山",
+      "酉阳",
+      "黔江",
+      "涪陵",
+      "重庆北",
+      "渠县",
+      "达州",
+      "梁平"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4806.html",
+    "sourceUpdatedAt": "2026-02-10",
+    "sourceSha256": "b1350bb628437fc0bc5adff6c2ce09ece4df045c40377fc3c999c30fc7c8373b",
+    "elapsedMinutes": [
+      0,
+      692,
+      775,
+      974,
+      1139,
+      1174,
+      1234,
+      1369,
+      1439,
+      1592,
+      1643,
+      1740
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4807",
+    "category": "K",
+    "stopNames": [
+      "东莞东",
+      "娄底",
+      "新化",
+      "怀化",
+      "秀山",
+      "酉阳",
+      "黔江",
+      "涪陵",
+      "重庆北",
+      "渠县",
+      "达州",
+      "梁平"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4807.html",
+    "sourceUpdatedAt": "2026-02-10",
+    "sourceSha256": "adab7560ef9812c9705f58260fca672075835c25197155fea1feeaa792cd8e1a",
+    "elapsedMinutes": [
+      0,
+      692,
+      775,
+      974,
+      1139,
+      1174,
+      1234,
+      1369,
+      1439,
+      1592,
+      1643,
+      1740
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K651",
+    "category": "K",
+    "stopNames": [
+      "湛江",
+      "遂溪",
+      "廉江",
+      "文地",
+      "陆川",
+      "玉林",
+      "兴业",
+      "贵港",
+      "柳州",
+      "罗城",
+      "融水",
+      "融安",
+      "靖州",
+      "怀化",
+      "酉阳",
+      "黔江",
+      "彭水",
+      "涪陵",
+      "重庆北",
+      "合川",
+      "南充北",
+      "南部"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k651.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "634c551060106b4b710f44f751656b9616e044715b5b6eafdd0a574aae4df297",
+    "elapsedMinutes": [
+      0,
+      21,
+      43,
+      78,
+      112,
+      145,
+      177,
+      218,
+      355,
+      440,
+      468,
+      493,
+      679,
+      815,
+      1065,
+      1126,
+      1175,
+      1285,
+      1363,
+      1444,
+      1516,
+      1558
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K652",
+    "category": "K",
+    "stopNames": [
+      "南部",
+      "武胜",
+      "重庆北",
+      "涪陵",
+      "黔江",
+      "怀化",
+      "靖州",
+      "通道",
+      "融安",
+      "融水",
+      "罗城",
+      "柳州",
+      "贵港",
+      "玉林",
+      "河唇",
+      "廉江",
+      "遂溪",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k652.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4e0b8065eed4959ab5fb5e0b742e75718fc29ff499f50fe9c73ce6995cbe11d0",
+    "elapsedMinutes": [
+      0,
+      71,
+      151,
+      258,
+      409,
+      666,
+      838,
+      875,
+      1048,
+      1073,
+      1102,
+      1179,
+      1320,
+      1389,
+      1492,
+      1506,
+      1531,
+      1558
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K653",
+    "category": "K",
+    "stopNames": [
+      "南部",
+      "武胜",
+      "重庆北",
+      "涪陵",
+      "黔江",
+      "怀化",
+      "靖州",
+      "通道",
+      "融安",
+      "融水",
+      "罗城",
+      "柳州",
+      "贵港",
+      "玉林",
+      "河唇",
+      "廉江",
+      "遂溪",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k653.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d3808cc45557ecbaeb8bb2b6dc23e45d63496ba9996c71e695bb4cbe3355e46d",
+    "elapsedMinutes": [
+      0,
+      71,
+      151,
+      258,
+      409,
+      666,
+      838,
+      875,
+      1048,
+      1073,
+      1102,
+      1179,
+      1320,
+      1389,
+      1492,
+      1506,
+      1531,
+      1558
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K654",
+    "category": "K",
+    "stopNames": [
+      "湛江",
+      "遂溪",
+      "廉江",
+      "文地",
+      "陆川",
+      "玉林",
+      "兴业",
+      "贵港",
+      "柳州",
+      "罗城",
+      "融水",
+      "融安",
+      "靖州",
+      "怀化",
+      "酉阳",
+      "黔江",
+      "彭水",
+      "涪陵",
+      "重庆北",
+      "合川",
+      "南充北",
+      "南部"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k654.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b222a63424489926220b45ed21cb1f0920f94e628f65d19412d4b2cc7afa0a18",
+    "elapsedMinutes": [
+      0,
+      21,
+      43,
+      78,
+      112,
+      145,
+      177,
+      218,
+      355,
+      440,
+      468,
+      493,
+      679,
+      815,
+      1065,
+      1126,
+      1175,
+      1285,
+      1363,
+      1444,
+      1516,
+      1558
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9205",
+    "category": "K",
+    "stopNames": [
+      "怀化",
+      "黔城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9205.html",
+    "sourceUpdatedAt": "2026-07-28",
+    "sourceSha256": "ce1205f7a4fb5545bdd36a71ad937b5c2eabc1a27e4584a4157a29adfd944e3e",
+    "elapsedMinutes": [
+      0,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9206",
+    "category": "K",
+    "stopNames": [
+      "黔城",
+      "怀化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9206.html",
+    "sourceUpdatedAt": "2026-07-28",
+    "sourceSha256": "cab30e0210f02a3721a42130baa4a0a153dc0f49681bccde735710eb9e7b8865",
+    "elapsedMinutes": [
+      0,
+      59
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y845",
+    "category": "OTHER",
+    "stopNames": [
+      "娄底",
+      "涟源",
+      "新化",
+      "怀化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y845.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "447d411f7d9a233cdffb48274865ba524d0c6a7ede26dfd57b8d49022efd083c",
+    "elapsedMinutes": [
+      0,
+      36,
+      81,
+      280
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y846",
+    "category": "OTHER",
+    "stopNames": [
+      "怀化",
+      "新化",
+      "涟源",
+      "娄底"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y846.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "68ce2cd1f55df4c718d237f5a2adcdb68459033d1ce3e34f3f36608fc1a2bb6d",
+    "elapsedMinutes": [
+      0,
+      175,
+      219,
+      273
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y92",
+    "category": "OTHER",
+    "stopNames": [
+      "昆明",
+      "怀化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y92.html",
+    "sourceUpdatedAt": "2026-03-30",
+    "sourceSha256": "c6a6f1ccc7cf54b1b309de9b7a943d2ea212038bdaf6396368b0f6422cf17868",
+    "elapsedMinutes": [
+      0,
+      1137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

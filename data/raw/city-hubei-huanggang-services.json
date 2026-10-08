@@ -1,0 +1,58 @@
+[
+  {
+    "trainNumber": "6025",
+    "category": "OTHER",
+    "stopNames": [
+      "麻城",
+      "黄州",
+      "浠水",
+      "蕲春",
+      "武穴",
+      "九江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6025.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "313f54633645cd8e9974acfcfb0d268f9d4285b80dc5c52924e88aefe5c82624",
+    "elapsedMinutes": [
+      0,
+      60,
+      84,
+      113,
+      146,
+      202
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6026",
+    "category": "OTHER",
+    "stopNames": [
+      "九江",
+      "武穴",
+      "蕲春",
+      "浠水",
+      "黄州",
+      "麻城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6026.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "82cda71a944e8840fe0ac9ccd5a194688b15bfa41f6f4d2638e17b74c927eb7e",
+    "elapsedMinutes": [
+      0,
+      61,
+      96,
+      123,
+      148,
+      208
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

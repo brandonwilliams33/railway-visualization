@@ -1,0 +1,198 @@
+[
+  {
+    "trainNumber": "K4039",
+    "category": "K",
+    "stopNames": [
+      "上饶",
+      "横峰",
+      "弋阳",
+      "贵溪",
+      "鹰潭",
+      "东乡",
+      "新干",
+      "吉安",
+      "泰和",
+      "兴国",
+      "东莞东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4039.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "eab9f190c548313e29f601f188c6a601ce083626a6f0842819a0888183adf442",
+    "elapsedMinutes": [
+      0,
+      27,
+      48,
+      71,
+      93,
+      135,
+      295,
+      353,
+      381,
+      436,
+      885
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4765",
+    "category": "K",
+    "stopNames": [
+      "贵阳",
+      "贵定",
+      "凯里",
+      "施秉",
+      "镇远",
+      "玉屏",
+      "怀化",
+      "鹰潭",
+      "贵溪",
+      "弋阳",
+      "横峰",
+      "武夷山",
+      "延平东",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4765.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "bcaf50ac2af4f942b9f8682813006a8784dc8f7c3ad615d2fa65546fca569f54",
+    "elapsedMinutes": [
+      0,
+      58,
+      161,
+      212,
+      255,
+      364,
+      486,
+      1225,
+      1269,
+      1292,
+      1310,
+      1462,
+      1711,
+      2051
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4768",
+    "category": "K",
+    "stopNames": [
+      "贵阳",
+      "贵定",
+      "凯里",
+      "施秉",
+      "镇远",
+      "玉屏",
+      "怀化",
+      "鹰潭",
+      "贵溪",
+      "弋阳",
+      "横峰",
+      "武夷山",
+      "延平东",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4768.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "caf1534ab079259bdfc5312923c657befa61f6cae8d9cbc0d604886c0fdb546d",
+    "elapsedMinutes": [
+      0,
+      58,
+      161,
+      212,
+      255,
+      364,
+      486,
+      1225,
+      1269,
+      1292,
+      1310,
+      1462,
+      1711,
+      2051
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8720",
+    "category": "K",
+    "stopNames": [
+      "鹰潭",
+      "贵溪",
+      "弋阳",
+      "横峰",
+      "上饶"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8720.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d7ddc577cc205b94761077ed8c0e72e8b28b54d7e5daa182e41ab1468373bb4b",
+    "elapsedMinutes": [
+      0,
+      16,
+      39,
+      57,
+      89
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y527",
+    "category": "OTHER",
+    "stopNames": [
+      "上饶",
+      "弋阳",
+      "鹰潭"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y527.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "374a41ba1c1bc6a424f9cb2694874f4a6f898b808387d9bb6ef6ca33a7d64eb3",
+    "elapsedMinutes": [
+      0,
+      38,
+      82
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y528",
+    "category": "OTHER",
+    "stopNames": [
+      "鹰潭",
+      "弋阳",
+      "上饶"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y528.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f054719ba693044a188376279f0e52e000bd97d000a32c8db85d1415e70b904b",
+    "elapsedMinutes": [
+      0,
+      32,
+      81
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

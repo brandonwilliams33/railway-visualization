@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "聊城",
+  "stationCount": 8,
+  "candidateServices": 398,
+  "acquiredAdditionalServices": 46,
+  "failedPages": [
+    {
+      "trainNumber": "K928",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    }
+  ],
+  "stationIssues": []
+}

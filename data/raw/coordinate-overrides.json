@@ -4,7 +4,8 @@
     "常山": "Exact Chinese railway station inside Zhejiang; Japanese homonym excluded.",
     "郏县": "OSM node linked to Wikidata Q67934462, the Zhengzhou–Chongqing high-speed railway station.",
     "鄯善北": "Exact name:zh on the bilingual OSM station node.",
-    "香港西九龙": "Exact name:zh-Hans on the Hong Kong West Kowloon railway station node."
+    "香港西九龙": "Exact name:zh-Hans on the Hong Kong West Kowloon railway station node.",
+    "阳江": "Natural Earth coastal generalization omits this station point. Exact Chinese OSM railway node verified independently; Wikidata Q56118282 identifies Guangdong Yangjiang railway station."
   },
   "stations": [
     {
@@ -54,6 +55,19 @@
       "isHub": false,
       "major": false,
       "coordinateSource": "https://www.openstreetmap.org/node/7919700008"
+    },
+    {
+      "id": "st-osm-node-5485730495",
+      "name": "阳江",
+      "city": "阳江",
+      "province": "广东",
+      "provinceId": "guangdong",
+      "longitude": 111.9859931,
+      "latitude": 21.8131032,
+      "isHub": false,
+      "major": true,
+      "coordinateSource": "https://www.openstreetmap.org/node/5485730495",
+      "identitySource": "https://www.wikidata.org/wiki/Q56118282"
     }
   ]
 }

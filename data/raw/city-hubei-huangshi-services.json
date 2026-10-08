@@ -1,0 +1,166 @@
+[
+  {
+    "trainNumber": "D7042",
+    "category": "D",
+    "stopNames": [
+      "大冶北",
+      "荆州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7042.html",
+    "sourceUpdatedAt": "2026-04-11",
+    "sourceSha256": "b6fc7c4af919edc15d67be57100ddeacf1bcbe5901b732b4250e5302114cf553",
+    "elapsedMinutes": [
+      0,
+      136
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7043",
+    "category": "D",
+    "stopNames": [
+      "大冶北",
+      "荆州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7043.html",
+    "sourceUpdatedAt": "2026-04-11",
+    "sourceSha256": "93f32354013ec7642cb3b08619ca4287461ec7ab1fbe51679b93c14c73421ef5",
+    "elapsedMinutes": [
+      0,
+      136
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4872",
+    "category": "K",
+    "stopNames": [
+      "福州",
+      "鹰潭",
+      "黄石",
+      "鄂州",
+      "安康",
+      "万源",
+      "达州",
+      "营山",
+      "蓬安",
+      "南充"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4872.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "9237f37ee46d1d40d916eaaa67fc1331f82a36c956e4a4ff3838af569648e443",
+    "elapsedMinutes": [
+      0,
+      732,
+      1183,
+      1235,
+      1916,
+      2039,
+      2138,
+      2215,
+      2242,
+      2283
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4873",
+    "category": "K",
+    "stopNames": [
+      "福州",
+      "鹰潭",
+      "黄石",
+      "鄂州",
+      "安康",
+      "万源",
+      "达州",
+      "营山",
+      "蓬安",
+      "南充"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4873.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "2ac32d50110b812bc8400cd5203fbd19221917cbf22f054cc287d6163a4d115f",
+    "elapsedMinutes": [
+      0,
+      732,
+      1183,
+      1235,
+      1916,
+      2039,
+      2138,
+      2215,
+      2242,
+      2283
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y136",
+    "category": "OTHER",
+    "stopNames": [
+      "成都西",
+      "南充",
+      "达州",
+      "黄石",
+      "九江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y136.html",
+    "sourceUpdatedAt": "2026-04-05",
+    "sourceSha256": "7d930fa9edff14efcc3090bbab2fe028ecbbcf779122d93e09a8906d8df389fd",
+    "elapsedMinutes": [
+      0,
+      200,
+      301,
+      1208,
+      1359
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y137",
+    "category": "OTHER",
+    "stopNames": [
+      "成都西",
+      "南充",
+      "达州",
+      "黄石",
+      "九江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y137.html",
+    "sourceUpdatedAt": "2026-04-05",
+    "sourceSha256": "34be13e0f70f1201ae96d0afa4909ad5839f0b2f84d1efa873b2e59e110ebff7",
+    "elapsedMinutes": [
+      0,
+      200,
+      301,
+      1208,
+      1359
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "trainNumber": "8161",
+    "category": "OTHER",
+    "stopNames": [
+      "轩岗",
+      "原平"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/8161.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1c432d602cfc965f4a20e24e6aa55ca400d95317e9b955f0d023d9a946c67046",
+    "elapsedMinutes": [
+      0,
+      41
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "8162",
+    "category": "OTHER",
+    "stopNames": [
+      "原平",
+      "轩岗"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/8162.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2f43aa074ff31169c71dbaa86c9a9fc78a5e0bece56bd02b35478913e6c6c491",
+    "elapsedMinutes": [
+      0,
+      61
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "8163",
+    "category": "OTHER",
+    "stopNames": [
+      "轩岗",
+      "原平"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/8163.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f7334d4aef66bed895650edc3713729fa4401184c21a72a508ee0c8a2ba9f471",
+    "elapsedMinutes": [
+      0,
+      61
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "8164",
+    "category": "OTHER",
+    "stopNames": [
+      "原平",
+      "轩岗"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/8164.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "59cd8c6b3bbc38a228ad8f766148f368398e2e40cf30759a27f5bc767be6f161",
+    "elapsedMinutes": [
+      0,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "8821",
+    "category": "OTHER",
+    "stopNames": [
+      "忻州",
+      "定襄",
+      "蒋村",
+      "河边"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/8821.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3dba25b8520ccc17b6c49a9a6f771ffad5c7eb341eb5885815db07191814bb98",
+    "elapsedMinutes": [
+      0,
+      27,
+      43,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "8822",
+    "category": "OTHER",
+    "stopNames": [
+      "河边",
+      "蒋村",
+      "定襄",
+      "忻州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/8822.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d17ab7db177a0c22914482bdd100decb5131d6d17164227c91f08fb5636c4c7a",
+    "elapsedMinutes": [
+      0,
+      13,
+      27,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "8833",
+    "category": "OTHER",
+    "stopNames": [
+      "宁武",
+      "神池",
+      "五寨",
+      "安塘",
+      "秦家庄",
+      "岢岚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/8833.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7f393a4319ca95b444029ed1234840518a2e19a9ebea993321b5a0df6a8a42cf",
+    "elapsedMinutes": [
+      0,
+      24,
+      83,
+      106,
+      117,
+      132
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "8834",
+    "category": "OTHER",
+    "stopNames": [
+      "岢岚",
+      "秦家庄",
+      "安塘",
+      "五寨",
+      "神池",
+      "宁武"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/8834.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e366f1811e437c6432c3d64b28ed51cfe2c5bebca7482cadd2fa2ba0b7a8ac5f",
+    "elapsedMinutes": [
+      0,
+      12,
+      23,
+      45,
+      106,
+      132
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

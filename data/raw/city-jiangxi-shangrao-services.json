@@ -1,0 +1,282 @@
+[
+  {
+    "trainNumber": "C9569",
+    "category": "C",
+    "stopNames": [
+      "上饶",
+      "南平市",
+      "建瓯西",
+      "延平",
+      "闽清北",
+      "福州",
+      "福州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c9569.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "db3e6ac267463f972043563e8f0c31fc158d601818ec7816add64da9a016c0ed",
+    "elapsedMinutes": [
+      0,
+      29,
+      47,
+      65,
+      89,
+      113,
+      133
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C9570",
+    "category": "C",
+    "stopNames": [
+      "福州南",
+      "福州",
+      "延平",
+      "建瓯西",
+      "南平市",
+      "上饶"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c9570.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "c67edd646315de8037cbe2403770b96a7115e5654e77c1be23691f601d3f45d7",
+    "elapsedMinutes": [
+      0,
+      15,
+      52,
+      70,
+      87,
+      120
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D2304",
+    "category": "D",
+    "stopNames": [
+      "深圳北",
+      "惠阳",
+      "惠东南",
+      "汕尾",
+      "潮阳",
+      "潮汕",
+      "饶平",
+      "诏安",
+      "漳浦",
+      "漳州",
+      "厦门北",
+      "晋江",
+      "泉州",
+      "惠安",
+      "仙游",
+      "莆田",
+      "福州南",
+      "福州",
+      "延平",
+      "建瓯西",
+      "南平市",
+      "武夷山北",
+      "上饶"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d2304.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ea9931cfba113eb546bc9946a2fa12fc090aa7b4e94e266a4a2423965ca52d9f",
+    "elapsedMinutes": [
+      0,
+      22,
+      36,
+      60,
+      98,
+      113,
+      130,
+      142,
+      166,
+      184,
+      207,
+      229,
+      243,
+      257,
+      271,
+      284,
+      318,
+      334,
+      377,
+      397,
+      417,
+      432,
+      459
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D2325",
+    "category": "D",
+    "stopNames": [
+      "上饶",
+      "五府山",
+      "武夷山北",
+      "南平市",
+      "建瓯西",
+      "延平",
+      "古田北",
+      "闽清北",
+      "福州",
+      "福清",
+      "莆田",
+      "泉州",
+      "厦门北",
+      "漳州",
+      "云霄",
+      "潮汕",
+      "普宁",
+      "陆丰",
+      "汕尾",
+      "惠阳",
+      "深圳坪山",
+      "深圳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d2325.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4ce3ba51606b343c8074f7f766c2e0a1e8f0458f4e10edf8f40d1f917dcfbea0",
+    "elapsedMinutes": [
+      0,
+      12,
+      31,
+      46,
+      66,
+      86,
+      104,
+      118,
+      140,
+      174,
+      197,
+      225,
+      255,
+      280,
+      308,
+      339,
+      358,
+      380,
+      395,
+      436,
+      447,
+      467
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y535",
+    "category": "OTHER",
+    "stopNames": [
+      "上饶",
+      "弋阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y535.html",
+    "sourceUpdatedAt": "2026-05-16",
+    "sourceSha256": "2bd054dbd51f1472ab2d848faa602206657c2584756325bf9c84d5324712d144",
+    "elapsedMinutes": [
+      0,
+      37
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y573",
+    "category": "OTHER",
+    "stopNames": [
+      "上饶",
+      "武夷山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y573.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "52a167c83c9c87716c7f508e3bda412111df85542af58640817889899e3bdaa1",
+    "elapsedMinutes": [
+      0,
+      133
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y574",
+    "category": "OTHER",
+    "stopNames": [
+      "武夷山",
+      "上饶"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y574.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "999c6ef05a20ee19d8143c1c57ce32536b42f41acc3b2e14bd150e7e96c5d598",
+    "elapsedMinutes": [
+      0,
+      135
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y575",
+    "category": "OTHER",
+    "stopNames": [
+      "上饶",
+      "弋阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y575.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "536478c51de0945066598960c9e8526a431c7d657bdadd4e4f0a5f4f04f7fa56",
+    "elapsedMinutes": [
+      0,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y576",
+    "category": "OTHER",
+    "stopNames": [
+      "弋阳",
+      "上饶"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y576.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "c4bc671f3c71c63bd0c7a27063a3b9aeb390543e3566da5d4c81ef29ace6e679",
+    "elapsedMinutes": [
+      0,
+      39
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

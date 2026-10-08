@@ -1,0 +1,95 @@
+{
+  "description": "补充共用绘图走廊的来源核验。历史线路身份及客运用途仅用于筛选绘图通道，不证明特定列车的实际径路或当前开行；直达关系独立采用完整停站事实。",
+  "corridors": [
+    {
+      "names": [
+        "辛泰线"
+      ],
+      "evidenceUrl": "https://www.mct.gov.cn/preview/special/9160/llxl/202009/t20200923_875337.htm",
+      "serviceEvidence": [
+        "7053",
+        "7054"
+      ]
+    },
+    {
+      "names": [
+        "干武线"
+      ],
+      "evidenceUrl": "https://www.nxzw.gov.cn/zmhd/yjzj/202308/P020230801397392186711.pdf",
+      "serviceEvidence": [
+        "Z355",
+        "Z358"
+      ]
+    },
+    {
+      "names": [
+        "达万线"
+      ],
+      "evidenceUrl": "https://www.cqlp.gov.cn/jtj/zwgk_28970/fdzdgknr_28972/qt/202309/W020250206379791590438.pdf",
+      "serviceEvidence": [
+        "K1267",
+        "K1268"
+      ]
+    },
+    {
+      "names": [
+        "平齐线",
+        "榆树线",
+        "榆红线"
+      ],
+      "evidenceUrl": "https://www.hljszw.org.cn/home/book/info/get_id/266534.html",
+      "serviceEvidence": [
+        "K925",
+        "K926"
+      ]
+    },
+    {
+      "names": [
+        "侯西线",
+        "西韩线",
+        "侯阎线"
+      ],
+      "evidenceUrl": "https://dfz.shaanxi.gov.cn/zslm/fzzlk/xbsxsz/szdylpdf/201404/P020240923618941568641.pdf",
+      "serviceEvidence": [
+        "K2096",
+        "K2097"
+      ]
+    },
+    {
+      "names": [
+        "兴泉线",
+        "浦梅线",
+        "南龙线"
+      ],
+      "evidenceUrl": "https://fgw.fujian.gov.cn/ztzl/tljsbgs/fjstlfzqk/fjtljscg/202212/t20221229_6084969.htm",
+      "serviceEvidence": [
+        "C879",
+        "C880"
+      ],
+      "note": "兴泉清流至泉州段办理客运；浦梅、南龙为衔接的公开客运走廊。"
+    },
+    {
+      "names": [
+        "邯长线"
+      ],
+      "evidenceUrl": "https://ggzyfw.beijing.gov.cn/cmsbj/u/cms/cn.gov.bjggzyfw.www/202408/3536874622433.pdf",
+      "serviceEvidence": [
+        "6043",
+        "6044",
+        "6423",
+        "6424"
+      ]
+    },
+    {
+      "names": [
+        "哈佳线",
+        "哈佳铁路"
+      ],
+      "evidenceUrl": "https://www.ndrc.gov.cn/fggz/zcssfz/dffz/201810/t20181031_1147978.html",
+      "serviceEvidence": [
+        "G1238",
+        "G1239"
+      ]
+    }
+  ]
+}

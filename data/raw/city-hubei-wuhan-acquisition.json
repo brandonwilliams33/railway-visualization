@@ -1,0 +1,30 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "武汉",
+  "stationCount": 10,
+  "candidateServices": 2548,
+  "acquiredAdditionalServices": 1313,
+  "failedPages": [
+    {
+      "trainNumber": "C5040",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "C5306",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "D9282",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "G6770",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "K6168",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

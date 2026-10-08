@@ -1,0 +1,30 @@
+[
+  {
+    "trainNumber": "Y88",
+    "category": "OTHER",
+    "stopNames": [
+      "深州",
+      "韶关东",
+      "郴州",
+      "衡阳",
+      "株洲",
+      "长沙"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y88.html",
+    "sourceUpdatedAt": "2026-04-16",
+    "sourceSha256": "b7dda6eeafcd2c0de4f270f1d72ea619a7afc0bc644ab43c6339afaa29990f9a",
+    "elapsedMinutes": [
+      0,
+      416,
+      527,
+      636,
+      727,
+      786
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

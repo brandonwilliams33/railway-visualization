@@ -1,0 +1,20 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "济南",
+  "stationCount": 17,
+  "candidateServices": 1385,
+  "acquiredAdditionalServices": 835,
+  "failedPages": [
+    {
+      "trainNumber": "G4760",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "K5534",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": [
+    "商河"
+  ]
+}

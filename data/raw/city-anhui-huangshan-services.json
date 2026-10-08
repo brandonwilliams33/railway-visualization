@@ -1,0 +1,24 @@
+[
+  {
+    "trainNumber": "Y227",
+    "category": "OTHER",
+    "stopNames": [
+      "北京丰台",
+      "衡水",
+      "黄山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y227.html",
+    "sourceUpdatedAt": "2026-03-20",
+    "sourceSha256": "935a12b12bf80dc4da5fda088a180c4bc670968186aba9af783999c4520cbc3c",
+    "elapsedMinutes": [
+      0,
+      170,
+      1259
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "东营",
+    "city": "东营",
+    "cityId": "shandong-dongying",
+    "province": "山东",
+    "provinceId": "shandong",
+    "sourceUrl": "https://www.crecc.com/shandong/dongying/dongying.html",
+    "candidateTrainNumbers": [
+      "K1785",
+      "K1786",
+      "K8291",
+      "K8292",
+      "K8331",
+      "K8333",
+      "K8334",
+      "K8335",
+      "K8336",
+      "K8338",
+      "K8339",
+      "K8340",
+      "K8341",
+      "K8342"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d34225beb093128fde2dda61bbbd5ebe0345a130cb760b556a26ebbbee3d89a5",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "name": "利津南",
+    "city": "东营",
+    "cityId": "shandong-dongying",
+    "province": "山东",
+    "provinceId": "shandong",
+    "sourceUrl": "https://www.crecc.com/shandong/dongying/lijinnan.html",
+    "candidateTrainNumbers": [
+      "K1785",
+      "K1786"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "dc642a698f4d27724e2470af4da5f64b53d9bf1c14463c32fa5469735bf06218",
+    "retrievedAt": "2026-10-08"
+  }
+]

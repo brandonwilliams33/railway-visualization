@@ -1,0 +1,192 @@
+[
+  {
+    "trainNumber": "C4485",
+    "category": "C",
+    "stopNames": [
+      "宁化",
+      "清流",
+      "明溪",
+      "永安南",
+      "大田北",
+      "德化",
+      "永春",
+      "安溪东",
+      "泉州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4485.html",
+    "sourceUpdatedAt": "2026-07-24",
+    "sourceSha256": "de3d4d28f2085789607b34c9a87ea61a9fa0a0aae9c960c1e09ef5b63733cfa0",
+    "elapsedMinutes": [
+      0,
+      11,
+      35,
+      67,
+      109,
+      157,
+      176,
+      200,
+      237
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4486",
+    "category": "C",
+    "stopNames": [
+      "泉州",
+      "南安北",
+      "安溪东",
+      "永春",
+      "德化",
+      "大田北",
+      "永安南",
+      "明溪",
+      "清流",
+      "宁化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4486.html",
+    "sourceUpdatedAt": "2026-07-24",
+    "sourceSha256": "54103c2fc38e6936bfdc205c102894e34b9cc90932450e6006cb0dde70d64eb5",
+    "elapsedMinutes": [
+      0,
+      20,
+      41,
+      66,
+      88,
+      118,
+      153,
+      184,
+      209,
+      226
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C5281",
+    "category": "C",
+    "stopNames": [
+      "龙岩",
+      "长汀南",
+      "延平",
+      "三明北",
+      "龙岩"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c5281.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b9fde619dd04ac164de83f860a1c8386e19f1139cc6cea356951d2dd4da41823",
+    "elapsedMinutes": [
+      0,
+      42,
+      60,
+      85,
+      155
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C5284",
+    "category": "C",
+    "stopNames": [
+      "龙岩",
+      "长汀南",
+      "延平",
+      "三明北",
+      "龙岩"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c5284.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "928669531b5107c4f35d8acf64ac67ffd6de94cb12ee91569e6f39a33e34b5b7",
+    "elapsedMinutes": [
+      0,
+      42,
+      60,
+      85,
+      155
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6589",
+    "category": "D",
+    "stopNames": [
+      "三明北",
+      "三明",
+      "永安南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6589.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c51bde96146fba9de7b3a5c65dbe7941f2deb2cca3e42f668a6a98b748fb1d34",
+    "elapsedMinutes": [
+      75,
+      96,
+      114
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9892",
+    "category": "D",
+    "stopNames": [
+      "三明",
+      "三明北",
+      "泰宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9892.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "83867212167da56ed14488c08b28227a72943add111180bdcd4e14c9326fe35c",
+    "elapsedMinutes": [
+      0,
+      14,
+      65
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9893",
+    "category": "D",
+    "stopNames": [
+      "泰宁",
+      "将乐",
+      "三明北",
+      "三明"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9893.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "0fb311c8f702091a7a21a38345048c4537cf3d1c637a73c5b6db07a487cc1339",
+    "elapsedMinutes": [
+      0,
+      17,
+      38,
+      71
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

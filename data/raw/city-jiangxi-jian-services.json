@@ -1,0 +1,272 @@
+[
+  {
+    "trainNumber": "G4630",
+    "category": "G",
+    "stopNames": [
+      "广州东",
+      "广州新塘",
+      "吉安西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4630.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "3c7c3947ce437f8819b32c2c615d0b121c610341182aefa70f4696cfb9f5fa31",
+    "elapsedMinutes": [
+      0,
+      23,
+      186
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K2367",
+    "category": "K",
+    "stopNames": [
+      "长沙",
+      "株洲",
+      "衡山",
+      "衡阳",
+      "安仁",
+      "攸县南",
+      "茶陵南",
+      "炎陵",
+      "龙市",
+      "井冈山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k2367.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d41209723a99d58fb8a06d0903dcf7876e529891bada458693ba78095da20809",
+    "elapsedMinutes": [
+      0,
+      36,
+      90,
+      128,
+      207,
+      223,
+      244,
+      299,
+      323,
+      351
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K2368",
+    "category": "K",
+    "stopNames": [
+      "井冈山",
+      "龙市",
+      "炎陵",
+      "茶陵南",
+      "攸县南",
+      "安仁",
+      "衡阳",
+      "衡山",
+      "株洲",
+      "长沙"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k2368.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a3ea5f25833340dbaf4a625a3ca76d8b1fd005e2854909c6ca5fe5519266a02b",
+    "elapsedMinutes": [
+      0,
+      24,
+      60,
+      93,
+      112,
+      126,
+      190,
+      241,
+      299,
+      343
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K2369",
+    "category": "K",
+    "stopNames": [
+      "井冈山",
+      "龙市",
+      "炎陵",
+      "茶陵南",
+      "攸县南",
+      "安仁",
+      "衡阳",
+      "衡山",
+      "株洲",
+      "长沙"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k2369.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "dff7abd1988677c02d9c4333e3c61260cef3dea7f1a706e303ee2d97e395e9ec",
+    "elapsedMinutes": [
+      0,
+      24,
+      60,
+      93,
+      112,
+      126,
+      190,
+      241,
+      299,
+      343
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K2370",
+    "category": "K",
+    "stopNames": [
+      "长沙",
+      "株洲",
+      "衡山",
+      "衡阳",
+      "安仁",
+      "攸县南",
+      "茶陵南",
+      "炎陵",
+      "龙市",
+      "井冈山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k2370.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "53ce3ecde1c55541ea0a9b0a93f25596cfb24e1a7d6824f11fa8294fa1bfb59f",
+    "elapsedMinutes": [
+      0,
+      36,
+      90,
+      128,
+      207,
+      223,
+      244,
+      299,
+      323,
+      351
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y296",
+    "category": "OTHER",
+    "stopNames": [
+      "深圳东",
+      "井冈山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y296.html",
+    "sourceUpdatedAt": "2026-05-17",
+    "sourceSha256": "ea4c4f417f074273f62d7b9a9243420edeb5794c689278b62ffaf32fd1cab481",
+    "elapsedMinutes": [
+      0,
+      770
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y297",
+    "category": "OTHER",
+    "stopNames": [
+      "深圳东",
+      "井冈山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y297.html",
+    "sourceUpdatedAt": "2026-05-17",
+    "sourceSha256": "9e879303a23c16c94d8510f11bc8b94586959f28905d384202ce0450e8f60654",
+    "elapsedMinutes": [
+      0,
+      770
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y375",
+    "category": "OTHER",
+    "stopNames": [
+      "井冈山",
+      "衡阳",
+      "株洲",
+      "娄底",
+      "怀化",
+      "玉屏",
+      "凯里",
+      "贵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y375.html",
+    "sourceUpdatedAt": "2026-03-31",
+    "sourceSha256": "1073375dc32078fe36e83916b3b02833b1b84d4528c508924dc169d717171cea",
+    "elapsedMinutes": [
+      0,
+      240,
+      385,
+      497,
+      767,
+      916,
+      1074,
+      1252
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y378",
+    "category": "OTHER",
+    "stopNames": [
+      "井冈山",
+      "衡阳",
+      "株洲",
+      "娄底",
+      "怀化",
+      "玉屏",
+      "凯里",
+      "贵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y378.html",
+    "sourceUpdatedAt": "2026-03-31",
+    "sourceSha256": "d9431f82e4d44f0e6a9e818cafc8d7413b79db82d64185335ecdd2ae97aed318",
+    "elapsedMinutes": [
+      0,
+      240,
+      385,
+      497,
+      767,
+      916,
+      1074,
+      1252
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

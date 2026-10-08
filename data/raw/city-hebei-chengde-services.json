@@ -1,0 +1,240 @@
+[
+  {
+    "trainNumber": "6421",
+    "category": "OTHER",
+    "stopNames": [
+      "承德",
+      "隆化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6421.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9b7421a03fd1c03524e3ec10b4e217e295f817c7e1a7f677ed757cb541dec4c4",
+    "elapsedMinutes": [
+      0,
+      103
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6422",
+    "category": "OTHER",
+    "stopNames": [
+      "隆化",
+      "承德"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6422.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "75432634f913fe445417f99d5c2d70d472fde646fd33ef7248cf2d642faba0c1",
+    "elapsedMinutes": [
+      0,
+      77
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6433",
+    "category": "OTHER",
+    "stopNames": [
+      "兴隆县",
+      "北马圈子",
+      "鹰手营子",
+      "洞庙河",
+      "下台子",
+      "潘家店",
+      "南湾子",
+      "新杖子",
+      "西大庙",
+      "上板城南",
+      "上板城",
+      "承德东",
+      "承德"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6433.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8e5a0b3ac6a4253664df1850585c4e5cbe19e9178dddca3ec52f1175d86979aa",
+    "elapsedMinutes": [
+      0,
+      21,
+      32,
+      41,
+      50,
+      71,
+      86,
+      104,
+      123,
+      135,
+      141,
+      153,
+      167
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6434",
+    "category": "OTHER",
+    "stopNames": [
+      "承德",
+      "承德东",
+      "上板城",
+      "上板城南",
+      "西大庙",
+      "新杖子",
+      "南湾子",
+      "潘家店",
+      "下台子",
+      "洞庙河",
+      "鹰手营子",
+      "北马圈子",
+      "兴隆县"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6434.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7695c32e6359915d72d97a32437f9a29cf6cc1c6a142206c1ecce6e9a0f1b956",
+    "elapsedMinutes": [
+      0,
+      12,
+      25,
+      38,
+      51,
+      69,
+      90,
+      101,
+      122,
+      132,
+      142,
+      154,
+      179
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6435",
+    "category": "OTHER",
+    "stopNames": [
+      "承德",
+      "承德东",
+      "上板城",
+      "下板城",
+      "甲山",
+      "永和",
+      "榆树沟",
+      "上谷",
+      "大杖子",
+      "小寺沟",
+      "平泉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6435.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0babc8b80536b35e6fe0632d323c7f80ebf774865c5efe6e42b6ad0b6823075c",
+    "elapsedMinutes": [
+      0,
+      12,
+      26,
+      47,
+      60,
+      71,
+      80,
+      91,
+      104,
+      125,
+      143
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6436",
+    "category": "OTHER",
+    "stopNames": [
+      "平泉",
+      "小寺沟",
+      "大杖子",
+      "上谷",
+      "榆树沟",
+      "永和",
+      "甲山",
+      "下板城",
+      "上板城",
+      "承德东",
+      "承德"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6436.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ca378899ea330e03314c2229c6623892aabea34dc9cd667e17f18fc98cf227b5",
+    "elapsedMinutes": [
+      0,
+      17,
+      34,
+      54,
+      66,
+      76,
+      88,
+      100,
+      124,
+      138,
+      157
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6456",
+    "category": "OTHER",
+    "stopNames": [
+      "平泉",
+      "小寺沟",
+      "大杖子",
+      "上谷",
+      "榆树沟",
+      "永和",
+      "甲山",
+      "下板城",
+      "上板城",
+      "承德东",
+      "承德"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6456.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d4f45de68859c70083e9eaaf04592f0a025b4a8d7c0e712dbefe53af55301324",
+    "elapsedMinutes": [
+      0,
+      17,
+      33,
+      52,
+      64,
+      74,
+      86,
+      98,
+      119,
+      133,
+      152
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

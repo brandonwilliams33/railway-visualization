@@ -1,0 +1,80 @@
+[
+  {
+    "trainNumber": "K4199",
+    "category": "K",
+    "stopNames": [
+      "九江",
+      "新干",
+      "吉安",
+      "兴国",
+      "赣州",
+      "信丰",
+      "深圳东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4199.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "24464696f8cdf3c1e0eabbd3da9dd744e0825f2f8f84b740dd6f21c4a5f0d94f",
+    "elapsedMinutes": [
+      0,
+      218,
+      276,
+      360,
+      421,
+      467,
+      880
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4713",
+    "category": "K",
+    "stopNames": [
+      "九江",
+      "吉安",
+      "泰和",
+      "赣州",
+      "信丰",
+      "东莞东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4713.html",
+    "sourceUpdatedAt": "2026-02-20",
+    "sourceSha256": "fafee991982375f08c1a8dc4877498d716e794c668caf6d0e2e1f79b93bf3f36",
+    "elapsedMinutes": [
+      0,
+      348,
+      375,
+      505,
+      552,
+      937
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y181",
+    "category": "OTHER",
+    "stopNames": [
+      "九江",
+      "鹰潭"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y181.html",
+    "sourceUpdatedAt": "2026-04-11",
+    "sourceSha256": "d0d1e19480e209046f74bc80a2e6e11ea085b9382a60d06b307bce603df49586",
+    "elapsedMinutes": [
+      0,
+      302
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

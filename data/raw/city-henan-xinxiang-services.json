@@ -1,0 +1,28 @@
+[
+  {
+    "trainNumber": "D19",
+    "category": "D",
+    "stopNames": [
+      "北京西",
+      "保定",
+      "石家庄",
+      "新乡",
+      "西安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d19.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c657612ddd1bc1be0f407893698ba511ebcc01634f79042e854bf4e822589cd4",
+    "elapsedMinutes": [
+      0,
+      73,
+      152,
+      324,
+      714
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

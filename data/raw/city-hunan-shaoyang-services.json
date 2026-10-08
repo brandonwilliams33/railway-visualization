@@ -1,0 +1,154 @@
+[
+  {
+    "trainNumber": "C7347",
+    "category": "C",
+    "stopNames": [
+      "怀化南",
+      "洞口",
+      "隆回"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c7347.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "202cb2af18648d2c6942129bb758044f9d8d4e5412c3264e5dd738ea0fbe5cd6",
+    "elapsedMinutes": [
+      0,
+      31,
+      56
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C7377",
+    "category": "C",
+    "stopNames": [
+      "怀化南",
+      "洞口",
+      "隆回",
+      "邵阳",
+      "娄底南",
+      "长沙南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c7377.html",
+    "sourceUpdatedAt": "2026-04-06",
+    "sourceSha256": "848bc9b8581bc9e2366b046d5cfacd6147e33dbc2b9684ed79ebbee2ca311f02",
+    "elapsedMinutes": [
+      0,
+      31,
+      51,
+      73,
+      115,
+      152
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2418",
+    "category": "G",
+    "stopNames": [
+      "邵阳",
+      "隆回",
+      "洞口",
+      "怀化南",
+      "吉首东",
+      "张家界西",
+      "黔江",
+      "彭水西",
+      "武隆南",
+      "重庆东",
+      "重庆西",
+      "内江北",
+      "成都东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2418.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "04c4c16f38f072bc0efd7bcaae215511feab3343341d3d963e64ac5b8f0e7c83",
+    "elapsedMinutes": [
+      0,
+      20,
+      40,
+      72,
+      105,
+      150,
+      242,
+      265,
+      279,
+      320,
+      379,
+      425,
+      468
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9691",
+    "category": "G",
+    "stopNames": [
+      "广州南",
+      "虎门",
+      "深圳北",
+      "邵阳",
+      "隆回",
+      "洞口",
+      "安江东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9691.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "c3634c10965b63103008ebc25353122639ec34256c65605be147f861dff0bd03",
+    "elapsedMinutes": [
+      0,
+      17,
+      36,
+      78,
+      101,
+      121,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9694",
+    "category": "G",
+    "stopNames": [
+      "广州南",
+      "虎门",
+      "深圳北",
+      "邵阳",
+      "隆回",
+      "洞口",
+      "安江东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9694.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "1a16aa3d3455169fc3349a5f441f6d89d51f9a37a2812b8d74be98eec12dadb7",
+    "elapsedMinutes": [
+      0,
+      17,
+      36,
+      78,
+      101,
+      121,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

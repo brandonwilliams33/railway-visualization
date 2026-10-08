@@ -1,0 +1,26 @@
+[
+  {
+    "name": "牛车河",
+    "cityId": "shandong-zibo",
+    "reason": "The third-party city catalogue assigns Hunan's Niuchehe passenger station to Zibo, Shandong. Do not create a Shandong origin from this contradictory entry.",
+    "catalogueUrl": "https://www.crecc.com/shandong/zibo/niuchehe.html",
+    "identityUrl": "https://www.taoyuan.gov.cn/zjty",
+    "stationIdentityUrl": "https://zh.wikipedia.org/wiki/牛车河站"
+  },
+  {
+    "name": "向阳",
+    "cityId": "henan-xuchang",
+    "reason": "许昌目录的4052时刻实际属于鸡西—牡丹江，不能给河南同名车站套用黑龙江客运事实。两个同名站不得合并。",
+    "catalogueUrl": "https://www.crecc.com/henan/xuchang/xiangyang.html",
+    "identityUrl": "https://www.linkou.gov.cn/mdjlkxrmzf/gtkjgh351_LK/202311/625418/files/a93e62806799427b92f381d0420f80b1.pdf",
+    "serviceIdentityUrl": "https://www.crecc.com/huoche/4052.html"
+  },
+  {
+    "name": "石城",
+    "cityId": "jiangxi-ganzhou",
+    "reason": "赣州目录的石城页面引用丹东—通化4317至4320停站表；不能套用到江西。石城东独立登记保留，未把两站合并。",
+    "catalogueUrl": "https://www.crecc.com/jiangxi/ganzhou/shicheng.html",
+    "identityUrl": "https://www.ganzhou.gov.cn/gzszf/c100022/202609/ea1ea4080aef43fd9a50a36cc1ab5f5c.shtml",
+    "serviceIdentityUrl": "https://www.crecc.com/huoche/4317.html"
+  }
+]

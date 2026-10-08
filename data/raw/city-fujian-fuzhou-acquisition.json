@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "福州",
+  "stationCount": 12,
+  "candidateServices": 1076,
+  "acquiredAdditionalServices": 510,
+  "failedPages": [],
+  "stationIssues": [
+    "长乐南"
+  ]
+}

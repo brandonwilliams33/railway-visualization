@@ -1,0 +1,12 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "常德",
+  "stationCount": 7,
+  "candidateServices": 272,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "临澧",
+    "澧县"
+  ]
+}

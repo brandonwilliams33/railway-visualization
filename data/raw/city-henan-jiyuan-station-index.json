@@ -1,0 +1,35 @@
+[
+  {
+    "name": "济源",
+    "city": "济源",
+    "cityId": "henan-jiyuan",
+    "province": "河南",
+    "provinceId": "henan",
+    "sourceUrl": "https://www.crecc.com/henan/jiyuan/jiyuan.html",
+    "candidateTrainNumbers": [
+      "K269",
+      "K270",
+      "K4184",
+      "K4185",
+      "K4186",
+      "K4187",
+      "K4219",
+      "K4220",
+      "K4408",
+      "K4436",
+      "K4437",
+      "K473",
+      "K474",
+      "K4779",
+      "K589",
+      "K590",
+      "K901",
+      "K902",
+      "K903",
+      "K904"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c146f162167f134ae6557d10a7ea4c1229240c50a88112b19a8924c27ec8ff08",
+    "retrievedAt": "2026-10-08"
+  }
+]

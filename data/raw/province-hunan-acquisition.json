@@ -1,0 +1,19 @@
+{
+  "completedCities": [
+    "changsha",
+    "zhuzhou",
+    "xiangtan",
+    "hengyang",
+    "shaoyang",
+    "yueyang",
+    "changde",
+    "zhangjiajie",
+    "yiyang",
+    "chenzhou",
+    "yongzhou",
+    "huaihua",
+    "loudi",
+    "xiangxi"
+  ],
+  "failedCities": []
+}

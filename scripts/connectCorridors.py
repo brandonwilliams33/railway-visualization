@@ -127,8 +127,6 @@ def connect_corridors(data, physical_source=None):
     remaining=sum(not leg for service in data['services'] for leg in service['segmentIds'])
     used={sid for s in data['services'] for leg in s['segmentIds'] for sid in leg}
     data['segments']=[segments[sid] for sid in sorted(used)]
-    for hub,n in data['networks'].items():
-        n['railwaySegmentIds']=sorted({sid for s in data['services'] if s['id'] in n['serviceIds'] for leg in s['segmentIds'] for sid in leg})
     data['audit']['schematicRepairedIntervals']=repairs+rail_repairs+shared_repairs
     data['audit']['railCorridorRepairedIntervals']=rail_repairs
     data['audit']['sharedCorridorRepairedIntervals']=shared_repairs

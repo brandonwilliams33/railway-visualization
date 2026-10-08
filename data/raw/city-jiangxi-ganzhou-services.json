@@ -1,0 +1,3884 @@
+[
+  {
+    "trainNumber": "4317",
+    "category": "OTHER",
+    "stopNames": [
+      "丹东",
+      "五龙背",
+      "凤凰城",
+      "叆河",
+      "大堡",
+      "石城",
+      "铁佛寺",
+      "边沟",
+      "佟家",
+      "庙阳",
+      "天桥",
+      "灌水",
+      "天桥沟",
+      "雅河",
+      "大雅河",
+      "五女山",
+      "桓龙湖",
+      "古城子",
+      "通化县",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4317.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "10c45676d33df81c2b10bb84dce1eada394a853f88b01c8ee859dd6f4528d4ce",
+    "elapsedMinutes": [
+      0,
+      24,
+      58,
+      96,
+      120,
+      138,
+      156,
+      164,
+      176,
+      186,
+      196,
+      212,
+      231,
+      250,
+      274,
+      293,
+      307,
+      323,
+      353,
+      377
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4318",
+    "category": "OTHER",
+    "stopNames": [
+      "通化",
+      "通化县",
+      "古城子",
+      "桓龙湖",
+      "五女山",
+      "大雅河",
+      "雅河",
+      "天桥沟",
+      "灌水",
+      "天桥",
+      "庙阳",
+      "佟家",
+      "边沟",
+      "铁佛寺",
+      "石城",
+      "大堡",
+      "叆河",
+      "凤凰城",
+      "五龙背",
+      "丹东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4318.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "331e89989acd8d2ba6eac57db599a7cb0a27ac6f99650eb0cf061e684aed6ade",
+    "elapsedMinutes": [
+      0,
+      22,
+      52,
+      69,
+      81,
+      104,
+      128,
+      148,
+      167,
+      184,
+      193,
+      203,
+      216,
+      221,
+      238,
+      259,
+      274,
+      300,
+      362,
+      388
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4319",
+    "category": "OTHER",
+    "stopNames": [
+      "通化",
+      "通化县",
+      "古城子",
+      "桓龙湖",
+      "五女山",
+      "大雅河",
+      "雅河",
+      "天桥沟",
+      "灌水",
+      "天桥",
+      "庙阳",
+      "佟家",
+      "边沟",
+      "铁佛寺",
+      "石城",
+      "大堡",
+      "叆河",
+      "凤凰城",
+      "五龙背",
+      "丹东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4319.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "24c3bcff6b20401c6c7e22f54183d43b305df5a8c020b9cae4ddb38d64ffa3b6",
+    "elapsedMinutes": [
+      0,
+      22,
+      52,
+      69,
+      81,
+      104,
+      128,
+      148,
+      167,
+      184,
+      193,
+      203,
+      216,
+      221,
+      238,
+      259,
+      274,
+      300,
+      362,
+      388
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4320",
+    "category": "OTHER",
+    "stopNames": [
+      "丹东",
+      "五龙背",
+      "凤凰城",
+      "叆河",
+      "大堡",
+      "石城",
+      "铁佛寺",
+      "边沟",
+      "佟家",
+      "庙阳",
+      "天桥",
+      "灌水",
+      "天桥沟",
+      "雅河",
+      "大雅河",
+      "五女山",
+      "桓龙湖",
+      "古城子",
+      "通化县",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4320.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "772202109a3b9b2de0c89abbcc36abd1c931d7617ddd0c9108580a4547a669fb",
+    "elapsedMinutes": [
+      0,
+      24,
+      58,
+      96,
+      120,
+      138,
+      156,
+      164,
+      176,
+      186,
+      196,
+      212,
+      231,
+      250,
+      274,
+      293,
+      307,
+      323,
+      353,
+      377
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C5155",
+    "category": "C",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "瑞金"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c5155.html",
+    "sourceUpdatedAt": "2026-06-17",
+    "sourceSha256": "049a92ec3bcf98bc69e08d97691544a12d14f3c4e437f9f730ff2ba4a11013f7",
+    "elapsedMinutes": [
+      0,
+      30,
+      59
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C5159",
+    "category": "C",
+    "stopNames": [
+      "赣州",
+      "瑞金"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c5159.html",
+    "sourceUpdatedAt": "2026-01-02",
+    "sourceSha256": "480e4d70991889e0246ecd8dc55a55876d72e954f94aab68facbed9e92e3b731",
+    "elapsedMinutes": [
+      0,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C9615",
+    "category": "C",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "会昌北",
+      "瑞金"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c9615.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "0b42e003faa10b7e6dcf3ad20917eef9ba3d963ecd02bf89d5ea8b15308d9644",
+    "elapsedMinutes": [
+      0,
+      30,
+      49,
+      65
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D1686",
+    "category": "D",
+    "stopNames": [
+      "东莞南",
+      "惠州北",
+      "河源东",
+      "赣州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d1686.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "fab824c19443a1df38b7c3fddc42bf44ee47ceee5dac2fb5a8dfc994b37ecb6f",
+    "elapsedMinutes": [
+      55,
+      94,
+      124,
+      203
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D2341",
+    "category": "D",
+    "stopNames": [
+      "东莞南",
+      "深圳北",
+      "汕尾",
+      "陆丰",
+      "潮阳",
+      "潮汕",
+      "诏安",
+      "漳州",
+      "龙岩",
+      "冠豸山南",
+      "长汀南",
+      "瑞金",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d2341.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "de66ea53d0fe252ac646b458ffa003ccf298b5275accedee55603aaea48f24f6",
+    "elapsedMinutes": [
+      0,
+      23,
+      78,
+      93,
+      127,
+      142,
+      165,
+      202,
+      264,
+      300,
+      320,
+      338,
+      393
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D2344",
+    "category": "D",
+    "stopNames": [
+      "东莞南",
+      "深圳北",
+      "汕尾",
+      "陆丰",
+      "潮阳",
+      "潮汕",
+      "诏安",
+      "漳州",
+      "龙岩",
+      "冠豸山南",
+      "长汀南",
+      "瑞金",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d2344.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4515995f0cbade83ae54bb105b0920406cafc74736b2da5d9e2827661c018706",
+    "elapsedMinutes": [
+      0,
+      23,
+      78,
+      93,
+      127,
+      142,
+      165,
+      202,
+      264,
+      300,
+      320,
+      338,
+      393
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D2357",
+    "category": "D",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "会昌北",
+      "瑞金",
+      "长汀南",
+      "冠豸山南",
+      "龙岩",
+      "南靖",
+      "漳州",
+      "云霄",
+      "潮汕",
+      "潮阳",
+      "汕尾",
+      "深圳坪山",
+      "深圳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d2357.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fdb2fb12d5245a30bcd40a43ebd355aa976456187673a6c24a83ec1118cfa29d",
+    "elapsedMinutes": [
+      0,
+      30,
+      49,
+      65,
+      83,
+      103,
+      133,
+      177,
+      194,
+      239,
+      272,
+      287,
+      324,
+      361,
+      383
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4605",
+    "category": "D",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "瑞金",
+      "长汀南",
+      "龙岩",
+      "漳州",
+      "潮汕",
+      "普宁",
+      "深圳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4605.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "b644a280efe27e4802a191282be7d095d3d599eda9950c5720320259b1baf4e4",
+    "elapsedMinutes": [
+      0,
+      30,
+      59,
+      77,
+      121,
+      169,
+      235,
+      255,
+      336
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4606",
+    "category": "D",
+    "stopNames": [
+      "深圳北",
+      "普宁",
+      "潮汕",
+      "龙岩",
+      "古田会址",
+      "冠豸山南",
+      "长汀南",
+      "瑞金",
+      "于都",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4606.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "587ef4273e3efac03361debf1ee0c74e973c8e5e6ff017347d944d9d0f6feb15",
+    "elapsedMinutes": [
+      0,
+      72,
+      95,
+      220,
+      250,
+      268,
+      293,
+      316,
+      350,
+      387
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6407",
+    "category": "D",
+    "stopNames": [
+      "福州",
+      "涵江",
+      "莆田",
+      "惠安",
+      "泉州",
+      "晋江",
+      "厦门北",
+      "漳州",
+      "龙岩",
+      "古田会址",
+      "冠豸山南",
+      "长汀南",
+      "瑞金"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6407.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e7d457bf192f47a436bb6fcfd6b8feafb3265f8fe593200dd1affe3443d15e55",
+    "elapsedMinutes": [
+      0,
+      36,
+      49,
+      70,
+      82,
+      95,
+      115,
+      141,
+      189,
+      212,
+      231,
+      250,
+      268
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6410",
+    "category": "D",
+    "stopNames": [
+      "福州",
+      "涵江",
+      "莆田",
+      "惠安",
+      "泉州",
+      "晋江",
+      "厦门北",
+      "漳州",
+      "龙岩",
+      "古田会址",
+      "冠豸山南",
+      "长汀南",
+      "瑞金"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6410.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6ed8c07a619aadd2657374a59d2118af9c70194b3bafc9fc0d30db4bd28653e2",
+    "elapsedMinutes": [
+      0,
+      36,
+      49,
+      70,
+      82,
+      95,
+      115,
+      141,
+      189,
+      212,
+      231,
+      250,
+      268
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6440",
+    "category": "D",
+    "stopNames": [
+      "瑞金",
+      "长汀南",
+      "冠豸山南",
+      "古田会址",
+      "龙岩",
+      "南靖",
+      "漳州",
+      "厦门北",
+      "泉州",
+      "莆田",
+      "福州南",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6440.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c2b6dae23dd96272e64fd41373eff1f709bcf72e0994a8159eeb2635b38c828d",
+    "elapsedMinutes": [
+      0,
+      16,
+      36,
+      56,
+      74,
+      110,
+      129,
+      151,
+      181,
+      211,
+      246,
+      262
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6441",
+    "category": "D",
+    "stopNames": [
+      "瑞金",
+      "长汀南",
+      "冠豸山南",
+      "古田会址",
+      "龙岩",
+      "南靖",
+      "漳州",
+      "厦门北",
+      "泉州",
+      "莆田",
+      "福州南",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6441.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8652a8c7673e30bbd57de411eabb721bcdbde07fa32eef47aceccb5fc208ae27",
+    "elapsedMinutes": [
+      0,
+      16,
+      36,
+      56,
+      74,
+      110,
+      129,
+      151,
+      181,
+      211,
+      246,
+      262
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6476",
+    "category": "D",
+    "stopNames": [
+      "厦门",
+      "漳州",
+      "南靖",
+      "龙岩",
+      "古田会址",
+      "长汀南",
+      "瑞金"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6476.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c0672cc578483cf4818a2ffa41d8784085f5a2f5a95d243c95ac045d5b9b1fbd",
+    "elapsedMinutes": [
+      0,
+      32,
+      50,
+      85,
+      106,
+      138,
+      156
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6486",
+    "category": "D",
+    "stopNames": [
+      "瑞金",
+      "会昌北",
+      "于都",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6486.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1a9f0b1fa2d9e2fdd7564d78f89c1c51dce53ec1426299d13ec68bd521c60a83",
+    "elapsedMinutes": [
+      0,
+      14,
+      33,
+      67
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6487",
+    "category": "D",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "会昌北",
+      "瑞金"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6487.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9d9f9f1a93d1a496fa042a73b3597db488c18dffff8af86c0782ba4acd463b02",
+    "elapsedMinutes": [
+      0,
+      30,
+      49,
+      65
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6571",
+    "category": "D",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "会昌北",
+      "瑞金",
+      "长汀南",
+      "冠豸山南",
+      "古田会址",
+      "龙岩",
+      "漳平西",
+      "双洋",
+      "永安南",
+      "三明",
+      "三明北",
+      "延平西",
+      "延平",
+      "古田北",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6571.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "93792c88511f17d241d486527735b9a1afda31a4d23ada3c1b07fc310cb71399",
+    "elapsedMinutes": [
+      0,
+      30,
+      51,
+      67,
+      87,
+      107,
+      125,
+      143,
+      190,
+      207,
+      224,
+      243,
+      258,
+      278,
+      291,
+      309,
+      341
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6572",
+    "category": "D",
+    "stopNames": [
+      "福州",
+      "延平",
+      "三明北",
+      "三明",
+      "永安南",
+      "双洋",
+      "漳平西",
+      "龙岩",
+      "古田会址",
+      "长汀南",
+      "瑞金",
+      "会昌北",
+      "于都",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6572.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "40673132ea9bd257e682b15af3956f80ab2a111e8a690386efcd8429140b38d4",
+    "elapsedMinutes": [
+      0,
+      39,
+      63,
+      81,
+      101,
+      119,
+      135,
+      161,
+      195,
+      227,
+      245,
+      261,
+      280,
+      312
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6573",
+    "category": "D",
+    "stopNames": [
+      "福州",
+      "延平",
+      "三明北",
+      "三明",
+      "永安南",
+      "双洋",
+      "漳平西",
+      "龙岩",
+      "古田会址",
+      "长汀南",
+      "瑞金",
+      "会昌北",
+      "于都",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6573.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1e7edc1a45406f0bddea71f636c33a0ca815eccf4ef7695d129868579f96ff52",
+    "elapsedMinutes": [
+      0,
+      39,
+      63,
+      81,
+      101,
+      119,
+      135,
+      161,
+      195,
+      227,
+      245,
+      261,
+      280,
+      312
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6574",
+    "category": "D",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "会昌北",
+      "瑞金",
+      "长汀南",
+      "冠豸山南",
+      "古田会址",
+      "龙岩",
+      "漳平西",
+      "双洋",
+      "永安南",
+      "三明",
+      "三明北",
+      "延平西",
+      "延平",
+      "古田北",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6574.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8fec0422a95836f8372de64547ba1569416c8b9e55dda1124f19ff735f307a22",
+    "elapsedMinutes": [
+      0,
+      30,
+      51,
+      67,
+      87,
+      107,
+      125,
+      143,
+      190,
+      207,
+      224,
+      243,
+      258,
+      278,
+      291,
+      309,
+      341
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6575",
+    "category": "D",
+    "stopNames": [
+      "福鼎",
+      "霞浦",
+      "宁德",
+      "福州",
+      "福清",
+      "涵江",
+      "莆田",
+      "泉州",
+      "厦门北",
+      "漳州",
+      "龙岩",
+      "冠豸山南",
+      "长汀南",
+      "瑞金",
+      "于都",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6575.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8043ebbdfc4bafc8915f58c45c5ff8b2be443497f1641e7c1de67ae9ea2caa97",
+    "elapsedMinutes": [
+      0,
+      19,
+      43,
+      88,
+      130,
+      145,
+      157,
+      186,
+      214,
+      235,
+      283,
+      316,
+      336,
+      353,
+      384,
+      423
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6578",
+    "category": "D",
+    "stopNames": [
+      "福鼎",
+      "霞浦",
+      "宁德",
+      "福州",
+      "福清",
+      "涵江",
+      "莆田",
+      "泉州",
+      "厦门北",
+      "漳州",
+      "龙岩",
+      "冠豸山南",
+      "长汀南",
+      "瑞金",
+      "于都",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6578.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "406ce01bc4b840107a054a492d3ece38b9f6a5722fcf40426c53e195a00b365e",
+    "elapsedMinutes": [
+      0,
+      19,
+      43,
+      88,
+      130,
+      145,
+      157,
+      186,
+      214,
+      235,
+      283,
+      316,
+      336,
+      353,
+      384,
+      423
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6581",
+    "category": "D",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "瑞金",
+      "长汀南",
+      "冠豸山南",
+      "古田会址",
+      "龙岩",
+      "龙山镇",
+      "南靖",
+      "漳州",
+      "厦门"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6581.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "091d0e0dbece3b0eac091ea458eeac325de03fc20438dff106b4929f462a20d5",
+    "elapsedMinutes": [
+      0,
+      32,
+      62,
+      83,
+      103,
+      122,
+      143,
+      179,
+      190,
+      208,
+      243
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6582",
+    "category": "D",
+    "stopNames": [
+      "厦门",
+      "漳州",
+      "南靖",
+      "龙岩",
+      "冠豸山南",
+      "长汀南",
+      "瑞金",
+      "会昌北",
+      "于都",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6582.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7c3cc8015e15e0c201be87ee76f45e2f072ef2734cbfa50560be8eb661dd7dd5",
+    "elapsedMinutes": [
+      0,
+      32,
+      51,
+      85,
+      120,
+      139,
+      157,
+      174,
+      193,
+      227
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6583",
+    "category": "D",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "瑞金",
+      "长汀南",
+      "冠豸山南",
+      "古田会址",
+      "龙岩",
+      "南靖",
+      "漳州",
+      "厦门"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6583.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0c11d0477158a78ce97cb664927e183ee6db48bc467d3024ee50b228a80565ab",
+    "elapsedMinutes": [
+      0,
+      30,
+      59,
+      77,
+      98,
+      116,
+      134,
+      169,
+      187,
+      220
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6584",
+    "category": "D",
+    "stopNames": [
+      "厦门",
+      "漳州",
+      "南靖",
+      "龙岩",
+      "古田会址",
+      "冠豸山南",
+      "瑞金",
+      "会昌北",
+      "于都",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6584.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6f752b3a2d2502af6088ed601b169057d64ac7136c3a7406b2e7457e70fd1ad2",
+    "elapsedMinutes": [
+      0,
+      31,
+      48,
+      82,
+      102,
+      120,
+      152,
+      168,
+      187,
+      221
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6585",
+    "category": "D",
+    "stopNames": [
+      "福州",
+      "福州南",
+      "福清",
+      "莆田",
+      "泉州",
+      "晋江",
+      "厦门北",
+      "角美",
+      "漳州",
+      "南靖",
+      "龙山镇",
+      "龙岩",
+      "古田会址",
+      "冠豸山南",
+      "长汀南",
+      "瑞金",
+      "会昌北",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6585.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ae9dda8a6002199f44d6a17a770282e69b2498e093da9493f2372116e24c1895",
+    "elapsedMinutes": [
+      0,
+      14,
+      30,
+      51,
+      79,
+      92,
+      112,
+      131,
+      149,
+      166,
+      177,
+      205,
+      239,
+      258,
+      278,
+      295,
+      312,
+      357
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6586",
+    "category": "D",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "瑞金",
+      "长汀南",
+      "冠豸山南",
+      "古田会址",
+      "龙岩",
+      "漳州",
+      "厦门北",
+      "晋江",
+      "泉州",
+      "莆田",
+      "涵江",
+      "福州南",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6586.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "695b997ec062057eeede18f55a8a1be4c56c9842135117673e924978c34b7828",
+    "elapsedMinutes": [
+      0,
+      30,
+      59,
+      77,
+      97,
+      115,
+      135,
+      181,
+      203,
+      224,
+      238,
+      267,
+      279,
+      312,
+      333
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6587",
+    "category": "D",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "瑞金",
+      "长汀南",
+      "冠豸山南",
+      "古田会址",
+      "龙岩",
+      "漳州",
+      "厦门北",
+      "晋江",
+      "泉州",
+      "莆田",
+      "涵江",
+      "福州南",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6587.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2e12261542f042431811e8504feed5670876f693c1b17967b3f715df74820efb",
+    "elapsedMinutes": [
+      0,
+      30,
+      59,
+      77,
+      97,
+      115,
+      135,
+      181,
+      203,
+      224,
+      238,
+      267,
+      279,
+      312,
+      333
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6588",
+    "category": "D",
+    "stopNames": [
+      "福州",
+      "福州南",
+      "福清",
+      "莆田",
+      "泉州",
+      "晋江",
+      "厦门北",
+      "角美",
+      "漳州",
+      "南靖",
+      "龙山镇",
+      "龙岩",
+      "古田会址",
+      "冠豸山南",
+      "长汀南",
+      "瑞金",
+      "会昌北",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6588.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ca96c8bc769c40754a321f577c9d8621dfd81aefb3e27e6a27ff292974b5e9b8",
+    "elapsedMinutes": [
+      0,
+      14,
+      30,
+      51,
+      79,
+      92,
+      112,
+      131,
+      149,
+      166,
+      177,
+      205,
+      239,
+      258,
+      278,
+      295,
+      312,
+      357
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6595",
+    "category": "D",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "会昌北",
+      "瑞金",
+      "长汀南",
+      "冠豸山南",
+      "古田会址",
+      "龙岩",
+      "雁石南",
+      "漳平西",
+      "永安南",
+      "三明",
+      "三明北",
+      "延平西",
+      "延平",
+      "福州",
+      "连江",
+      "罗源",
+      "宁德",
+      "福安",
+      "霞浦",
+      "福鼎"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6595.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "68ec441fa59fb8a22cb800bdf4217f3212e3e5c429c4e36941127993304f01a1",
+    "elapsedMinutes": [
+      0,
+      30,
+      49,
+      65,
+      83,
+      109,
+      127,
+      145,
+      178,
+      191,
+      219,
+      238,
+      253,
+      271,
+      284,
+      330,
+      364,
+      393,
+      406,
+      421,
+      439,
+      465
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6598",
+    "category": "D",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "会昌北",
+      "瑞金",
+      "长汀南",
+      "冠豸山南",
+      "古田会址",
+      "龙岩",
+      "雁石南",
+      "漳平西",
+      "永安南",
+      "三明",
+      "三明北",
+      "延平西",
+      "延平",
+      "福州",
+      "连江",
+      "罗源",
+      "宁德",
+      "福安",
+      "霞浦",
+      "福鼎"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6598.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ad8f2dc325d94ac8a86edb671aab9dc934da6b581fa95ac52c6496bfefd18409",
+    "elapsedMinutes": [
+      0,
+      30,
+      49,
+      65,
+      83,
+      109,
+      127,
+      145,
+      178,
+      191,
+      219,
+      238,
+      253,
+      271,
+      284,
+      330,
+      364,
+      393,
+      406,
+      421,
+      439,
+      465
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9187",
+    "category": "D",
+    "stopNames": [
+      "瑞金",
+      "长汀南",
+      "龙岩",
+      "漳州",
+      "厦门"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9187.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2d5a13ebe03c5e216ea6dafa87394fe2002a05e9b9f3bcc30017dd3136b23429",
+    "elapsedMinutes": [
+      0,
+      16,
+      62,
+      111,
+      146
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9188",
+    "category": "D",
+    "stopNames": [
+      "厦门",
+      "漳州",
+      "南靖",
+      "龙岩",
+      "古田会址",
+      "长汀南",
+      "瑞金"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9188.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1c505cff85e91fe41a0db02f8a22eb7f4055e55c1a28cf8bbbce79841b96999e",
+    "elapsedMinutes": [
+      0,
+      32,
+      50,
+      85,
+      106,
+      138,
+      156
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9196",
+    "category": "D",
+    "stopNames": [
+      "于都",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9196.html",
+    "sourceUpdatedAt": "2026-04-05",
+    "sourceSha256": "7af04c14777bcc31e5a9bfa8d9335ca5261f026d69481b030dbab5e4d329b7b3",
+    "elapsedMinutes": [
+      0,
+      29
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9591",
+    "category": "D",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "会昌北",
+      "瑞金"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9591.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "821bbe8dac3f1d0391210f8de83287687fc3b1e193d55579e47294bad993abff",
+    "elapsedMinutes": [
+      0,
+      30,
+      49,
+      66
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9879",
+    "category": "D",
+    "stopNames": [
+      "赣州",
+      "瑞金"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9879.html",
+    "sourceUpdatedAt": "2026-08-27",
+    "sourceSha256": "a56c195e9469f7d6c50c6916962e88ff60d4aa91eab8c1288e40a3495921d8b4",
+    "elapsedMinutes": [
+      0,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9897",
+    "category": "D",
+    "stopNames": [
+      "福州",
+      "福州南",
+      "莆田",
+      "厦门北",
+      "漳州",
+      "南靖",
+      "龙山镇",
+      "龙岩",
+      "古田会址",
+      "瑞金",
+      "会昌北",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9897.html",
+    "sourceUpdatedAt": "2026-08-27",
+    "sourceSha256": "5e79157dcd8a1692863d878c710db364e513fef1d9974b3b20f799611c44d5b7",
+    "elapsedMinutes": [
+      0,
+      14,
+      55,
+      104,
+      133,
+      164,
+      175,
+      221,
+      241,
+      285,
+      301,
+      348
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9898",
+    "category": "D",
+    "stopNames": [
+      "瑞金",
+      "会昌北",
+      "于都",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9898.html",
+    "sourceUpdatedAt": "2026-08-27",
+    "sourceSha256": "66935d014b3926ae775a0479bb7ca0fa5e10882eca247802a0f0ce4041026dc2",
+    "elapsedMinutes": [
+      0,
+      14,
+      33,
+      67
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9964",
+    "category": "D",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "瑞金",
+      "长汀南",
+      "冠豸山南",
+      "龙岩",
+      "漳州",
+      "厦门北",
+      "泉州",
+      "仙游",
+      "莆田",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9964.html",
+    "sourceUpdatedAt": "2026-08-27",
+    "sourceSha256": "cf608508bb187c5b0bffb61d360f8516b7644929c4b7aa56f912b1e1c0eddb7d",
+    "elapsedMinutes": [
+      0,
+      30,
+      59,
+      77,
+      97,
+      128,
+      175,
+      197,
+      227,
+      249,
+      262,
+      308
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9965",
+    "category": "D",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "瑞金",
+      "长汀南",
+      "冠豸山南",
+      "龙岩",
+      "漳州",
+      "厦门北",
+      "泉州",
+      "仙游",
+      "莆田",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9965.html",
+    "sourceUpdatedAt": "2026-08-27",
+    "sourceSha256": "9e16b0b77ece162b17519746feabafc7d86794f50b8266f086218c4d328e3387",
+    "elapsedMinutes": [
+      0,
+      30,
+      59,
+      77,
+      97,
+      128,
+      175,
+      197,
+      227,
+      249,
+      262,
+      308
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9990",
+    "category": "D",
+    "stopNames": [
+      "福州",
+      "福州南",
+      "莆田",
+      "厦门北",
+      "漳州",
+      "南靖",
+      "龙山镇",
+      "龙岩",
+      "古田会址",
+      "瑞金",
+      "会昌北",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9990.html",
+    "sourceUpdatedAt": "2026-08-27",
+    "sourceSha256": "1598fdd234d78b60dc66eabbfdc239cd3623affb446f17d4041254ec388418b4",
+    "elapsedMinutes": [
+      0,
+      14,
+      55,
+      104,
+      133,
+      164,
+      175,
+      221,
+      241,
+      285,
+      301,
+      348
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4091",
+    "category": "G",
+    "stopNames": [
+      "赣州西",
+      "惠州北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4091.html",
+    "sourceUpdatedAt": "2026-02-06",
+    "sourceSha256": "c001233570dcdadbeb240fd82f614949ccd0ac05bf478093eb5f30bec1ce5e9d",
+    "elapsedMinutes": [
+      0,
+      79
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4092",
+    "category": "G",
+    "stopNames": [
+      "深圳",
+      "赣州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4092.html",
+    "sourceUpdatedAt": "2026-02-06",
+    "sourceSha256": "c6918f46a386e811358f7746c0f00a44ab75704c39c7006c4fe5f6429c821d17",
+    "elapsedMinutes": [
+      0,
+      110
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4103",
+    "category": "G",
+    "stopNames": [
+      "赣州西",
+      "龙南东",
+      "河源东",
+      "惠州北",
+      "东莞南",
+      "深圳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4103.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "525ffbdd552582cbe21719ca124267075294175aabc92887d7080953c6c79f22",
+    "elapsedMinutes": [
+      0,
+      27,
+      76,
+      97,
+      125,
+      149
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4104",
+    "category": "G",
+    "stopNames": [
+      "深圳北",
+      "光明城",
+      "东莞南",
+      "惠州北",
+      "河源东",
+      "赣州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4104.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "a1eb551279b2fd7680d64486d43c2a5581c415063bc014804b0ff260c93460c6",
+    "elapsedMinutes": [
+      0,
+      12,
+      23,
+      42,
+      63,
+      148
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4253",
+    "category": "G",
+    "stopNames": [
+      "赣州西",
+      "龙川西",
+      "惠州北",
+      "东莞南",
+      "深圳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4253.html",
+    "sourceUpdatedAt": "2026-05-14",
+    "sourceSha256": "ece696b53580eda09562e237007481d62bc20079587655a5c56ef1618ef59092",
+    "elapsedMinutes": [
+      0,
+      51,
+      85,
+      105,
+      129
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4255",
+    "category": "G",
+    "stopNames": [
+      "赣州西",
+      "龙川西",
+      "惠州北",
+      "深圳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4255.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "aafe3721be973c607541430d1c6290a6fefd67b0dda65c3d26014c00e3460894",
+    "elapsedMinutes": [
+      0,
+      51,
+      85,
+      121
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4256",
+    "category": "G",
+    "stopNames": [
+      "深圳",
+      "龙川西",
+      "赣州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4256.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "4990cdc94d4b13165de74b5671cb16cc611b4a5dce96a2a7a7bc2d5c465695d1",
+    "elapsedMinutes": [
+      0,
+      61,
+      115
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4257",
+    "category": "G",
+    "stopNames": [
+      "赣州西",
+      "深圳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4257.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "fec758bead04f8b2ebf66d12898c25f02efc785df24b0ab4a60940ecf6f190ec",
+    "elapsedMinutes": [
+      0,
+      107
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4258",
+    "category": "G",
+    "stopNames": [
+      "深圳",
+      "河源东",
+      "龙川西",
+      "和平北",
+      "赣州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4258.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "2c562e3f285d060287b06ee5d99d123573455f83edc1929b220f98f39e3f3a27",
+    "elapsedMinutes": [
+      0,
+      50,
+      70,
+      89,
+      133
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4281",
+    "category": "G",
+    "stopNames": [
+      "赣州西",
+      "信丰西",
+      "定南南",
+      "龙川西",
+      "河源东",
+      "惠州北",
+      "东莞南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4281.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "07f79344ac2d7f042f44aba71bcbb303c5430e44e7f634e23a9cf2aa1dba723e",
+    "elapsedMinutes": [
+      0,
+      17,
+      58,
+      89,
+      109,
+      150,
+      190
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4629",
+    "category": "G",
+    "stopNames": [
+      "吉安西",
+      "赣州西",
+      "广州东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4629.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "731731ad940de54d85106af040ab7dcc6fe86ef88185bf70f0bbbfe0d2f37104",
+    "elapsedMinutes": [
+      0,
+      47,
+      184
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4982",
+    "category": "G",
+    "stopNames": [
+      "东莞南",
+      "惠州北",
+      "河源东",
+      "龙川西",
+      "定南南",
+      "信丰西",
+      "赣州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4982.html",
+    "sourceUpdatedAt": "2026-04-28",
+    "sourceSha256": "d4ca62385cf1381476fd80c3c984b58517bb3769d2aa43e10a9b317228369613",
+    "elapsedMinutes": [
+      0,
+      15,
+      36,
+      57,
+      83,
+      110,
+      133
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4985",
+    "category": "G",
+    "stopNames": [
+      "赣州西",
+      "信丰西",
+      "龙南东",
+      "龙川西",
+      "河源东",
+      "惠州北",
+      "东莞南",
+      "深圳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4985.html",
+    "sourceUpdatedAt": "2026-06-08",
+    "sourceSha256": "2a8ff7a370830b6b60291a10aa644280265b5066ea3a5a923db162c0f17c3174",
+    "elapsedMinutes": [
+      0,
+      17,
+      38,
+      71,
+      94,
+      115,
+      133,
+      152
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5075",
+    "category": "G",
+    "stopNames": [
+      "南平市",
+      "建瓯西",
+      "古田北",
+      "福州",
+      "福州南",
+      "莆田",
+      "泉港",
+      "厦门北",
+      "漳州",
+      "南靖",
+      "龙岩",
+      "古田会址",
+      "长汀南",
+      "于都"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5075.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c178e5a724639f78ab7ba08045092eba0acb832607998635e8faa8af87a975a2",
+    "elapsedMinutes": [
+      0,
+      16,
+      49,
+      78,
+      97,
+      123,
+      136,
+      169,
+      188,
+      205,
+      238,
+      257,
+      290,
+      331
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5076",
+    "category": "G",
+    "stopNames": [
+      "于都",
+      "长汀南",
+      "冠豸山南",
+      "龙岩",
+      "漳州",
+      "厦门北",
+      "泉州南",
+      "莆田",
+      "福州南",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5076.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "160b93c96923c17057618f75e4594768fdc6d4673b868c557ad122ab24f32786",
+    "elapsedMinutes": [
+      0,
+      37,
+      57,
+      88,
+      135,
+      156,
+      177,
+      203,
+      230,
+      247
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5077",
+    "category": "G",
+    "stopNames": [
+      "于都",
+      "长汀南",
+      "冠豸山南",
+      "龙岩",
+      "漳州",
+      "厦门北",
+      "泉州南",
+      "莆田",
+      "福州南",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5077.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9e05330f2a691d334fbe64160987596f0078cc09ddb4d595a0d03a7115db02ef",
+    "elapsedMinutes": [
+      0,
+      37,
+      57,
+      88,
+      135,
+      156,
+      177,
+      203,
+      230,
+      247
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5078",
+    "category": "G",
+    "stopNames": [
+      "南平市",
+      "建瓯西",
+      "古田北",
+      "福州",
+      "福州南",
+      "莆田",
+      "泉港",
+      "厦门北",
+      "漳州",
+      "南靖",
+      "龙岩",
+      "古田会址",
+      "长汀南",
+      "于都"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5078.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "889dec913c7db7d6fddd7bb39be478f14a84a327ce3693d273224eed462b98c9",
+    "elapsedMinutes": [
+      0,
+      16,
+      49,
+      78,
+      97,
+      123,
+      136,
+      169,
+      188,
+      205,
+      238,
+      257,
+      290,
+      331
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5079",
+    "category": "G",
+    "stopNames": [
+      "福州",
+      "福州南",
+      "莆田",
+      "泉州南",
+      "厦门北",
+      "漳州",
+      "龙岩",
+      "长汀南",
+      "瑞金",
+      "于都"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5079.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "de941dec28397a83c746eead11d47e94651d43161e58c238fb97cd3ae13cfbc5",
+    "elapsedMinutes": [
+      0,
+      15,
+      42,
+      68,
+      91,
+      110,
+      155,
+      200,
+      218,
+      247
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5080",
+    "category": "G",
+    "stopNames": [
+      "于都",
+      "瑞金",
+      "长汀南",
+      "古田会址",
+      "龙岩",
+      "龙山镇",
+      "南靖",
+      "漳州",
+      "厦门北",
+      "泉州南",
+      "莆田",
+      "福州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5080.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9eaf7258990c117ed7f51a736be17e4b6b27deb9915c4e058852051287538563",
+    "elapsedMinutes": [
+      0,
+      27,
+      45,
+      77,
+      95,
+      125,
+      136,
+      154,
+      174,
+      195,
+      221,
+      249
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5081",
+    "category": "G",
+    "stopNames": [
+      "于都",
+      "瑞金",
+      "长汀南",
+      "古田会址",
+      "龙岩",
+      "龙山镇",
+      "南靖",
+      "漳州",
+      "厦门北",
+      "泉州南",
+      "莆田",
+      "福州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5081.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0c14cc8194b86f82535c1c67413b1daa8d5216adcf4e83aba7dba6c800a2d685",
+    "elapsedMinutes": [
+      0,
+      27,
+      45,
+      77,
+      95,
+      125,
+      136,
+      154,
+      174,
+      195,
+      221,
+      249
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5082",
+    "category": "G",
+    "stopNames": [
+      "福州",
+      "福州南",
+      "莆田",
+      "泉州南",
+      "厦门北",
+      "漳州",
+      "龙岩",
+      "长汀南",
+      "瑞金",
+      "于都"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5082.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "98dd0deec5f5b6d388b024d991c607f157c76b8e4c06a4426c33d07efa6acfbb",
+    "elapsedMinutes": [
+      0,
+      15,
+      42,
+      68,
+      91,
+      110,
+      155,
+      200,
+      218,
+      247
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K404",
+    "category": "K",
+    "stopNames": [
+      "厦门北",
+      "龙岩",
+      "冠豸山南",
+      "冠豸山",
+      "清流",
+      "宁化",
+      "石城东",
+      "宁都",
+      "兴国",
+      "吉安",
+      "株洲",
+      "娄底",
+      "新化",
+      "溆浦",
+      "怀化",
+      "铜仁",
+      "松桃",
+      "秀山",
+      "黔江",
+      "武隆",
+      "重庆东",
+      "重庆西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k404.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5c834230ee67494c1f42ad214325d7101acffc30d69bd6165557c54891056eb2",
+    "elapsedMinutes": [
+      0,
+      98,
+      142,
+      165,
+      206,
+      222,
+      254,
+      285,
+      337,
+      411,
+      817,
+      917,
+      996,
+      1105,
+      1209,
+      1315,
+      1363,
+      1415,
+      1504,
+      1582,
+      1704,
+      1795
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K405",
+    "category": "K",
+    "stopNames": [
+      "厦门北",
+      "龙岩",
+      "冠豸山南",
+      "冠豸山",
+      "清流",
+      "宁化",
+      "石城东",
+      "宁都",
+      "兴国",
+      "吉安",
+      "株洲",
+      "娄底",
+      "新化",
+      "溆浦",
+      "怀化",
+      "铜仁",
+      "松桃",
+      "秀山",
+      "黔江",
+      "武隆",
+      "重庆东",
+      "重庆西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k405.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e77fce3eff13dc67a965ebcd6e5fa751917f14200637059fe4f14bcb27481f45",
+    "elapsedMinutes": [
+      0,
+      98,
+      142,
+      165,
+      206,
+      222,
+      254,
+      285,
+      337,
+      411,
+      817,
+      917,
+      996,
+      1105,
+      1209,
+      1315,
+      1363,
+      1415,
+      1504,
+      1582,
+      1704,
+      1795
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4203",
+    "category": "K",
+    "stopNames": [
+      "吉安",
+      "兴国",
+      "赣州",
+      "东莞东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4203.html",
+    "sourceUpdatedAt": "2026-02-27",
+    "sourceSha256": "64f78c098921fcc67776a6636b973a8246efa6b363cab1deb695f2c9b68d4f67",
+    "elapsedMinutes": [
+      0,
+      69,
+      132,
+      525
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4721",
+    "category": "K",
+    "stopNames": [
+      "渠县",
+      "达州",
+      "安康",
+      "赣州",
+      "龙岩",
+      "厦门北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4721.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "89680a4239528dc34988baa9b49165fce8d86126a06c4b7d9bd2a047caa0aac4",
+    "elapsedMinutes": [
+      0,
+      42,
+      213,
+      1342,
+      1512,
+      1697
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4722",
+    "category": "K",
+    "stopNames": [
+      "厦门北",
+      "龙岩",
+      "长汀南",
+      "赣州",
+      "泰和",
+      "吉安",
+      "安康",
+      "宣汉",
+      "达州",
+      "渠县"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4722.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "2786d3cc637dfc9cdb9454ee8dfc3060d40a77f62741e5457eee816543e7bb58",
+    "elapsedMinutes": [
+      0,
+      143,
+      211,
+      336,
+      473,
+      511,
+      1485,
+      1664,
+      1711,
+      1763
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4723",
+    "category": "K",
+    "stopNames": [
+      "厦门北",
+      "龙岩",
+      "长汀南",
+      "赣州",
+      "泰和",
+      "吉安",
+      "安康",
+      "宣汉",
+      "达州",
+      "渠县"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4723.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "8acd722be33d0095aea2e426334cbb1ce719472475c4241254da07914883ba96",
+    "elapsedMinutes": [
+      0,
+      143,
+      211,
+      336,
+      473,
+      511,
+      1485,
+      1664,
+      1711,
+      1763
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4724",
+    "category": "K",
+    "stopNames": [
+      "渠县",
+      "达州",
+      "安康",
+      "赣州",
+      "龙岩",
+      "厦门北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4724.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "93b3c7d886f5a9e310aeabad0cd91d94f44d6406ffdadfd173ab70417c5890ba",
+    "elapsedMinutes": [
+      0,
+      42,
+      213,
+      1342,
+      1512,
+      1697
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5865",
+    "category": "K",
+    "stopNames": [
+      "赣州",
+      "信丰",
+      "龙南",
+      "定南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5865.html",
+    "sourceUpdatedAt": "2026-04-05",
+    "sourceSha256": "39d578c6af2c5697547e6cca01644696957586d6b3676b0babe1aac213e4a5e8",
+    "elapsedMinutes": [
+      0,
+      41,
+      87,
+      113
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6201",
+    "category": "K",
+    "stopNames": [
+      "赣州",
+      "兴国",
+      "于都北",
+      "宁都",
+      "石城东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6201.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "fae910cef328a509e881fa5668e338dc602649f338d701a4279dd7b7e63aace7",
+    "elapsedMinutes": [
+      0,
+      46,
+      137,
+      169,
+      199
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6202",
+    "category": "K",
+    "stopNames": [
+      "石城东",
+      "宁都",
+      "于都北",
+      "兴国",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6202.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "7859009eff77fcb1ce2c66c3d7019782a4a8fa4e91f634a190f28e4ac62530e9",
+    "elapsedMinutes": [
+      0,
+      27,
+      59,
+      87,
+      168
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6203",
+    "category": "K",
+    "stopNames": [
+      "石城东",
+      "宁都",
+      "于都北",
+      "兴国",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6203.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "1c507b8c8df88cb5609b8489feffec80d9133dec6f97a134281e8bdb9af464bf",
+    "elapsedMinutes": [
+      0,
+      27,
+      59,
+      87,
+      168
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6204",
+    "category": "K",
+    "stopNames": [
+      "赣州",
+      "兴国",
+      "于都北",
+      "宁都",
+      "石城东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6204.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "aab82b8c86456088694760e9042dc47651ee5d37a27ea315cbbbc065b20f9b89",
+    "elapsedMinutes": [
+      0,
+      46,
+      137,
+      169,
+      199
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6209",
+    "category": "K",
+    "stopNames": [
+      "赣州",
+      "于都",
+      "瑞金"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6209.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1600fe0f524aa393fc567278d0e43e2d0e978816d097495410e1596867f5fe0a",
+    "elapsedMinutes": [
+      0,
+      35,
+      101
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6210",
+    "category": "K",
+    "stopNames": [
+      "瑞金",
+      "于都",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6210.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f9cdc517c027a1cd0639b8bbb4250a3504432fdc11fc93ae9b16565696e304a7",
+    "elapsedMinutes": [
+      0,
+      42,
+      81
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6285",
+    "category": "K",
+    "stopNames": [
+      "赣州",
+      "兴国",
+      "于都北",
+      "宁都",
+      "石城东",
+      "宁化",
+      "清流",
+      "明溪",
+      "三元西",
+      "永安南",
+      "大田北",
+      "德化",
+      "永春",
+      "安溪东",
+      "南安北",
+      "泉州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6285.html",
+    "sourceUpdatedAt": "2026-04-22",
+    "sourceSha256": "759ac2f8cb27bdc6f649a4024a0096cf916ab62d04d5caedde57972a7a8a0050",
+    "elapsedMinutes": [
+      0,
+      47,
+      95,
+      127,
+      157,
+      186,
+      202,
+      232,
+      251,
+      275,
+      331,
+      362,
+      385,
+      416,
+      431,
+      460
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6286",
+    "category": "K",
+    "stopNames": [
+      "泉州",
+      "南安北",
+      "安溪东",
+      "永春",
+      "德化",
+      "大田北",
+      "永安南",
+      "三元西",
+      "明溪",
+      "清流",
+      "宁化",
+      "石城东",
+      "宁都",
+      "于都北",
+      "兴国",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6286.html",
+    "sourceUpdatedAt": "2026-04-22",
+    "sourceSha256": "85d3ff2a5a09e8413942f8f9b9ea45ec920ae51c2b38767eee6e59bd1f2d39b4",
+    "elapsedMinutes": [
+      0,
+      21,
+      37,
+      66,
+      89,
+      121,
+      175,
+      199,
+      218,
+      248,
+      265,
+      299,
+      345,
+      390,
+      418,
+      496
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6287",
+    "category": "K",
+    "stopNames": [
+      "泉州",
+      "南安北",
+      "安溪东",
+      "永春",
+      "德化",
+      "大田北",
+      "永安南",
+      "三元西",
+      "明溪",
+      "清流",
+      "宁化",
+      "石城东",
+      "宁都",
+      "于都北",
+      "兴国",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6287.html",
+    "sourceUpdatedAt": "2026-04-22",
+    "sourceSha256": "4051ff042f756c8274c38f71b807b5e148b37a6440855b98a11b8877da229b9c",
+    "elapsedMinutes": [
+      0,
+      21,
+      37,
+      66,
+      89,
+      121,
+      175,
+      199,
+      218,
+      248,
+      265,
+      299,
+      345,
+      390,
+      418,
+      496
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6288",
+    "category": "K",
+    "stopNames": [
+      "赣州",
+      "兴国",
+      "于都北",
+      "宁都",
+      "石城东",
+      "宁化",
+      "清流",
+      "明溪",
+      "三元西",
+      "永安南",
+      "大田北",
+      "德化",
+      "永春",
+      "安溪东",
+      "南安北",
+      "泉州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6288.html",
+    "sourceUpdatedAt": "2026-04-22",
+    "sourceSha256": "1316266fbf65463970dfc658397e446205d05de6f953ceeb53e38f1080682cd3",
+    "elapsedMinutes": [
+      0,
+      47,
+      95,
+      127,
+      157,
+      186,
+      202,
+      232,
+      251,
+      275,
+      331,
+      362,
+      385,
+      416,
+      431,
+      460
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6291",
+    "category": "K",
+    "stopNames": [
+      "赣州",
+      "兴国",
+      "宁都",
+      "石城东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6291.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "1116fa3794eeb6d308ad53acb2795aeae860c855449000d3dbd48abf20276a41",
+    "elapsedMinutes": [
+      0,
+      66,
+      142,
+      172
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6292",
+    "category": "K",
+    "stopNames": [
+      "石城东",
+      "宁都",
+      "于都北",
+      "兴国",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6292.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "348a48f598cd2cfbf44f7c2e8d6ddd2fc27192b3acdfb3c0df17fda1768b0a69",
+    "elapsedMinutes": [
+      0,
+      27,
+      63,
+      94,
+      168
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6293",
+    "category": "K",
+    "stopNames": [
+      "石城东",
+      "宁都",
+      "于都北",
+      "兴国",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6293.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "dd29ee054f09ff0c1b7a0877d5bfc8ed9824eb6bfb1f41d31d0975d5e04b2886",
+    "elapsedMinutes": [
+      0,
+      27,
+      63,
+      94,
+      168
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6294",
+    "category": "K",
+    "stopNames": [
+      "赣州",
+      "兴国",
+      "宁都",
+      "石城东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6294.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "e0a448568d09d3600e1c2d9c78c5f40dbdf89a1e3684eff9a7119f7efd9cbd06",
+    "elapsedMinutes": [
+      0,
+      66,
+      142,
+      172
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8751",
+    "category": "K",
+    "stopNames": [
+      "赣州",
+      "兴国",
+      "于都北",
+      "宁都",
+      "石城东",
+      "宁化",
+      "清流",
+      "杨源",
+      "冠豸山",
+      "冠豸山南",
+      "龙岩"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8751.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c4916e0dc386b02f0555157a56e75eaf0700c26667d938a497f075bd94bd1ee9",
+    "elapsedMinutes": [
+      0,
+      47,
+      98,
+      130,
+      161,
+      191,
+      211,
+      248,
+      264,
+      288,
+      337
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8752",
+    "category": "K",
+    "stopNames": [
+      "龙岩",
+      "古田会址",
+      "冠豸山南",
+      "冠豸山",
+      "杨源",
+      "清流",
+      "宁化",
+      "石城东",
+      "宁都",
+      "于都北",
+      "兴国",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8752.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ee3744a81c0cf54904bac27ceb0ff1fee1d7970095cb1d343a08def9be0c574e",
+    "elapsedMinutes": [
+      0,
+      20,
+      49,
+      73,
+      89,
+      133,
+      150,
+      182,
+      218,
+      251,
+      280,
+      367
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8753",
+    "category": "K",
+    "stopNames": [
+      "龙岩",
+      "古田会址",
+      "冠豸山南",
+      "冠豸山",
+      "杨源",
+      "清流",
+      "宁化",
+      "石城东",
+      "宁都",
+      "于都北",
+      "兴国",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8753.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "44ecbc43832e8c4c73367de90e724b33b522906cfde6978b275d6efc3fe26fc6",
+    "elapsedMinutes": [
+      0,
+      20,
+      49,
+      73,
+      89,
+      133,
+      150,
+      182,
+      218,
+      251,
+      280,
+      367
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8754",
+    "category": "K",
+    "stopNames": [
+      "赣州",
+      "兴国",
+      "于都北",
+      "宁都",
+      "石城东",
+      "宁化",
+      "清流",
+      "杨源",
+      "冠豸山",
+      "冠豸山南",
+      "龙岩"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8754.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "66378adf9b9e4284bcc624a424df020c59c4ab23c2e088cf35f726bc3d0075df",
+    "elapsedMinutes": [
+      0,
+      47,
+      98,
+      130,
+      161,
+      191,
+      211,
+      248,
+      264,
+      288,
+      337
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8755",
+    "category": "K",
+    "stopNames": [
+      "赣州",
+      "兴国",
+      "于都北",
+      "宁都",
+      "石城东",
+      "宁化",
+      "清流",
+      "三元西",
+      "永安南",
+      "大田北",
+      "德化",
+      "永春",
+      "安溪东",
+      "南安北",
+      "泉州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8755.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e052d6c35077d7cb07b58133442817aa73aed9fbca6e928345ab171d7036a277",
+    "elapsedMinutes": [
+      0,
+      47,
+      95,
+      127,
+      158,
+      188,
+      206,
+      255,
+      279,
+      331,
+      362,
+      385,
+      416,
+      431,
+      460
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8756",
+    "category": "K",
+    "stopNames": [
+      "泉州",
+      "南安北",
+      "安溪东",
+      "永春",
+      "德化",
+      "大田北",
+      "永安南",
+      "三元西",
+      "清流",
+      "宁化",
+      "石城东",
+      "宁都",
+      "于都北",
+      "兴国",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8756.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0a1db869c308bc773e642b40fbad6f0c474fd6bf920a0c59ab436277adaf643a",
+    "elapsedMinutes": [
+      0,
+      21,
+      37,
+      66,
+      89,
+      121,
+      175,
+      199,
+      255,
+      271,
+      303,
+      345,
+      390,
+      418,
+      496
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8757",
+    "category": "K",
+    "stopNames": [
+      "泉州",
+      "南安北",
+      "安溪东",
+      "永春",
+      "德化",
+      "大田北",
+      "永安南",
+      "三元西",
+      "清流",
+      "宁化",
+      "石城东",
+      "宁都",
+      "于都北",
+      "兴国",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8757.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "12ff28e5a0e66b4784f08dd1f662c4363fa96988a070446ac661cd9caeae03b9",
+    "elapsedMinutes": [
+      0,
+      21,
+      37,
+      66,
+      89,
+      121,
+      175,
+      199,
+      255,
+      271,
+      303,
+      345,
+      390,
+      418,
+      496
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8758",
+    "category": "K",
+    "stopNames": [
+      "赣州",
+      "兴国",
+      "于都北",
+      "宁都",
+      "石城东",
+      "宁化",
+      "清流",
+      "三元西",
+      "永安南",
+      "大田北",
+      "德化",
+      "永春",
+      "安溪东",
+      "南安北",
+      "泉州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8758.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b8ea9d4bd4e0408d771aa85c773a8e303f369245b4281edcefda2e3b9504c446",
+    "elapsedMinutes": [
+      0,
+      47,
+      95,
+      127,
+      158,
+      188,
+      206,
+      255,
+      279,
+      331,
+      362,
+      385,
+      416,
+      431,
+      460
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8759",
+    "category": "K",
+    "stopNames": [
+      "赣州",
+      "兴国",
+      "于都北",
+      "宁都"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8759.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5a72f964e4516e3763d561b380a461a6dc43759403bc615b447f07814db4e04e",
+    "elapsedMinutes": [
+      0,
+      47,
+      112,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8760",
+    "category": "K",
+    "stopNames": [
+      "宁都",
+      "于都北",
+      "兴国",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8760.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4392a7b5dc5c6787da15e9656c82224b744bcdbffc0898e1dcd1ecd34b7ef11e",
+    "elapsedMinutes": [
+      0,
+      38,
+      66,
+      140
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8761",
+    "category": "K",
+    "stopNames": [
+      "宁都",
+      "于都北",
+      "兴国",
+      "赣州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8761.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2e170041f4f19ce711fd101c0f019e345fba4997d3518f1c0fc2a2ecff5a04b7",
+    "elapsedMinutes": [
+      0,
+      38,
+      66,
+      140
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8762",
+    "category": "K",
+    "stopNames": [
+      "赣州",
+      "兴国",
+      "于都北",
+      "宁都"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8762.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "58d93ca7b041324f3f4d4e3f8188e89e49f97bc02d8ef652ac7b30e94c9066b1",
+    "elapsedMinutes": [
+      0,
+      47,
+      112,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K946",
+    "category": "K",
+    "stopNames": [
+      "厦门北",
+      "龙岩",
+      "冠豸山南",
+      "瑞金",
+      "于都",
+      "赣州",
+      "兴国",
+      "吉安",
+      "新余",
+      "宜春",
+      "株洲",
+      "怀化",
+      "玉屏",
+      "镇远",
+      "施秉",
+      "凯里",
+      "贵定",
+      "贵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k946.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a93544df12f4f2d07fdad7b2bbfc72497222380c375cbad2953a78b4ef7fbbf1",
+    "elapsedMinutes": [
+      0,
+      157,
+      202,
+      250,
+      305,
+      345,
+      423,
+      498,
+      736,
+      775,
+      879,
+      1226,
+      1383,
+      1460,
+      1506,
+      1558,
+      1647,
+      1717
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K947",
+    "category": "K",
+    "stopNames": [
+      "厦门北",
+      "龙岩",
+      "冠豸山南",
+      "瑞金",
+      "于都",
+      "赣州",
+      "兴国",
+      "吉安",
+      "新余",
+      "宜春",
+      "株洲",
+      "怀化",
+      "玉屏",
+      "镇远",
+      "施秉",
+      "凯里",
+      "贵定",
+      "贵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k947.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8af0650e5d20d33b39f7364c9fe98f2d6254de8d016d6b2630b3debc38890a5f",
+    "elapsedMinutes": [
+      0,
+      157,
+      202,
+      250,
+      305,
+      345,
+      423,
+      498,
+      736,
+      775,
+      879,
+      1226,
+      1383,
+      1460,
+      1506,
+      1558,
+      1647,
+      1717
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z345",
+    "category": "Z",
+    "stopNames": [
+      "贵阳",
+      "凯里",
+      "镇远",
+      "怀化",
+      "株洲",
+      "吉安",
+      "兴国",
+      "赣州",
+      "于都",
+      "瑞金",
+      "冠豸山南",
+      "龙岩",
+      "厦门北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z345.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "8b161e89ddc81ffd7464cea492b7c914751533b9d6e6c052f468d8a48e7cd263",
+    "elapsedMinutes": [
+      0,
+      144,
+      224,
+      400,
+      776,
+      1100,
+      1173,
+      1222,
+      1281,
+      1319,
+      1362,
+      1402,
+      1489
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z346",
+    "category": "Z",
+    "stopNames": [
+      "厦门北",
+      "龙岩",
+      "瑞金",
+      "赣州",
+      "吉安",
+      "新余",
+      "宜春",
+      "株洲",
+      "怀化",
+      "凯里",
+      "贵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z346.html",
+    "sourceUpdatedAt": "2026-01-16",
+    "sourceSha256": "5050781837d4c67f4206603fa5a2626a8102d0e57a753375f25c7b34159e23e2",
+    "elapsedMinutes": [
+      0,
+      81,
+      153,
+      218,
+      357,
+      570,
+      603,
+      688,
+      1036,
+      1288,
+      1441
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z347",
+    "category": "Z",
+    "stopNames": [
+      "厦门北",
+      "龙岩",
+      "瑞金",
+      "赣州",
+      "吉安",
+      "新余",
+      "宜春",
+      "株洲",
+      "怀化",
+      "凯里",
+      "贵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z347.html",
+    "sourceUpdatedAt": "2026-01-16",
+    "sourceSha256": "96e5b08542ef28f0dd93dac124e09aa64730060c58c8c1e066f1656be11ac33c",
+    "elapsedMinutes": [
+      0,
+      81,
+      153,
+      218,
+      357,
+      570,
+      603,
+      688,
+      1036,
+      1288,
+      1441
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z348",
+    "category": "Z",
+    "stopNames": [
+      "贵阳",
+      "凯里",
+      "镇远",
+      "怀化",
+      "株洲",
+      "吉安",
+      "兴国",
+      "赣州",
+      "于都",
+      "瑞金",
+      "冠豸山南",
+      "龙岩",
+      "厦门北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z348.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "f8244f5a63a98a1bd58a04aaa72bc1317ee5e9950263a394d30362424ce357c9",
+    "elapsedMinutes": [
+      0,
+      144,
+      224,
+      400,
+      776,
+      1100,
+      1173,
+      1222,
+      1281,
+      1319,
+      1362,
+      1402,
+      1489
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

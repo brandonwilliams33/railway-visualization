@@ -1,0 +1,122 @@
+[
+  {
+    "trainNumber": "D2891",
+    "category": "D",
+    "stopNames": [
+      "武汉",
+      "葛店南",
+      "蕲春南",
+      "武穴北",
+      "黄梅东",
+      "黄梅东",
+      "太湖南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d2891.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "003c2306176990cef248ea7bd85c67dca5678fefeac65bb55f3b1a2bad9d7c1a",
+    "elapsedMinutes": [
+      0,
+      16,
+      53,
+      68,
+      83,
+      89,
+      109
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D2892",
+    "category": "D",
+    "stopNames": [
+      "黄梅东",
+      "太湖南",
+      "蕲春南",
+      "浠水南",
+      "黄冈东",
+      "武汉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d2892.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fada44f5a7d15af5765d52195fabdba06b975797aadd2227a24179de2f9d9550",
+    "elapsedMinutes": [
+      0,
+      30,
+      22,
+      41,
+      57,
+      92
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3
+      ]
+    }
+  },
+  {
+    "trainNumber": "D2893",
+    "category": "D",
+    "stopNames": [
+      "黄梅东",
+      "太湖南",
+      "蕲春南",
+      "浠水南",
+      "黄冈东",
+      "武汉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d2893.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "adecda645deaef2e0c5c64fcd765814ee558a266933e03898d6738f3ebe600b2",
+    "elapsedMinutes": [
+      0,
+      30,
+      22,
+      41,
+      57,
+      92
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3
+      ]
+    }
+  },
+  {
+    "trainNumber": "D2894",
+    "category": "D",
+    "stopNames": [
+      "武汉",
+      "葛店南",
+      "蕲春南",
+      "武穴北",
+      "黄梅东",
+      "黄梅东",
+      "太湖南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d2894.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9be93a70186a6c57a460f8244dcbc5d827e13e2690213ef73a97265f909ea6de",
+    "elapsedMinutes": [
+      0,
+      16,
+      53,
+      68,
+      83,
+      89,
+      109
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

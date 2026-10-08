@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "菏泽",
+  "stationCount": 8,
+  "candidateServices": 380,
+  "acquiredAdditionalServices": 2,
+  "failedPages": [],
+  "stationIssues": [
+    "郓城"
+  ]
+}

@@ -1,0 +1,738 @@
+[
+  {
+    "trainNumber": "C9620",
+    "category": "C",
+    "stopNames": [
+      "上饶",
+      "婺源",
+      "景德镇北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c9620.html",
+    "sourceUpdatedAt": "2026-08-21",
+    "sourceSha256": "29ab7a0c0014887e6b00f21e729b11fa9b375b11e270d182b6689ce616d66d51",
+    "elapsedMinutes": [
+      0,
+      27,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C9621",
+    "category": "C",
+    "stopNames": [
+      "上饶",
+      "婺源",
+      "景德镇北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c9621.html",
+    "sourceUpdatedAt": "2026-08-21",
+    "sourceSha256": "50ac3672ef5950f6ff7744c85eb5045cf70b2aa6cc481394028d50d9ba95c928",
+    "elapsedMinutes": [
+      0,
+      27,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6265",
+    "category": "D",
+    "stopNames": [
+      "婺源",
+      "景德镇北",
+      "九江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6265.html",
+    "sourceUpdatedAt": "2026-07-07",
+    "sourceSha256": "bde6761b974788d6b2934721ee0231b964ca3638134ef984103cada99e964b16",
+    "elapsedMinutes": [
+      0,
+      28,
+      97
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6266",
+    "category": "D",
+    "stopNames": [
+      "九江",
+      "都昌",
+      "鄱阳北",
+      "景德镇北",
+      "婺源",
+      "婺源",
+      "德兴",
+      "上饶",
+      "鹰潭北",
+      "抚州东",
+      "南 昌"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6266.html",
+    "sourceUpdatedAt": "2026-07-07",
+    "sourceSha256": "80b5ea6ceb7961c13fe47b951c09c604c6c7d4e9bea7547fac262528cfd27a5f",
+    "elapsedMinutes": [
+      0,
+      36,
+      60,
+      80,
+      110,
+      190,
+      211,
+      233,
+      290,
+      309,
+      356
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6267",
+    "category": "D",
+    "stopNames": [
+      "九江",
+      "都昌",
+      "鄱阳北",
+      "景德镇北",
+      "婺源",
+      "婺源",
+      "德兴",
+      "上饶",
+      "鹰潭北",
+      "抚州东",
+      "南 昌"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6267.html",
+    "sourceUpdatedAt": "2026-07-07",
+    "sourceSha256": "b31b981d8aa8caae635085727826d3954039485e62130e183187d0cd1d01f43c",
+    "elapsedMinutes": [
+      0,
+      36,
+      60,
+      80,
+      110,
+      190,
+      211,
+      233,
+      290,
+      309,
+      356
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6268",
+    "category": "D",
+    "stopNames": [
+      "九江",
+      "鄱阳北",
+      "景德镇北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6268.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fff168954ba8e711ab7eab1afb41025aed8af7b83379437ae477fa53a8850f3c",
+    "elapsedMinutes": [
+      0,
+      53,
+      73
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9181",
+    "category": "D",
+    "stopNames": [
+      "上饶",
+      "婺源",
+      "景德镇北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9181.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "ca395979ae8a70b42e1b22a3538c89ffddd0904a7ce9092ad6cccadfa09e2cf8",
+    "elapsedMinutes": [
+      0,
+      27,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9182",
+    "category": "D",
+    "stopNames": [
+      "景德镇北",
+      "婺源",
+      "上饶"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9182.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "4edd1eb759f856f9f978236671808685baae3851a44c90f6f54e2b430874db06",
+    "elapsedMinutes": [
+      0,
+      26,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9183",
+    "category": "D",
+    "stopNames": [
+      "景德镇北",
+      "婺源",
+      "上饶"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9183.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "37ea92113712c8ef88d37ec43e496bc235d40036bc4739d037a286a0f4356ec6",
+    "elapsedMinutes": [
+      0,
+      26,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9184",
+    "category": "D",
+    "stopNames": [
+      "上饶",
+      "婺源",
+      "景德镇北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9184.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "ad44c5f07d5f19372eac009a9a66a26b3083708895c4544b59983c66094244d0",
+    "elapsedMinutes": [
+      0,
+      27,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5095",
+    "category": "G",
+    "stopNames": [
+      "九江",
+      "都昌",
+      "鄱阳北",
+      "景德镇北",
+      "婺源",
+      "德兴",
+      "上饶",
+      "南平市",
+      "建瓯西",
+      "延平",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5095.html",
+    "sourceUpdatedAt": "2025-11-14",
+    "sourceSha256": "590623d1c4d2f0a474549fbfbb6b3b1c76724fd55046f5024146a41892f9662b",
+    "elapsedMinutes": [
+      0,
+      35,
+      65,
+      88,
+      118,
+      131,
+      151,
+      184,
+      202,
+      220,
+      259
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5098",
+    "category": "G",
+    "stopNames": [
+      "九江",
+      "都昌",
+      "鄱阳北",
+      "景德镇北",
+      "婺源",
+      "德兴",
+      "上饶",
+      "南平市",
+      "建瓯西",
+      "延平",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5098.html",
+    "sourceUpdatedAt": "2025-11-14",
+    "sourceSha256": "701e8242dab66cb611bcbe28b1549a9c3847eb20d9152fd4e1d2f3c511ea1c83",
+    "elapsedMinutes": [
+      0,
+      35,
+      65,
+      88,
+      118,
+      131,
+      151,
+      184,
+      202,
+      220,
+      259
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9849",
+    "category": "G",
+    "stopNames": [
+      "福州南",
+      "福州",
+      "延平",
+      "南平市",
+      "上饶",
+      "婺源",
+      "景德镇北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9849.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "231dddee29322e79ed70ebd152ffd4e92acfcfefdc28f15c4bf9f005f7cf6ba2",
+    "elapsedMinutes": [
+      0,
+      15,
+      55,
+      83,
+      116,
+      142,
+      172
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9850",
+    "category": "G",
+    "stopNames": [
+      "福州南",
+      "福州",
+      "延平",
+      "南平市",
+      "上饶",
+      "婺源",
+      "景德镇北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9850.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "8095dc8eadcf4b5c2b97586d0d4c3bea85e77e5a302d2be2cb5e0277cf022ac6",
+    "elapsedMinutes": [
+      0,
+      15,
+      55,
+      83,
+      116,
+      142,
+      172
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9851",
+    "category": "G",
+    "stopNames": [
+      "景德镇北",
+      "婺源",
+      "上饶",
+      "南平市",
+      "延平",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9851.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "30cba7a90b1c5069f874ae92bdbffb732cbdd75b375875b20804b228766bbec5",
+    "elapsedMinutes": [
+      0,
+      26,
+      52,
+      84,
+      113,
+      153
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9854",
+    "category": "G",
+    "stopNames": [
+      "景德镇北",
+      "婺源",
+      "上饶",
+      "南平市",
+      "延平",
+      "福州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9854.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "f0cc1950a13630089677d932cba865af4b74c51fd11875d5a43d1777763d798b",
+    "elapsedMinutes": [
+      0,
+      26,
+      52,
+      84,
+      113,
+      153
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9875",
+    "category": "G",
+    "stopNames": [
+      "景德镇北",
+      "婺源",
+      "德兴",
+      "上饶",
+      "武夷山北",
+      "南平市",
+      "建瓯西",
+      "延平",
+      "古田北",
+      "闽清北",
+      "福州",
+      "福州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9875.html",
+    "sourceUpdatedAt": "2026-08-21",
+    "sourceSha256": "6bc8e3120b3fa806981ee2b380d792373ecc1d3211154a2ce7d76b1e9d72a01a",
+    "elapsedMinutes": [
+      0,
+      27,
+      40,
+      68,
+      94,
+      116,
+      140,
+      163,
+      182,
+      199,
+      227,
+      246
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9876",
+    "category": "G",
+    "stopNames": [
+      "福州",
+      "南平市",
+      "上饶",
+      "德兴",
+      "婺源",
+      "景德镇北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9876.html",
+    "sourceUpdatedAt": "2026-08-21",
+    "sourceSha256": "8fd44170596d74ab97dec23fded6896edee0c82717e1720eb5e773cfb7c0b5e0",
+    "elapsedMinutes": [
+      0,
+      55,
+      88,
+      109,
+      122,
+      154
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9877",
+    "category": "G",
+    "stopNames": [
+      "福州",
+      "南平市",
+      "上饶",
+      "德兴",
+      "婺源",
+      "景德镇北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9877.html",
+    "sourceUpdatedAt": "2026-08-21",
+    "sourceSha256": "93abdd09c7fd4f438ac4090e268b5e5ff52f6e73acc18883fed986da05871877",
+    "elapsedMinutes": [
+      0,
+      55,
+      88,
+      109,
+      122,
+      154
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9878",
+    "category": "G",
+    "stopNames": [
+      "景德镇北",
+      "婺源",
+      "德兴",
+      "上饶",
+      "武夷山北",
+      "南平市",
+      "建瓯西",
+      "延平",
+      "古田北",
+      "闽清北",
+      "福州",
+      "福州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9878.html",
+    "sourceUpdatedAt": "2026-08-21",
+    "sourceSha256": "e1012d81528dec0a5dc88e10194ceb209de030a59fc0cacf73f56427e3fce748",
+    "elapsedMinutes": [
+      0,
+      27,
+      40,
+      68,
+      94,
+      116,
+      140,
+      163,
+      182,
+      199,
+      227,
+      246
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9885",
+    "category": "G",
+    "stopNames": [
+      "九江",
+      "都昌",
+      "鄱阳北",
+      "景德镇北",
+      "婺源",
+      "上饶",
+      "南平市",
+      "延平",
+      "福州",
+      "福州南",
+      "长乐东",
+      "平潭"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9885.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "19ad2b1a3be9f2120a3a19cf91b11a793b0c9595fbc85b4721b4831192a7640f",
+    "elapsedMinutes": [
+      0,
+      35,
+      59,
+      79,
+      108,
+      134,
+      166,
+      195,
+      235,
+      256,
+      274,
+      303
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9886",
+    "category": "G",
+    "stopNames": [
+      "平潭",
+      "福州南",
+      "福州",
+      "延平",
+      "南平市",
+      "武夷山北",
+      "上饶",
+      "婺源",
+      "景德镇北",
+      "都昌",
+      "九江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9886.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9f445b28bbe448a88f04e013defdb0839dfab1db69d653d883becae005af4dab",
+    "elapsedMinutes": [
+      0,
+      29,
+      45,
+      83,
+      117,
+      132,
+      157,
+      184,
+      215,
+      251,
+      297
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9887",
+    "category": "G",
+    "stopNames": [
+      "平潭",
+      "福州南",
+      "福州",
+      "延平",
+      "南平市",
+      "武夷山北",
+      "上饶",
+      "婺源",
+      "景德镇北",
+      "都昌",
+      "九江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9887.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4db508f55b69784ab53a4bfbd7f4cc3da0e8addefa3445893b0ab03f970e3a4f",
+    "elapsedMinutes": [
+      0,
+      29,
+      45,
+      83,
+      117,
+      132,
+      157,
+      184,
+      215,
+      251,
+      297
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9888",
+    "category": "G",
+    "stopNames": [
+      "九江",
+      "都昌",
+      "鄱阳北",
+      "景德镇北",
+      "婺源",
+      "上饶",
+      "南平市",
+      "延平",
+      "福州",
+      "福州南",
+      "长乐东",
+      "平潭"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9888.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f891c99bc3812326a27346e5f052e3e72cbb647c1f162c9f7ddd290109514a30",
+    "elapsedMinutes": [
+      0,
+      35,
+      59,
+      79,
+      108,
+      134,
+      166,
+      195,
+      235,
+      256,
+      274,
+      303
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

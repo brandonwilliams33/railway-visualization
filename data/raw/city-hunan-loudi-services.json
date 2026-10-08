@@ -1,0 +1,50 @@
+[
+  {
+    "trainNumber": "K4148",
+    "category": "K",
+    "stopNames": [
+      "娄底",
+      "秀山",
+      "黔江",
+      "重庆北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4148.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "29725b571ffbbc5e26a2c0bf6bc2a1757037df900cc93e8e505ffe06bb8aae44",
+    "elapsedMinutes": [
+      601,
+      1042,
+      1132,
+      1365
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4149",
+    "category": "K",
+    "stopNames": [
+      "娄底",
+      "秀山",
+      "黔江",
+      "重庆北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4149.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "17e6be1761d04139758f7a5fd6a1b4ac85064dec64c5e6720688a5e9fa3b64af",
+    "elapsedMinutes": [
+      601,
+      1042,
+      1132,
+      1365
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

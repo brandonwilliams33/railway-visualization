@@ -1,0 +1,13 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "南平",
+  "stationCount": 15,
+  "candidateServices": 386,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "光泽",
+    "邵武",
+    "顺昌"
+  ]
+}

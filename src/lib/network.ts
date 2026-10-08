@@ -1,5 +1,6 @@
 import raw from '../data/overview.json';
 import type { RailData,HubId,CityId,Filters,PassengerService } from '../types';
+import {decodeNetwork} from './decodeNetwork';
 export let data = raw as unknown as RailData;
 export const stationById = new Map(data.stations.map(s=>[s.id,s]));
 export const origins = data.origins || [];
@@ -7,7 +8,7 @@ export const originById = new Map(origins.map(s=>[s.id,s]));
 export const departureCities = [...new Map(origins.map(s=>[s.cityId,{id:s.cityId,name:s.city}])).values()];
 export const serviceById = new Map<string,PassengerService>();
 let loading:Promise<void>|undefined;
-export function loadNetwork(){return loading??=(async()=>{const raw=await import('../data/network.json');data=raw.default as RailData;for(const s of data.services)serviceById.set(s.id,s);for(const s of data.stations)stationById.set(s.id,s)})().catch(error=>{loading=undefined;throw error})}
+export function loadNetwork(){return loading??=(async()=>{const raw=await import('../data/network.json');data=decodeNetwork(raw.default);for(const s of data.services)serviceById.set(s.id,s);for(const s of data.stations)stationById.set(s.id,s)})().catch(error=>{loading=undefined;throw error})}
 export const isHighspeed = (s:PassengerService)=>['G','D','C'].includes(s.category);
 export function getNetwork(hub:HubId,filters:Filters){
  const network=data.networks[hub];

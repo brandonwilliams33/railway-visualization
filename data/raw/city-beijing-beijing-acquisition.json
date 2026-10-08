@@ -1,0 +1,16 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "北京",
+  "stationCount": 52,
+  "candidateServices": 2588,
+  "acquiredAdditionalServices": 1662,
+  "failedPages": [
+    {
+      "trainNumber": "Z55",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    }
+  ],
+  "stationIssues": [
+    "通州"
+  ]
+}

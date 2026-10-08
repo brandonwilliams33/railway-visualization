@@ -1,0 +1,12 @@
+[
+  {
+    "name": "芦台",
+    "sourceCityId": "hebei-tangshan",
+    "city": "天津",
+    "cityId": "tianjin-tianjin",
+    "province": "天津",
+    "provinceId": "tianjin",
+    "identitySource": "https://www.tjnh.gov.cn/zmhd/jcyjzj/202508/W020250812586797570638.pdf",
+    "reason": "天津宁河区交通规划确认芦台站位于宁河。纠正源目录行政归属，保留原始入口、独立站点ID和坐标。"
+  }
+]

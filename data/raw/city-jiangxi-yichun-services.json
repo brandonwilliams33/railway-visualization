@@ -1,0 +1,54 @@
+[
+  {
+    "trainNumber": "Y131",
+    "category": "OTHER",
+    "stopNames": [
+      "宜春",
+      "秀山",
+      "重庆北",
+      "大英东",
+      "成都西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y131.html",
+    "sourceUpdatedAt": "2026-04-13",
+    "sourceSha256": "55c46cba97704adad5c0adb4cb891a4ba57b1526354527f942d928d7d4a17c40",
+    "elapsedMinutes": [
+      0,
+      826,
+      1162,
+      1341,
+      1505
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y134",
+    "category": "OTHER",
+    "stopNames": [
+      "宜春",
+      "秀山",
+      "重庆北",
+      "大英东",
+      "成都西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y134.html",
+    "sourceUpdatedAt": "2026-04-13",
+    "sourceSha256": "9acc6664daa7b32750b3f69a7acfcae39c7a322ccfacc84f721fef9e671f2f0c",
+    "elapsedMinutes": [
+      0,
+      826,
+      1162,
+      1341,
+      1505
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

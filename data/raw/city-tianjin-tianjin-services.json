@@ -1,0 +1,5771 @@
+[
+  {
+    "trainNumber": "C2311",
+    "category": "C",
+    "stopNames": [
+      "天津",
+      "塘沽",
+      "滨海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2311.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6f6461865182300b9da66f53ff2bdc470a4c858303dedb76f7cf981386dbddc3",
+    "elapsedMinutes": [
+      0,
+      17,
+      29
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2312",
+    "category": "C",
+    "stopNames": [
+      "滨海",
+      "军粮城北",
+      "天津"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2312.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "52c7e7ab12c41f92ba3bd21cd78a5993c0ca881b44961edcb923c9718e852c74",
+    "elapsedMinutes": [
+      0,
+      14,
+      29
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2313",
+    "category": "C",
+    "stopNames": [
+      "天津",
+      "塘沽",
+      "滨海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2313.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e62021b97ee3a768cdeefd05a27c1dea8e3928444adf42b6463a3fe6154406ad",
+    "elapsedMinutes": [
+      0,
+      17,
+      29
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C2314",
+    "category": "C",
+    "stopNames": [
+      "滨海",
+      "军粮城北",
+      "天津"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c2314.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a8962284b2b676eb3c18ba67ed486faf91f360e7f980d18b44f7119d1d883e16",
+    "elapsedMinutes": [
+      0,
+      14,
+      29
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1209",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "天津",
+      "滨海西",
+      "滨海北",
+      "唐山",
+      "北戴河",
+      "秦皇岛",
+      "山海关",
+      "葫芦岛北",
+      "锦州南",
+      "沈阳北",
+      "昌图西",
+      "长春西",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1209.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "eb6cdd4bd3f774a8caf405b1a50a7d194a444e7e5e5385260fb1448d664d54a1",
+    "elapsedMinutes": [
+      0,
+      8,
+      29,
+      40,
+      59,
+      97,
+      114,
+      131,
+      177,
+      196,
+      278,
+      312,
+      352,
+      410
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1210",
+    "category": "G",
+    "stopNames": [
+      "哈尔滨西",
+      "长春西",
+      "四平东",
+      "铁岭西",
+      "沈阳北",
+      "台安",
+      "盘锦北",
+      "锦州南",
+      "绥中北",
+      "秦皇岛",
+      "滦河",
+      "唐山",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1210.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "12a3b581b7b5897f4e3b628c7af28213359683f0c5baf64d1db40059ba8a6c83",
+    "elapsedMinutes": [
+      0,
+      56,
+      88,
+      120,
+      139,
+      187,
+      209,
+      236,
+      274,
+      310,
+      340,
+      360,
+      397
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1237",
+    "category": "G",
+    "stopNames": [
+      "石家庄",
+      "保定东",
+      "霸州西",
+      "胜芳",
+      "天津西",
+      "天津",
+      "滨海西",
+      "唐山",
+      "秦皇岛",
+      "绥中北",
+      "兴城西",
+      "葫芦岛北",
+      "锦州南",
+      "盘锦北",
+      "台安",
+      "沈阳北",
+      "铁岭西",
+      "昌图西",
+      "长春西",
+      "双城北",
+      "哈尔滨西",
+      "方正",
+      "佳木斯",
+      "双鸭山西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1237.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c3b19ab2307176feabad984f126fcde8cdc2da667c9bdb7176a743fc15c98937",
+    "elapsedMinutes": [
+      0,
+      35,
+      65,
+      93,
+      111,
+      124,
+      143,
+      166,
+      206,
+      244,
+      265,
+      282,
+      320,
+      348,
+      371,
+      411,
+      432,
+      453,
+      493,
+      545,
+      563,
+      636,
+      700,
+      731
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1238",
+    "category": "G",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "依兰",
+      "方正",
+      "胜利镇",
+      "宾州",
+      "哈尔滨",
+      "哈尔滨西",
+      "长春西",
+      "四平东",
+      "铁岭西",
+      "沈阳北",
+      "台安",
+      "绥中北",
+      "山海关",
+      "秦皇岛",
+      "唐山",
+      "天津西",
+      "白沟",
+      "白洋淀",
+      "保定东",
+      "石家庄"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1238.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "798fe53c4ba3634c33cf412acea20084abc085a04c470dedf603d27b95e9db6f",
+    "elapsedMinutes": [
+      0,
+      26,
+      63,
+      95,
+      121,
+      140,
+      173,
+      187,
+      247,
+      279,
+      311,
+      330,
+      372,
+      447,
+      472,
+      492,
+      532,
+      569,
+      609,
+      621,
+      650,
+      691
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1239",
+    "category": "G",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "依兰",
+      "方正",
+      "胜利镇",
+      "宾州",
+      "哈尔滨",
+      "哈尔滨西",
+      "长春西",
+      "四平东",
+      "铁岭西",
+      "沈阳北",
+      "台安",
+      "绥中北",
+      "山海关",
+      "秦皇岛",
+      "唐山",
+      "天津西",
+      "白沟",
+      "白洋淀",
+      "保定东",
+      "石家庄"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1239.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3f9e327436a25d22f4b932de9eeb0bcef0ccef102f84e065acee3781d181adc7",
+    "elapsedMinutes": [
+      0,
+      26,
+      63,
+      95,
+      121,
+      140,
+      173,
+      187,
+      247,
+      279,
+      311,
+      330,
+      372,
+      447,
+      472,
+      492,
+      532,
+      569,
+      609,
+      621,
+      650,
+      691
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1240",
+    "category": "G",
+    "stopNames": [
+      "石家庄",
+      "保定东",
+      "霸州西",
+      "胜芳",
+      "天津西",
+      "天津",
+      "滨海西",
+      "唐山",
+      "秦皇岛",
+      "绥中北",
+      "兴城西",
+      "葫芦岛北",
+      "锦州南",
+      "盘锦北",
+      "台安",
+      "沈阳北",
+      "铁岭西",
+      "昌图西",
+      "长春西",
+      "双城北",
+      "哈尔滨西",
+      "方正",
+      "佳木斯",
+      "双鸭山西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1240.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9a7fc0014bd959f8582316141120a7c89a67ee0c060c652532b84bc298c85606",
+    "elapsedMinutes": [
+      0,
+      35,
+      65,
+      93,
+      111,
+      124,
+      143,
+      166,
+      206,
+      244,
+      265,
+      282,
+      320,
+      348,
+      371,
+      411,
+      432,
+      453,
+      493,
+      545,
+      563,
+      636,
+      700,
+      731
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1279",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "滨海西",
+      "滨海北",
+      "唐山",
+      "滦河",
+      "秦皇岛",
+      "山海关",
+      "锦州南",
+      "沈阳北",
+      "铁岭西",
+      "长春西",
+      "哈尔滨西",
+      "哈尔滨",
+      "肇东",
+      "大庆西",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1279.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "aacdf0dc5cab8948c1cd0fc523b478fc7d97cf9699ad5eadd2f03f4122e6fe5e",
+    "elapsedMinutes": [
+      0,
+      22,
+      37,
+      56,
+      80,
+      116,
+      133,
+      194,
+      272,
+      300,
+      359,
+      419,
+      432,
+      459,
+      493,
+      528
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1280",
+    "category": "G",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆西",
+      "大庆东",
+      "肇东",
+      "哈尔滨",
+      "哈尔滨西",
+      "双城北",
+      "长春西",
+      "昌图西",
+      "沈阳北",
+      "辽中",
+      "台安",
+      "锦州南",
+      "兴城西",
+      "山海关",
+      "秦皇岛",
+      "滦河",
+      "唐山",
+      "滨海西",
+      "天津",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1280.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "140145d441c970b2b806147fd72a71b257c88d7eecfc4121d821fcef6264af30",
+    "elapsedMinutes": [
+      0,
+      31,
+      45,
+      73,
+      98,
+      113,
+      132,
+      180,
+      220,
+      254,
+      286,
+      302,
+      348,
+      376,
+      415,
+      433,
+      467,
+      486,
+      509,
+      537,
+      548
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1297",
+    "category": "G",
+    "stopNames": [
+      "沈阳",
+      "盘锦北",
+      "葫芦岛北",
+      "山海关",
+      "北戴河",
+      "唐山",
+      "天津",
+      "天津西",
+      "霸州西",
+      "白沟",
+      "白洋淀",
+      "保定东",
+      "石家庄"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1297.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "24b7b85b0756c7f48d5355e0cdd88fae90aee3da2429e26210705f220aa3a450",
+    "elapsedMinutes": [
+      0,
+      58,
+      98,
+      141,
+      166,
+      205,
+      240,
+      250,
+      282,
+      297,
+      309,
+      326,
+      363
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1298",
+    "category": "G",
+    "stopNames": [
+      "石家庄",
+      "定州东",
+      "保定东",
+      "白洋淀",
+      "白沟",
+      "胜芳",
+      "天津西",
+      "天津",
+      "唐山",
+      "北戴河",
+      "秦皇岛",
+      "山海关",
+      "葫芦岛北",
+      "锦州南",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1298.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6d5bdd6ce43269107ed9761b74931a57ece07ec4c46b63f3c3abc03f280de724",
+    "elapsedMinutes": [
+      0,
+      23,
+      42,
+      61,
+      74,
+      99,
+      117,
+      131,
+      165,
+      198,
+      211,
+      227,
+      272,
+      292,
+      373
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1299",
+    "category": "G",
+    "stopNames": [
+      "石家庄",
+      "定州东",
+      "保定东",
+      "白洋淀",
+      "白沟",
+      "胜芳",
+      "天津西",
+      "天津",
+      "唐山",
+      "北戴河",
+      "秦皇岛",
+      "山海关",
+      "葫芦岛北",
+      "锦州南",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1299.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "328859d8db26907f4a2b651d015b47a4e2a5c8e8fc74480f1ffa2a79377da20b",
+    "elapsedMinutes": [
+      0,
+      23,
+      42,
+      61,
+      74,
+      99,
+      117,
+      131,
+      165,
+      198,
+      211,
+      227,
+      272,
+      292,
+      373
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1300",
+    "category": "G",
+    "stopNames": [
+      "沈阳",
+      "盘锦北",
+      "葫芦岛北",
+      "山海关",
+      "北戴河",
+      "唐山",
+      "天津",
+      "天津西",
+      "霸州西",
+      "白沟",
+      "白洋淀",
+      "保定东",
+      "石家庄"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1300.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c535fd4b0f8957e3ba413626e1055ab17adede617b0ae894b4109cb64067b809",
+    "elapsedMinutes": [
+      0,
+      58,
+      98,
+      141,
+      166,
+      205,
+      240,
+      250,
+      282,
+      297,
+      309,
+      326,
+      363
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1359",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "滨海北",
+      "唐山",
+      "秦皇岛",
+      "山海关",
+      "绥中北",
+      "葫芦岛北",
+      "沈阳北",
+      "四平东",
+      "长春西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1359.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6078ad296155dd7615ed5a6ecf34e087f83e8d991a8c8fc9ca9170ab2a5fada5",
+    "elapsedMinutes": [
+      0,
+      26,
+      53,
+      92,
+      117,
+      148,
+      178,
+      274,
+      323,
+      352
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G1360",
+    "category": "G",
+    "stopNames": [
+      "长春西",
+      "四平东",
+      "铁岭西",
+      "沈阳北",
+      "辽中",
+      "锦州南",
+      "葫芦岛北",
+      "山海关",
+      "北戴河",
+      "唐山",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g1360.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f453e48b067a82aa494d7c8147429056527e2f879b7b57e71c89d7e3f7af2ae7",
+    "elapsedMinutes": [
+      0,
+      26,
+      58,
+      87,
+      121,
+      180,
+      201,
+      249,
+      275,
+      311,
+      349
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2601",
+    "category": "G",
+    "stopNames": [
+      "延吉西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春",
+      "四平东",
+      "铁岭西",
+      "沈阳北",
+      "台安",
+      "盘锦北",
+      "兴城西",
+      "山海关",
+      "秦皇岛",
+      "唐山",
+      "天津西",
+      "石家庄",
+      "太原南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2601.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bad227188894f6b9684ae8892602176797dd76537503ab9eefba5c6233d060f8",
+    "elapsedMinutes": [
+      0,
+      38,
+      73,
+      103,
+      147,
+      185,
+      217,
+      236,
+      285,
+      308,
+      358,
+      395,
+      412,
+      453,
+      492,
+      583,
+      673
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2602",
+    "category": "G",
+    "stopNames": [
+      "太原南",
+      "石家庄",
+      "保定东",
+      "白洋淀",
+      "白沟",
+      "霸州西",
+      "天津西",
+      "军粮城北",
+      "唐山",
+      "秦皇岛",
+      "山海关",
+      "锦州南",
+      "盘锦北",
+      "沈阳北",
+      "铁岭西",
+      "四平东",
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2602.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "91c9474858f0840483dba4e3a3afeccb134ded2e9ad875f67d24441bea8c4fcd",
+    "elapsedMinutes": [
+      0,
+      84,
+      126,
+      144,
+      156,
+      170,
+      200,
+      225,
+      251,
+      291,
+      308,
+      370,
+      397,
+      453,
+      473,
+      505,
+      546,
+      589,
+      618,
+      652,
+      693
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2603",
+    "category": "G",
+    "stopNames": [
+      "太原南",
+      "石家庄",
+      "保定东",
+      "白洋淀",
+      "白沟",
+      "霸州西",
+      "天津西",
+      "军粮城北",
+      "唐山",
+      "秦皇岛",
+      "山海关",
+      "锦州南",
+      "盘锦北",
+      "沈阳北",
+      "铁岭西",
+      "四平东",
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2603.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "caaa913909e8e7260df291e8f68bf055a423e9e8ca780f1f25518678f1ba5a64",
+    "elapsedMinutes": [
+      0,
+      84,
+      126,
+      144,
+      156,
+      170,
+      200,
+      225,
+      251,
+      291,
+      308,
+      370,
+      397,
+      453,
+      473,
+      505,
+      546,
+      589,
+      618,
+      652,
+      693
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2604",
+    "category": "G",
+    "stopNames": [
+      "延吉西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春",
+      "四平东",
+      "铁岭西",
+      "沈阳北",
+      "台安",
+      "盘锦北",
+      "兴城西",
+      "山海关",
+      "秦皇岛",
+      "唐山",
+      "天津西",
+      "石家庄",
+      "太原南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2604.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "edd1e10c83cd04db682439520f73e4328378fffd381e8af034fd4a280da8c5cb",
+    "elapsedMinutes": [
+      0,
+      38,
+      73,
+      103,
+      147,
+      185,
+      217,
+      236,
+      285,
+      308,
+      358,
+      395,
+      412,
+      453,
+      492,
+      583,
+      673
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2605",
+    "category": "G",
+    "stopNames": [
+      "秦皇岛",
+      "北戴河",
+      "滦河",
+      "唐山",
+      "天津",
+      "天津西",
+      "白沟",
+      "白洋淀",
+      "保定东",
+      "石家庄",
+      "阳泉北",
+      "太原南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2605.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "defd068fe1077913671094c632f2c7730937bd754702c4ecc0842181dc9b8695",
+    "elapsedMinutes": [
+      0,
+      11,
+      35,
+      63,
+      98,
+      108,
+      148,
+      161,
+      180,
+      217,
+      261,
+      314
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2606",
+    "category": "G",
+    "stopNames": [
+      "太原南",
+      "阳泉北",
+      "石家庄",
+      "正定机场",
+      "保定东",
+      "白洋淀",
+      "霸州西",
+      "胜芳",
+      "天津西",
+      "滨海西",
+      "滨海北",
+      "唐山",
+      "北戴河",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2606.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "15902dfa206aa5cd031c28e26c30116d3266b370f71fc16f2a1181612495ad47",
+    "elapsedMinutes": [
+      0,
+      47,
+      88,
+      115,
+      147,
+      164,
+      184,
+      204,
+      222,
+      255,
+      266,
+      284,
+      318,
+      332
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2607",
+    "category": "G",
+    "stopNames": [
+      "太原南",
+      "阳泉北",
+      "石家庄",
+      "正定机场",
+      "保定东",
+      "白洋淀",
+      "霸州西",
+      "胜芳",
+      "天津西",
+      "滨海西",
+      "滨海北",
+      "唐山",
+      "北戴河",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2607.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0bc7a156fcb0f6346f0ac7e0a0d6c9e69f1390d762b3c69704e84c04b77f890b",
+    "elapsedMinutes": [
+      0,
+      47,
+      88,
+      115,
+      147,
+      164,
+      184,
+      204,
+      222,
+      255,
+      266,
+      284,
+      318,
+      332
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2608",
+    "category": "G",
+    "stopNames": [
+      "秦皇岛",
+      "北戴河",
+      "滦河",
+      "唐山",
+      "天津",
+      "天津西",
+      "白沟",
+      "白洋淀",
+      "保定东",
+      "石家庄",
+      "阳泉北",
+      "太原南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2608.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6699544d68d5ecac24bdcb663b94c30e75c0e73a333ae42b3a7d1f379fda56d2",
+    "elapsedMinutes": [
+      0,
+      11,
+      35,
+      63,
+      98,
+      108,
+      148,
+      161,
+      180,
+      217,
+      261,
+      314
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2609",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "白沟",
+      "白洋淀",
+      "保定东",
+      "石家庄",
+      "阳泉北",
+      "太原南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2609.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c2d326ea15fa41b0d029db325c5731bb3a6aaf92bd7cf6c3fb2f99887e5b1920",
+    "elapsedMinutes": [
+      0,
+      36,
+      50,
+      69,
+      108,
+      152,
+      200
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2610",
+    "category": "G",
+    "stopNames": [
+      "太原南",
+      "阳泉北",
+      "石家庄",
+      "正定机场",
+      "白沟",
+      "胜芳",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2610.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e27b8aca27adf8bd56a472a751cd4ebf92f900ee5ace5e880be82620ca99a413",
+    "elapsedMinutes": [
+      0,
+      46,
+      87,
+      117,
+      163,
+      191,
+      210
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2619",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "保定东",
+      "石家庄",
+      "太原南",
+      "灵石东",
+      "临汾西",
+      "侯马西",
+      "闻喜西",
+      "运城北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2619.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "216518f36ff95746cf194f9b05e40e86c6c19065369e5a3738e3c0f82b0773aa",
+    "elapsedMinutes": [
+      0,
+      60,
+      97,
+      184,
+      234,
+      271,
+      294,
+      310,
+      327
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2620",
+    "category": "G",
+    "stopNames": [
+      "运城北",
+      "闻喜西",
+      "侯马西",
+      "临汾西",
+      "洪洞西",
+      "灵石东",
+      "平遥古城",
+      "太谷西",
+      "太原南",
+      "太原",
+      "阳泉北",
+      "石家庄",
+      "保定东",
+      "白洋淀",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2620.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e86161806d0ebdaadbb0da5b369a6896792cfe184cfce608bf22e92fd883fcf9",
+    "elapsedMinutes": [
+      0,
+      14,
+      30,
+      52,
+      67,
+      97,
+      115,
+      135,
+      157,
+      182,
+      229,
+      270,
+      309,
+      326,
+      371
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2637",
+    "category": "G",
+    "stopNames": [
+      "太原南",
+      "阳泉北",
+      "石家庄",
+      "保定东",
+      "白沟",
+      "天津西",
+      "天津",
+      "滨海西",
+      "唐山",
+      "山海关",
+      "兴城西",
+      "盘锦",
+      "海城西",
+      "鞍山西",
+      "沈阳",
+      "长春西",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2637.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "308d685b8b8c8362ce78ddcade6b9acdf09488825afb6fcde9c486966bfac4ea",
+    "elapsedMinutes": [
+      0,
+      47,
+      88,
+      130,
+      153,
+      190,
+      207,
+      227,
+      250,
+      301,
+      343,
+      399,
+      424,
+      438,
+      468,
+      540,
+      599
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2638",
+    "category": "G",
+    "stopNames": [
+      "哈尔滨西",
+      "扶余北",
+      "长春西",
+      "四平东",
+      "开原西",
+      "铁岭西",
+      "沈阳北",
+      "辽中",
+      "台安",
+      "锦州南",
+      "葫芦岛北",
+      "兴城西",
+      "绥中北",
+      "山海关",
+      "秦皇岛",
+      "北戴河",
+      "唐山",
+      "天津西",
+      "胜芳",
+      "霸州西",
+      "白沟",
+      "白洋淀",
+      "石家庄",
+      "太原南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2638.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ff4096472296acca6ff15dadc5ee2400b9ddbab55dc3bb2dac9c4e181ed969a4",
+    "elapsedMinutes": [
+      0,
+      27,
+      66,
+      95,
+      118,
+      138,
+      157,
+      189,
+      205,
+      248,
+      267,
+      281,
+      299,
+      331,
+      348,
+      362,
+      398,
+      440,
+      467,
+      485,
+      500,
+      514,
+      569,
+      654
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2639",
+    "category": "G",
+    "stopNames": [
+      "哈尔滨西",
+      "扶余北",
+      "长春西",
+      "四平东",
+      "开原西",
+      "铁岭西",
+      "沈阳北",
+      "辽中",
+      "台安",
+      "锦州南",
+      "葫芦岛北",
+      "兴城西",
+      "绥中北",
+      "山海关",
+      "秦皇岛",
+      "北戴河",
+      "唐山",
+      "天津西",
+      "胜芳",
+      "霸州西",
+      "白沟",
+      "白洋淀",
+      "石家庄",
+      "太原南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2639.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "689abb01b81952bad5774f34825c708caf649a9d2cc763baec560f1948ee0d98",
+    "elapsedMinutes": [
+      0,
+      27,
+      66,
+      95,
+      118,
+      138,
+      157,
+      189,
+      205,
+      248,
+      267,
+      281,
+      299,
+      331,
+      348,
+      362,
+      398,
+      440,
+      467,
+      485,
+      500,
+      514,
+      569,
+      654
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2640",
+    "category": "G",
+    "stopNames": [
+      "太原南",
+      "阳泉北",
+      "石家庄",
+      "保定东",
+      "白沟",
+      "天津西",
+      "天津",
+      "滨海西",
+      "唐山",
+      "山海关",
+      "兴城西",
+      "盘锦",
+      "海城西",
+      "鞍山西",
+      "沈阳",
+      "长春西",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2640.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "322e6bb2dbeb06722433d238986e469ced4b720d96f66f2ef5c2cbcb5c9dc908",
+    "elapsedMinutes": [
+      0,
+      47,
+      88,
+      130,
+      153,
+      190,
+      207,
+      227,
+      250,
+      301,
+      343,
+      399,
+      424,
+      438,
+      468,
+      540,
+      599
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6269",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "胜芳",
+      "霸州西",
+      "白洋淀",
+      "保定东",
+      "定州东",
+      "石家庄"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6269.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "59abd317f306320f5794bc9697ee4aa74e7822c11465a7c34f31904e4856328d",
+    "elapsedMinutes": [
+      0,
+      17,
+      35,
+      55,
+      73,
+      93,
+      136
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6270",
+    "category": "G",
+    "stopNames": [
+      "石家庄",
+      "白洋淀",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6270.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bd6de5a12dde7ebb5d69b6aa5ce9e06c4973997950f7ca44edf14586ae0a833a",
+    "elapsedMinutes": [
+      0,
+      46,
+      94
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6271",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "胜芳",
+      "白洋淀",
+      "保定东",
+      "石家庄",
+      "邢台东",
+      "邯郸东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6271.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4df445f3ce61aa8f1f79f4d83ef069beed83562ac7a38d5e8a7d93d5d346233b",
+    "elapsedMinutes": [
+      0,
+      17,
+      49,
+      69,
+      106,
+      137,
+      155
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6272",
+    "category": "G",
+    "stopNames": [
+      "邯郸东",
+      "邢台东",
+      "高邑西",
+      "石家庄",
+      "保定东",
+      "白洋淀",
+      "白沟",
+      "霸州西",
+      "胜芳",
+      "天津西",
+      "天津",
+      "滨海西",
+      "滨海北",
+      "唐山",
+      "北戴河",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6272.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d26febb1658729cc51547f42156e1bceb316da5d451c0d2391f25a829ac6b9c6",
+    "elapsedMinutes": [
+      0,
+      16,
+      45,
+      62,
+      100,
+      117,
+      129,
+      142,
+      165,
+      184,
+      198,
+      217,
+      229,
+      247,
+      283,
+      297
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6273",
+    "category": "G",
+    "stopNames": [
+      "邯郸东",
+      "邢台东",
+      "高邑西",
+      "石家庄",
+      "保定东",
+      "白洋淀",
+      "白沟",
+      "霸州西",
+      "胜芳",
+      "天津西",
+      "天津",
+      "滨海西",
+      "滨海北",
+      "唐山",
+      "北戴河",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6273.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9998472feaf18d71732b330302792aad987283b0d05fd476018d4b4501288062",
+    "elapsedMinutes": [
+      0,
+      16,
+      45,
+      62,
+      100,
+      117,
+      129,
+      142,
+      165,
+      184,
+      198,
+      217,
+      229,
+      247,
+      283,
+      297
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6274",
+    "category": "G",
+    "stopNames": [
+      "秦皇岛",
+      "滦河",
+      "唐山",
+      "天津西",
+      "胜芳",
+      "霸州西",
+      "白沟",
+      "白洋淀",
+      "保定东",
+      "石家庄",
+      "邢台东",
+      "邯郸东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6274.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0426c0d96192b5ea932baa4988dfd6a9ae41e2c0f95d2cfb86f9fe22c57d8884",
+    "elapsedMinutes": [
+      0,
+      25,
+      45,
+      87,
+      107,
+      130,
+      145,
+      158,
+      179,
+      216,
+      246,
+      264
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6275",
+    "category": "G",
+    "stopNames": [
+      "秦皇岛",
+      "滦河",
+      "唐山",
+      "天津西",
+      "胜芳",
+      "霸州西",
+      "白沟",
+      "白洋淀",
+      "保定东",
+      "石家庄",
+      "邢台东",
+      "邯郸东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6275.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a8afb2db23f4f8d5937591d1d101b5040f6d979a1f0718771c0cbb175a3e3b8a",
+    "elapsedMinutes": [
+      0,
+      25,
+      45,
+      87,
+      107,
+      130,
+      145,
+      158,
+      179,
+      216,
+      246,
+      264
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6276",
+    "category": "G",
+    "stopNames": [
+      "邯郸东",
+      "邢台东",
+      "石家庄",
+      "保定东",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6276.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "852cb756d1bb1dde73f03dea0263c30917aa0db5cd7e5328bff602d417c90a2f",
+    "elapsedMinutes": [
+      0,
+      16,
+      59,
+      99,
+      158
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6277",
+    "category": "G",
+    "stopNames": [
+      "秦皇岛",
+      "唐山",
+      "滨海西",
+      "天津",
+      "天津西",
+      "胜芳",
+      "霸州西",
+      "白沟",
+      "白洋淀",
+      "正定机场",
+      "石家庄"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6277.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8d5a3ecc32305882aae81eba96041586fd9e2c0ab5e135d7dffe97a4b5cbe35a",
+    "elapsedMinutes": [
+      0,
+      38,
+      61,
+      80,
+      91,
+      111,
+      131,
+      146,
+      163,
+      208,
+      223
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6278",
+    "category": "G",
+    "stopNames": [
+      "秦皇岛",
+      "唐山",
+      "滨海西",
+      "天津",
+      "天津西",
+      "胜芳",
+      "霸州西",
+      "白沟",
+      "白洋淀",
+      "正定机场",
+      "石家庄"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6278.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d8390e7282ff35fabec9cf1c3a7eca1284a083fcbfbf36de01353048cf7c7e1b",
+    "elapsedMinutes": [
+      0,
+      38,
+      61,
+      80,
+      91,
+      111,
+      131,
+      146,
+      163,
+      208,
+      223
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6279",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "石家庄",
+      "邯郸东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6279.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b028f1daf81c6c3eabb17ccd5f9a544608f9b0cfe7c37094d6c8f20cf7a82639",
+    "elapsedMinutes": [
+      0,
+      87,
+      127
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6280",
+    "category": "G",
+    "stopNames": [
+      "秦皇岛",
+      "北戴河",
+      "唐山",
+      "天津",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6280.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9b729f73c5af469200f2f114f6f04a4a192dfc85a3ce36dd1f10b987bea35792",
+    "elapsedMinutes": [
+      0,
+      11,
+      44,
+      78,
+      88
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6281",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "唐山",
+      "滦河",
+      "北戴河",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6281.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "633f95c9cf16c883c921d95155fe15b43c45a84a9b1ce9de517924339fdb6a2b",
+    "elapsedMinutes": [
+      0,
+      37,
+      56,
+      77,
+      90
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6282",
+    "category": "G",
+    "stopNames": [
+      "石家庄",
+      "正定机场",
+      "保定东",
+      "天津西",
+      "唐山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6282.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "66eb734a3b91b0d2a7de5ecbf994f36a2b98f05cdfd7dde1e97202af5f30fe43",
+    "elapsedMinutes": [
+      0,
+      14,
+      60,
+      116,
+      156
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6283",
+    "category": "G",
+    "stopNames": [
+      "石家庄",
+      "正定机场",
+      "保定东",
+      "天津西",
+      "唐山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6283.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f6903f77cc4db5e19e55545120b1ed08129ddbc203cfa436a3977d10e3c32729",
+    "elapsedMinutes": [
+      0,
+      14,
+      60,
+      116,
+      156
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6284",
+    "category": "G",
+    "stopNames": [
+      "邯郸东",
+      "邢台东",
+      "石家庄",
+      "保定东",
+      "白洋淀",
+      "白沟",
+      "霸州西",
+      "天津西",
+      "天津",
+      "滨海西",
+      "唐山",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6284.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e51ff7eef40a95c4c86961f4b6ec447e1e5c36afad1cd1cac835be68ca4c118d",
+    "elapsedMinutes": [
+      0,
+      16,
+      45,
+      84,
+      105,
+      117,
+      130,
+      161,
+      173,
+      192,
+      215,
+      256
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6285",
+    "category": "G",
+    "stopNames": [
+      "邯郸东",
+      "邢台东",
+      "石家庄",
+      "保定东",
+      "白洋淀",
+      "白沟",
+      "霸州西",
+      "天津西",
+      "天津",
+      "滨海西",
+      "唐山",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6285.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3abfc3656dbe0cc24669e1c69db2bcf865dd7155b6f9f1f900f630bfdfa93a11",
+    "elapsedMinutes": [
+      0,
+      16,
+      45,
+      84,
+      105,
+      117,
+      130,
+      161,
+      173,
+      192,
+      215,
+      256
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6286",
+    "category": "G",
+    "stopNames": [
+      "秦皇岛",
+      "滦河",
+      "唐山",
+      "滨海北",
+      "滨海西",
+      "军粮城北",
+      "天津西",
+      "胜芳",
+      "白洋淀",
+      "保定东",
+      "定州东",
+      "石家庄",
+      "邯郸东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6286.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bc7f4e831b1e6d2c7d7f6ac3c07b9845f098c61c0991b987a9e03e1755778252",
+    "elapsedMinutes": [
+      0,
+      25,
+      49,
+      67,
+      85,
+      101,
+      127,
+      147,
+      179,
+      196,
+      216,
+      244,
+      287
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6287",
+    "category": "G",
+    "stopNames": [
+      "秦皇岛",
+      "滦河",
+      "唐山",
+      "滨海北",
+      "滨海西",
+      "军粮城北",
+      "天津西",
+      "胜芳",
+      "白洋淀",
+      "保定东",
+      "定州东",
+      "石家庄",
+      "邯郸东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6287.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bd72f5d6e684bccf38a5c5ace4dedcd5a95eb5917db187a4251560f2c05ee1c9",
+    "elapsedMinutes": [
+      0,
+      25,
+      49,
+      67,
+      85,
+      101,
+      127,
+      147,
+      179,
+      196,
+      216,
+      244,
+      287
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6288",
+    "category": "G",
+    "stopNames": [
+      "邯郸东",
+      "石家庄",
+      "保定东",
+      "白沟",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6288.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3a4fbc6095737d65b6cb43b2f5431b0cbb843fdb92d5d1627ba51fcf1973a4e9",
+    "elapsedMinutes": [
+      0,
+      39,
+      78,
+      102,
+      143
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6289",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "唐山",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6289.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "14ca689d31ec9a96f505a997786f1b61bf50830f783c90d58a2fac934b1ea8be",
+    "elapsedMinutes": [
+      0,
+      37,
+      77
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6290",
+    "category": "G",
+    "stopNames": [
+      "秦皇岛",
+      "唐山",
+      "天津西",
+      "霸州西",
+      "白洋淀",
+      "保定东",
+      "石家庄",
+      "邢台东",
+      "邯郸东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6290.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "141e89ce20526d7dc74e94dd103e6e3c73f080b71328863d92606e3b797cb7ed",
+    "elapsedMinutes": [
+      0,
+      38,
+      76,
+      115,
+      136,
+      156,
+      193,
+      228,
+      246
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6291",
+    "category": "G",
+    "stopNames": [
+      "秦皇岛",
+      "唐山",
+      "天津西",
+      "霸州西",
+      "白洋淀",
+      "保定东",
+      "石家庄",
+      "邢台东",
+      "邯郸东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6291.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "10a3085de76148432bd2e151e3086885c1bf38e55f78b7e2924f06fb41fbd872",
+    "elapsedMinutes": [
+      0,
+      38,
+      76,
+      115,
+      136,
+      156,
+      193,
+      228,
+      246
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6292",
+    "category": "G",
+    "stopNames": [
+      "邯郸东",
+      "邢台东",
+      "石家庄",
+      "保定东",
+      "白沟",
+      "霸州西",
+      "胜芳",
+      "天津西",
+      "滨海西",
+      "滨海北",
+      "唐山",
+      "滦河",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6292.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d88133a361e12a5f7147d1dcc2f850eb0544ddd9781fc28e5173bcc0ee7d491f",
+    "elapsedMinutes": [
+      0,
+      16,
+      65,
+      107,
+      130,
+      144,
+      164,
+      188,
+      216,
+      241,
+      261,
+      286,
+      319
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6293",
+    "category": "G",
+    "stopNames": [
+      "邯郸东",
+      "邢台东",
+      "石家庄",
+      "保定东",
+      "白沟",
+      "霸州西",
+      "胜芳",
+      "天津西",
+      "滨海西",
+      "滨海北",
+      "唐山",
+      "滦河",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6293.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1fc4e350a96b86e90d6ba02b757ab74ada3e05e49d8c8ff3c2b02ec8b49689ce",
+    "elapsedMinutes": [
+      0,
+      16,
+      65,
+      107,
+      130,
+      144,
+      164,
+      188,
+      216,
+      241,
+      261,
+      286,
+      319
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6294",
+    "category": "G",
+    "stopNames": [
+      "石家庄",
+      "正定机场",
+      "定州东",
+      "保定东",
+      "白洋淀",
+      "白沟",
+      "霸州西",
+      "胜芳",
+      "天津西",
+      "天津",
+      "滨海北",
+      "唐山",
+      "滦河",
+      "北戴河",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6294.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ca24557a56b7918b080f146e36a0562c4e8385a0b069ec2fdc8b22ea9b0f0b0c",
+    "elapsedMinutes": [
+      0,
+      14,
+      30,
+      49,
+      70,
+      84,
+      98,
+      117,
+      136,
+      152,
+      202,
+      220,
+      240,
+      264,
+      288
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6295",
+    "category": "G",
+    "stopNames": [
+      "石家庄",
+      "正定机场",
+      "定州东",
+      "保定东",
+      "白洋淀",
+      "白沟",
+      "霸州西",
+      "胜芳",
+      "天津西",
+      "天津",
+      "滨海北",
+      "唐山",
+      "滦河",
+      "北戴河",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6295.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0a5afea58b525307544e937237a2247c111b7a0288fc0f2a25bf3b42c7ac7af5",
+    "elapsedMinutes": [
+      0,
+      14,
+      30,
+      49,
+      70,
+      84,
+      98,
+      117,
+      136,
+      152,
+      202,
+      220,
+      240,
+      264,
+      288
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6296",
+    "category": "G",
+    "stopNames": [
+      "秦皇岛",
+      "北戴河",
+      "唐山",
+      "滨海西",
+      "天津",
+      "天津西",
+      "胜芳",
+      "白沟",
+      "白洋淀",
+      "定州东",
+      "石家庄"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6296.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8bd313eaebbb9565dfc193547b17b5c7b9e70f2b9544e8400f64055809836f50",
+    "elapsedMinutes": [
+      0,
+      11,
+      50,
+      73,
+      92,
+      109,
+      133,
+      160,
+      173,
+      203,
+      233
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6297",
+    "category": "G",
+    "stopNames": [
+      "秦皇岛",
+      "北戴河",
+      "唐山",
+      "滨海西",
+      "天津",
+      "天津西",
+      "胜芳",
+      "白沟",
+      "白洋淀",
+      "定州东",
+      "石家庄"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6297.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a610260675152a8b3f8a0e32a08f284f1773c81de74f7914a046899d1174ecdf",
+    "elapsedMinutes": [
+      0,
+      11,
+      50,
+      73,
+      92,
+      109,
+      133,
+      160,
+      173,
+      203,
+      233
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6298",
+    "category": "G",
+    "stopNames": [
+      "唐山",
+      "天津",
+      "天津西",
+      "胜芳",
+      "白沟",
+      "白洋淀",
+      "保定东",
+      "石家庄"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6298.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c91aa00ec1f1202b9b6a0649578ee6944f3818e6ecf1adf7e0806e7cad3afb66",
+    "elapsedMinutes": [
+      0,
+      32,
+      43,
+      71,
+      98,
+      112,
+      139,
+      182
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6299",
+    "category": "G",
+    "stopNames": [
+      "唐山",
+      "天津",
+      "天津西",
+      "胜芳",
+      "白沟",
+      "白洋淀",
+      "保定东",
+      "石家庄"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6299.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a6147a1bb5fdf021a5a3111ead77a78cdd3a008a84cb3dec27af01665ba18173",
+    "elapsedMinutes": [
+      0,
+      32,
+      43,
+      71,
+      98,
+      112,
+      139,
+      182
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7805",
+    "category": "G",
+    "stopNames": [
+      "廊坊",
+      "天津西",
+      "霸州西",
+      "白沟",
+      "白洋淀",
+      "保定东",
+      "石家庄",
+      "邢台东",
+      "邯郸东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7805.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fcd6a10f9f08d8ff8d57e2dd9b62a6fbe6a606735d639eca0c8ea5e4085c8151",
+    "elapsedMinutes": [
+      0,
+      19,
+      72,
+      86,
+      98,
+      117,
+      172,
+      203,
+      224
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7806",
+    "category": "G",
+    "stopNames": [
+      "邯郸东",
+      "邢台东",
+      "石家庄",
+      "保定东",
+      "白洋淀",
+      "白沟",
+      "天津西",
+      "廊坊"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7806.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "042f5bfb1f54508cdc91a2957972f63177f6423d18d433c7202e73bbfdd8032e",
+    "elapsedMinutes": [
+      0,
+      16,
+      51,
+      94,
+      111,
+      123,
+      161,
+      209
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7809",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "天津南",
+      "沧州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7809.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "65f76845cc5df61afccd25245539187419a499f4cb84ffae207009f1153fca86",
+    "elapsedMinutes": [
+      0,
+      13,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7821",
+    "category": "G",
+    "stopNames": [
+      "石家庄",
+      "保定东",
+      "白洋淀",
+      "白沟",
+      "霸州西",
+      "天津西",
+      "滨海西",
+      "唐山",
+      "滦河",
+      "北戴河",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7821.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "51996f0d569ffa8e386aede450a9e1e610ee7704f3cde77fb7c22e13da13f63d",
+    "elapsedMinutes": [
+      0,
+      35,
+      64,
+      76,
+      92,
+      122,
+      146,
+      169,
+      189,
+      209,
+      223
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7822",
+    "category": "G",
+    "stopNames": [
+      "石家庄",
+      "保定东",
+      "白洋淀",
+      "白沟",
+      "霸州西",
+      "天津西",
+      "滨海西",
+      "唐山",
+      "滦河",
+      "北戴河",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7822.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "acf1203b85007efcf3e6dd333495d221e55f22f032738b8cf02f4b3dc9805b9a",
+    "elapsedMinutes": [
+      0,
+      35,
+      64,
+      76,
+      92,
+      122,
+      146,
+      169,
+      189,
+      209,
+      223
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7825",
+    "category": "G",
+    "stopNames": [
+      "邯郸东",
+      "石家庄",
+      "正定机场",
+      "定州东",
+      "保定东",
+      "白洋淀",
+      "天津西",
+      "唐山",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7825.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "94390cccced8fdeb1c8552529d6f92c4050bc759994151f455f25bf773ca6f31",
+    "elapsedMinutes": [
+      0,
+      38,
+      56,
+      72,
+      92,
+      109,
+      156,
+      196,
+      237
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7826",
+    "category": "G",
+    "stopNames": [
+      "秦皇岛",
+      "北戴河",
+      "滦河",
+      "唐山",
+      "天津西",
+      "保定东",
+      "正定机场",
+      "石家庄",
+      "邯郸东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7826.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0a10cf8aed0c4309d4fd76252a999948e9366f4cea8c79885dacca77757b1c4a",
+    "elapsedMinutes": [
+      0,
+      11,
+      31,
+      51,
+      88,
+      161,
+      192,
+      216,
+      259
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7827",
+    "category": "G",
+    "stopNames": [
+      "秦皇岛",
+      "北戴河",
+      "滦河",
+      "唐山",
+      "天津西",
+      "保定东",
+      "正定机场",
+      "石家庄",
+      "邯郸东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7827.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "93916bdd9e9a137edb5dee99dafa092e42040b6521387f53061929446f2791c8",
+    "elapsedMinutes": [
+      0,
+      11,
+      31,
+      51,
+      88,
+      161,
+      192,
+      216,
+      259
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G7828",
+    "category": "G",
+    "stopNames": [
+      "邯郸东",
+      "石家庄",
+      "正定机场",
+      "定州东",
+      "保定东",
+      "白洋淀",
+      "天津西",
+      "唐山",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g7828.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "df83319f6614d46b87390164129895e14fbea81b2a9ad008f90b236823532458",
+    "elapsedMinutes": [
+      0,
+      38,
+      56,
+      72,
+      92,
+      109,
+      156,
+      196,
+      237
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8841",
+    "category": "G",
+    "stopNames": [
+      "大兴机场",
+      "固安东",
+      "永清东",
+      "安次",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8841.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4286668e8a3840a453daced22d5b7417db8565af3863c3ed33677e71f450e33b",
+    "elapsedMinutes": [
+      0,
+      10,
+      22,
+      33,
+      59
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8842",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "安次",
+      "永清东",
+      "大兴机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8842.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b7d8e3dde5c960be7f0b17e2e74b1abec0d7e26b265b713b048900699a072500",
+    "elapsedMinutes": [
+      0,
+      23,
+      38,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8843",
+    "category": "G",
+    "stopNames": [
+      "大兴机场",
+      "固安东",
+      "永清东",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8843.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ba991059c56591bac88282e2779e70474bd10da857961986d1de79457f0ef781",
+    "elapsedMinutes": [
+      0,
+      11,
+      22,
+      54
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8844",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "胜芳",
+      "固安东",
+      "大兴机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8844.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "091b924b00f13ec37eea2c3678310490c891598e7b0ee3e3b098beb65e4bdf11",
+    "elapsedMinutes": [
+      0,
+      17,
+      40,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8845",
+    "category": "G",
+    "stopNames": [
+      "大兴机场",
+      "固安东",
+      "安次",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8845.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2095f72b421e00b3bcbd1cd79fe071cd5383c57a7d76e05550fc1353eec59816",
+    "elapsedMinutes": [
+      0,
+      11,
+      27,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8846",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "安次",
+      "永清东",
+      "大兴机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8846.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "45ef731a05a1fe75271649a2bb885b46b60d2e18849290b52a84a224a66a69f3",
+    "elapsedMinutes": [
+      0,
+      23,
+      34,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8847",
+    "category": "G",
+    "stopNames": [
+      "大兴机场",
+      "固安东",
+      "永清东",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8847.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ede1c4fc020f41dfd3f3a109d76f4ca9a147f595d0a6417b740dbab9c2d48511",
+    "elapsedMinutes": [
+      0,
+      11,
+      22,
+      54
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8848",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "安次",
+      "永清东",
+      "大兴机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8848.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7d90143ec6deee4eae3cb4c80fa91538d54609c1dd56e3dd36211aa10f4bbaa9",
+    "elapsedMinutes": [
+      0,
+      23,
+      34,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8849",
+    "category": "G",
+    "stopNames": [
+      "大兴机场",
+      "永清东",
+      "安次",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8849.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f8d903155d4c096c7c0632df39890690dfe8d2075046cdd0fbb4cd5c70cb68da",
+    "elapsedMinutes": [
+      0,
+      16,
+      27,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8850",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "安次",
+      "永清东",
+      "大兴机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8850.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "58a37e107eb3af2fd84cdbdb46404f55f24ae852f58fe2ba4aecbd9b1afec2ac",
+    "elapsedMinutes": [
+      0,
+      23,
+      34,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8871",
+    "category": "G",
+    "stopNames": [
+      "天津",
+      "天津西",
+      "胜芳",
+      "安次",
+      "固安东",
+      "大兴机场",
+      "雄安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8871.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2d6e4ca79be43a48408ed8b5843101856fe0861d05f995c87aacc5adad55cebe",
+    "elapsedMinutes": [
+      0,
+      8,
+      29,
+      42,
+      61,
+      73,
+      112
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8872",
+    "category": "G",
+    "stopNames": [
+      "雄安",
+      "大兴机场",
+      "永清东",
+      "安次",
+      "天津西",
+      "天津",
+      "滨海北",
+      "唐山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8872.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3f6196370d8c2c8f70409b2aafc20b2c07d1e4fc81a2f39717ee0b94dd77c078",
+    "elapsedMinutes": [
+      0,
+      19,
+      53,
+      64,
+      89,
+      100,
+      123,
+      149
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8873",
+    "category": "G",
+    "stopNames": [
+      "雄安",
+      "大兴机场",
+      "永清东",
+      "安次",
+      "天津西",
+      "天津",
+      "滨海北",
+      "唐山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8873.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b78d624c0b08643ab33898a7afee001bdb8431397feb93f9142f055aca118c13",
+    "elapsedMinutes": [
+      0,
+      19,
+      53,
+      64,
+      89,
+      100,
+      123,
+      149
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8874",
+    "category": "G",
+    "stopNames": [
+      "天津",
+      "天津西",
+      "胜芳",
+      "安次",
+      "固安东",
+      "大兴机场",
+      "雄安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8874.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e87600ecb7757203b41b6fadad9558d0343fe0ffd3bb5dca0a562744a8c82093",
+    "elapsedMinutes": [
+      0,
+      8,
+      29,
+      42,
+      61,
+      73,
+      112
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8875",
+    "category": "G",
+    "stopNames": [
+      "雄安",
+      "大兴机场",
+      "永清东",
+      "安次",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8875.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "84b1cf4a546410f036f34221d12fe21edee6971b912f0795f064dd097a3476cf",
+    "elapsedMinutes": [
+      0,
+      19,
+      53,
+      66,
+      93
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8876",
+    "category": "G",
+    "stopNames": [
+      "唐山",
+      "天津",
+      "天津西",
+      "安次",
+      "永清东",
+      "固安东",
+      "大兴机场",
+      "雄安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8876.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0cc9a0262d3169821f4880a3c6a0180ae39797a91f008b9fd197859b080b9ac2",
+    "elapsedMinutes": [
+      0,
+      32,
+      52,
+      79,
+      90,
+      102,
+      113,
+      152
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8877",
+    "category": "G",
+    "stopNames": [
+      "唐山",
+      "天津",
+      "天津西",
+      "安次",
+      "永清东",
+      "固安东",
+      "大兴机场",
+      "雄安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8877.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3c215d61aea682e2e38eb5f6996f08fb61c8c7483176664d574d139377cb32de",
+    "elapsedMinutes": [
+      0,
+      32,
+      52,
+      79,
+      90,
+      102,
+      113,
+      152
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8878",
+    "category": "G",
+    "stopNames": [
+      "雄安",
+      "大兴机场",
+      "永清东",
+      "安次",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8878.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e95df18e44454ec5fc7020499a1b77a08f75dd7e9d1d23a601eebcf817c0a091",
+    "elapsedMinutes": [
+      0,
+      19,
+      53,
+      66,
+      93
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8933",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "滨海西",
+      "唐山",
+      "秦皇岛"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8933.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6c90464e71d0da933aebb5f53ce2a654ac48b7e74c26b4149295db9435344a4e",
+    "elapsedMinutes": [
+      0,
+      21,
+      44,
+      83
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8934",
+    "category": "G",
+    "stopNames": [
+      "秦皇岛",
+      "唐山",
+      "滨海北",
+      "天津",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8934.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "dc6ff3dd4c13d0d5dac4071ee3a38c69e6459f20410bf0d8f8ac5d61eaa45db4",
+    "elapsedMinutes": [
+      0,
+      38,
+      57,
+      80,
+      92
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9391",
+    "category": "G",
+    "stopNames": [
+      "天津西",
+      "胜芳",
+      "保定东",
+      "石家庄"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9391.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "c00af10752a31f65a4d17af09e6a54660640a375406548bf4a614f5b9078fd71",
+    "elapsedMinutes": [
+      0,
+      18,
+      66,
+      108
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9394",
+    "category": "G",
+    "stopNames": [
+      "石家庄",
+      "保定东",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9394.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "f072cf681b7ac11c1ff933c980e6522afc14b371dba7f7079904920ad9a6ffed",
+    "elapsedMinutes": [
+      0,
+      35,
+      94
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9400",
+    "category": "G",
+    "stopNames": [
+      "唐山",
+      "滨海西",
+      "天津",
+      "天津西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9400.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "152e9d10fdb230205303fb50dc2780456b1769db5426b0bc685b93dc5a874267",
+    "elapsedMinutes": [
+      0,
+      20,
+      39,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1525",
+    "category": "K",
+    "stopNames": [
+      "佳木斯",
+      "南岔",
+      "铁力",
+      "庆安",
+      "绥化",
+      "哈尔滨东",
+      "哈尔滨",
+      "德惠",
+      "长春",
+      "公主岭",
+      "四平",
+      "昌图",
+      "开原",
+      "铁岭",
+      "沈阳北",
+      "台安",
+      "凌海南",
+      "山海关",
+      "秦皇岛",
+      "唐山",
+      "天津",
+      "霸州",
+      "保定",
+      "石家庄",
+      "邢台",
+      "邯郸"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1525.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c55a538cd544e8f89900831b5e52788a281eca790dda9e98b8bff66c8df6c234",
+    "elapsedMinutes": [
+      0,
+      115,
+      310,
+      351,
+      403,
+      501,
+      545,
+      675,
+      735,
+      784,
+      825,
+      877,
+      900,
+      926,
+      980,
+      1057,
+      1145,
+      1293,
+      1322,
+      1490,
+      1580,
+      1704,
+      1804,
+      1896,
+      1965,
+      2005
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1526",
+    "category": "K",
+    "stopNames": [
+      "邯郸",
+      "邢台",
+      "石家庄",
+      "定州",
+      "保定",
+      "徐水",
+      "天津",
+      "唐山",
+      "秦皇岛",
+      "山海关",
+      "沈阳北",
+      "长春",
+      "德惠",
+      "陶赖昭",
+      "扶余",
+      "双城堡",
+      "哈尔滨",
+      "哈尔滨东",
+      "绥化",
+      "铁力",
+      "汤原",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1526.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d88e218cd8957a2723b480273cc4cfff98bb78aad0462728d0776b5a4928efa3",
+    "elapsedMinutes": [
+      0,
+      31,
+      203,
+      272,
+      312,
+      335,
+      480,
+      591,
+      697,
+      732,
+      982,
+      1226,
+      1283,
+      1313,
+      1334,
+      1373,
+      1415,
+      1440,
+      1553,
+      1638,
+      1816,
+      1861
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1527",
+    "category": "K",
+    "stopNames": [
+      "邯郸",
+      "邢台",
+      "石家庄",
+      "定州",
+      "保定",
+      "徐水",
+      "天津",
+      "唐山",
+      "秦皇岛",
+      "山海关",
+      "沈阳北",
+      "长春",
+      "德惠",
+      "陶赖昭",
+      "扶余",
+      "双城堡",
+      "哈尔滨",
+      "哈尔滨东",
+      "绥化",
+      "铁力",
+      "汤原",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1527.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f8bb3de1869f254797905cc53cc64b6576f40f0396e8de26f56acf562ca64a2c",
+    "elapsedMinutes": [
+      0,
+      31,
+      203,
+      272,
+      312,
+      335,
+      480,
+      591,
+      697,
+      732,
+      982,
+      1226,
+      1283,
+      1313,
+      1334,
+      1373,
+      1415,
+      1440,
+      1553,
+      1638,
+      1816,
+      1861
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1528",
+    "category": "K",
+    "stopNames": [
+      "佳木斯",
+      "南岔",
+      "铁力",
+      "庆安",
+      "绥化",
+      "哈尔滨东",
+      "哈尔滨",
+      "德惠",
+      "长春",
+      "公主岭",
+      "四平",
+      "昌图",
+      "开原",
+      "铁岭",
+      "沈阳北",
+      "台安",
+      "凌海南",
+      "山海关",
+      "秦皇岛",
+      "唐山",
+      "天津",
+      "霸州",
+      "保定",
+      "石家庄",
+      "邢台",
+      "邯郸"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1528.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0ffbe989170a2006922ba4f30245bd0b529c7cdc63d6bbc0bcda8fa1758cadd3",
+    "elapsedMinutes": [
+      0,
+      115,
+      310,
+      351,
+      403,
+      501,
+      545,
+      675,
+      735,
+      784,
+      825,
+      877,
+      900,
+      926,
+      980,
+      1057,
+      1145,
+      1293,
+      1322,
+      1490,
+      1580,
+      1704,
+      1804,
+      1896,
+      1965,
+      2005
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1533",
+    "category": "K",
+    "stopNames": [
+      "天津",
+      "唐山",
+      "山海关",
+      "绥中",
+      "兴城",
+      "葫芦岛",
+      "锦州",
+      "沟帮子",
+      "通辽",
+      "白城",
+      "乌兰浩特"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1533.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "38c6f813b80860df4ce404522c1004cc71e5d2c9d60967b3db579398f0290a33",
+    "elapsedMinutes": [
+      0,
+      89,
+      249,
+      307,
+      339,
+      360,
+      404,
+      456,
+      664,
+      864,
+      933
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1534",
+    "category": "K",
+    "stopNames": [
+      "乌兰浩特",
+      "白城",
+      "洮南",
+      "通榆",
+      "太平川",
+      "通辽",
+      "沟帮子",
+      "锦州",
+      "葫芦岛",
+      "兴城",
+      "绥中",
+      "山海关",
+      "秦皇岛",
+      "滦县",
+      "唐山",
+      "天津"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1534.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "65dc4f674a6e6e2b5eb9830c1491d8dc1b40d8c3673eba6b0fcfb5ceb2a702ef",
+    "elapsedMinutes": [
+      0,
+      60,
+      94,
+      143,
+      182,
+      269,
+      498,
+      546,
+      590,
+      610,
+      652,
+      708,
+      753,
+      829,
+      884,
+      1024
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1571",
+    "category": "K",
+    "stopNames": [
+      "西安",
+      "延安",
+      "太原",
+      "石家庄北",
+      "辛集",
+      "深州",
+      "任丘",
+      "天津",
+      "唐山",
+      "山海关",
+      "绥中",
+      "兴城",
+      "葫芦岛",
+      "锦州",
+      "沟帮子",
+      "大虎山",
+      "沈阳北",
+      "长春",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1571.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "52937380b2d297a2d406c4c8f41580373007a732147b42a217a23db92709ecad",
+    "elapsedMinutes": [
+      0,
+      200,
+      523,
+      672,
+      744,
+      797,
+      852,
+      979,
+      1075,
+      1240,
+      1299,
+      1330,
+      1350,
+      1393,
+      1442,
+      1476,
+      1604,
+      1822,
+      1973
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1572",
+    "category": "K",
+    "stopNames": [
+      "吉林",
+      "九台",
+      "长春",
+      "公主岭",
+      "四平",
+      "昌图",
+      "开原",
+      "铁岭",
+      "沈阳北",
+      "凌海南",
+      "葫芦岛北",
+      "山海关",
+      "秦皇岛",
+      "滦县",
+      "唐山",
+      "天津",
+      "任丘",
+      "辛集",
+      "石家庄北",
+      "阳泉北",
+      "太原",
+      "交城",
+      "文水",
+      "汾阳",
+      "吕梁",
+      "柳林南",
+      "吴堡",
+      "绥德",
+      "清涧县",
+      "子长",
+      "延安",
+      "甘泉北",
+      "富县东",
+      "黄陵南",
+      "蒲城东",
+      "西安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1572.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d6ca92a2ffdbc93b349a59bf187f804919ce25cfbec7f909540e9ed6a2085e74",
+    "elapsedMinutes": [
+      0,
+      59,
+      108,
+      173,
+      214,
+      249,
+      288,
+      314,
+      367,
+      493,
+      573,
+      661,
+      698,
+      802,
+      878,
+      967,
+      1088,
+      1195,
+      1262,
+      1331,
+      1393,
+      1474,
+      1490,
+      1507,
+      1563,
+      1588,
+      1612,
+      1643,
+      1709,
+      1729,
+      1786,
+      1820,
+      1844,
+      1879,
+      1937,
+      2019
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1573",
+    "category": "K",
+    "stopNames": [
+      "吉林",
+      "九台",
+      "长春",
+      "公主岭",
+      "四平",
+      "昌图",
+      "开原",
+      "铁岭",
+      "沈阳北",
+      "凌海南",
+      "葫芦岛北",
+      "山海关",
+      "秦皇岛",
+      "滦县",
+      "唐山",
+      "天津",
+      "任丘",
+      "辛集",
+      "石家庄北",
+      "阳泉北",
+      "太原",
+      "交城",
+      "文水",
+      "汾阳",
+      "吕梁",
+      "柳林南",
+      "吴堡",
+      "绥德",
+      "清涧县",
+      "子长",
+      "延安",
+      "甘泉北",
+      "富县东",
+      "黄陵南",
+      "蒲城东",
+      "西安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1573.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f7ff11280e29fb3965251409f52a94023dc6efe52f53c1dd43cf98e861330003",
+    "elapsedMinutes": [
+      0,
+      59,
+      108,
+      173,
+      214,
+      249,
+      288,
+      314,
+      367,
+      493,
+      573,
+      661,
+      698,
+      802,
+      878,
+      967,
+      1088,
+      1195,
+      1262,
+      1331,
+      1393,
+      1474,
+      1490,
+      1507,
+      1563,
+      1588,
+      1612,
+      1643,
+      1709,
+      1729,
+      1786,
+      1820,
+      1844,
+      1879,
+      1937,
+      2019
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K1574",
+    "category": "K",
+    "stopNames": [
+      "西安",
+      "延安",
+      "太原",
+      "石家庄北",
+      "辛集",
+      "深州",
+      "任丘",
+      "天津",
+      "唐山",
+      "山海关",
+      "绥中",
+      "兴城",
+      "葫芦岛",
+      "锦州",
+      "沟帮子",
+      "大虎山",
+      "沈阳北",
+      "长春",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k1574.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0012aaf79604ef4e285e02a3c25fc5f8d02b12c72423403dd5f0960320987e2a",
+    "elapsedMinutes": [
+      0,
+      200,
+      523,
+      672,
+      744,
+      797,
+      852,
+      979,
+      1075,
+      1240,
+      1299,
+      1330,
+      1350,
+      1393,
+      1442,
+      1476,
+      1604,
+      1822,
+      1973
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4131",
+    "category": "K",
+    "stopNames": [
+      "天津",
+      "唐山",
+      "山海关",
+      "葫芦岛",
+      "锦州",
+      "沟帮子",
+      "盘锦",
+      "大连"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4131.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "8338a26ffb7290bcb7fb909ac7fa6b2c58df5b9c81b03b7684d699980c9ffd8b",
+    "elapsedMinutes": [
+      0,
+      89,
+      249,
+      348,
+      392,
+      440,
+      498,
+      813
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4132",
+    "category": "K",
+    "stopNames": [
+      "大连",
+      "盘锦",
+      "沟帮子",
+      "锦州",
+      "葫芦岛",
+      "兴城",
+      "绥中",
+      "山海关",
+      "秦皇岛",
+      "唐山",
+      "天津"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4132.html",
+    "sourceUpdatedAt": "2026-08-27",
+    "sourceSha256": "d650d9c7b7a9d82bd1d66d3f836401b6ef50d8072bc4908ebeb033193a761e9c",
+    "elapsedMinutes": [
+      0,
+      357,
+      415,
+      463,
+      518,
+      538,
+      574,
+      630,
+      685,
+      795,
+      914
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4133",
+    "category": "K",
+    "stopNames": [
+      "大连",
+      "盘锦",
+      "沟帮子",
+      "锦州",
+      "葫芦岛",
+      "兴城",
+      "绥中",
+      "山海关",
+      "秦皇岛",
+      "唐山",
+      "天津"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4133.html",
+    "sourceUpdatedAt": "2026-08-27",
+    "sourceSha256": "142865d2e733f439dc441f55638afe4f134d83cf04b1bec561e35ff8dfd8a568",
+    "elapsedMinutes": [
+      0,
+      357,
+      415,
+      463,
+      518,
+      538,
+      574,
+      630,
+      685,
+      795,
+      914
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4134",
+    "category": "K",
+    "stopNames": [
+      "天津",
+      "唐山",
+      "山海关",
+      "葫芦岛",
+      "锦州",
+      "沟帮子",
+      "盘锦",
+      "大连"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4134.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "7bd39cccaeb4552a7fa0e160fbc575a84b4459a2a90d64e24a3e2af2018a75b8",
+    "elapsedMinutes": [
+      0,
+      89,
+      249,
+      348,
+      392,
+      440,
+      498,
+      813
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K489",
+    "category": "K",
+    "stopNames": [
+      "天津",
+      "唐山",
+      "锦州",
+      "沈阳北",
+      "长春",
+      "哈尔滨",
+      "肇东",
+      "大庆东",
+      "杜尔伯特",
+      "齐齐哈尔",
+      "富裕",
+      "讷河",
+      "嫩江",
+      "加格达奇"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k489.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "04ca1ef22eb934defde92d58c997cd5afea3f9424f0f527e3015c5de12c9e683",
+    "elapsedMinutes": [
+      0,
+      83,
+      355,
+      537,
+      783,
+      972,
+      1042,
+      1096,
+      1140,
+      1197,
+      1269,
+      1349,
+      1471,
+      1716
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K490",
+    "category": "K",
+    "stopNames": [
+      "加格达奇",
+      "嫩江",
+      "讷河",
+      "齐齐哈尔",
+      "大庆西",
+      "哈尔滨",
+      "德惠",
+      "长春",
+      "沈阳北",
+      "大虎山",
+      "沟帮子",
+      "锦州",
+      "葫芦岛",
+      "兴城",
+      "绥中",
+      "山海关",
+      "唐山",
+      "天津"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k490.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "94442db7ca59921018174e0e8544f5df770bc0688e5b712949d9bf2b702e446d",
+    "elapsedMinutes": [
+      0,
+      174,
+      264,
+      400,
+      520,
+      634,
+      747,
+      806,
+      1035,
+      1152,
+      1183,
+      1231,
+      1277,
+      1297,
+      1331,
+      1382,
+      1512,
+      1610
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5291",
+    "category": "K",
+    "stopNames": [
+      "天津",
+      "保定",
+      "保定",
+      "石家庄",
+      "石家庄",
+      "邢台",
+      "邢台",
+      "邯郸",
+      "邯郸"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5291.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "0a4961a761a500cd7bfffe16c611a5bf01fc96657565cfa161f89c0332cb0af0",
+    "elapsedMinutes": [
+      0,
+      170,
+      165,
+      260,
+      256,
+      356,
+      358,
+      398,
+      398
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "K5292",
+    "category": "K",
+    "stopNames": [
+      "邯郸",
+      "邢台",
+      "石家庄",
+      "保定",
+      "天津"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5292.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "4c8e5125d2c862c54c0c097001ae351ade6d5bf99960c1fdd45e2c95c91a0e2c",
+    "elapsedMinutes": [
+      0,
+      31,
+      110,
+      206,
+      428
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5293",
+    "category": "K",
+    "stopNames": [
+      "邯郸",
+      "邢台",
+      "石家庄",
+      "保定",
+      "天津"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5293.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "d4544e56dab6876a72a5058ac31f1d1a6af84c4b4fcf8380cd449abf1b277673",
+    "elapsedMinutes": [
+      0,
+      31,
+      110,
+      206,
+      428
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5294",
+    "category": "K",
+    "stopNames": [
+      "天津",
+      "保定",
+      "保定",
+      "石家庄",
+      "石家庄",
+      "邢台",
+      "邢台",
+      "邯郸",
+      "邯郸"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5294.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "50ad70fce8299643f834c8dec1c5fc3d01b9f59f72d309ed2c69faea5d25bf4e",
+    "elapsedMinutes": [
+      0,
+      170,
+      165,
+      260,
+      256,
+      356,
+      358,
+      398,
+      398
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "K5295",
+    "category": "K",
+    "stopNames": [
+      "天津",
+      "保定",
+      "保定",
+      "石家庄",
+      "石家庄",
+      "邢台",
+      "邢台",
+      "邯郸",
+      "邯郸"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5295.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "2d93987ac868a20a12231bccb6cf1ea3cb27ec69b551ad0877357e2a7e8d7905",
+    "elapsedMinutes": [
+      0,
+      170,
+      165,
+      260,
+      256,
+      356,
+      358,
+      398,
+      398
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "K937",
+    "category": "K",
+    "stopNames": [
+      "牡丹江",
+      "海林",
+      "尚志",
+      "哈尔滨",
+      "蔡家沟",
+      "扶余",
+      "德惠",
+      "长春",
+      "公主岭",
+      "四平",
+      "昌图",
+      "沈阳",
+      "锦州",
+      "唐山",
+      "塘沽",
+      "天津",
+      "保定",
+      "定州",
+      "石家庄"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k937.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "32db4fa60781d63a478653b6a208993f88e109be44391556f2700cea12f5e26f",
+    "elapsedMinutes": [
+      0,
+      21,
+      177,
+      308,
+      381,
+      399,
+      440,
+      500,
+      548,
+      589,
+      624,
+      724,
+      930,
+      1205,
+      1273,
+      1326,
+      1494,
+      1537,
+      1591
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K938",
+    "category": "K",
+    "stopNames": [
+      "石家庄",
+      "定州",
+      "保定",
+      "徐水",
+      "霸州",
+      "天津",
+      "唐山",
+      "秦皇岛",
+      "锦州",
+      "沟帮子",
+      "大虎山",
+      "沈阳",
+      "铁岭",
+      "开原",
+      "四平",
+      "长春",
+      "陶赖昭",
+      "扶余",
+      "双城堡",
+      "哈尔滨西",
+      "哈尔滨",
+      "哈尔滨东",
+      "阿城",
+      "帽儿山",
+      "尚志",
+      "亚布力",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k938.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3577ee8b57c3bb7d8dc20b2b7958c608d93420bfc48259db64aaaf7f284c82cd",
+    "elapsedMinutes": [
+      0,
+      47,
+      87,
+      106,
+      168,
+      291,
+      426,
+      617,
+      811,
+      859,
+      898,
+      1012,
+      1081,
+      1108,
+      1171,
+      1272,
+      1358,
+      1393,
+      1435,
+      1470,
+      1489,
+      1513,
+      1567,
+      1612,
+      1648,
+      1703,
+      1834
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K939",
+    "category": "K",
+    "stopNames": [
+      "石家庄",
+      "定州",
+      "保定",
+      "徐水",
+      "霸州",
+      "天津",
+      "唐山",
+      "秦皇岛",
+      "锦州",
+      "沟帮子",
+      "大虎山",
+      "沈阳",
+      "铁岭",
+      "开原",
+      "四平",
+      "长春",
+      "陶赖昭",
+      "扶余",
+      "双城堡",
+      "哈尔滨西",
+      "哈尔滨",
+      "哈尔滨东",
+      "阿城",
+      "帽儿山",
+      "尚志",
+      "亚布力",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k939.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d81ddfc8a6f3e0b3301da610db200ae5b935e1992b2d20cc15c70dd6fe018674",
+    "elapsedMinutes": [
+      0,
+      47,
+      87,
+      106,
+      168,
+      291,
+      426,
+      617,
+      811,
+      859,
+      898,
+      1012,
+      1081,
+      1108,
+      1171,
+      1272,
+      1358,
+      1393,
+      1435,
+      1470,
+      1489,
+      1513,
+      1567,
+      1612,
+      1648,
+      1703,
+      1834
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K940",
+    "category": "K",
+    "stopNames": [
+      "牡丹江",
+      "海林",
+      "尚志",
+      "哈尔滨",
+      "蔡家沟",
+      "扶余",
+      "德惠",
+      "长春",
+      "公主岭",
+      "四平",
+      "昌图",
+      "沈阳",
+      "锦州",
+      "唐山",
+      "塘沽",
+      "天津",
+      "保定",
+      "定州",
+      "石家庄"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k940.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1b11d951eb6b4905df26eb219455ab903eb1d41100162c09bc5d68cdc2d6ab6e",
+    "elapsedMinutes": [
+      0,
+      21,
+      177,
+      308,
+      381,
+      399,
+      440,
+      500,
+      548,
+      589,
+      624,
+      724,
+      930,
+      1205,
+      1273,
+      1326,
+      1494,
+      1537,
+      1591
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K977",
+    "category": "K",
+    "stopNames": [
+      "齐齐哈尔",
+      "大庆西",
+      "肇东",
+      "哈尔滨",
+      "长春",
+      "四平",
+      "沈阳北",
+      "山海关",
+      "秦皇岛",
+      "唐山",
+      "天津",
+      "霸州",
+      "任丘",
+      "饶阳",
+      "衡水",
+      "辛集",
+      "石家庄北",
+      "太原",
+      "文水",
+      "吕梁",
+      "绥德",
+      "定边",
+      "中卫",
+      "景泰",
+      "白银西",
+      "皋兰",
+      "兰州",
+      "乐都",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k977.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "df90490ec881cb6d6a53693102cab63a1d32752fe460eeb90956eab6283b29e6",
+    "elapsedMinutes": [
+      0,
+      75,
+      146,
+      196,
+      399,
+      510,
+      639,
+      924,
+      951,
+      1083,
+      1174,
+      1263,
+      1305,
+      1360,
+      1412,
+      1504,
+      1593,
+      1786,
+      1874,
+      1937,
+      2002,
+      2190,
+      2409,
+      2558,
+      2705,
+      2753,
+      2841,
+      3019,
+      3090
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K978",
+    "category": "K",
+    "stopNames": [
+      "西宁",
+      "平安驿",
+      "乐都",
+      "兰州",
+      "白银西",
+      "景泰",
+      "中卫",
+      "定边",
+      "绥德",
+      "太原",
+      "石家庄北",
+      "辛集",
+      "衡水",
+      "饶阳",
+      "霸州",
+      "天津",
+      "塘沽",
+      "唐山",
+      "迁安",
+      "山海关",
+      "绥中",
+      "兴城",
+      "葫芦岛",
+      "锦州",
+      "沈阳北",
+      "长春",
+      "哈尔滨",
+      "肇东",
+      "安达",
+      "杜尔伯特",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k978.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "58c5a8f83a358e5ce943ba4ef69d8b56b9d1961c783bfbbe5e9d941bf7d23b34",
+    "elapsedMinutes": [
+      0,
+      30,
+      52,
+      178,
+      337,
+      436,
+      589,
+      830,
+      990,
+      1215,
+      1371,
+      1440,
+      1491,
+      1560,
+      1633,
+      1735,
+      1782,
+      1839,
+      1891,
+      1985,
+      2047,
+      2078,
+      2098,
+      2141,
+      2305,
+      2518,
+      2709,
+      2760,
+      2813,
+      2866,
+      2937
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K979",
+    "category": "K",
+    "stopNames": [
+      "西宁",
+      "平安驿",
+      "乐都",
+      "兰州",
+      "白银西",
+      "景泰",
+      "中卫",
+      "定边",
+      "绥德",
+      "太原",
+      "石家庄北",
+      "辛集",
+      "衡水",
+      "饶阳",
+      "霸州",
+      "天津",
+      "塘沽",
+      "唐山",
+      "迁安",
+      "山海关",
+      "绥中",
+      "兴城",
+      "葫芦岛",
+      "锦州",
+      "沈阳北",
+      "长春",
+      "哈尔滨",
+      "肇东",
+      "安达",
+      "杜尔伯特",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k979.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6acd532b6a8009976c700d7f0a82919d9d7dd290975d74c2174a2cc70544607c",
+    "elapsedMinutes": [
+      0,
+      30,
+      52,
+      178,
+      337,
+      436,
+      589,
+      830,
+      990,
+      1215,
+      1371,
+      1440,
+      1491,
+      1560,
+      1633,
+      1735,
+      1782,
+      1839,
+      1891,
+      1985,
+      2047,
+      2078,
+      2098,
+      2141,
+      2305,
+      2518,
+      2709,
+      2760,
+      2813,
+      2866,
+      2937
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K980",
+    "category": "K",
+    "stopNames": [
+      "齐齐哈尔",
+      "大庆西",
+      "肇东",
+      "哈尔滨",
+      "长春",
+      "四平",
+      "沈阳北",
+      "山海关",
+      "秦皇岛",
+      "唐山",
+      "天津",
+      "霸州",
+      "任丘",
+      "饶阳",
+      "衡水",
+      "辛集",
+      "石家庄北",
+      "太原",
+      "文水",
+      "吕梁",
+      "绥德",
+      "定边",
+      "中卫",
+      "景泰",
+      "白银西",
+      "皋兰",
+      "兰州",
+      "乐都",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k980.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8068214d9619d3191b266dfe3b490def3db3ebbcf2c9f411c82323fe49d90352",
+    "elapsedMinutes": [
+      0,
+      75,
+      146,
+      196,
+      399,
+      510,
+      639,
+      924,
+      951,
+      1083,
+      1174,
+      1263,
+      1305,
+      1360,
+      1412,
+      1504,
+      1593,
+      1786,
+      1874,
+      1937,
+      2002,
+      2190,
+      2409,
+      2558,
+      2705,
+      2753,
+      2841,
+      3019,
+      3090
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S901",
+    "category": "OTHER",
+    "stopNames": [
+      "蓟州北",
+      "下仓",
+      "宝坻北",
+      "天津北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s901.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f2fc65241d3a4eda6c512e5b146850e48de21720bc7b4dbdd78ae9f1184c4090",
+    "elapsedMinutes": [
+      0,
+      25,
+      43,
+      109
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S902",
+    "category": "OTHER",
+    "stopNames": [
+      "天津",
+      "曹子里",
+      "崔黄口",
+      "大口屯",
+      "宝坻北",
+      "下仓",
+      "上仓",
+      "蓟州北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s902.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f04bc320359ab63ae4a630b23f274af509fa3c1f6ee320edab7744bd48428458",
+    "elapsedMinutes": [
+      0,
+      56,
+      73,
+      87,
+      103,
+      119,
+      133,
+      152
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S903",
+    "category": "OTHER",
+    "stopNames": [
+      "宝坻北",
+      "天津北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s903.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e78c90418648cb4516b082fccf6e8df1896ebd7855180ee2db7a6e46ecb290e2",
+    "elapsedMinutes": [
+      0,
+      54
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S904",
+    "category": "OTHER",
+    "stopNames": [
+      "天津",
+      "天津北",
+      "蓟州北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s904.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a028b6ed97af788614fc4ed1f4bb77e7d25ab722d9c701886f320035bfca343a",
+    "elapsedMinutes": [
+      0,
+      8,
+      100
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S905",
+    "category": "OTHER",
+    "stopNames": [
+      "蓟州北",
+      "宝坻北",
+      "天津北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s905.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3559f8f77d5dcb9f2bbaf8631e6d8e8b4ea2eac98d522a4347c3a58e4f0f0dd3",
+    "elapsedMinutes": [
+      0,
+      50,
+      122
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S906",
+    "category": "OTHER",
+    "stopNames": [
+      "天津北",
+      "宝坻北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s906.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6b13d7604ec889a8f172135bd9029955b55c48434435681a619bc125d0e0171e",
+    "elapsedMinutes": [
+      0,
+      64
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S907",
+    "category": "OTHER",
+    "stopNames": [
+      "蓟州北",
+      "宝坻北",
+      "天津北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s907.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5e1b9b4d3d3365b780b7c13c561f3346b2a31554853acf8798204644ed88fac2",
+    "elapsedMinutes": [
+      0,
+      34,
+      91
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S908",
+    "category": "OTHER",
+    "stopNames": [
+      "天津北",
+      "宝坻北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s908.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7729afc6cc38e84cfe2750ae5c9fe6d289d1aceb7c4157c6f4021c936e9f19a8",
+    "elapsedMinutes": [
+      0,
+      54
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S909",
+    "category": "OTHER",
+    "stopNames": [
+      "宝坻北",
+      "天津北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s909.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7f34aef8f9636b10e66a89d896b9dc0460719a93a3e6b85a2a910212871cb61a",
+    "elapsedMinutes": [
+      0,
+      69
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S910",
+    "category": "OTHER",
+    "stopNames": [
+      "天津北",
+      "宝坻北",
+      "蓟州北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s910.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2a69db28bbc79c6bf5bd4471a43ca0ce43f9d8f7b37f892f412f837198937899",
+    "elapsedMinutes": [
+      0,
+      92,
+      141
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S911",
+    "category": "OTHER",
+    "stopNames": [
+      "蓟州北",
+      "下仓",
+      "宝坻北",
+      "崔黄口",
+      "天津北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s911.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8ee0c336a6c4b2c20b387099cf5f62a5ff72242cc830a8280f024d682bceeac0",
+    "elapsedMinutes": [
+      0,
+      24,
+      40,
+      83,
+      142
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S912",
+    "category": "OTHER",
+    "stopNames": [
+      "天津北",
+      "宝坻北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s912.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ebc076548d1d40332183f997c0de591ed6450ba0091892ebf360931832a31833",
+    "elapsedMinutes": [
+      0,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S913",
+    "category": "OTHER",
+    "stopNames": [
+      "宝坻北",
+      "天津北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s913.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6588d66d4e20d011482d9c0e6ce4e7c8f18a5f6dfbb50302ea5743da06f03d32",
+    "elapsedMinutes": [
+      0,
+      75
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S914",
+    "category": "OTHER",
+    "stopNames": [
+      "天津北",
+      "宝坻北",
+      "蓟州北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s914.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b42868fe6ec61f8f8e630b525a026e50e7de44143b40544e09b4fca3caa53601",
+    "elapsedMinutes": [
+      0,
+      60,
+      116
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S915",
+    "category": "OTHER",
+    "stopNames": [
+      "蓟州北",
+      "宝坻北",
+      "天津"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s915.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d7106a7f771810f38b148ccf6d9ac714dd3f068f368fe4eae2f61bb0fad16c23",
+    "elapsedMinutes": [
+      0,
+      34,
+      109
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S916",
+    "category": "OTHER",
+    "stopNames": [
+      "天津北",
+      "宝坻北",
+      "蓟州北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s916.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ef90e0ce40f1dfb7421a48ea419fbcf7eedfc4fd742ba6968ddcb9ab65d8da85",
+    "elapsedMinutes": [
+      0,
+      55,
+      104
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S917",
+    "category": "OTHER",
+    "stopNames": [
+      "蓟州北",
+      "宝坻北",
+      "天津"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s917.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3832ad5dc59806b80ac4a1bd4d179e013b8058b27feb817fb71bae1a42089df8",
+    "elapsedMinutes": [
+      0,
+      34,
+      98
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S918",
+    "category": "OTHER",
+    "stopNames": [
+      "天津北",
+      "宝坻北",
+      "蓟州北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s918.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ad92f448983801af9df68b7ea32b8c890af0ec8f121b62a22c0e39b82072c07a",
+    "elapsedMinutes": [
+      0,
+      78,
+      115
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T191",
+    "category": "T",
+    "stopNames": [
+      "沈阳北",
+      "锦州南",
+      "葫芦岛北",
+      "山海关",
+      "秦皇岛",
+      "唐山",
+      "天津",
+      "石家庄北",
+      "太原"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t191.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2bcfac3774c3c8c89d699b8e1011ad09435fd160df5791bbf64d9afbe9fde077",
+    "elapsedMinutes": [
+      0,
+      115,
+      141,
+      218,
+      246,
+      340,
+      417,
+      681,
+      807
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T192",
+    "category": "T",
+    "stopNames": [
+      "太原",
+      "石家庄北",
+      "天津",
+      "山海关",
+      "葫芦岛北",
+      "锦州南",
+      "沈阳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t192.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5902558281b1612b5698b63f2ef206951a332bcbb21553c02b1bcc77fd8318db",
+    "elapsedMinutes": [
+      0,
+      120,
+      379,
+      574,
+      648,
+      681,
+      814
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T193",
+    "category": "T",
+    "stopNames": [
+      "太原",
+      "石家庄北",
+      "天津",
+      "山海关",
+      "葫芦岛北",
+      "锦州南",
+      "沈阳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t193.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d2b09f83ccbb3aad8448f1b6c05367eed8459a62701a9c2991f7535d7eeb5ca9",
+    "elapsedMinutes": [
+      0,
+      120,
+      379,
+      574,
+      648,
+      681,
+      814
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T194",
+    "category": "T",
+    "stopNames": [
+      "沈阳北",
+      "锦州南",
+      "葫芦岛北",
+      "山海关",
+      "秦皇岛",
+      "唐山",
+      "天津",
+      "石家庄北",
+      "太原"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t194.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d10a123e0da5aed69faee433e32c658a5fe79f262f75f14ebc31201833e552a5",
+    "elapsedMinutes": [
+      0,
+      115,
+      141,
+      218,
+      246,
+      340,
+      417,
+      681,
+      807
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y418",
+    "category": "OTHER",
+    "stopNames": [
+      "沈阳北",
+      "安康",
+      "锦州",
+      "达州",
+      "山海关",
+      "重庆西",
+      "唐山",
+      "遵义",
+      "天津",
+      "贵阳北",
+      "贵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y418.html",
+    "sourceUpdatedAt": "2026-05-31",
+    "sourceSha256": "e8760a795f7d8293d5510e99a3b14d2cf77c39d776c55f8f1a9d867d8ce2cb70",
+    "elapsedMinutes": [
+      0,
+      166,
+      250,
+      409,
+      412,
+      570,
+      591,
+      729,
+      687,
+      823,
+      858
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        9
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y419",
+    "category": "OTHER",
+    "stopNames": [
+      "沈阳北",
+      "安康",
+      "锦州",
+      "达州",
+      "山海关",
+      "重庆西",
+      "唐山",
+      "遵义",
+      "天津",
+      "贵阳北",
+      "贵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y419.html",
+    "sourceUpdatedAt": "2026-05-31",
+    "sourceSha256": "b85c85a33bcf05b6e6f6dab42646949ede8dcfbb573007ee6290a5580786d2b9",
+    "elapsedMinutes": [
+      0,
+      166,
+      250,
+      409,
+      412,
+      570,
+      591,
+      729,
+      687,
+      823,
+      858
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        9
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y444",
+    "category": "OTHER",
+    "stopNames": [
+      "沈阳北",
+      "山海关",
+      "天津",
+      "沧州",
+      "衡水",
+      "石家庄北",
+      "太原"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y444.html",
+    "sourceUpdatedAt": "2026-07-25",
+    "sourceSha256": "010080f316afdc417d31282233d925b26eaade3821c509b8eb874ae39ea81cb9",
+    "elapsedMinutes": [
+      0,
+      412,
+      687,
+      850,
+      1159,
+      1304,
+      1525
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y966",
+    "category": "OTHER",
+    "stopNames": [
+      "天津北",
+      "蓟州北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y966.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "8007cc52f8e5b7583b0ce4a169c733f8360be16bbb061c84b8b4d538bfc6a736",
+    "elapsedMinutes": [
+      0,
+      99
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y967",
+    "category": "OTHER",
+    "stopNames": [
+      "蓟州北",
+      "天津北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y967.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "896493a87d018bf36578624fa73d8e42872162e28394cb58b5c8a59a77991073",
+    "elapsedMinutes": [
+      0,
+      112
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

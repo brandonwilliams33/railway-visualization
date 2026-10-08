@@ -133,9 +133,6 @@ def apply_physical(data,source):
         provenance[ref]=ways;e['osmSourceId']=ref
     data['physicalSources']=provenance
     data['segments']=sorted(used.values(),key=lambda e:e['id'])
-    for hub,n in data['networks'].items():
-        ss=[s for s in data['services'] if s['id'] in n['serviceIds']]
-        n['railwaySegmentIds']=sorted({e for s in ss for ids in s['segmentIds'] for e in ids})
     data['audit']['matchedPhysicalIntervals']=matched;data['audit']['unmatchedPhysicalIntervals']=unmatched
     data['audit']['physicalSourceSnapshot']=source['sourceSnapshot'];data['audit']['physicalGeometryBuild']=source['metadata']['builtAt']
     print('Matched passenger intervals',matched,'unmatched',unmatched,'unique physical track sections',len(used),'cache',len(cache),flush=True)

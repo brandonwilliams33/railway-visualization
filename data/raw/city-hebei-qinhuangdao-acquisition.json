@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "秦皇岛",
+  "stationCount": 6,
+  "candidateServices": 640,
+  "acquiredAdditionalServices": 35,
+  "failedPages": [
+    {
+      "trainNumber": "Y484",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

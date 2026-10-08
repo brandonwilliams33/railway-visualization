@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "荆州",
+  "stationCount": 2,
+  "candidateServices": 400,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "松滋"
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "trainNumber": "G4469",
+    "category": "G",
+    "stopNames": [
+      "北京南",
+      "濮阳东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4469.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "411a35d115eac2f66bd6854eea15856532e1b8fdff0b6485c0df7967a13f1c6e",
+    "elapsedMinutes": [
+      0,
+      155
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

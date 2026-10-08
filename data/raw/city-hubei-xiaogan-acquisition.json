@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "孝感",
+  "stationCount": 13,
+  "candidateServices": 791,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "毛陈"
+  ]
+}

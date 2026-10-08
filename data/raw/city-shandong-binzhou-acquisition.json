@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "滨州",
+  "stationCount": 4,
+  "candidateServices": 52,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "滨州"
+  ]
+}

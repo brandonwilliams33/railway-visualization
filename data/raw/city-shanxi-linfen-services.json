@@ -1,0 +1,46 @@
+[
+  {
+    "trainNumber": "8849",
+    "category": "OTHER",
+    "stopNames": [
+      "临汾",
+      "襄汾",
+      "侯马"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/8849.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "92294557f452018d015fdc7192fa5651cfbf2c44c253f34e4486891502866ac7",
+    "elapsedMinutes": [
+      0,
+      24,
+      74
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "8850",
+    "category": "OTHER",
+    "stopNames": [
+      "侯马",
+      "襄汾",
+      "临汾"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/8850.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "243a0b5446fe7fab29fcec5c1ea457a9da9fef1cf922a6a0dc07b8381b067780",
+    "elapsedMinutes": [
+      0,
+      41,
+      68
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

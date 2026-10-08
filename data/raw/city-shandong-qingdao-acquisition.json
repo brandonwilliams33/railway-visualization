@@ -1,0 +1,18 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "青岛",
+  "stationCount": 17,
+  "candidateServices": 954,
+  "acquiredAdditionalServices": 244,
+  "failedPages": [
+    {
+      "trainNumber": "C6526",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "C6510",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

@@ -1,0 +1,314 @@
+[
+  {
+    "trainNumber": "C245",
+    "category": "C",
+    "stopNames": [
+      "唐山",
+      "南堡北",
+      "唐海南",
+      "曹妃甸东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c245.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cba88fc88b4ed27eb9eee0128e82f02bab7e73286db9b5d9db7b05b4afabf113",
+    "elapsedMinutes": [
+      0,
+      28,
+      43,
+      56
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C246",
+    "category": "C",
+    "stopNames": [
+      "曹妃甸东",
+      "唐山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c246.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9e11e660039ed9bfb1bac180ad24cc8dd70a686f9045fc287568868c1e64827a",
+    "elapsedMinutes": [
+      0,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C247",
+    "category": "C",
+    "stopNames": [
+      "曹妃甸东",
+      "唐山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c247.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ba7a3f9e01476e21cfc0e779b1b3154de084237a50e132d2c1ffb66a7ebd1abd",
+    "elapsedMinutes": [
+      0,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C248",
+    "category": "C",
+    "stopNames": [
+      "唐山",
+      "南堡北",
+      "唐海南",
+      "曹妃甸东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c248.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b7e7e82b0e100091a6f12a79feaecd3bddc5e2798ec98db1d7764a9836417093",
+    "elapsedMinutes": [
+      0,
+      28,
+      43,
+      56
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C251",
+    "category": "C",
+    "stopNames": [
+      "唐山",
+      "曹妃甸港"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c251.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "118f0568e67ea0fda77094e14fe5052b53833be2bb3e3c0f4d554b33f4056cd9",
+    "elapsedMinutes": [
+      0,
+      50
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C252",
+    "category": "C",
+    "stopNames": [
+      "曹妃甸港",
+      "唐海南",
+      "南堡北",
+      "唐山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c252.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "973aa8d17fc337dc2c974c887d6a86e4158cafa64b7a7e25e4a1984a5d0693f0",
+    "elapsedMinutes": [
+      0,
+      17,
+      32,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C253",
+    "category": "C",
+    "stopNames": [
+      "曹妃甸港",
+      "唐海南",
+      "南堡北",
+      "唐山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c253.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "58c455cdb5bc5ce78fc0cafd4d7c5faf236c2309610731c45067957ef597c7d2",
+    "elapsedMinutes": [
+      0,
+      17,
+      32,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C254",
+    "category": "C",
+    "stopNames": [
+      "唐山",
+      "曹妃甸港"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c254.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e0f9f8758a63e4b1019691eb4fe2a994c939a69279ff44553173d2bd5199e5c2",
+    "elapsedMinutes": [
+      0,
+      50
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C255",
+    "category": "C",
+    "stopNames": [
+      "唐山",
+      "唐海南",
+      "曹妃甸东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c255.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "14ead383231a07380a2c4beb159a44ff841150556de47813a4f128364f6f6249",
+    "elapsedMinutes": [
+      0,
+      37,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C256",
+    "category": "C",
+    "stopNames": [
+      "曹妃甸东",
+      "唐海南",
+      "南堡北",
+      "唐山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c256.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "066695cc151acbd08f8b49a7127f91f7745323b167123cf91d679a396384d325",
+    "elapsedMinutes": [
+      0,
+      10,
+      27,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C257",
+    "category": "C",
+    "stopNames": [
+      "曹妃甸东",
+      "唐海南",
+      "南堡北",
+      "唐山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c257.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "606b5aad5a2e437b7aa17823dbd66c3aed004c0f8f541f09adf4bee920b6c01a",
+    "elapsedMinutes": [
+      0,
+      10,
+      27,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C258",
+    "category": "C",
+    "stopNames": [
+      "唐山",
+      "唐海南",
+      "曹妃甸东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c258.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "227505f64dc801782c630cd59a92b8b858d5a8b43b66d4b6fb6b32a015b555ae",
+    "elapsedMinutes": [
+      0,
+      37,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C259",
+    "category": "C",
+    "stopNames": [
+      "曹妃甸东",
+      "唐海南",
+      "曹妃甸港"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c259.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e0913d4c9d74d8b4b31c23519c72e1a43785ba6ec491dbd0ec37dd962a13a5b0",
+    "elapsedMinutes": [
+      0,
+      10,
+      42
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C260",
+    "category": "C",
+    "stopNames": [
+      "曹妃甸东",
+      "唐海南",
+      "曹妃甸港"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c260.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6b87821648c3eeadc6426cad32d38660941aeb26f0ecfa48fd965a3c017426f6",
+    "elapsedMinutes": [
+      0,
+      10,
+      42
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "安庆",
+  "stationCount": 12,
+  "candidateServices": 374,
+  "acquiredAdditionalServices": 4,
+  "failedPages": [
+    {
+      "trainNumber": "C2398",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

@@ -1,0 +1,342 @@
+[
+  {
+    "file": "city-zhejiang-jiaxing-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "嘉善"
+    ]
+  },
+  {
+    "file": "city-shandong-jinan-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "G4760",
+        "error": "No complete passenger stop table"
+      },
+      {
+        "trainNumber": "K5534",
+        "error": "No complete passenger stop table"
+      }
+    ],
+    "stationIssues": [
+      "商河"
+    ]
+  },
+  {
+    "file": "city-hunan-loudi-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "G9794",
+        "error": "No complete passenger stop table"
+      }
+    ],
+    "stationIssues": []
+  },
+  {
+    "file": "city-shandong-qingdao-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "C6526",
+        "error": "No complete passenger stop table"
+      },
+      {
+        "trainNumber": "C6510",
+        "error": "No complete passenger stop table"
+      }
+    ],
+    "stationIssues": []
+  },
+  {
+    "file": "city-hunan-changsha-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "C7377",
+        "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+      }
+    ],
+    "stationIssues": []
+  },
+  {
+    "file": "city-hubei-yichang-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "Y427",
+        "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+      }
+    ],
+    "stationIssues": []
+  },
+  {
+    "file": "city-hubei-wuhan-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "C5040",
+        "error": "No complete passenger stop table"
+      },
+      {
+        "trainNumber": "C5306",
+        "error": "No complete passenger stop table"
+      },
+      {
+        "trainNumber": "D9282",
+        "error": "No complete passenger stop table"
+      },
+      {
+        "trainNumber": "G6770",
+        "error": "No complete passenger stop table"
+      },
+      {
+        "trainNumber": "K6168",
+        "error": "No complete passenger stop table"
+      }
+    ],
+    "stationIssues": []
+  },
+  {
+    "file": "city-hubei-jingzhou-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "松滋"
+    ]
+  },
+  {
+    "file": "city-hebei-chengde-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "6455",
+        "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+      }
+    ],
+    "stationIssues": [
+      "窑上"
+    ]
+  },
+  {
+    "file": "city-fujian-longyan-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "C5282",
+        "error": "No complete passenger stop table"
+      }
+    ],
+    "stationIssues": []
+  },
+  {
+    "file": "city-shandong-yantai-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "烟台南"
+    ]
+  },
+  {
+    "file": "city-hunan-zhangjiajie-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "K6598",
+        "error": "No complete passenger stop table"
+      }
+    ],
+    "stationIssues": []
+  },
+  {
+    "file": "city-shandong-liaocheng-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "K928",
+        "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+      }
+    ],
+    "stationIssues": []
+  },
+  {
+    "file": "city-shandong-dezhou-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "临邑",
+      "陵城"
+    ]
+  },
+  {
+    "file": "city-shandong-linyi-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "沂南"
+    ]
+  },
+  {
+    "file": "city-tianjin-tianjin-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "杨村"
+    ]
+  },
+  {
+    "file": "city-hebei-tangshan-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "唐山南",
+      "古冶"
+    ]
+  },
+  {
+    "file": "city-anhui-anqing-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "C2398",
+        "error": "No complete passenger stop table"
+      }
+    ],
+    "stationIssues": []
+  },
+  {
+    "file": "city-shanxi-yangquan-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "阳泉",
+      "娘子关"
+    ]
+  },
+  {
+    "file": "city-shanghai-shanghai-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "G4664",
+        "error": "No complete passenger stop table"
+      },
+      {
+        "trainNumber": "G4416",
+        "error": "No complete passenger stop table"
+      },
+      {
+        "trainNumber": "D4454",
+        "error": "No complete passenger stop table"
+      }
+    ],
+    "stationIssues": []
+  },
+  {
+    "file": "city-beijing-beijing-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "Z55",
+        "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+      }
+    ],
+    "stationIssues": [
+      "通州"
+    ]
+  },
+  {
+    "file": "city-hebei-qinhuangdao-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "Y484",
+        "error": "No complete passenger stop table"
+      }
+    ],
+    "stationIssues": []
+  },
+  {
+    "file": "city-shandong-heze-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "郓城"
+    ]
+  },
+  {
+    "file": "city-henan-pingdingshan-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "K8124",
+        "error": "No complete passenger stop table"
+      }
+    ],
+    "stationIssues": []
+  },
+  {
+    "file": "city-fujian-fuzhou-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "长乐南"
+    ]
+  },
+  {
+    "file": "city-shandong-jining-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "梁山"
+    ]
+  },
+  {
+    "file": "city-jiangxi-fuzhou-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "资溪"
+    ]
+  },
+  {
+    "file": "city-hunan-xiangtan-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "Y132",
+        "error": "No complete passenger stop table"
+      }
+    ],
+    "stationIssues": []
+  },
+  {
+    "file": "city-hubei-xiaogan-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "毛陈"
+    ]
+  },
+  {
+    "file": "city-jiangxi-nanchang-acquisition.json",
+    "failedPages": [
+      {
+        "trainNumber": "C5245",
+        "error": "No complete passenger stop table"
+      }
+    ],
+    "stationIssues": []
+  },
+  {
+    "file": "city-fujian-nanping-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "光泽",
+      "邵武",
+      "顺昌"
+    ]
+  },
+  {
+    "file": "city-hubei-huanggang-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "小池口"
+    ]
+  },
+  {
+    "file": "city-hebei-shijiazhuang-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "井陉"
+    ]
+  },
+  {
+    "file": "city-shandong-binzhou-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "滨州"
+    ]
+  },
+  {
+    "file": "city-hunan-changde-acquisition.json",
+    "failedPages": [],
+    "stationIssues": [
+      "临澧",
+      "澧县"
+    ]
+  }
+]

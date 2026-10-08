@@ -1,0 +1,23 @@
+{
+  "completedCities": [
+    "zhengzhou",
+    "kaifeng",
+    "luoyang",
+    "pingdingshan",
+    "anyang",
+    "hebi",
+    "xinxiang",
+    "jiaozuo",
+    "puyang",
+    "xuchang",
+    "luohe",
+    "sanmenxia",
+    "nanyang",
+    "shangqiu",
+    "xinyang",
+    "zhoukou",
+    "zhumadian",
+    "jiyuan"
+  ],
+  "failedCities": []
+}

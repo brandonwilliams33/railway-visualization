@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "黄冈",
+  "stationCount": 15,
+  "candidateServices": 601,
+  "acquiredAdditionalServices": 2,
+  "failedPages": [],
+  "stationIssues": [
+    "小池口"
+  ]
+}

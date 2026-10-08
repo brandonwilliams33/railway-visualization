@@ -1,0 +1,12 @@
+{
+  "retrievedAt": "2026-10-08",
+  "city": "阳泉",
+  "stationCount": 5,
+  "candidateServices": 159,
+  "acquiredAdditionalServices": 16,
+  "failedPages": [],
+  "stationIssues": [
+    "阳泉",
+    "娘子关"
+  ]
+}
