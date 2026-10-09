@@ -17,6 +17,17 @@ describe('passenger data integrity',()=>{
 describe('Jiangsu departure coverage',()=>{
  it('opens every validated province-index station without merging names',()=>{const jiangsu=origins.filter(s=>s.provinceId==='jiangsu');expect(new Set(jiangsu.map(s=>s.cityId)).size).toBe(13);expect(jiangsu).toHaveLength(86);expect(new Set(origins.map(s=>s.id)).size).toBe(origins.length);expect(new Set(origins.map(s=>s.name)).size).toBe(origins.length);for(const origin of origins){expect(stationById.get(origin.id)?.province).toBe(origin.province);expect(stationById.get(origin.id)?.city).toBe(origin.city);expect(data.networks[origin.id]).toBeDefined();expect(origin.verifiedServiceCount).toBeGreaterThan(0)}});
  it('city overview keeps all local stations separate before opening a network',()=>{for(const city of departureCities){const expected=origins.filter(s=>s.cityId===city.id);expect(getOverview(city.id).stations.map(s=>s.id).sort()).toEqual(expected.map(s=>s.id).sort());expect(getOverview(city.id).segments).toHaveLength(0)}});
+ it('recognizes officially renamed stations without conflating distinct nearby stations',()=>{
+  const hub=origins.find(s=>s.name==='广州南')!.id;
+  const current=data.stations.find(s=>s.name==='南沙北')!;
+  expect(current.formerNames).toContain('庆盛');
+  const old=getNetwork(hub,{...filters,search:'庆盛'}),now=getNetwork(hub,{...filters,search:'南沙北'});
+  expect(now.destinations.length).toBeGreaterThan(0);
+  expect(old.destinations.map(s=>s.id)).toEqual(now.destinations.map(s=>s.id));
+  const xintang=data.stations.find(s=>s.name==='广州新塘')!,south=data.stations.find(s=>s.name==='新塘南')!;
+  expect(xintang.id).not.toBe(south.id);
+  expect(xintang.formerNames).toContain('新塘');
+ });
  it('restores any supported departure station and rejects unsupported URL values',()=>{for(const origin of origins){const state=parseState('?station='+origin.id);expect(state.hub).toBe(origin.id);expect(state.city).toBe(origin.cityId)}expect(parseState('?station=not-a-station').hub).toBeNull();expect(parseState('?city=not-a-city').city).toBeNull()});
  it('keeps Jiangsu Suzhou and Anhui Suzhou in separate cities and quarantines a wrong-province catalogue entry',()=>{
   const jiangsu=origins.find(s=>s.name==='苏州')!,anhui=origins.find(s=>s.name==='宿州')!;

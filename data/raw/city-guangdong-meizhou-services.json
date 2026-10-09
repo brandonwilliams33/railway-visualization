@@ -1,0 +1,138 @@
+[
+  {
+    "trainNumber": "D7347",
+    "category": "D",
+    "stopNames": [
+      "梅州西",
+      "丰顺东",
+      "揭阳",
+      "潮汕"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7347.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0284b1967a05607c24a83eee338698aa4c97957b32813ddac4d597b624d37757",
+    "elapsedMinutes": [
+      0,
+      20,
+      33,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7348",
+    "category": "D",
+    "stopNames": [
+      "潮汕",
+      "揭阳机场",
+      "揭阳",
+      "丰顺东",
+      "梅州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7348.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "452b98396ac43dc79d3a0f3c307517a1e2b939596ecea1498511b361d25d5795",
+    "elapsedMinutes": [
+      0,
+      9,
+      22,
+      35,
+      58
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9733",
+    "category": "D",
+    "stopNames": [
+      "梅州西",
+      "畲江北",
+      "建桥",
+      "丰顺东",
+      "揭阳",
+      "揭阳机场",
+      "潮汕"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9733.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "35dc5b9a98a24c2fa52e08f0dd952376dbddd9e95864dbb450ee67e4499cb485",
+    "elapsedMinutes": [
+      0,
+      12,
+      24,
+      36,
+      50,
+      64,
+      75
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9740",
+    "category": "D",
+    "stopNames": [
+      "潮汕",
+      "揭阳机场",
+      "揭阳",
+      "丰顺东",
+      "梅州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9740.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "f5d7824f37b06fac75f15133348e554987a7e2aa670f942bb6d76c1b5858a09e",
+    "elapsedMinutes": [
+      0,
+      9,
+      22,
+      35,
+      58
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9780",
+    "category": "D",
+    "stopNames": [
+      "潮汕",
+      "揭阳机场",
+      "揭阳",
+      "丰顺东",
+      "建桥",
+      "畲江北",
+      "梅州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9780.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "aec5d9ed72b9c5104cd416bee6fe57ff9d4cdf88b4b8eeb9a13ff834df4d9fbb",
+    "elapsedMinutes": [
+      0,
+      9,
+      22,
+      37,
+      48,
+      60,
+      75
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

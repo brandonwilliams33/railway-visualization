@@ -1,0 +1,26 @@
+{
+  "completedCities": [
+    "guangzhou",
+    "shaoguan",
+    "shenzhen",
+    "zhuhai",
+    "shantou",
+    "foshan",
+    "jiangmen",
+    "zhanjiang",
+    "maoming",
+    "zhaoqing",
+    "huizhou",
+    "meizhou",
+    "shanwei",
+    "heyuan",
+    "yangjiang",
+    "qingyuan",
+    "dongguan",
+    "zhongshan",
+    "chaozhou",
+    "jieyang",
+    "yunfu"
+  ],
+  "failedCities": []
+}

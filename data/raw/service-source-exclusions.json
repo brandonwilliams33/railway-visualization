@@ -1,0 +1,308 @@
+[
+  {
+    "trainNumber": "K6510",
+    "sourceUrl": "https://www.crecc.com/huoche/k6510.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "6fae8176ccd720e1f7e7129ecead6a875ffa7679838112443479ecfba4394038",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "C2398",
+    "sourceUrl": "https://www.crecc.com/huoche/c2398.html",
+    "sourceUpdatedAt": "2026-04-05",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "07a57b71b77a808dcade995e4ec609e16821ba4b2d9d0482f5c4fed24795099d",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "C5040",
+    "sourceUrl": "https://www.crecc.com/huoche/c5040.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "5bf8c1b0e090d6caceef0f10f8b109b81b46d24206354aff80d8bd2da1c5d2ac",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "C5245",
+    "sourceUrl": "https://www.crecc.com/huoche/c5245.html",
+    "sourceUpdatedAt": "2026-04-05",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "d46a30f0f4a748ade9558b4f3389e2f5a80320fe9e21d9407c9e3a292f6c7b14",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "C5282",
+    "sourceUrl": "https://www.crecc.com/huoche/c5282.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "84ad877bc3f6625527105e8d04a8852bfff20194948164e12277f83ef4025a96",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "C5306",
+    "sourceUrl": "https://www.crecc.com/huoche/c5306.html",
+    "sourceUpdatedAt": "2026-06-08",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "3f0b6b3fcba5af9f8c45585e225db9474bff94b6c2b4996dc1ec1ca63df1fcdd",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "C6510",
+    "sourceUrl": "https://www.crecc.com/huoche/c6510.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "f3cb3a967f26c2e16c72d96cad078fdf0fce3dca52e39bf0a42ac6bce172f264",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "C6526",
+    "sourceUrl": "https://www.crecc.com/huoche/c6526.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "548d16fd230e2c9a9bfac742cce0b37c2806e50aa4e61c1dca123b6478f50d6f",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "C6738",
+    "sourceUrl": "https://www.crecc.com/huoche/c6738.html",
+    "sourceUpdatedAt": "2026-04-03",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "1357d8a1082925001dcb33535c4d00d37828105aa890c8835185ccd92468f25c",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "D4186",
+    "sourceUrl": "https://www.crecc.com/huoche/d4186.html",
+    "sourceUpdatedAt": "2026-07-25",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "fac01b934fcd899ae539ea48187169c58ecc88942e29ead06d6a003687a741f9",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "D4454",
+    "sourceUrl": "https://www.crecc.com/huoche/d4454.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "5d20cb8c1413102c3e0df61ca0651abc0c596ea4cc6e255db2e8d0ad4f934cd1",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "D9282",
+    "sourceUrl": "https://www.crecc.com/huoche/d9282.html",
+    "sourceUpdatedAt": "2026-01-16",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "ed8e78c6b2057bf182dc8c9fdcafbfa604e584cb93cc4915d573b69e8f63859d",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "G4416",
+    "sourceUrl": "https://www.crecc.com/huoche/g4416.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "03d87a08a7e928212f82299f89a90e582243a3cec57d241592882f0a7deabbea",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "G4664",
+    "sourceUrl": "https://www.crecc.com/huoche/g4664.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "16b468dee537145b432c7dcbeb6340b75adba808fb67b04463a41e20b30c26e1",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "G4760",
+    "sourceUrl": "https://www.crecc.com/huoche/g4760.html",
+    "sourceUpdatedAt": "2026-02-20",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "5094ff935c76c81091c182bc583d4dbd6a578eef3512413f5019bbef88d61476",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "G6770",
+    "sourceUrl": "https://www.crecc.com/huoche/g6770.html",
+    "sourceUpdatedAt": "2026-01-16",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "68f2ce3509b517806367938cfdefbd87fdcdc4716fe9e5840ef7d6c3f6546afa",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "G9794",
+    "sourceUrl": "https://www.crecc.com/huoche/g9794.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "ece087ba732de085416f0fbb30e8585e6229229198e1d5c9eeb265db37017fb7",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "K5534",
+    "sourceUrl": "https://www.crecc.com/huoche/k5534.html",
+    "sourceUpdatedAt": "2025-12-26",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "e3b2a26b61a2fc11a60a81fce6f7800768e363e816466420829fb682c4dcb836",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "K6168",
+    "sourceUrl": "https://www.crecc.com/huoche/k6168.html",
+    "sourceUpdatedAt": "2026-04-06",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "df6c0df4505c1acdaa7bc4b83578ac8e05bf345cf6be67ed8e86eb4a42f0bb21",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "K6598",
+    "sourceUrl": "https://www.crecc.com/huoche/k6598.html",
+    "sourceUpdatedAt": "2026-03-30",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "f6cd284997010722fef0a7b32ac53d4e8dca4dfa3e5be473e24b3f7914819b51",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "K8124",
+    "sourceUrl": "https://www.crecc.com/huoche/k8124.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "249b756a7194c84b55aaf4dcb355a8936fbab73673d7f567659dd0ac35052bab",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "Y132",
+    "sourceUrl": "https://www.crecc.com/huoche/y132.html",
+    "sourceUpdatedAt": "2026-03-21",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "f7e43e2d3ba48aaf2e28dbdcec789b58248fbf22e081293dbf955f7cb970c531",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "Y484",
+    "sourceUrl": "https://www.crecc.com/huoche/y484.html",
+    "sourceUpdatedAt": "2026-08-06",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "ea22cce04580b51a5c892c1600044ae839cfc4a4ceca7cf00f4566396db3a767",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "D9764",
+    "sourceUrl": "https://www.crecc.com/huoche/d9764.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "9a270ea7a1a122bf41fcbc8d1ecf22c13f32b332fe249bdde28cb8133744b302",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "G2719",
+    "sourceUrl": "https://www.crecc.com/huoche/g2719.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "c32edda8f7a5f20be52fe058fdcdd3303d498eb64843c9780ca085340bd77e4a",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "G5280",
+    "sourceUrl": "https://www.crecc.com/huoche/g5280.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "5e0ff874ab93892ecd9331678061a337ca6c98a1d9ea41ee85c6baba1d716fd9",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "K4732",
+    "sourceUrl": "https://www.crecc.com/huoche/k4732.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "38c5f32df9d908e9b279a13559a3f75e76c48b19bc63aa62b5a880754abc8c15",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "C242",
+    "sourceUrl": "https://www.crecc.com/huoche/c242.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "2ea0c28cd764c0310d8b91041f0055d5dfb52fc7020397a1bfbcf290813eceab",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "C4134",
+    "sourceUrl": "https://www.crecc.com/huoche/c4134.html",
+    "sourceUpdatedAt": "2026-02-27",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "d9ab9816be24b01114fe8c78cd26f3c3b4d3c9fdfdcacce8e70314f84fd3baf5",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "C732",
+    "sourceUrl": "https://www.crecc.com/huoche/c732.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "a8820385e399a5dfb73e3939af9400a6fda43e821907b7ce353805d203e81c26",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "C8194",
+    "sourceUrl": "https://www.crecc.com/huoche/c8194.html",
+    "sourceUpdatedAt": "2026-02-24",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "548a5e27e74057d3e5df9cb35155ea309153e745fc46a116eb1972dad8ed997b",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "Y285",
+    "sourceUrl": "https://www.crecc.com/huoche/y285.html",
+    "sourceUpdatedAt": "2026-04-01",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "27489af598d104265c571732c9e5580ea99b596585d6ea8b14428f10c6d6b572",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "Y515",
+    "sourceUrl": "https://www.crecc.com/huoche/y515.html",
+    "sourceUpdatedAt": "2026-03-28",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "8c79f49ea58dba016f50df8702e62c67ba3b42bed4ac99bb2380553e58b5a347",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  },
+  {
+    "trainNumber": "Y567",
+    "sourceUrl": "https://www.crecc.com/huoche/y567.html",
+    "sourceUpdatedAt": "2026-04-11",
+    "retrievedAt": "2026-10-09",
+    "sourceSha256": "dd25d82d8fafea96c8ee61db328030d9a1d195d0ed20d8ced9d646f3b5b38cdf",
+    "reason": "No complete passenger stop table",
+    "completeStopRowCount": 1
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "珠海",
+  "stationCount": 13,
+  "candidateServices": 474,
+  "acquiredAdditionalServices": 80,
+  "failedPages": [],
+  "stationIssues": [
+    "横琴北"
+  ]
+}

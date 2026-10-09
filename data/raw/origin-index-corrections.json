@@ -8,5 +8,16 @@
     "provinceId": "tianjin",
     "identitySource": "https://www.tjnh.gov.cn/zmhd/jcyjzj/202508/W020250812586797570638.pdf",
     "reason": "天津宁河区交通规划确认芦台站位于宁河。纠正源目录行政归属，保留原始入口、独立站点ID和坐标。"
+  },
+  {
+    "name": "高密北",
+    "sourceCityId": "hebei-zhangjiakou",
+    "city": "潍坊",
+    "cityId": "shandong-weifang",
+    "province": "山东",
+    "provinceId": "shandong",
+    "identitySource": "https://www.ndrc.gov.cn/fggz/zcssfz/dffz/201809/t20180928_1147951.html",
+    "coordinateIdentitySource": "https://www.openstreetmap.org/node/5285771422",
+    "reason": "国家发改委济青铁路站序与独立OSM车站对象证明这是山东高密的客运站；第三方将其误列河北张家口。保留独立ID并纠正目录归属。"
   }
 ]

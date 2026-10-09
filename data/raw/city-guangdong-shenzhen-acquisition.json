@@ -1,0 +1,26 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "深圳",
+  "stationCount": 13,
+  "candidateServices": 2484,
+  "acquiredAdditionalServices": 537,
+  "failedPages": [
+    {
+      "trainNumber": "G2719",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "K4732",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "G5280",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "C6738",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

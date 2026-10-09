@@ -9,3 +9,6 @@
 /* City choices share the map's compact layout, even for thirteen stations. */
 .city-bar{align-items:stretch}.city-picker{flex-shrink:0}.hub-picker{flex:1;min-width:0;padding:12px 20px;gap:14px;align-items:flex-start}.hub-picker>span{flex-shrink:0;padding-top:14px}.hub-options{display:flex;flex-wrap:wrap;gap:8px;min-width:0}.hub-options button{white-space:nowrap}.detail-depart{display:flex;align-items:center;justify-content:space-between;gap:12px;width:100%;margin-top:18px;padding:12px;background:var(--forest);color:#fff;border-radius:4px;font-size:12px}
 @media(max-width:600px){.hub-picker{padding:12px}.hub-picker>span{padding-top:0}.hub-options{width:100%;gap:7px}.hub-options button{flex:0 1 calc(50% - 4px)}.city-picker{width:100%}}
+
+/* Keep large city station catalogues from pushing the main map away. */
+.brand>span{white-space:nowrap}.brand>svg{flex-shrink:0}.hub-options{max-height:148px;overflow-y:auto;overscroll-behavior:contain;padding:3px 4px 3px 0}.hub-picker>span small{display:block;margin-top:6px;font-size:10px;line-height:1.7;max-width:120px}@media(max-width:600px){.brand small{display:none}.hub-options{max-height:148px}.hub-picker>span small{display:inline;margin-left:9px;max-width:none}.site-header nav button{white-space:nowrap}}

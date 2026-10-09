@@ -1,0 +1,16 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "汉中",
+  "stationCount": 16,
+  "candidateServices": 389,
+  "acquiredAdditionalServices": 8,
+  "failedPages": [
+    {
+      "trainNumber": "K8222",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    }
+  ],
+  "stationIssues": [
+    "三花石"
+  ]
+}

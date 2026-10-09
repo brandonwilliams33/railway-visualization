@@ -1,0 +1,25 @@
+{
+  "completedCities": [
+    "chengdu",
+    "zigong",
+    "panzhihua",
+    "luzhou",
+    "deyang",
+    "mianyang",
+    "guangyuan",
+    "suining",
+    "neijiang",
+    "leshan",
+    "nanchong",
+    "meishan",
+    "yibin",
+    "guangan",
+    "dazhou",
+    "yaan",
+    "bazhong",
+    "ziyang",
+    "aba",
+    "liangshan"
+  ],
+  "failedCities": []
+}

@@ -1,0 +1,21 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "重庆",
+  "stationCount": 85,
+  "candidateServices": 1676,
+  "acquiredAdditionalServices": 935,
+  "failedPages": [
+    {
+      "trainNumber": "G5754",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    }
+  ],
+  "stationIssues": [
+    "古路",
+    "水土",
+    "江津",
+    "珞璜东",
+    "迎龙",
+    "龙兴"
+  ]
+}

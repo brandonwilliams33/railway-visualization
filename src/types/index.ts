@@ -4,7 +4,7 @@ export type HubId = string;
 export type CityId = string;
 export interface DepartureOrigin {id:HubId;name:string;city:string;cityId:CityId;province:string;provinceId:string;tier:'major'|'local';sourceUrl:string;sourceUpdatedAt:string;candidateServiceCount:number;verifiedServiceCount:number}
 export type TrainType = 'all' | 'highspeed' | 'conventional';
-export interface Station {id:string;name:string;city:string;province:string;provinceId:string;latitude:number;longitude:number;isHub:boolean;major:boolean;coordinateSource:string}
+export interface Station {id:string;name:string;formerNames?:string[];city:string;province:string;provinceId:string;latitude:number;longitude:number;isHub:boolean;major:boolean;coordinateSource:string}
 export interface PassengerService {id:string;trainNumber:string;category:Category;stations:string[];passenger:boolean;sourceUrl:string;sourceUpdatedAt:string;segmentIds:string[][]}
 export interface RailwaySegment {schematic?:boolean;id:string;coverageStationIds:string[];name?:string;railwayNames:string[];osmSourceId:string;geometrySource:string;routingConfidence:'inferred-corridor';family:'hs'|'ordinary'|'mixed';geometry:LineString;geometryAccuracy:'approximate'|'exact';passengerCategories:Category[];serviceIds:string[]}
 export interface HubNetwork {hubStationId:string;destinationStationIds:string[];serviceIds:string[]}

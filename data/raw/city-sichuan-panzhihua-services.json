@@ -1,0 +1,298 @@
+[
+  {
+    "trainNumber": "5633",
+    "category": "OTHER",
+    "stopNames": [
+      "普雄",
+      "上普雄",
+      "尔赛河",
+      "尼波",
+      "乐武",
+      "红峰",
+      "沙马拉达",
+      "瓦祖",
+      "新凉",
+      "联合乡",
+      "喜德",
+      "冕山",
+      "冕宁",
+      "月华",
+      "西昌",
+      "西昌南",
+      "德昌",
+      "乐跃",
+      "蒲坝",
+      "永郎",
+      "弯坵",
+      "米易",
+      "枣子林",
+      "桐子林",
+      "攀枝花南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5633.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e6b01609126d220468c94f1c9cdc3c1840e18e65f92cd756809bbe48f934d131",
+    "elapsedMinutes": [
+      0,
+      11,
+      26,
+      41,
+      56,
+      70,
+      87,
+      104,
+      129,
+      141,
+      153,
+      170,
+      187,
+      206,
+      235,
+      253,
+      331,
+      366,
+      382,
+      401,
+      419,
+      449,
+      481,
+      495,
+      558
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5634",
+    "category": "OTHER",
+    "stopNames": [
+      "攀枝花南",
+      "桐子林",
+      "枣子林",
+      "米易",
+      "弯坵",
+      "永郎",
+      "蒲坝",
+      "乐跃",
+      "德昌",
+      "西昌南",
+      "西昌",
+      "月华",
+      "冕宁",
+      "冕山",
+      "喜德",
+      "联合乡",
+      "新凉",
+      "瓦祖",
+      "沙马拉达",
+      "红峰",
+      "乐武",
+      "尼波",
+      "尔赛河",
+      "上普雄",
+      "普雄"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5634.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "23fecdc2b4e6b26587838a5c98ec41036ea024fcd2c670f992ddc9c7177c82c5",
+    "elapsedMinutes": [
+      0,
+      52,
+      65,
+      89,
+      132,
+      150,
+      169,
+      185,
+      222,
+      267,
+      285,
+      325,
+      344,
+      362,
+      377,
+      393,
+      406,
+      435,
+      451,
+      466,
+      478,
+      494,
+      510,
+      526,
+      543
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D263",
+    "category": "D",
+    "stopNames": [
+      "西昌西",
+      "德昌西",
+      "攀枝花南",
+      "永仁",
+      "元谋西",
+      "广通北",
+      "昆明"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d263.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "016201c7a67b8c31ad165b26b2a4d33d2be72dac35946f9b2e149a5ca4ea90fc",
+    "elapsedMinutes": [
+      0,
+      27,
+      88,
+      122,
+      148,
+      187,
+      245
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D264",
+    "category": "D",
+    "stopNames": [
+      "昆明",
+      "广通北",
+      "元谋西",
+      "永仁",
+      "攀枝花南",
+      "西昌西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d264.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "90296f083ee501337cd3934f8e44e0d88158e5fe741a8cf4d8a76f684d45d31d",
+    "elapsedMinutes": [
+      0,
+      56,
+      93,
+      119,
+      150,
+      237
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D297",
+    "category": "D",
+    "stopNames": [
+      "西昌西",
+      "德昌西",
+      "米易东",
+      "盐边",
+      "攀枝花南",
+      "永仁",
+      "元谋西",
+      "广通北",
+      "昆明"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d297.html",
+    "sourceUpdatedAt": "2026-08-05",
+    "sourceSha256": "1746630992d43efbc9bac6a77bdbc6b53a7afe04f126481c4feabced5e00c347",
+    "elapsedMinutes": [
+      0,
+      27,
+      57,
+      81,
+      100,
+      135,
+      180,
+      220,
+      281
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D298",
+    "category": "D",
+    "stopNames": [
+      "宣威",
+      "曲靖",
+      "昆明",
+      "广通北",
+      "元谋西",
+      "永仁",
+      "攀枝花南",
+      "米易东",
+      "德昌西",
+      "西昌西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d298.html",
+    "sourceUpdatedAt": "2026-08-05",
+    "sourceSha256": "5260c06decca60c44614163d21520b6d6173da2fab68a6088c160552af82391d",
+    "elapsedMinutes": [
+      0,
+      41,
+      118,
+      182,
+      220,
+      255,
+      287,
+      330,
+      363,
+      393
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D299",
+    "category": "D",
+    "stopNames": [
+      "宣威",
+      "曲靖",
+      "昆明",
+      "广通北",
+      "元谋西",
+      "永仁",
+      "攀枝花南",
+      "米易东",
+      "德昌西",
+      "西昌西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d299.html",
+    "sourceUpdatedAt": "2026-08-05",
+    "sourceSha256": "26dae7d7d82ce493e991439342016ef930e44fddcc9dff8be0c8f75c538ab5e2",
+    "elapsedMinutes": [
+      0,
+      41,
+      118,
+      182,
+      220,
+      255,
+      287,
+      330,
+      363,
+      393
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

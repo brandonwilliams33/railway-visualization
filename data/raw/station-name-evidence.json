@@ -1,0 +1,17 @@
+{
+  "stations": [
+    {
+      "sourceName": "庆盛",
+      "currentName": "南沙北",
+      "city": "广州",
+      "identitySource": "https://jtj.gz.gov.cn/xwdt/gzdt/content/post_10483759.html"
+    },
+    {
+      "sourceName": "新塘",
+      "currentName": "广州新塘",
+      "city": "广州",
+      "identitySource": "https://jtj.gz.gov.cn/xwdt/gzdt/content/post_10483759.html"
+    }
+  ],
+  "note": "Only historical and current names of the same proven railway station. Preserve source stop names and separate IDs of physically distinct stations; in particular 新塘南 remains independent."
+}

@@ -1,0 +1,28 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "西安",
+  "stationCount": 11,
+  "candidateServices": 2032,
+  "acquiredAdditionalServices": 710,
+  "failedPages": [
+    {
+      "trainNumber": "C242",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "Y285",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "Y515",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "Y567",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": [
+    "西安南"
+  ]
+}

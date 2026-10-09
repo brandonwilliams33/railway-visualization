@@ -21,7 +21,20 @@ def in_geometry(point,geometry):
     return any(inside_ring(point,p[0]) and not any(inside_ring(point,h) for h in p[1:]) for p in polygons)
 
 def resolve(csv_path,admin_path,osm_path,fetch_osm=False):
-    registry=read(RAW/'stations.json');by_name={s['name']:s for s in registry}
+    from stationNames import canonical,former_names
+    registry=read(RAW/'stations.json')
+    normalized={}
+    for station in sorted(registry,key=lambda s:s['name']!=canonical(s['name'])):
+        name=canonical(station['name'])
+        if name in normalized:
+            from physicalGeometry import km
+            assert station['name']!=name and km([normalized[name]['longitude'],normalized[name]['latitude']],[station['longitude'],station['latitude']])<1,'Unproven duplicate station identity: '+name
+            continue
+        station['name']=name
+        station.pop('currentName',None)
+        if former_names(name):station['formerNames']=former_names(name)
+        normalized[name]=station
+    registry=list(normalized.values());by_name=normalized
     overrides_path=RAW/'coordinate-overrides.json'
     if overrides_path.exists():
         for station in read(overrides_path)['stations']:
@@ -29,7 +42,7 @@ def resolve(csv_path,admin_path,osm_path,fetch_osm=False):
     from originSources import indexes as origin_indexes, services as source_services
     indexes=origin_indexes();js={s['name']:s for s in indexes}
     records=list(source_services().values())
-    needed={n for r in records for n in r['stopNames']}|set(js)
+    needed={canonical(n) for r in records for n in r['stopNames']}|set(js)
     provinces={s['province']:s['provinceId'] for s in registry}
     provinces.setdefault('海南','hainan');provinces.setdefault('西藏','xizang')
     features=[]
@@ -40,16 +53,17 @@ def resolve(csv_path,admin_path,osm_path,fetch_osm=False):
         if name in provinces:features.append((name,f['geometry']))
     def province_at(coord):
         return next((name for name,g in features if in_geometry(coord,g)),None)
+    added=[]
     evidence_path=RAW/'wikidata-coordinate-evidence.json'
     if evidence_path.exists():
         for fact in read(evidence_path):
-            name=fact['name'];coord=[fact['coordinate']['longitude'],fact['coordinate']['latitude']]
+            name=canonical(fact['name']);coord=[fact['coordinate']['longitude'],fact['coordinate']['latitude']]
             province=province_at(coord)
             if name in by_name or not province or fact['coordinate'].get('precision',1)>.001:continue
             if name in js and province!=js[name]['province']:continue
             station={'id':'st-wikidata-'+fact['wikidataId'].lower(),'name':name,'city':js[name]['city'] if name in js else '城市待核验','province':province,'provinceId':provinces[province],'longitude':coord[0],'latitude':coord[1],'isHub':False,'major':False,'coordinateSource':fact['sourceUrl']}
-            registry.append(station);by_name[name]=station
-    csv_rows={normalize(s['站名']):s for s in csv.DictReader(csv_path.open())}
+            registry.append(station);by_name[name]=station;added.append(name)
+    csv_rows={canonical(normalize(s['站名'])):s for s in csv.DictReader(csv_path.open())}
     osm_candidates=defaultdict(list)
     missing=sorted(needed-set(by_name))
     if fetch_osm:
@@ -64,10 +78,10 @@ def resolve(csv_path,admin_path,osm_path,fetch_osm=False):
             except Exception as error:print('OSM acquisition failed',host,str(error),flush=True)
     if osm_path.exists():
         for element in read(osm_path).get('elements',[]):
-            tag=element.get('tags',{});name=normalize(tag.get('name:zh-Hans',tag.get('name:zh',tag.get('name',''))))
+            tag=element.get('tags',{});name=canonical(normalize(tag.get('name:zh-Hans',tag.get('name:zh',tag.get('name','')))))
             coord=element.get('center',element)
             if 'lon' in coord and 'lat' in coord:osm_candidates[name].append((element,[coord['lon'],coord['lat']]))
-    added=[];ambiguous=[]
+    ambiguous=[]
     for name in missing:
         candidates=osm_candidates.get(name,[])
         # Multiple OSM objects can describe one station; prefer the station
@@ -100,6 +114,9 @@ def resolve(csv_path,admin_path,osm_path,fetch_osm=False):
                 identity_conflicts.append({'name':name,'catalogueProvince':entry['province'],'coordinateProvince':by_name[name]['province']})
                 continue
             by_name[name]['city']=entry['city']
+    for station in registry:
+        former=former_names(station['name'])
+        if former:station['formerNames']=former
     write(RAW/'stations.json',sorted(registry,key=lambda s:s['name']))
     remaining=sorted(needed-set(by_name))
     write(RAW/'coordinate-resolution.json',{'addedStations':added,'originIdentityConflicts':identity_conflicts,'ambiguousNames':ambiguous,'unlocatedStations':remaining,'unlocatedOrigins':sorted(set(js)-set(by_name))})

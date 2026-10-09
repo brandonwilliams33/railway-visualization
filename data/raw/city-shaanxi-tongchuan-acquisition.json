@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "铜川",
+  "stationCount": 5,
+  "candidateServices": 113,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "铜川东"
+  ]
+}

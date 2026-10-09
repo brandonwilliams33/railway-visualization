@@ -1,0 +1,24 @@
+[
+  {
+    "trainNumber": "C5828",
+    "category": "C",
+    "stopNames": [
+      "松潘",
+      "绵竹南",
+      "什邡西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c5828.html",
+    "sourceUpdatedAt": "2025-11-14",
+    "sourceSha256": "f19a4c7835143d429d7a6a9b101eef99304bf102d52d51af12a2837c877fd2c8",
+    "elapsedMinutes": [
+      0,
+      64,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

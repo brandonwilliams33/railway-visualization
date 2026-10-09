@@ -2,11 +2,13 @@
 
 铁路客运直达网络的静态网站。React + TypeScript strict + Vite + Tailwind + Leaflet；可部署到 GitHub Pages，无后端、API key 或运行时列车查询。
 
+[在线体验](https://brandonwilliams33.github.io/railway-visualization/)
+
 从已开放城市的客运车站出发，探索有公开客运服务依据的直达车站与铁路走廊。
 
-| 独立车站选择 | 天河机场出发网络 | 手机布局 |
+| 独立车站选择 | 广州南出发网络 | 手机布局 |
 | --- | --- | --- |
-| ![武汉的独立客运车站](docs/screenshots/preview-expanded-city.png) | ![天河机场站直达网络](docs/screenshots/preview-expanded-network.png) | ![手机端客运网络](docs/screenshots/preview-expanded-mobile.png) |
+| ![广州的独立客运车站](docs/screenshots/preview-expanded-city.png) | ![广州南站直达网络](docs/screenshots/preview-expanded-network.png) | ![手机端客运网络](docs/screenshots/preview-expanded-mobile.png) |
 
 ## 本地运行
 
@@ -49,21 +51,20 @@ npm run data:build
 
 ## 扩展范围与数据边界
 
-已开放 149 个城市、1,249 个独立出发站，涵盖江苏、上海、浙江、安徽、山东、河南、湖北、江西、福建、北京、天津、河北、山西、湖南。各站可展开其直达全国目的地的网络，站点保持独立 ID、名称和坐标。逐市清单见 [扩展进度](docs/EXPANSION-PROGRESS.md)，暂停位置和续传步骤见 [接班说明](HANDOFF.md)。目录采集完成不代表覆盖官方全部现行车次。
+开放 201 城市、1,873 个独立出发站；接受 15,492 个服务，使用 2,457 个有来源坐标的车站。135,799 个已定位停站区间都有连续绘图路径，缺失 0。尚有 54 个目的站待坐标核验、118 个目录入口待核验；完整事实保留，不猜坐标、不开放空入口。
 
-- 接受 10,803 个客运服务，使用 1,962 个有来源坐标的车站。
-- 已定位站点之间的 104,732 个服务区间全部具有连续绘图路径，未留下断线区间。线路只表达可达联系，不声明列车实际运行径路。
-- 139 个全国目的站仍待坐标核验；原始停站事实保留，地图暂不显示，不以城市中心替代。96 个目录入口未开放，原因与明细见扩展进度。
-- 黄渡独立站点仍保留；本轮仅有未取得普通售票证据的旅游候选，因此暂停其出发入口。牛车河、向阳、石城的错误所在地目录条目隔离；芦台归属纠正至天津。不同站点没有合并。
-- 广州的43站目录与760条新增服务事实已保存，但该城市采集尚未完成，因此暂不开放广州出发入口。其完整单条服务事实可作为其他已开放出发站的证据。
-- 隔离 137 个时间倒退服务、38 个速度/时间矛盾服务和 98 个异常站序记录；排除 3,498 个临客候选。
+本轮完成广东21个、重庆1个、四川20个、陕西10个源目录城市/行政单位的采集。广东开放200个独立入口、重庆78个、四川181个、陕西110个；目录完成不等于官方现行车次已穷尽。逐市清单见 [扩展进度](docs/EXPANSION-PROGRESS.md)，后续步骤见 [接班说明](HANDOFF.md)。
+
+庆盛与南沙北、新塘与广州新塘是官方更名的同一车站，已统一曾用名检索；新塘南及其他不同车站均保留独立 ID，不合并站点。 更名证据见 [广州交通部门公告](https://jtj.gz.gov.cn/xwdt/gzdt/content/post_10483759.html)。
+
+页面不完整的时刻源单独保存哈希与排除原因；未取得完整停站表的候选不能制造直达关系。第三方快照不保证当天开行。
 
 ## 逐城市继续扩展
 
 `data/raw/jiangsu-station-index.json` 保留江苏底稿；新增城市使用 `city-*-station-index.json` 和 `city-*-services.json`，并保存 URL、源日期及页面哈希。完整服务事实在城市间复用，出发站登记自动生成城市与站点入口。坐标只接受已核验的独立车站，不能用城市中心代替。
 
 ```sh
-python3 scripts/acquireCity.py guangdong guangzhou 广东
+python3 scripts/expandProvinces.py guangxi:广西
 npm run data:build
 npm test
 npm run build

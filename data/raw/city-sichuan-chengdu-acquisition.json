@@ -1,0 +1,20 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "成都",
+  "stationCount": 33,
+  "candidateServices": 2290,
+  "acquiredAdditionalServices": 1455,
+  "failedPages": [
+    {
+      "trainNumber": "C732",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "G8767",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    }
+  ],
+  "stationIssues": [
+    "蒲江"
+  ]
+}

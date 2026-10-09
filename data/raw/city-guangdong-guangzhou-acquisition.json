@@ -1,0 +1,12 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "广州",
+  "stationCount": 43,
+  "candidateServices": 4027,
+  "acquiredAdditionalServices": 2813,
+  "failedPages": [],
+  "stationIssues": [
+    "庆盛",
+    "沙园"
+  ]
+}
