@@ -1,0 +1,26 @@
+[
+  {
+    "trainNumber": "K9307",
+    "category": "K",
+    "stopNames": [
+      "南宁",
+      "平果",
+      "德保",
+      "靖西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9307.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7ad3049b420c68aab300c7624a3b8b454bcf02f6a62bd77bedc2464b030b1cbf",
+    "elapsedMinutes": [
+      0,
+      79,
+      172,
+      206
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

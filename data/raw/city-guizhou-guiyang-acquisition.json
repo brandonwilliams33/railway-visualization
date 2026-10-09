@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "贵阳",
+  "stationCount": 26,
+  "candidateServices": 1445,
+  "acquiredAdditionalServices": 385,
+  "failedPages": [
+    {
+      "trainNumber": "G9951",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    }
+  ],
+  "stationIssues": []
+}

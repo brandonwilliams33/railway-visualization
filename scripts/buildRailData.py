@@ -36,6 +36,10 @@ def build():
     acquisition['failedPages']=[f'/huoche/{code.lower()}.html' for code in sorted(candidate_codes-acquired-quarantined_codes)]
     services=[];rejected=[];temporary=[];nonpassenger=[];malformed=[]
     missing=set();invalid_timing=[];impossible_timing={};unverified_ticketability=[]
+    from serviceScope import out_of_scope_stops
+    scope_path=RAW/'service-geographic-scope.json'
+    scope_rules=json.loads(scope_path.read_text())['rules'] if scope_path.exists() else []
+    outside_stations=set()
     ticket_evidence={r['trainNumber']:r for r in load('public-ticket-evidence.json')['services']}
     from validateTimetable import impossible_intervals
     for code,r in sorted(rows.items()):
@@ -53,13 +57,15 @@ def build():
         names=[n for i,n in enumerate(canonical_stops) if i==0 or n!=canonical_stops[i-1]]
         if len(names)!=len(set(names)):
             malformed.append(code);continue
-        impossible=impossible_intervals(r,by_name)
+        outside=out_of_scope_stops(r,scope_rules)
+        impossible=impossible_intervals(r,{n:s for n,s in by_name.items() if n not in outside} if outside else by_name)
         if impossible:
             impossible_timing[code]=impossible;continue
         if code.startswith('Y') and code not in ticket_evidence:
             unverified_ticketability.append(code);continue
-        missing.update(n for n in names if n not in by_name)
-        known=[by_name[n]['id'] for n in names if n in by_name]
+        outside_stations.update(outside)
+        missing.update(n for n in names if n not in by_name and n not in outside)
+        known=[by_name[n]['id'] for n in names if n in by_name and n not in outside]
         services.append({'id':'svc-'+code.lower(),'trainNumber':code,'category':r['category'],'stations':known,
             'completeStopNames':names,**({'sourceStopNames':r['stopNames']} if names!=r['stopNames'] else {}),'unknownStopNames':[n for n in names if n not in by_name],
             'passenger':True,'sourceUrl':r['sourceUrl'],'sourceUpdatedAt':r['sourceUpdatedAt'],'segmentIds':[]})
@@ -99,7 +105,7 @@ def build():
         entries=[s for s in indexes if s['provinceId']==province]
         sources.append({'name':'铁路网 · '+entries[0]['province']+'车站目录','url':'https://www.crecc.com/'+province+'/','description':'按城市获取独立车站与完整客运停站表；未核验入口不开放。'})
     sources.append({'name':'Wikidata 车站坐标','url':'https://www.wikidata.org/','description':'仅采用已确认铁路车站身份、位于中国省级范围内的高精度地球坐标；同名消歧义页、海外同名站和粗略坐标不用于定位。结构化数据 CC0。'})
-    data={'updatedAt':max(s['sourceUpdatedAt'] for s in services),'retrievedAt':acquisition['retrievedAt'],'stations':[s for s in registry if s['id'] in used], 'services':services,'segments':[],'networks':networks,'origins':origins,'sources':sources,'audit':{'candidates':acquisition['candidates'],'acceptedServices':len(services),'rejectedNoHub':len(rejected),'excludedTemporary':len(temporary),'nonPassenger':len(nonpassenger),'malformedSequences':len(malformed),'unlocatedStations':sorted(missing),'failedPages':len(acquisition['failedPages']),'invalidTimingServices':invalid_timing,'pendingOrigins':pending,'originCount':len(origins),'cityCount':len({s['cityId'] for s in origins})}}
+    data={'updatedAt':max(s['sourceUpdatedAt'] for s in services),'retrievedAt':acquisition['retrievedAt'],'stations':[s for s in registry if s['id'] in used], 'services':services,'segments':[],'networks':networks,'origins':origins,'sources':sources,'audit':{'candidates':acquisition['candidates'],'acceptedServices':len(services),'rejectedNoHub':len(rejected),'excludedTemporary':len(temporary),'nonPassenger':len(nonpassenger),'malformedSequences':len(malformed),'unlocatedStations':sorted(missing),'outOfScopeStations':sorted(outside_stations),'failedPages':len(acquisition['failedPages']),'invalidTimingServices':invalid_timing,'pendingOrigins':pending,'originCount':len(origins),'cityCount':len({s['cityId'] for s in origins})}}
     from physicalGeometry import apply_physical
     physical=load('physical-rails.json')
     data=apply_physical(data,physical)

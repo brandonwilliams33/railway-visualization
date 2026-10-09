@@ -1,0 +1,534 @@
+[
+  {
+    "trainNumber": "5645",
+    "category": "OTHER",
+    "stopNames": [
+      "贵阳",
+      "安顺",
+      "六盘水",
+      "梅花山",
+      "凉水井",
+      "草海",
+      "李子沟",
+      "迤那",
+      "花土坡",
+      "昭通南",
+      "昭通"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5645.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "55558e60521886f653ad14b1fd6b047c62eb581f9c55a2b37d65254abbfc1e12",
+    "elapsedMinutes": [
+      0,
+      104,
+      231,
+      275,
+      305,
+      354,
+      397,
+      431,
+      465,
+      480,
+      497
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5646",
+    "category": "OTHER",
+    "stopNames": [
+      "昭通",
+      "昭通南",
+      "花土坡",
+      "迤那",
+      "李子沟",
+      "草海",
+      "凉水井",
+      "梅花山",
+      "六盘水",
+      "安顺",
+      "贵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5646.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d684774ec894a373628dd025ed6208f6064aec80ae42b6070e0b0e9145e10fab",
+    "elapsedMinutes": [
+      0,
+      13,
+      30,
+      64,
+      100,
+      140,
+      194,
+      225,
+      266,
+      385,
+      502
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5647",
+    "category": "OTHER",
+    "stopNames": [
+      "昭通",
+      "昭通南",
+      "花土坡",
+      "迤那",
+      "李子沟",
+      "草海",
+      "凉水井",
+      "梅花山",
+      "六盘水",
+      "安顺",
+      "贵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5647.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c6d3e58adf7373ce77bb59592637f7d4dd6e5110d1b81ed18ffe8b3392dc4de3",
+    "elapsedMinutes": [
+      0,
+      13,
+      30,
+      64,
+      100,
+      140,
+      194,
+      225,
+      266,
+      385,
+      502
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5648",
+    "category": "OTHER",
+    "stopNames": [
+      "贵阳",
+      "安顺",
+      "六盘水",
+      "梅花山",
+      "凉水井",
+      "草海",
+      "李子沟",
+      "迤那",
+      "花土坡",
+      "昭通南",
+      "昭通"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5648.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "54add95dccde1292d6569dad18b340a4d472dce4b45a4a2e1ffba5650eda4785",
+    "elapsedMinutes": [
+      0,
+      104,
+      231,
+      275,
+      305,
+      354,
+      397,
+      431,
+      465,
+      480,
+      497
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9501",
+    "category": "K",
+    "stopNames": [
+      "贵阳",
+      "安顺",
+      "六盘水",
+      "草海",
+      "迤那",
+      "昭通"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9501.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "77c5d98c480d4e8b6099c89450e95f1f1f6b4f0cadf2f04dc7bccc179d10909e",
+    "elapsedMinutes": [
+      0,
+      74,
+      197,
+      301,
+      378,
+      442
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9502",
+    "category": "K",
+    "stopNames": [
+      "昭通",
+      "草海",
+      "六盘水",
+      "贵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9502.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fb8b41aff9473d710be9977aeb4097a3235fd16afcc3d52f99c398062ce8918b",
+    "elapsedMinutes": [
+      0,
+      105,
+      205,
+      555
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9503",
+    "category": "K",
+    "stopNames": [
+      "昭通",
+      "草海",
+      "六盘水",
+      "贵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9503.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "88e940dc9be32f0341a5ce9d6cf73ede432519ebd58f127720084ad818c45e30",
+    "elapsedMinutes": [
+      0,
+      105,
+      205,
+      555
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9504",
+    "category": "K",
+    "stopNames": [
+      "贵阳",
+      "安顺",
+      "六盘水",
+      "草海",
+      "迤那",
+      "昭通"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9504.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6efa0173f91248ad2f572a43346ba08684d483820f020b6506652fadcec67b8e",
+    "elapsedMinutes": [
+      0,
+      74,
+      197,
+      301,
+      378,
+      442
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9515",
+    "category": "K",
+    "stopNames": [
+      "贵阳",
+      "安顺",
+      "六枝南",
+      "六盘水",
+      "草海",
+      "迤那",
+      "花土坡",
+      "昭通"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9515.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "309e7845137b0127e5e149804b7d09d238619367609e9a396e44328f29cbe582",
+    "elapsedMinutes": [
+      0,
+      73,
+      123,
+      197,
+      287,
+      338,
+      372,
+      400
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9516",
+    "category": "K",
+    "stopNames": [
+      "昭通",
+      "花土坡",
+      "迤那",
+      "草海",
+      "六盘水",
+      "安顺",
+      "贵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9516.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "66c6b121c11232aafebea2ce049c6a4bb9b40c4ad233f3725dd963195f39e133",
+    "elapsedMinutes": [
+      0,
+      19,
+      47,
+      95,
+      210,
+      335,
+      416
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9517",
+    "category": "K",
+    "stopNames": [
+      "昭通",
+      "花土坡",
+      "迤那",
+      "草海",
+      "六盘水",
+      "安顺",
+      "贵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9517.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "53adc466ad3bbbf8338aa85fd36212e89556076b2057bbf62ea6925ea97ef2c5",
+    "elapsedMinutes": [
+      0,
+      19,
+      47,
+      95,
+      210,
+      335,
+      416
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9518",
+    "category": "K",
+    "stopNames": [
+      "贵阳",
+      "安顺",
+      "六枝南",
+      "六盘水",
+      "草海",
+      "迤那",
+      "花土坡",
+      "昭通"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9518.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "36257c6a18d787fd09602d41c1e5e5cba9a60e899d13d4084c81d8d55ac0007b",
+    "elapsedMinutes": [
+      0,
+      73,
+      123,
+      197,
+      287,
+      338,
+      372,
+      400
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9552",
+    "category": "K",
+    "stopNames": [
+      "贵阳",
+      "安顺",
+      "六盘水",
+      "昭通"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9552.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8066cab0fe7471df763dca888dd2c49c9955783acb7f840a61f88de806082715",
+    "elapsedMinutes": [
+      0,
+      76,
+      198,
+      404
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9553",
+    "category": "K",
+    "stopNames": [
+      "贵阳",
+      "安顺",
+      "六盘水",
+      "昭通"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9553.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "44b050b84857410defe0a7081562dddfa2e727c2034f3fdb23a9c707969b9047",
+    "elapsedMinutes": [
+      0,
+      76,
+      198,
+      404
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9555",
+    "category": "K",
+    "stopNames": [
+      "贵阳",
+      "安顺",
+      "六盘水",
+      "草海",
+      "昭通"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9555.html",
+    "sourceUpdatedAt": "2026-08-22",
+    "sourceSha256": "b8de30602834290dd6140491e2b53d82be4882680224fd433d28893f80c7dffe",
+    "elapsedMinutes": [
+      0,
+      75,
+      212,
+      303,
+      393
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9556",
+    "category": "K",
+    "stopNames": [
+      "昭通",
+      "草海",
+      "六盘水",
+      "安顺",
+      "贵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9556.html",
+    "sourceUpdatedAt": "2026-08-22",
+    "sourceSha256": "4a1526e39b8dcd484e042fc19ee7f0708683d2d9adb5d311f3b1a2b0c5139e3c",
+    "elapsedMinutes": [
+      0,
+      90,
+      227,
+      395,
+      485
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9557",
+    "category": "K",
+    "stopNames": [
+      "昭通",
+      "草海",
+      "六盘水",
+      "安顺",
+      "贵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9557.html",
+    "sourceUpdatedAt": "2026-08-22",
+    "sourceSha256": "56534e021ab752b39ad7b3f40af30626b99e92a7cb42ddcb00839c2554a07357",
+    "elapsedMinutes": [
+      0,
+      90,
+      227,
+      395,
+      485
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9558",
+    "category": "K",
+    "stopNames": [
+      "贵阳",
+      "安顺",
+      "六盘水",
+      "草海",
+      "昭通"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9558.html",
+    "sourceUpdatedAt": "2026-08-22",
+    "sourceSha256": "24a08a351385b41f8980538a34676ef53dbca637de96296cfc114bb5f757d364",
+    "elapsedMinutes": [
+      0,
+      75,
+      212,
+      303,
+      393
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

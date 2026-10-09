@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "北海",
+  "stationCount": 2,
+  "candidateServices": 191,
+  "acquiredAdditionalServices": 5,
+  "failedPages": [
+    {
+      "trainNumber": "D4354",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "平凉",
+  "stationCount": 7,
+  "candidateServices": 35,
+  "acquiredAdditionalServices": 3,
+  "failedPages": [
+    {
+      "trainNumber": "7514",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    }
+  ],
+  "stationIssues": []
+}

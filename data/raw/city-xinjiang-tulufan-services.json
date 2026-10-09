@@ -1,0 +1,378 @@
+[
+  {
+    "trainNumber": "C995",
+    "category": "C",
+    "stopNames": [
+      "哈密",
+      "吐鲁番北",
+      "焉耆",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c995.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3f14c4a0696e489b0e67ea8604374f769793fe2e4117c5a223e56cc288fe9ae7",
+    "elapsedMinutes": [
+      0,
+      172,
+      314,
+      348
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C996",
+    "category": "C",
+    "stopNames": [
+      "库尔勒",
+      "焉耆",
+      "马兰",
+      "吐鲁番北",
+      "吐哈",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c996.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "86b0b81687353d65b17d6e1057c2eefea21c0126fb068917e9ab4803a3b1b9ce",
+    "elapsedMinutes": [
+      0,
+      31,
+      73,
+      177,
+      233,
+      367
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y591",
+    "category": "OTHER",
+    "stopNames": [
+      "吐鲁番",
+      "库尔勒",
+      "库车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y591.html",
+    "sourceUpdatedAt": "2026-04-14",
+    "sourceSha256": "2f89c0c3074d5efac6a7c12d6cb96d9b23c51d821f3aec7cdcdd642e155b214f",
+    "elapsedMinutes": [
+      0,
+      249,
+      610
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y627",
+    "category": "OTHER",
+    "stopNames": [
+      "吐鲁番",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y627.html",
+    "sourceUpdatedAt": "2026-08-05",
+    "sourceSha256": "7bcaeeb574748b65d1193f66afea566cbd16cf84e214c3e871ffefb280a2fe25",
+    "elapsedMinutes": [
+      0,
+      201
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y644",
+    "category": "OTHER",
+    "stopNames": [
+      "喀什",
+      "库车",
+      "库尔勒",
+      "吐鲁番"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y644.html",
+    "sourceUpdatedAt": "2026-09-08",
+    "sourceSha256": "d29f09ef0b8d69b1b7f697ce02c05963a8f981f6cda85dd216a4d19bc6302078",
+    "elapsedMinutes": [
+      0,
+      656,
+      817,
+      1040
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y680",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "库尔勒",
+      "吐鲁番",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y680.html",
+    "sourceUpdatedAt": "2026-07-08",
+    "sourceSha256": "88223e1d3297b54572d6d27b30acbcf62844c5000c9fce9d755cafa1cebd0888",
+    "elapsedMinutes": [
+      0,
+      170,
+      437,
+      740
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y821",
+    "category": "OTHER",
+    "stopNames": [
+      "吐鲁番",
+      "库尔勒",
+      "阿克苏",
+      "阿图什",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y821.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "eac863fa2a611aaf4434f2ad953ec0851c4507bfeea90b98c6a388d57679c4bf",
+    "elapsedMinutes": [
+      0,
+      236,
+      566,
+      910,
+      1090
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y851",
+    "category": "OTHER",
+    "stopNames": [
+      "敦化",
+      "吉林",
+      "吐鲁番",
+      "长春",
+      "库尔勒",
+      "沈阳北",
+      "库车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y851.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "872aa73713d6c77b264f4c31e387c7434891131a5814ea02d799d30571071448",
+    "elapsedMinutes": [
+      0,
+      224,
+      124,
+      342,
+      417,
+      583,
+      619
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y854",
+    "category": "OTHER",
+    "stopNames": [
+      "敦化",
+      "吉林",
+      "吐鲁番",
+      "长春",
+      "库尔勒",
+      "沈阳北",
+      "库车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y854.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "4ffb26daaaae2c3365cd3fe20fb31fa20c16036edb0a5b2bf6b7fda069a64efa",
+    "elapsedMinutes": [
+      0,
+      224,
+      124,
+      342,
+      417,
+      583,
+      619
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y856",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "库尔勒",
+      "吐鲁番",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y856.html",
+    "sourceUpdatedAt": "2026-07-02",
+    "sourceSha256": "69fa859c144d97c2c2033964d56130f300a65ef7d4b112f56be5c881fcb79cdc",
+    "elapsedMinutes": [
+      0,
+      170,
+      437,
+      740
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y862",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "吐鲁番",
+      "奎屯",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y862.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "e6d81f28a144ce3a540ecbdc6534e6ff099c99f74d8ef43a91af577742b8c040",
+    "elapsedMinutes": [
+      0,
+      131,
+      370,
+      375
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y863",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "吐鲁番",
+      "奎屯",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y863.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "1cb0f29f37e217ae59b122f7f7b7b1fed07f50284d69ac956fc5dd1421420793",
+    "elapsedMinutes": [
+      0,
+      131,
+      370,
+      375
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y882",
+    "category": "OTHER",
+    "stopNames": [
+      "库尔勒",
+      "吐鲁番",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y882.html",
+    "sourceUpdatedAt": "2026-04-28",
+    "sourceSha256": "9eba8ab65740011b71bc16fac67408a90cb843cdd206fe0db999f7b263d0f3c8",
+    "elapsedMinutes": [
+      0,
+      204,
+      465
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y890",
+    "category": "OTHER",
+    "stopNames": [
+      "喀什",
+      "阿克苏",
+      "库尔勒",
+      "吐鲁番",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y890.html",
+    "sourceUpdatedAt": "2026-08-01",
+    "sourceSha256": "7b7985f59e96132ee5f8f162af374b09122df875f211aa48871ed24c1fc747ce",
+    "elapsedMinutes": [
+      0,
+      443,
+      795,
+      1024,
+      1406
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y898",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "库尔勒",
+      "吐鲁番",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y898.html",
+    "sourceUpdatedAt": "2026-08-02",
+    "sourceSha256": "9ae51b6c87becb37d3914dc756eff2aaf6e7ad7c3fde91894cd2c6f75627149c",
+    "elapsedMinutes": [
+      0,
+      159,
+      407,
+      712
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

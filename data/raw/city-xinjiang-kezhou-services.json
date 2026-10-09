@@ -1,0 +1,74 @@
+[
+  {
+    "trainNumber": "K6729",
+    "category": "K",
+    "stopNames": [
+      "喀什",
+      "阿克陶",
+      "莎车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6729.html",
+    "sourceUpdatedAt": "2026-08-15",
+    "sourceSha256": "57301ef6852b22d07112c957a43d4529f111a9add28e058aad99d54a794779c7",
+    "elapsedMinutes": [
+      0,
+      26,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6759",
+    "category": "K",
+    "stopNames": [
+      "喀什",
+      "阿克陶",
+      "英吉沙",
+      "莎车",
+      "泽普"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6759.html",
+    "sourceUpdatedAt": "2026-05-25",
+    "sourceSha256": "21c4acaa93017a7e3eae594a2db2a2db408ae3fb8556e04de8a30d209a88a0da",
+    "elapsedMinutes": [
+      0,
+      26,
+      47,
+      144,
+      168
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6760",
+    "category": "K",
+    "stopNames": [
+      "泽普",
+      "莎车",
+      "阿克陶",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6760.html",
+    "sourceUpdatedAt": "2026-05-25",
+    "sourceSha256": "751e81586ffb5c87f2b25ed27368c57dd44734025e15be87f3157094f51251af",
+    "elapsedMinutes": [
+      0,
+      17,
+      118,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "trainNumber": "7503",
+    "category": "OTHER",
+    "stopNames": [
+      "天水",
+      "南河川",
+      "三阳川",
+      "渭南镇",
+      "新阳镇",
+      "甘谷",
+      "磐安镇",
+      "洛门",
+      "武山",
+      "贺家店",
+      "鸳鸯镇",
+      "陇西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7503.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "dd0fe30350f1cf95c0789c75af87c7ec8e4723a98955259803c043d900c614c2",
+    "elapsedMinutes": [
+      87,
+      108,
+      117,
+      126,
+      156,
+      208,
+      227,
+      238,
+      249,
+      261,
+      272,
+      299
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7504",
+    "category": "OTHER",
+    "stopNames": [
+      "陇西",
+      "鸳鸯镇",
+      "贺家店",
+      "武山",
+      "洛门",
+      "磐安镇",
+      "甘谷",
+      "新阳镇",
+      "渭南镇",
+      "三阳川",
+      "南河川",
+      "天水"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7504.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6b1c5e4d53c04949034770a91a9896710315565ad82bd11be96f9d4d46f06967",
+    "elapsedMinutes": [
+      0,
+      17,
+      27,
+      38,
+      50,
+      61,
+      79,
+      107,
+      124,
+      133,
+      143,
+      172
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y499",
+    "category": "OTHER",
+    "stopNames": [
+      "天水",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y499.html",
+    "sourceUpdatedAt": "2026-05-20",
+    "sourceSha256": "c666d8f97bde475fed7622a7f6e5cc0f3db5c8f864cdc974e2d215735dc09f68",
+    "elapsedMinutes": [
+      0,
+      2537
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

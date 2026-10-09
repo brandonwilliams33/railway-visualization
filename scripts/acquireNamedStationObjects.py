@@ -4,8 +4,8 @@ from acquireJiangsu import RAW,save
 
 def acquire(names,bbox):
     pattern='^('+'|'.join(re.escape(n) for n in names)+')站?$'
-    clauses=[f'node[railway~"^(station|halt)$"][station!=subway][station!=light_rail][subway!=yes]["{key}"~"{pattern}"]({bbox});' for key in ('name','name:zh','name:zh-Hans')]
-    query='[out:json][timeout:35];('+''.join(clauses)+');out body;'
+    clauses=[f'nwr[railway~"^(station|halt)$"][station!=subway][station!=light_rail][subway!=yes]["{key}"~"{pattern}"]({bbox});' for key in ('name','name:zh','name:zh-Hans')]
+    query='[out:json][timeout:35];('+''.join(clauses)+' );out center body;'
     for host in ['https://maps.mail.ru/osm/tools/overpass/api/interpreter','https://overpass-api.de/api/interpreter','https://overpass.private.coffee/api/interpreter']:
         try:
             request=urllib.request.Request(host,data=urllib.parse.urlencode({'data':query}).encode(),headers={'Content-Type':'application/x-www-form-urlencoded','User-Agent':'Railbound-data/1.0'})
@@ -16,7 +16,8 @@ def acquire(names,bbox):
                 tags=element.get('tags',{})
                 if tags.get('railway') not in ('station','halt') or tags.get('station') in ('subway','light_rail') or tags.get('subway')=='yes':continue
                 if not any(tags.get(k,'').removesuffix('站') in names for k in ('name','name:zh','name:zh-Hans')):continue
-                if 'lon' not in element or 'lat' not in element:continue
+                coord=element.get('center',element)
+                if 'lon' not in coord or 'lat' not in coord:continue
                 accepted.append(element)
             path=RAW/'verified-coordinate-objects.json'
             previous=json.loads(path.read_text()).get('elements',[]) if path.exists() else []

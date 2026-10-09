@@ -1,0 +1,464 @@
+[
+  {
+    "trainNumber": "D8226",
+    "category": "D",
+    "stopNames": [
+      "阳朔",
+      "桂林北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8226.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "b6518259977d0b41aa42cf613ea7f5c573c0e468dbde0bd1ebd038de544d93ca",
+    "elapsedMinutes": [
+      0,
+      25
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8276",
+    "category": "D",
+    "stopNames": [
+      "阳朔",
+      "桂林北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8276.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "050405c5ddba07e01fff33bfc99c63dd457d03de9918f04de8f43e6b7a3793c4",
+    "elapsedMinutes": [
+      0,
+      26
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8278",
+    "category": "D",
+    "stopNames": [
+      "桂林",
+      "桂林北",
+      "阳朔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8278.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "1a6bedc869d86c6f2491933b8e285a76acbac5d83ba2fdaf7493899284675be9",
+    "elapsedMinutes": [
+      0,
+      10,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8279",
+    "category": "D",
+    "stopNames": [
+      "桂林",
+      "桂林北",
+      "阳朔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8279.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "7abaaf2342283c7dd4fc61217b1fd3a655c13eb6572d04e50b51da8bbc99c6ed",
+    "elapsedMinutes": [
+      0,
+      10,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8295",
+    "category": "D",
+    "stopNames": [
+      "桂林北",
+      "阳朔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8295.html",
+    "sourceUpdatedAt": "2026-08-16",
+    "sourceSha256": "a032c4b0da03b87a980577f24b699199ecbdb7e86b60493be47571189c4c1332",
+    "elapsedMinutes": [
+      0,
+      25
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8296",
+    "category": "D",
+    "stopNames": [
+      "阳朔",
+      "桂林北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8296.html",
+    "sourceUpdatedAt": "2026-08-16",
+    "sourceSha256": "f8d22f7b57bbce0ac166d59c1c6dd35a4149de1b8d01f2eea40f69582181693f",
+    "elapsedMinutes": [
+      0,
+      26
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8297",
+    "category": "D",
+    "stopNames": [
+      "全州南",
+      "兴安北",
+      "桂林北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8297.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ff220ff39da5e9257ca1022839eb1e146de16e50e94c6bb91a2cfc4bc2a66882",
+    "elapsedMinutes": [
+      0,
+      21,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8298",
+    "category": "D",
+    "stopNames": [
+      "桂林",
+      "桂林北",
+      "兴安北",
+      "全州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8298.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b2c9002feefb4433c09a6753bec0700db3eb97c9bd05d562de744714936010b7",
+    "elapsedMinutes": [
+      0,
+      10,
+      36,
+      60
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8422",
+    "category": "D",
+    "stopNames": [
+      "桂林北",
+      "兴安北",
+      "全州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8422.html",
+    "sourceUpdatedAt": "2026-09-03",
+    "sourceSha256": "7b55f097b7df0e41c276ac85221429a3903aee1a2d84da6882b64f78fda2389c",
+    "elapsedMinutes": [
+      0,
+      23,
+      50
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9643",
+    "category": "D",
+    "stopNames": [
+      "桂林",
+      "桂林北",
+      "阳朔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9643.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "527c6da89ef7a672efb4637ac3d3df60e266975d81f8e8ca9bbb97cb2c2e34de",
+    "elapsedMinutes": [
+      0,
+      10,
+      39
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9644",
+    "category": "D",
+    "stopNames": [
+      "阳朔",
+      "桂林北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9644.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d995011512b7604175c85804f40e0454a756ef9f8fa45957e86f8996a00f1b8c",
+    "elapsedMinutes": [
+      0,
+      26
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9646",
+    "category": "D",
+    "stopNames": [
+      "桂林",
+      "桂林北",
+      "阳朔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9646.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "099dfb03b053fe0658327f3daf46a9b2ecb1c79d767c3bb9047c4f42ebb70350",
+    "elapsedMinutes": [
+      0,
+      10,
+      39
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9687",
+    "category": "D",
+    "stopNames": [
+      "桂林北",
+      "桂林",
+      "柳州",
+      "来宾北",
+      "贵港",
+      "兴业",
+      "玉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9687.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "07fe14982e3982be72ad9f7bf4270b77c27a7ed76663341f708074c1cb226ba2",
+    "elapsedMinutes": [
+      0,
+      10,
+      82,
+      111,
+      151,
+      187,
+      212
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4721",
+    "category": "G",
+    "stopNames": [
+      "昆明南",
+      "曲靖北",
+      "盘州",
+      "安顺西",
+      "贵阳北",
+      "桂林北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4721.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2ed98265f6181a1a112b2c76e5d43b59d21b30fab7dedee77e1e46cc0a9ce3c5",
+    "elapsedMinutes": [
+      0,
+      37,
+      75,
+      132,
+      164,
+      284
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4722",
+    "category": "G",
+    "stopNames": [
+      "桂林北",
+      "从江",
+      "榕江",
+      "都匀东",
+      "贵定县",
+      "龙洞堡",
+      "贵阳北",
+      "贵安",
+      "安顺西",
+      "富源北",
+      "曲靖北",
+      "昆明南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4722.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "48baa5682232ada069301284c0c1018f595d32a3c3450e30a4e22e4f502983ca",
+    "elapsedMinutes": [
+      0,
+      42,
+      62,
+      91,
+      110,
+      131,
+      154,
+      174,
+      196,
+      279,
+      299,
+      338
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4723",
+    "category": "G",
+    "stopNames": [
+      "桂林北",
+      "从江",
+      "榕江",
+      "都匀东",
+      "贵定县",
+      "龙洞堡",
+      "贵阳北",
+      "贵安",
+      "安顺西",
+      "富源北",
+      "曲靖北",
+      "昆明南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4723.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d6bac1858d84b757d3b0df0caa33540931dd75bc56c7003ca9a6cfb846c04ecb",
+    "elapsedMinutes": [
+      0,
+      42,
+      62,
+      91,
+      110,
+      131,
+      154,
+      174,
+      196,
+      279,
+      299,
+      338
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4724",
+    "category": "G",
+    "stopNames": [
+      "昆明南",
+      "曲靖北",
+      "盘州",
+      "安顺西",
+      "贵阳北",
+      "桂林北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4724.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "576050e609ff7311d017af5f02e5c124cea89d0e3b1c5af2ca7383d3da552cdb",
+    "elapsedMinutes": [
+      0,
+      37,
+      75,
+      132,
+      164,
+      284
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5511",
+    "category": "G",
+    "stopNames": [
+      "桂林北",
+      "阳朔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5511.html",
+    "sourceUpdatedAt": "2026-06-26",
+    "sourceSha256": "a15c028014b3a9d175e84c42f2bd3710ef9590947ab144f0962d38127a56dc77",
+    "elapsedMinutes": [
+      0,
+      23
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5512",
+    "category": "G",
+    "stopNames": [
+      "阳朔",
+      "桂林北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5512.html",
+    "sourceUpdatedAt": "2026-06-26",
+    "sourceSha256": "5707613ca14de69fa16adeeaf8f03d9aae375554245326593096d7b5f25fba4f",
+    "elapsedMinutes": [
+      0,
+      23
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

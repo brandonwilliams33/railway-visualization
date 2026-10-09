@@ -1,0 +1,21 @@
+[
+  {
+    "name": "图木舒克",
+    "city": "图木舒克",
+    "cityId": "xinjiang-tumushuke",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "sourceUrl": "https://www.crecc.com/xinjiang/tumushuke/tumushuke.html",
+    "candidateTrainNumbers": [
+      "K6733",
+      "K6734",
+      "K9775",
+      "K9776",
+      "K9777",
+      "K9778"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c753a080a7b3cac170475cc6f585ce3230e11a533d0710e43178e23fea4fd626",
+    "retrievedAt": "2026-10-09"
+  }
+]

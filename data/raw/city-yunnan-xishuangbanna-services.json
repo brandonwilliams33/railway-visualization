@@ -1,0 +1,46 @@
+[
+  {
+    "trainNumber": "C397",
+    "category": "C",
+    "stopNames": [
+      "西双版纳",
+      "橄榄坝",
+      "勐腊",
+      "磨憨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c397.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a1f8284606a7555554fe74ed3939181d60b03349b1a8a170118d5aac6e98e5c6",
+    "elapsedMinutes": [
+      0,
+      14,
+      66,
+      84
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y776",
+    "category": "OTHER",
+    "stopNames": [
+      "西双版纳",
+      "蒙自"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y776.html",
+    "sourceUpdatedAt": "2026-08-09",
+    "sourceSha256": "6cbb7a56fc7c1efb1689fcd25d592980d9025661273f9afad03716d652799174",
+    "elapsedMinutes": [
+      0,
+      686
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

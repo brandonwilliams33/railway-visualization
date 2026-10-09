@@ -1,0 +1,21 @@
+[
+  {
+    "name": "阿拉尔",
+    "city": "阿拉尔",
+    "cityId": "xinjiang-alaer",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "sourceUrl": "https://www.crecc.com/xinjiang/alaer/alaer.html",
+    "candidateTrainNumbers": [
+      "K6749",
+      "K6750",
+      "K9781",
+      "K9782",
+      "K9783",
+      "K9784"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "24242a3ff5d48526f9a0df4e91b246e645c675fccbc44c3cc1aa4d4348d9dc39",
+    "retrievedAt": "2026-10-09"
+  }
+]

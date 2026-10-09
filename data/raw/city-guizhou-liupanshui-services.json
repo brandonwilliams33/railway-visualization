@@ -1,0 +1,328 @@
+[
+  {
+    "trainNumber": "6081",
+    "category": "OTHER",
+    "stopNames": [
+      "六盘水",
+      "玉舍",
+      "白鸡坡",
+      "都格",
+      "发耳",
+      "营街",
+      "茅草坪",
+      "三家寨",
+      "雨格",
+      "柏果",
+      "月亮田",
+      "盘关",
+      "平田",
+      "花家庄",
+      "沙沱",
+      "红果",
+      "威箐",
+      "小雨谷",
+      "威舍"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6081.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fbcf84330539e675df50bb7797ad8fbddb7a1a2c1097c9e245453a81042dc256",
+    "elapsedMinutes": [
+      0,
+      44,
+      62,
+      78,
+      96,
+      111,
+      128,
+      159,
+      175,
+      217,
+      235,
+      245,
+      258,
+      270,
+      285,
+      298,
+      358,
+      375,
+      424
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6082",
+    "category": "OTHER",
+    "stopNames": [
+      "威舍",
+      "小雨谷",
+      "威箐",
+      "红果",
+      "沙沱",
+      "花家庄",
+      "平田",
+      "盘关",
+      "月亮田",
+      "柏果",
+      "雨格",
+      "三家寨",
+      "茅草坪",
+      "营街",
+      "发耳",
+      "都格",
+      "白鸡坡",
+      "玉舍",
+      "六盘水"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6082.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "684ea9391fff4a6138471f44c99508bb3c3c386f7b6e9e471f0ed7c603f0129e",
+    "elapsedMinutes": [
+      0,
+      54,
+      72,
+      128,
+      145,
+      161,
+      175,
+      189,
+      201,
+      220,
+      272,
+      288,
+      320,
+      337,
+      354,
+      378,
+      397,
+      417,
+      469
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6083",
+    "category": "OTHER",
+    "stopNames": [
+      "威舍",
+      "小雨谷",
+      "威箐",
+      "红果",
+      "沙沱",
+      "花家庄",
+      "平田",
+      "盘关",
+      "月亮田",
+      "柏果",
+      "雨格",
+      "三家寨",
+      "茅草坪",
+      "营街",
+      "发耳",
+      "都格",
+      "白鸡坡",
+      "玉舍",
+      "六盘水"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6083.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9a8098d897068a50a63db0aef00c3acf53e28b3d4a5d8ddb28e87018aff020a1",
+    "elapsedMinutes": [
+      0,
+      54,
+      72,
+      128,
+      145,
+      161,
+      175,
+      189,
+      201,
+      220,
+      272,
+      288,
+      320,
+      337,
+      354,
+      378,
+      397,
+      417,
+      469
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6084",
+    "category": "OTHER",
+    "stopNames": [
+      "六盘水",
+      "玉舍",
+      "白鸡坡",
+      "都格",
+      "发耳",
+      "营街",
+      "茅草坪",
+      "三家寨",
+      "雨格",
+      "柏果",
+      "月亮田",
+      "盘关",
+      "平田",
+      "花家庄",
+      "沙沱",
+      "红果",
+      "威箐",
+      "小雨谷",
+      "威舍"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6084.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "22056a32d3920febf1d54f14d4dcc7b7418370c586b28811e9194b18c6c18d1f",
+    "elapsedMinutes": [
+      0,
+      44,
+      62,
+      78,
+      96,
+      111,
+      128,
+      159,
+      175,
+      217,
+      235,
+      245,
+      258,
+      270,
+      285,
+      298,
+      358,
+      375,
+      424
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C6042",
+    "category": "C",
+    "stopNames": [
+      "六盘水",
+      "长箐",
+      "安顺西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c6042.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "c6f5ac3c476e12e3bdb7c02e6268c4bd889cc7111c0d8beb5d77a53d8754c77e",
+    "elapsedMinutes": [
+      0,
+      25,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D1736",
+    "category": "D",
+    "stopNames": [
+      "六盘水",
+      "六枝南",
+      "安顺西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d1736.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "8d78066f906470258f991f00db410dcf48a3ed48b1ff2cfa16b1039d39834413",
+    "elapsedMinutes": [
+      0,
+      32,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5392",
+    "category": "G",
+    "stopNames": [
+      "盘州",
+      "安顺西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5392.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "c50403a0d1c70869c9d938b825c2b73bc690997ca9aa83cd7afc3846dfd9a379",
+    "elapsedMinutes": [
+      0,
+      55
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9951",
+    "category": "G",
+    "stopNames": [
+      "贵阳北",
+      "盘州",
+      "保田",
+      "兴义南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9951.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "b4007da216a6affe0038b1a0b6871d370f4439e7ccc600d931212e900b65e952",
+    "elapsedMinutes": [
+      0,
+      80,
+      103,
+      121
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9968",
+    "category": "G",
+    "stopNames": [
+      "兴义南",
+      "保田",
+      "盘州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9968.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "73e7d1ecb5996e43b657e51be22a4f3ae11c86e3988623b4af26183b543eea4e",
+    "elapsedMinutes": [
+      0,
+      16,
+      39
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

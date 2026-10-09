@@ -1,0 +1,424 @@
+[
+  {
+    "trainNumber": "C991",
+    "category": "C",
+    "stopNames": [
+      "博乐",
+      "双河市",
+      "精河",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c991.html",
+    "sourceUpdatedAt": "2026-07-02",
+    "sourceSha256": "109f6c779e566e31569093307fda1322d42c8a2da3d97681630c3268675997b2",
+    "elapsedMinutes": [
+      0,
+      22,
+      71,
+      86,
+      218
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C992",
+    "category": "C",
+    "stopNames": [
+      "伊宁",
+      "精河南",
+      "精河",
+      "双河市",
+      "博乐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c992.html",
+    "sourceUpdatedAt": "2026-07-02",
+    "sourceSha256": "e393338890a3caeabe8281d30a27fb2f8146376a8196321f4e7bbf3ea6225d37",
+    "elapsedMinutes": [
+      0,
+      114,
+      127,
+      180,
+      210
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C993",
+    "category": "C",
+    "stopNames": [
+      "伊宁",
+      "精河南",
+      "精河",
+      "双河市",
+      "博乐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c993.html",
+    "sourceUpdatedAt": "2026-07-02",
+    "sourceSha256": "9cf1cb7201645f9fd0551632aff74ff30103c3e31ad07b2900cc005e882a7c77",
+    "elapsedMinutes": [
+      0,
+      114,
+      127,
+      180,
+      210
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C994",
+    "category": "C",
+    "stopNames": [
+      "博乐",
+      "双河市",
+      "精河",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c994.html",
+    "sourceUpdatedAt": "2026-07-02",
+    "sourceSha256": "6e360fe56c3564f796db5c381625a203d5efb1ac606661d81b965ff9419c4555",
+    "elapsedMinutes": [
+      0,
+      22,
+      71,
+      86,
+      218
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6709",
+    "category": "K",
+    "stopNames": [
+      "奎屯",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6709.html",
+    "sourceUpdatedAt": "2026-05-30",
+    "sourceSha256": "85817420704cf2953e0a01713d06185410c9df4e1968fb87c67d65e82874165b",
+    "elapsedMinutes": [
+      0,
+      140,
+      373
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6710",
+    "category": "K",
+    "stopNames": [
+      "伊宁",
+      "精河南",
+      "奎屯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6710.html",
+    "sourceUpdatedAt": "2026-05-30",
+    "sourceSha256": "fa15db04685766e6684318ba6453668f469c76408e31282126f094e80d8f4b84",
+    "elapsedMinutes": [
+      0,
+      177,
+      300
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y804",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "精河南",
+      "尼勒克",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y804.html",
+    "sourceUpdatedAt": "2026-09-08",
+    "sourceSha256": "e1051b7f828015343483e148afb32d34235eac900db4b38244c7fdeee5ec3049",
+    "elapsedMinutes": [
+      0,
+      450,
+      574,
+      716,
+      791
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y805",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "精河南",
+      "尼勒克",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y805.html",
+    "sourceUpdatedAt": "2026-09-08",
+    "sourceSha256": "2db1d95e125f3d574e85e0434f13904f1015051c7a87019159b83b3e36331877",
+    "elapsedMinutes": [
+      0,
+      450,
+      574,
+      716,
+      791
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y866",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "精河南",
+      "尼勒克",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y866.html",
+    "sourceUpdatedAt": "2026-07-07",
+    "sourceSha256": "558b9ec8dae1d66bf48511b4d57709769b1eb299fbad2c8b9b76c9a4a8a59877",
+    "elapsedMinutes": [
+      0,
+      456,
+      580,
+      701,
+      762
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y902",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "精河南",
+      "奎屯",
+      "北屯市",
+      "阿勒泰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y902.html",
+    "sourceUpdatedAt": "2026-08-16",
+    "sourceSha256": "c97ae37acd335fc4bc018060a900ce193fab2e10cbf017ae3aea9d4579c8ba14",
+    "elapsedMinutes": [
+      0,
+      197,
+      305,
+      682,
+      750
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y903",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "精河南",
+      "奎屯",
+      "北屯市",
+      "阿勒泰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y903.html",
+    "sourceUpdatedAt": "2026-08-16",
+    "sourceSha256": "372b50fddc34448d396ec115bb8733ae8c0e8d1d9dbe26154125f811e2257dd4",
+    "elapsedMinutes": [
+      0,
+      197,
+      305,
+      682,
+      750
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y912",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y912.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "8ab90bd54c83ac12b86b7ccb16021fa1831dec740311cec51f1853ab7a4621b6",
+    "elapsedMinutes": [
+      0,
+      427,
+      559,
+      795
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y913",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y913.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "3dd2fa37fc550a83d8984d24b1d6c0be744cf51e968bd8dd55679fd225d85646",
+    "elapsedMinutes": [
+      0,
+      427,
+      559,
+      795
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y926",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y926.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "c9fce2a883879af18da02182979ed6545891b96a7112e29d99c38cc3d15a784d",
+    "elapsedMinutes": [
+      0,
+      456,
+      580,
+      762
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y927",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y927.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "168bf3b84e4a178b0dc2c5a60a365c6414b9bd0beb3b31b522ca9337f5a4d53d",
+    "elapsedMinutes": [
+      0,
+      456,
+      580,
+      762
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y982",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y982.html",
+    "sourceUpdatedAt": "2026-07-17",
+    "sourceSha256": "310aebab9bd2fe1eeca930b0c16d590ca102216a9566f330cf362144afadd514",
+    "elapsedMinutes": [
+      0,
+      456,
+      580,
+      762
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y983",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y983.html",
+    "sourceUpdatedAt": "2026-07-17",
+    "sourceSha256": "158aa94653feb72092f3220060ad242ffd51f25c75a14baceb7796374f80fc8a",
+    "elapsedMinutes": [
+      0,
+      456,
+      580,
+      762
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

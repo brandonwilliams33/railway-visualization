@@ -1,0 +1,82 @@
+[
+  {
+    "trainNumber": "C4199",
+    "category": "C",
+    "stopNames": [
+      "奎屯",
+      "克拉玛依"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4199.html",
+    "sourceUpdatedAt": "2026-05-30",
+    "sourceSha256": "f5ae05c493de54cacc93251de5b55a3355ab0afcdbcd23563bedb2654d133a64",
+    "elapsedMinutes": [
+      0,
+      86
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4200",
+    "category": "C",
+    "stopNames": [
+      "克拉玛依",
+      "奎屯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4200.html",
+    "sourceUpdatedAt": "2026-05-30",
+    "sourceSha256": "7810cd24dc5f78ffd0bc7b2069bb940096682f1f4071f68c4c94d89e616a8830",
+    "elapsedMinutes": [
+      0,
+      70
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4345",
+    "category": "C",
+    "stopNames": [
+      "奎屯",
+      "克拉玛依"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4345.html",
+    "sourceUpdatedAt": "2026-05-30",
+    "sourceSha256": "5c3a23294b10691c54f0faad3ac14dff741e44c4d370b767b512d274f6a15da1",
+    "elapsedMinutes": [
+      0,
+      68
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4346",
+    "category": "C",
+    "stopNames": [
+      "克拉玛依",
+      "奎屯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4346.html",
+    "sourceUpdatedAt": "2026-05-30",
+    "sourceSha256": "af652956c43c7e786211d0030c822e85c172a03b6992f66b09be1e328c559fc1",
+    "elapsedMinutes": [
+      0,
+      96
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

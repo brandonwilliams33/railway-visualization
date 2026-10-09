@@ -1,0 +1,1072 @@
+[
+  {
+    "trainNumber": "C4381",
+    "category": "C",
+    "stopNames": [
+      "西宁",
+      "德令哈",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4381.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bb95850b03006d26afc04dfadc63d3f33c983aaf1ecc393bae8d94f93fd40754",
+    "elapsedMinutes": [
+      0,
+      199,
+      330
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4382",
+    "category": "C",
+    "stopNames": [
+      "格尔木",
+      "德令哈",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4382.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "892dcc4b6369bbaa8552b74064a69d4679479a4197334de898fd4f2276759210",
+    "elapsedMinutes": [
+      0,
+      123,
+      330
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4383",
+    "category": "C",
+    "stopNames": [
+      "西宁",
+      "德令哈",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4383.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "2f752e724b76aa7fa1144b7974d26f50b7b8e4c4672bd1b666328f4916a0835b",
+    "elapsedMinutes": [
+      0,
+      199,
+      332
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4384",
+    "category": "C",
+    "stopNames": [
+      "格尔木",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4384.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "d359d7c8c3a17b43b24b60934a09dc686f32b7ceca1a3b55bd2c0f53f9462b2b",
+    "elapsedMinutes": [
+      0,
+      351
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C893",
+    "category": "C",
+    "stopNames": [
+      "西宁",
+      "德令哈",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c893.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f28c964eda560d33484964a215ad09c1d7cca044070790df5926293441910ff3",
+    "elapsedMinutes": [
+      0,
+      199,
+      330
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6811",
+    "category": "K",
+    "stopNames": [
+      "西宁",
+      "德令哈",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6811.html",
+    "sourceUpdatedAt": "2025-11-06",
+    "sourceSha256": "4e8361e31ecac99aa5b85255280866fd7cb70b99e742878304a9fcf70d272c68",
+    "elapsedMinutes": [
+      0,
+      286,
+      466
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6812",
+    "category": "K",
+    "stopNames": [
+      "格尔木",
+      "德令哈",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6812.html",
+    "sourceUpdatedAt": "2025-11-06",
+    "sourceSha256": "e28ef794fd8fa8147360a4035ae988c5c0467577e6d99ca23082c2292e385da7",
+    "elapsedMinutes": [
+      0,
+      168,
+      490
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6815",
+    "category": "K",
+    "stopNames": [
+      "西宁",
+      "德令哈",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6815.html",
+    "sourceUpdatedAt": "2026-06-17",
+    "sourceSha256": "8e861af6a23e6dbbd8acaf81cc4de098804958dba1519f2db469515fd84db97c",
+    "elapsedMinutes": [
+      0,
+      286,
+      515
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6816",
+    "category": "K",
+    "stopNames": [
+      "格尔木",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6816.html",
+    "sourceUpdatedAt": "2026-06-17",
+    "sourceSha256": "5f6b199da7979c115873e56cd1dd7d6de66cfbef96367cd1c5bb418997428efc",
+    "elapsedMinutes": [
+      0,
+      600
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6817",
+    "category": "K",
+    "stopNames": [
+      "西宁",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6817.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "2e2f7b19fe34954fae39f7891916dbc214c4b9ba929d7a32436b55ce3620b368",
+    "elapsedMinutes": [
+      0,
+      490
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6818",
+    "category": "K",
+    "stopNames": [
+      "格尔木",
+      "德令哈",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6818.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "a36ed0f08d204ee2afc0a86176b0c5d996a9780cf0e45cc51280f32570a4d3ec",
+    "elapsedMinutes": [
+      0,
+      223,
+      545
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6819",
+    "category": "K",
+    "stopNames": [
+      "西宁",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6819.html",
+    "sourceUpdatedAt": "2026-01-02",
+    "sourceSha256": "93e69bbd7e68dc722dadc27c545c098f734ce9366fcd9e62ae643420579a7960",
+    "elapsedMinutes": [
+      0,
+      485
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6821",
+    "category": "K",
+    "stopNames": [
+      "西宁",
+      "柯柯",
+      "德令哈",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6821.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "49c64214400e03b0ec61e61ac223522b88ba56a03855aac0d57268da46368006",
+    "elapsedMinutes": [
+      0,
+      229,
+      286,
+      466
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6822",
+    "category": "K",
+    "stopNames": [
+      "格尔木",
+      "德令哈",
+      "柯柯",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6822.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "acbfce85e6209e18f3f290288b025fc61c3c09a4cd6c9dfdaeb543b45e8e93b5",
+    "elapsedMinutes": [
+      0,
+      168,
+      227,
+      547
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6824",
+    "category": "K",
+    "stopNames": [
+      "格尔木",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6824.html",
+    "sourceUpdatedAt": "2025-12-26",
+    "sourceSha256": "d2a870b8e625b01a079bc35cbc6d0c97d0dac5c7113abad5cf1299d34447cdeb",
+    "elapsedMinutes": [
+      0,
+      495
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6825",
+    "category": "K",
+    "stopNames": [
+      "西宁",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6825.html",
+    "sourceUpdatedAt": "2026-04-05",
+    "sourceSha256": "df664abfd7f24ac09e32c8276cbc58d10d906bb0fa1daf56646216b250823ba7",
+    "elapsedMinutes": [
+      0,
+      485
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6826",
+    "category": "K",
+    "stopNames": [
+      "格尔木",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6826.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "2143fce7e7371800c952d0e6dc3de440d1bbfe52238f185ccfc541e7791b6fad",
+    "elapsedMinutes": [
+      0,
+      520
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6827",
+    "category": "K",
+    "stopNames": [
+      "西宁",
+      "德令哈",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6827.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "5f01ff573b78280f76dcf3d8b9ee62039576325a365737968462227c144ecaf3",
+    "elapsedMinutes": [
+      0,
+      286,
+      515
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6828",
+    "category": "K",
+    "stopNames": [
+      "格尔木",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6828.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "a9924963fe9c050e229b6ed02ba380de974c2df1db08dc11062c9f1bf85b2adc",
+    "elapsedMinutes": [
+      0,
+      567
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6829",
+    "category": "K",
+    "stopNames": [
+      "西宁",
+      "德令哈",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6829.html",
+    "sourceUpdatedAt": "2026-03-17",
+    "sourceSha256": "ebe65adf23eae9a0665f55cd26fc59532ec3be69725a26e7bbb6994990fc1762",
+    "elapsedMinutes": [
+      0,
+      286,
+      469
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6830",
+    "category": "K",
+    "stopNames": [
+      "格尔木",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6830.html",
+    "sourceUpdatedAt": "2026-03-18",
+    "sourceSha256": "6b8407181780383754d2f40888a1aa78223b793ec4880c83d3a31c87dae0122f",
+    "elapsedMinutes": [
+      0,
+      525
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7601",
+    "category": "K",
+    "stopNames": [
+      "西宁",
+      "柯柯",
+      "德令哈",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7601.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7c82e98d43dde6e2b4f1c3ea05ea6f6883151bf8fe1db9f0ea67c6f90f0a618d",
+    "elapsedMinutes": [
+      0,
+      234,
+      291,
+      490
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7602",
+    "category": "K",
+    "stopNames": [
+      "格尔木",
+      "德令哈",
+      "柯柯",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7602.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "769e2cfc24418b5f6c389bae36fc4fa50486135d998ff782fff6cc80317ec03e",
+    "elapsedMinutes": [
+      0,
+      176,
+      234,
+      492
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y837",
+    "category": "OTHER",
+    "stopNames": [
+      "西宁",
+      "茶卡"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y837.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d5e4cc63b4141c627a7dbd83cffef65ef8e9fb94bb7a7cf3ff43e9916690e776",
+    "elapsedMinutes": [
+      0,
+      263
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y838",
+    "category": "OTHER",
+    "stopNames": [
+      "茶卡",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y838.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "655eab6de01c0dbdd3c23988416b0d9afeb0d92b2652c30be9d6326a42599eea",
+    "elapsedMinutes": [
+      0,
+      310
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y840",
+    "category": "OTHER",
+    "stopNames": [
+      "拉萨",
+      "那曲",
+      "格尔木",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y840.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5e5e09d6358f5f4e3bdc2c9e8bf5832cb37cc525a45f9a65a999c06fbaf4e1cb",
+    "elapsedMinutes": [
+      0,
+      255,
+      848,
+      1300
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y930",
+    "category": "OTHER",
+    "stopNames": [
+      "拉萨",
+      "那曲",
+      "格尔木",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y930.html",
+    "sourceUpdatedAt": "2026-05-31",
+    "sourceSha256": "fb397ce556a76802758d4c1edc1bf2743c90684eee97391d68bc2a401dd9aa37",
+    "elapsedMinutes": [
+      0,
+      234,
+      838,
+      1290
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y969",
+    "category": "OTHER",
+    "stopNames": [
+      "西宁",
+      "茶卡"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y969.html",
+    "sourceUpdatedAt": "2026-08-05",
+    "sourceSha256": "7a83e81dae73a186cd25eab93969f5780dc424fb07c254638cc310b0eddedc98",
+    "elapsedMinutes": [
+      0,
+      263
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z8981",
+    "category": "Z",
+    "stopNames": [
+      "西宁",
+      "德令哈",
+      "格尔木",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z8981.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8b9e0af69bb13cbcdf148f7ea8d22025bd2a806b6b7a9c4d39c5f410570802df",
+    "elapsedMinutes": [
+      0,
+      245,
+      435,
+      1350
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z8982",
+    "category": "Z",
+    "stopNames": [
+      "拉萨",
+      "那曲",
+      "安多",
+      "雁石坪",
+      "沱沱河",
+      "不冻泉",
+      "格尔木",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z8982.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e1f55eda7f1d51bee6735d55a1f27cc72f98fdbe29ae7957e70f92792525ca25",
+    "elapsedMinutes": [
+      0,
+      224,
+      323,
+      457,
+      529,
+      708,
+      843,
+      1231
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z8991",
+    "category": "Z",
+    "stopNames": [
+      "西宁",
+      "格尔木",
+      "不冻泉",
+      "沱沱河",
+      "雁石坪",
+      "安多",
+      "那曲",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z8991.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f30c535c3e72f07693810f6920bad90c2f4121911b4cbf6be5f063417988fa0d",
+    "elapsedMinutes": [
+      0,
+      363,
+      531,
+      706,
+      779,
+      916,
+      998,
+      1228
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z8992",
+    "category": "Z",
+    "stopNames": [
+      "拉萨",
+      "那曲",
+      "格尔木",
+      "德令哈",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z8992.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9fdb44d7b20b30d2d12ed59f98e01862cfe6e069acc7e48e388ddc182c1623f7",
+    "elapsedMinutes": [
+      0,
+      199,
+      887,
+      1043,
+      1305
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9807",
+    "category": "Z",
+    "stopNames": [
+      "西宁",
+      "德令哈",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9807.html",
+    "sourceUpdatedAt": "2026-01-02",
+    "sourceSha256": "3b273ce427eba967d17756be232e25d38cf69175903cd6361df7799544306e3d",
+    "elapsedMinutes": [
+      0,
+      231,
+      430
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9810",
+    "category": "Z",
+    "stopNames": [
+      "拉萨",
+      "格尔木",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9810.html",
+    "sourceUpdatedAt": "2026-08-06",
+    "sourceSha256": "2681709af0314a48abeaab8efdcd6d626ad6e6461a77ac2d2a72c231f8c56700",
+    "elapsedMinutes": [
+      0,
+      898,
+      1308
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9811",
+    "category": "Z",
+    "stopNames": [
+      "西宁",
+      "格尔木",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9811.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "c80cd3112b79351faa3d9b66e2109697baa7bfa05e47d622d5cb8593dbca3c0a",
+    "elapsedMinutes": [
+      0,
+      366,
+      1280
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9812",
+    "category": "Z",
+    "stopNames": [
+      "拉萨",
+      "格尔木",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9812.html",
+    "sourceUpdatedAt": "2026-08-27",
+    "sourceSha256": "f00b803fec70a86b47ac915423ba717495fa52387bec1fcc6ee7f576ec8235ed",
+    "elapsedMinutes": [
+      0,
+      898,
+      1308
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9813",
+    "category": "Z",
+    "stopNames": [
+      "西宁",
+      "格尔木",
+      "不冻泉",
+      "沱沱河",
+      "那曲",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9813.html",
+    "sourceUpdatedAt": "2026-04-02",
+    "sourceSha256": "9b2cbd114f2a0f624702fe300ab2edad9977f2c8b4a1f6b6145cdc70bd4df32b",
+    "elapsedMinutes": [
+      0,
+      393,
+      565,
+      758,
+      1080,
+      1312
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9815",
+    "category": "Z",
+    "stopNames": [
+      "西宁",
+      "格尔木",
+      "那曲",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9815.html",
+    "sourceUpdatedAt": "2026-05-17",
+    "sourceSha256": "fc2a5b65872112f25032fb26708ee599d75577a2571315d827f6682f1cffe653",
+    "elapsedMinutes": [
+      0,
+      360,
+      976,
+      1216
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9816",
+    "category": "Z",
+    "stopNames": [
+      "拉萨",
+      "格尔木",
+      "德令哈",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9816.html",
+    "sourceUpdatedAt": "2026-05-19",
+    "sourceSha256": "cb8f37ff1b038d8e596e188753ea357b778fafa49bfd5485a1ba4d6d77f7efde",
+    "elapsedMinutes": [
+      0,
+      890,
+      1046,
+      1432
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9817",
+    "category": "Z",
+    "stopNames": [
+      "西宁",
+      "格尔木",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9817.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "84150a62c686c2feab672da2a1e24bf8a3c4c8eba03093a875a2ce7a10bf9640",
+    "elapsedMinutes": [
+      0,
+      366,
+      1280
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9818",
+    "category": "Z",
+    "stopNames": [
+      "拉萨",
+      "格尔木",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9818.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "02a1a0133d49a1fba045dd1feea52d1e2476f6b31493a8ffba11d7f4061ffbab",
+    "elapsedMinutes": [
+      0,
+      898,
+      1308
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9819",
+    "category": "Z",
+    "stopNames": [
+      "西宁",
+      "格尔木",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9819.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "aec9be9c825b158740db3aa840d6b11a6c8365084fc6453cdfe2a228b5b4cd6f",
+    "elapsedMinutes": [
+      0,
+      366,
+      1280
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9820",
+    "category": "Z",
+    "stopNames": [
+      "拉萨",
+      "格尔木",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9820.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "bdd6d442a4f91caa9ca97164a2a95306073c3f20ce85c3c28e286424a7661ca1",
+    "elapsedMinutes": [
+      0,
+      898,
+      1308
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9821",
+    "category": "Z",
+    "stopNames": [
+      "西宁",
+      "德令哈",
+      "格尔木",
+      "那曲",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9821.html",
+    "sourceUpdatedAt": "2026-08-02",
+    "sourceSha256": "9aa687568fb19925abd5c311d7435bb763875a71fbad1cc67f6ca935d001691e",
+    "elapsedMinutes": [
+      0,
+      225,
+      375,
+      1006,
+      1219
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9822",
+    "category": "Z",
+    "stopNames": [
+      "拉萨",
+      "格尔木",
+      "德令哈",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9822.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3d2d14464653014bcae719acc41dd7b683c03083676d6a09e19ed06c64a42ded",
+    "elapsedMinutes": [
+      0,
+      875,
+      1031,
+      1412
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9823",
+    "category": "Z",
+    "stopNames": [
+      "西宁",
+      "德令哈",
+      "格尔木",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9823.html",
+    "sourceUpdatedAt": "2026-08-02",
+    "sourceSha256": "3157209e89ef7bb815a3807e00ca298e9a1b4d54046bc3a88171861f2ae35c92",
+    "elapsedMinutes": [
+      0,
+      226,
+      373,
+      1182
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9825",
+    "category": "Z",
+    "stopNames": [
+      "西宁",
+      "格尔木",
+      "安多",
+      "那曲",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9825.html",
+    "sourceUpdatedAt": "2026-08-12",
+    "sourceSha256": "a32c70071df79849f4b3e2226b66d8f996a4eee6dea1620c7f8034fca6ea0607",
+    "elapsedMinutes": [
+      0,
+      363,
+      918,
+      998,
+      1208
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

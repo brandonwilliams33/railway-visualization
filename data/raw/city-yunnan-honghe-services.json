@@ -1,0 +1,22 @@
+[
+  {
+    "trainNumber": "Y777",
+    "category": "OTHER",
+    "stopNames": [
+      "西双版纳",
+      "蒙自"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y777.html",
+    "sourceUpdatedAt": "2026-08-09",
+    "sourceSha256": "ab5fe004b749ee016e844b8e9a151d515a26c88f4a6d4ee83ed3b4612c06a20e",
+    "elapsedMinutes": [
+      0,
+      686
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

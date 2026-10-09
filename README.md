@@ -2,13 +2,11 @@
 
 铁路客运直达网络的静态网站。React + TypeScript strict + Vite + Tailwind + Leaflet；可部署到 GitHub Pages，无后端、API key 或运行时列车查询。
 
-[在线体验](https://brandonwilliams33.github.io/railway-visualization/)
-
 从已开放城市的客运车站出发，探索有公开客运服务依据的直达车站与铁路走廊。
 
-| 独立车站选择 | 广州南出发网络 | 手机布局 |
+| 独立车站选择 | 南宁东出发网络 | 手机布局 |
 | --- | --- | --- |
-| ![广州的独立客运车站](docs/screenshots/preview-expanded-city.png) | ![广州南站直达网络](docs/screenshots/preview-expanded-network.png) | ![手机端客运网络](docs/screenshots/preview-expanded-mobile.png) |
+| ![南宁的独立客运车站](docs/screenshots/preview-expanded-city.jpg) | ![南宁东站直达网络](docs/screenshots/preview-expanded-network.jpg) | ![手机端客运网络](docs/screenshots/preview-expanded-mobile.jpg) |
 
 ## 本地运行
 
@@ -51,11 +49,13 @@ npm run data:build
 
 ## 扩展范围与数据边界
 
-开放 201 城市、1,873 个独立出发站；接受 15,492 个服务，使用 2,457 个有来源坐标的车站。135,799 个已定位停站区间都有连续绘图路径，缺失 0。尚有 54 个目的站待坐标核验、118 个目录入口待核验；完整事实保留，不猜坐标、不开放空入口。
+开放 276 城市、2,446 个独立出发站；接受 17,365 个服务，使用 2,765 个有来源坐标的车站。146,031 个已定位停站区间都有连续绘图路径，缺失 0。尚有 12 个国内目的站待坐标核验、161 个目录入口待核验；完整事实保留，不猜坐标、不开放空入口。
 
-本轮完成广东21个、重庆1个、四川20个、陕西10个源目录城市/行政单位的采集。广东开放200个独立入口、重庆78个、四川181个、陕西110个；目录完成不等于官方现行车次已穷尽。逐市清单见 [扩展进度](docs/EXPANSION-PROGRESS.md)，后续步骤见 [接班说明](HANDOFF.md)。
+本轮完成广西14、云南14、贵州9、甘肃12、宁夏5、青海4、新疆20个源目录城市/行政单位的采集，七份省级采集审计的 failedCities 均为空。相比上一交付新增75个城市、573个独立出发站。目录覆盖不等于官方全部现行车次已穷尽。逐市清单见 [扩展进度](docs/EXPANSION-PROGRESS.md)，后续步骤见 [接班说明](HANDOFF.md)。
 
 庆盛与南沙北、新塘与广州新塘是官方更名的同一车站，已统一曾用名检索；新塘南及其他不同车站均保留独立 ID，不合并站点。 更名证据见 [广州交通部门公告](https://jtj.gz.gov.cn/xwdt/gzdt/content/post_10483759.html)。
+
+中老跨境车次保留完整停站事实；本轮地图收录中国境内部分，已确认的老挝站与国内待定位站分开审计，不能把同名海外站连到国内站。
 
 页面不完整的时刻源单独保存哈希与排除原因；未取得完整停站表的候选不能制造直达关系。第三方快照不保证当天开行。
 
@@ -64,13 +64,13 @@ npm run data:build
 `data/raw/jiangsu-station-index.json` 保留江苏底稿；新增城市使用 `city-*-station-index.json` 和 `city-*-services.json`，并保存 URL、源日期及页面哈希。完整服务事实在城市间复用，出发站登记自动生成城市与站点入口。坐标只接受已核验的独立车站，不能用城市中心代替。
 
 ```sh
-python3 scripts/expandProvinces.py guangxi:广西
+python3 scripts/expandProvinces.py neimenggu:内蒙古
 npm run data:build
 npm test
 npm run build
 ```
 
-当前广州还有发布隔离，先遵循 HANDOFF.md 的核验与解锁步骤，再构建。若有未定位站点，先用 `resolveStationCoordinates.py` 补坐标；`verifyCoordinateCandidates.py` 仅把英文坐标表当候选区域，再通过原始 OSM 对象上的中文站名验证；`acquireWikidataCoordinates.py` 配合明确的同名消歧义登记补充高精度铁路车站坐标。采集与坐标步骤需要联网，已提交快照的构建完全离线。
+下一批从内蒙古开始，先遵循 HANDOFF.md 的核验与续传步骤。若有未定位站点，先用 `resolveStationCoordinates.py` 补坐标；`verifyCoordinateCandidates.py` 仅把英文坐标表当候选区域，再通过原始 OSM 对象上的中文站名验证；`acquireWikidataCoordinates.py` 配合明确的同名消歧义登记补充高精度铁路车站坐标。采集与坐标步骤需要联网，已提交快照的构建完全离线。
 
 ## 来源与许可
 

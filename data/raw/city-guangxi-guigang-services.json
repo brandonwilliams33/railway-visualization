@@ -1,0 +1,86 @@
+[
+  {
+    "trainNumber": "D8494",
+    "category": "D",
+    "stopNames": [
+      "玉林",
+      "兴业",
+      "贵港"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8494.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "d710b5b86a24cece76c6be765c91b648b6b0424214dfdce692b31cea31f57ac7",
+    "elapsedMinutes": [
+      0,
+      21,
+      56
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8497",
+    "category": "D",
+    "stopNames": [
+      "贵港",
+      "兴业",
+      "玉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8497.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "6500c15c87dc29a4d8a439eebaa664d033309dee1db6d362a84ece3bdb59ecb8",
+    "elapsedMinutes": [
+      0,
+      32,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T8721",
+    "category": "T",
+    "stopNames": [
+      "贵港",
+      "玉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t8721.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "686d0b136f5f90262c3e86eec4fff20920357fca84a0c91c4edda152f60eb62e",
+    "elapsedMinutes": [
+      0,
+      64
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T8724",
+    "category": "T",
+    "stopNames": [
+      "玉林",
+      "贵港"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t8724.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "63369e700c1c1ff0c431024aaa0fcd9b4ffd17cc7a476de6fdc1d05055fb126f",
+    "elapsedMinutes": [
+      0,
+      60
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

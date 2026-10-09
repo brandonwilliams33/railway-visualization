@@ -1,0 +1,74 @@
+[
+  {
+    "trainNumber": "7519",
+    "category": "OTHER",
+    "stopNames": [
+      "中卫",
+      "沙坡头",
+      "干塘",
+      "谭家井",
+      "黑冲滩",
+      "土门子",
+      "园墩",
+      "上腰墩",
+      "武威南",
+      "武威"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7519.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5f13ca4017c0396b5a2ac33c1b3cbaa49bd339cbb3b5c46c66c50ad354d13f90",
+    "elapsedMinutes": [
+      0,
+      30,
+      102,
+      196,
+      216,
+      241,
+      256,
+      273,
+      291,
+      310
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7520",
+    "category": "OTHER",
+    "stopNames": [
+      "武威",
+      "武威南",
+      "上腰墩",
+      "园墩",
+      "土门子",
+      "黑冲滩",
+      "谭家井",
+      "干塘",
+      "沙坡头",
+      "中卫"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7520.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b5f9fb97973fa7625a74dd0c5f30964de64ea160d82d6b2dbcb86b15054e3094",
+    "elapsedMinutes": [
+      0,
+      15,
+      39,
+      55,
+      68,
+      90,
+      111,
+      230,
+      297,
+      329
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

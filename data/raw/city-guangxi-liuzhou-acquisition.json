@@ -1,0 +1,18 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "柳州",
+  "stationCount": 5,
+  "candidateServices": 439,
+  "acquiredAdditionalServices": 14,
+  "failedPages": [
+    {
+      "trainNumber": "D9687",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    },
+    {
+      "trainNumber": "K9320",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    }
+  ],
+  "stationIssues": []
+}

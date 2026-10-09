@@ -1,0 +1,42 @@
+[
+  {
+    "trainNumber": "C590",
+    "category": "C",
+    "stopNames": [
+      "曲靖",
+      "宣威"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c590.html",
+    "sourceUpdatedAt": "2026-08-16",
+    "sourceSha256": "e189e08bd47333d6a960255a1f725a6f0441ce4b5ab2527d76228dde3756027f",
+    "elapsedMinutes": [
+      0,
+      42
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C909",
+    "category": "C",
+    "stopNames": [
+      "宣威",
+      "曲靖"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c909.html",
+    "sourceUpdatedAt": "2026-08-16",
+    "sourceSha256": "a5cab8f8d66b0332b4cbbd5e7debc1453ff9b7524d1ae3bcdb1e10acf92eec67",
+    "elapsedMinutes": [
+      0,
+      41
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

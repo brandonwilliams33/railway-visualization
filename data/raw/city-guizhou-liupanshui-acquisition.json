@@ -1,0 +1,15 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "六盘水",
+  "stationCount": 33,
+  "candidateServices": 344,
+  "acquiredAdditionalServices": 9,
+  "failedPages": [],
+  "stationIssues": [
+    "六枝",
+    "关寨",
+    "松河",
+    "滥坝",
+    "茨冲"
+  ]
+}

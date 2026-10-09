@@ -1,0 +1,22 @@
+[
+  {
+    "trainNumber": "Y816",
+    "category": "OTHER",
+    "stopNames": [
+      "阿勒泰",
+      "北屯市"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y816.html",
+    "sourceUpdatedAt": "2026-09-02",
+    "sourceSha256": "d078b7aee5bb6200f5b70e43c0a79c480acbe91dbec0cf5f685ac6a575bae193",
+    "elapsedMinutes": [
+      0,
+      45
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

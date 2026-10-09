@@ -1,0 +1,177 @@
+[
+  {
+    "name": "固原",
+    "city": "固原",
+    "cityId": "ningxia-guyuan",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "sourceUrl": "https://www.crecc.com/ningxia/guyuan/guyuan.html",
+    "candidateTrainNumbers": [
+      "7511",
+      "7512",
+      "7513",
+      "7514",
+      "K1085",
+      "K1086",
+      "K1087",
+      "K1088",
+      "K1295",
+      "K1296",
+      "K1297",
+      "K1298",
+      "K359",
+      "K360",
+      "K361",
+      "K362",
+      "K4075",
+      "K4076",
+      "K4077",
+      "K4078",
+      "K625",
+      "K626",
+      "K627",
+      "K628",
+      "K9663",
+      "K9664"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4b573f47bbda76bf37ca670f39107b9f3a10ed78f55362717f00535ecc371a0c",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "七营",
+    "city": "固原",
+    "cityId": "ningxia-guyuan",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "sourceUrl": "https://www.crecc.com/ningxia/guyuan/qiying.html",
+    "candidateTrainNumbers": [
+      "7511",
+      "7512",
+      "7513",
+      "7514"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "dc0e86e6019a529b3614abce0b9a5f6f1e50585446aefa1c2d0b52985b50a7d4",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "三关口",
+    "city": "固原",
+    "cityId": "ningxia-guyuan",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "sourceUrl": "https://www.crecc.com/ningxia/guyuan/sanguankou.html",
+    "candidateTrainNumbers": [
+      "7511",
+      "7512",
+      "7513",
+      "7514"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "62888a36cb26110f3c9abd05139813869e610a68f8c4346bc3d609de3d47394c",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "三营",
+    "city": "固原",
+    "cityId": "ningxia-guyuan",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "sourceUrl": "https://www.crecc.com/ningxia/guyuan/sanying.html",
+    "candidateTrainNumbers": [
+      "7511",
+      "7512",
+      "7513",
+      "7514"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "30cc942327f8fe50dfddf9ab12d76ec94c68bfc75169c26c6d99a3571b4ee081",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "二营",
+    "city": "固原",
+    "cityId": "ningxia-guyuan",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "sourceUrl": "https://www.crecc.com/ningxia/guyuan/erying.html",
+    "candidateTrainNumbers": [
+      "7511",
+      "7512",
+      "7513",
+      "7514"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c7cfbf1e278ed782579c3fe0d78b3ef6143dd2ddf674cdc038d880c4ba14ab88",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "六盘山",
+    "city": "固原",
+    "cityId": "ningxia-guyuan",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "sourceUrl": "https://www.crecc.com/ningxia/guyuan/liupanshan.html",
+    "candidateTrainNumbers": [
+      "7511",
+      "7512",
+      "7513",
+      "7514"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d0f7a998d33707998153f73a7847344c8ebdc206a45cec36e669a0df575acf39",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "彭阳",
+    "city": "固原",
+    "cityId": "ningxia-guyuan",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "sourceUrl": "https://www.crecc.com/ningxia/guyuan/pengyang.html",
+    "candidateTrainNumbers": [
+      "7511",
+      "7512",
+      "7513",
+      "7514"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c7ff9ad982ef93185507259d9cde9bc45b239dd847ed654779aef9f6ab325c16",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "沈家河",
+    "city": "固原",
+    "cityId": "ningxia-guyuan",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "sourceUrl": "https://www.crecc.com/ningxia/guyuan/shenjiahe.html",
+    "candidateTrainNumbers": [
+      "7511",
+      "7512",
+      "7513",
+      "7514"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2ddeca2fa47c74dbcbc94e07d327f9b9c09d8546ce196f1459c514a4c0ec0662",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "褚家湾",
+    "city": "固原",
+    "cityId": "ningxia-guyuan",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "sourceUrl": "https://www.crecc.com/ningxia/guyuan/zhujiawan.html",
+    "candidateTrainNumbers": [
+      "7511",
+      "7512",
+      "7513",
+      "7514"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "23044c7842101ab6bea6fc65d060313ee2b99e81f7fbe5ae8bcefa6298651d39",
+    "retrievedAt": "2026-10-09"
+  }
+]

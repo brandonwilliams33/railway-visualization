@@ -1,0 +1,130 @@
+[
+  {
+    "trainNumber": "T4379",
+    "category": "T",
+    "stopNames": [
+      "喀什",
+      "英吉沙",
+      "莎车",
+      "泽普",
+      "皮山",
+      "和田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t4379.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f0e053156de92aaaaec73aeb727486b674c04ab23758cb1451f23995bff1264e",
+    "elapsedMinutes": [
+      0,
+      40,
+      119,
+      136,
+      237,
+      369
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T4380",
+    "category": "T",
+    "stopNames": [
+      "和田",
+      "墨玉",
+      "昆玉",
+      "皮山",
+      "泽普",
+      "莎车",
+      "英吉沙",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t4380.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8cb0cc77c718bff7e5ad34f40fe8e01b61df00d41effd4ffd4bca081fb00693b",
+    "elapsedMinutes": [
+      0,
+      17,
+      46,
+      98,
+      187,
+      204,
+      272,
+      321
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y646",
+    "category": "OTHER",
+    "stopNames": [
+      "和田",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y646.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d533b46f82f68e8b3513f43431e90bbdaeb9ce4f28a6e18ed3c6d8478c07ff09",
+    "elapsedMinutes": [
+      0,
+      420
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z6539",
+    "category": "Z",
+    "stopNames": [
+      "喀什",
+      "莎车",
+      "叶城",
+      "和田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z6539.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0ef5e8119535b36ed7aba4c9215bf4caaf10e1f224ad97af0221512f8cc1d35a",
+    "elapsedMinutes": [
+      0,
+      85,
+      117,
+      240
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z6540",
+    "category": "Z",
+    "stopNames": [
+      "和田",
+      "叶城",
+      "莎车",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z6540.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "826741022117769b36427532348e70f1ffbfc345182dd5270b91bc48404feb43",
+    "elapsedMinutes": [
+      0,
+      112,
+      144,
+      234
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

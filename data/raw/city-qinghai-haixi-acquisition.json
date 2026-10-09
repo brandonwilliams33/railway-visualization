@@ -1,0 +1,13 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "海西",
+  "stationCount": 12,
+  "candidateServices": 87,
+  "acquiredAdditionalServices": 47,
+  "failedPages": [],
+  "stationIssues": [
+    "乌图美仁",
+    "天棚",
+    "花土沟"
+  ]
+}

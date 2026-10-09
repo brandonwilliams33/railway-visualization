@@ -1,0 +1,34 @@
+[
+  {
+    "name": "昆玉",
+    "city": "昆玉",
+    "cityId": "xinjiang-kunyu",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "sourceUrl": "https://www.crecc.com/xinjiang/kunyu/kunyu.html",
+    "candidateTrainNumbers": [
+      "7555",
+      "7556",
+      "7557",
+      "7558",
+      "K315",
+      "K318",
+      "K6751",
+      "K6754",
+      "K9717",
+      "K9718",
+      "K9719",
+      "K9720",
+      "K9785",
+      "K9786",
+      "K9787",
+      "K9788",
+      "T4380",
+      "T9555",
+      "T9558"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b7ee10f41acfe4a35856fbc384a71f770493a8d7fa53d9d433a5a8b8b94443d3",
+    "retrievedAt": "2026-10-09"
+  }
+]

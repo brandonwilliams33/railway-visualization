@@ -1,0 +1,420 @@
+[
+  {
+    "trainNumber": "D3564",
+    "category": "D",
+    "stopNames": [
+      "梧州南",
+      "藤县",
+      "平南南",
+      "桂平",
+      "贵港",
+      "来宾北",
+      "柳州",
+      "鹿寨北",
+      "桂林",
+      "桂林北",
+      "都匀东",
+      "龙里北",
+      "贵阳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d3564.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5324316ce1cdd1f35bf25fa604270d32a5c6c2043394fc0b5c6c2dddeeedf6c5",
+    "elapsedMinutes": [
+      0,
+      10,
+      31,
+      47,
+      67,
+      104,
+      132,
+      162,
+      202,
+      214,
+      315,
+      344,
+      372
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D3567",
+    "category": "D",
+    "stopNames": [
+      "贵阳北",
+      "榕江",
+      "从江",
+      "三江南",
+      "桂林北",
+      "桂林",
+      "永福南",
+      "鹿寨北",
+      "柳州",
+      "来宾北",
+      "贵港",
+      "桂平",
+      "平南南",
+      "藤县",
+      "梧州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d3567.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "25cd132fcf868fd7132b2bd5a8af30cfcf4e76771259c73fcc61433e78b38b0e",
+    "elapsedMinutes": [
+      0,
+      70,
+      93,
+      114,
+      163,
+      177,
+      199,
+      222,
+      262,
+      291,
+      328,
+      349,
+      364,
+      385,
+      404
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8204",
+    "category": "D",
+    "stopNames": [
+      "桂林北",
+      "三江南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8204.html",
+    "sourceUpdatedAt": "2026-07-02",
+    "sourceSha256": "074303662ff908cb648b8184bff2a56392f28574aface1d72da33c7792090368",
+    "elapsedMinutes": [
+      0,
+      35
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8252",
+    "category": "D",
+    "stopNames": [
+      "桂林北",
+      "三江南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8252.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "456a484c38601cd1efaabf11375bf8407917bbf20a0ad3fe4aaf0dc7566d35e3",
+    "elapsedMinutes": [
+      0,
+      35
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8435",
+    "category": "D",
+    "stopNames": [
+      "桂林北",
+      "桂林",
+      "鹿寨北",
+      "柳州",
+      "贵港",
+      "桂平",
+      "藤县",
+      "梧州南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8435.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "afe9692786cc6e5bd6c7ddb31d900a517c215ff9b6405a1ead207c8bd42a8d36",
+    "elapsedMinutes": [
+      0,
+      10,
+      54,
+      84,
+      145,
+      166,
+      196,
+      210
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8436",
+    "category": "D",
+    "stopNames": [
+      "梧州南",
+      "藤县",
+      "平南南",
+      "桂平",
+      "贵港",
+      "来宾北",
+      "柳州",
+      "鹿寨北",
+      "永福南",
+      "桂林",
+      "桂林北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8436.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3c825c1fd9002a22e4d3d794b3de41a9a0926f0bcfb5c2ab96f2254814f940fb",
+    "elapsedMinutes": [
+      0,
+      11,
+      36,
+      52,
+      73,
+      109,
+      137,
+      169,
+      194,
+      216,
+      229
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9674",
+    "category": "D",
+    "stopNames": [
+      "梧州南",
+      "藤县",
+      "平南南",
+      "桂平",
+      "贵港",
+      "来宾北",
+      "柳州",
+      "桂林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9674.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1a8460570088c346e7b012d88f1d205eb426f7b57f06e3a29d49f5d3324ed8f3",
+    "elapsedMinutes": [
+      0,
+      11,
+      38,
+      54,
+      79,
+      115,
+      147,
+      211
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9681",
+    "category": "D",
+    "stopNames": [
+      "桂林北",
+      "桂林",
+      "永福南",
+      "鹿寨北",
+      "柳州",
+      "来宾北",
+      "贵港",
+      "兴业",
+      "玉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9681.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "705e0fe2800081147c75c022f81c97876b93a9ecf5a85a22a309693d7eb01763",
+    "elapsedMinutes": [
+      0,
+      10,
+      32,
+      55,
+      85,
+      114,
+      155,
+      191,
+      215
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9682",
+    "category": "D",
+    "stopNames": [
+      "玉林",
+      "兴业",
+      "贵港",
+      "柳州",
+      "鹿寨北",
+      "桂林",
+      "桂林北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9682.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "396e2a0a2fb6e97a1598b84fdfae276083981712479df46df5d9a6cd0e96461d",
+    "elapsedMinutes": [
+      0,
+      21,
+      57,
+      123,
+      153,
+      193,
+      208
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9683",
+    "category": "D",
+    "stopNames": [
+      "桂林北",
+      "桂林",
+      "柳州",
+      "来宾北",
+      "贵港",
+      "兴业",
+      "玉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9683.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3dd35ffceb0e1dec6bf37cb2e74bafc7f7afa4fc808d942ee734e32c1da69730",
+    "elapsedMinutes": [
+      0,
+      10,
+      72,
+      101,
+      141,
+      176,
+      201
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9684",
+    "category": "D",
+    "stopNames": [
+      "玉林",
+      "贵港",
+      "来宾北",
+      "柳州",
+      "桂林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9684.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1fb23afa8acebbdc8454abe9afe85248f0a7858953535abc5ea8ad50bf2d7209",
+    "elapsedMinutes": [
+      0,
+      50,
+      91,
+      119,
+      183
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9328",
+    "category": "K",
+    "stopNames": [
+      "柳州",
+      "融水",
+      "融安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9328.html",
+    "sourceUpdatedAt": "2026-05-06",
+    "sourceSha256": "33921032fb3bb54c49afd1e7b5a62949ec275d25c99c438a21c93adcbdd210b4",
+    "elapsedMinutes": [
+      0,
+      114,
+      140
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T8727",
+    "category": "T",
+    "stopNames": [
+      "融安",
+      "融水",
+      "罗城",
+      "柳州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t8727.html",
+    "sourceUpdatedAt": "2026-06-08",
+    "sourceSha256": "099dbca5e24853db6d5ecbf99c37a5f96b986f564fce0dd483a2a6758eddccb3",
+    "elapsedMinutes": [
+      0,
+      20,
+      49,
+      122
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T8729",
+    "category": "T",
+    "stopNames": [
+      "柳州",
+      "宜州",
+      "金城江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t8729.html",
+    "sourceUpdatedAt": "2026-06-08",
+    "sourceSha256": "a36092b3e91ca084d94ad055edc694fd17015bab158747e8d95321595c33abee",
+    "elapsedMinutes": [
+      0,
+      63,
+      121
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

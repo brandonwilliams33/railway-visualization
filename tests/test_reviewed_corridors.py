@@ -13,7 +13,7 @@ class ReviewedCorridorTests(unittest.TestCase):
         cls.points={s['name']:[s['longitude'],s['latitude']] for s in json.loads((ROOT/'data/raw/stations.json').read_text())}
 
     def test_remote_gaps_follow_connected_corridors_without_long_detours(self):
-        for origin,destination in [('牙克石','齐齐哈尔'),('达州','梁平'),('武威','中卫'),('南博山','莱芜东'),('南峧','黎城'),('黎城','微子镇'),('依兰','宾州'),('丽江','楚雄')]:
+        for origin,destination in [('牙克石','齐齐哈尔'),('达州','梁平'),('武威','中卫'),('南博山','莱芜东'),('南峧','黎城'),('黎城','微子镇'),('依兰','宾州'),('丽江','楚雄'),('梅花山','草海'),('草海','迤那'),('永平县','蒲缥'),('酒泉','金塔'),('张家川','天水'),('白芨沟','大武口')]:
             with self.subTest(origin=origin,destination=destination):
                 a,b=self.points[origin],self.points[destination]
                 route=self.router.route(a,b)

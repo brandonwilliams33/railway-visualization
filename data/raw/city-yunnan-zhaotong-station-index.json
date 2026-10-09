@@ -1,0 +1,478 @@
+[
+  {
+    "name": "昭通",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/zhaotong.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636",
+      "5645",
+      "5646",
+      "5647",
+      "5648",
+      "K4953",
+      "K6045",
+      "K6048",
+      "K9501",
+      "K9502",
+      "K9503",
+      "K9504",
+      "K9515",
+      "K9516",
+      "K9517",
+      "K9518",
+      "K9552",
+      "K9553",
+      "K9555",
+      "K9556",
+      "K9557",
+      "K9558"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1d5e743aa86d907f83b3a9145a1163890c1d9806f84472196c4fd3c69848298d",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "昭通北",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/zhaotongbei.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cea2046b7dcaa219cc146039814d75a791479f84c0935dbcd4bebd9b29fb5359",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "昭通南",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/zhaotongnan.html",
+    "candidateTrainNumbers": [
+      "5645",
+      "5646",
+      "5647",
+      "5648"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7e815e227d33c393db96995b556678b6656a98c5ad01e8cfe26516840c07c344",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "临江溪",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/linjiangxi.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f234c495b9258af986a4357f49517836d253f95d040a1d2cb5ce856907c744fc",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "二道桥",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/erdaoqiao.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2bfc6b66b858d049f89faf42e84443ad89a27bc0e23e5d01069eaec58a33731e",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "以勒",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/yile.html",
+    "candidateTrainNumbers": [
+      "K838",
+      "K9355",
+      "K9358",
+      "K9365",
+      "K9366",
+      "K9367",
+      "K9368"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "715648c4960f9621f4f8aa5f37273a1a8a6f04c55771310eddae5ed22d534496",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "大关",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/daguan.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f50bacead065d6bf25927fcaee9c9a88d9259844eb2da5f88af9a072a422ccba",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "威信",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/weixin.html",
+    "candidateTrainNumbers": [
+      "C5976",
+      "C5990",
+      "C5991",
+      "C6024",
+      "C6382",
+      "D1727",
+      "D1728",
+      "D1801",
+      "D4294",
+      "D4376",
+      "D4399",
+      "D4552",
+      "D4686",
+      "D4687",
+      "D8556",
+      "D8557",
+      "D8560",
+      "D8567",
+      "G2165",
+      "G2168",
+      "G2277",
+      "G2280",
+      "G2804",
+      "G2831",
+      "G2832",
+      "G3475",
+      "G3713",
+      "G3885",
+      "G4119",
+      "G4527",
+      "G8780",
+      "K9355",
+      "K9358",
+      "K9366",
+      "K9367"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "62eaeedbbab8144b20939097547e7e7a38b22d342b1e874410d033b4204ba0e1",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "小儿坪",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/xiaoerping.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8f50096ef9630899235e2b1d9030365cd4d4ebb4b80514514908d72a63f63f0d",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "小关溪",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/xiaoguanxi.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "eba1f8e38886f9c1d880116b12a96b3148c54ea5faf5670ce3137877e680e1f0",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "岔河",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/chahe.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4c0b40af5a6ea80de0d98995d37e8ccf48019cda0093e0d666c4940318580be2",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "彝良",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/yiliang.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9177395de921b6266d1279272837c6d8d2cc7bba8a1021d081b8e303aba9bfad",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "普洱渡",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/puerdu.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6cf94cc28c8d2dac37bf95d59af213ffa3a9b977c499371a12f66c3d07f16f77",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "果珠",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/guozhu.html",
+    "candidateTrainNumbers": [
+      "K838",
+      "K9355",
+      "K9358",
+      "K9365",
+      "K9366",
+      "K9367",
+      "K9368"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "94a340223a442936f3faf1763fdbb0f21eff25cc29235442fc41fb056be5aec8",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "水富",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/shuifu.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "907fa9e20fcfae5066d18ceb51bae0ab36d43723e9cbadb4a20ca787508ee371",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "沙沙坡",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/shashapo.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a8aa12def294957360f4b784724f0f610c85af6241a8dcc9f9b3098acea7b3f5",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "滩头",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/tantou.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "13b9f3b9f2e64058c9e4158c37e9d985a36abfe67c4f185d5ce52aaa58fc8fa2",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "田梁子",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/tianliangzi.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e8ae05fbcbd7daf5b3fa38bbaff678176eee272c842721852c135ac3850ea4d4",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "盐津",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/yanjin.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a267264ec19eac7a1a85e72eaf31614686618d5793b48c329165e7e44ecf97ae",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "盐津北",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/yanjinbei.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e9f82e1d37d65edc7fba6b73ed34426afdbe4eeaf9f844e7d545ff1d0ac7f73e",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "苍坪",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/cangping.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0400ef473dd68c038a9bc0e035ddd04a73f0ecd0cf1eaaf532e4b265bdb51a3a",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "豆沙关",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/doushaguan.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "df9186652d2daa3eafeb5f358954fa62a8e787a2eddd97d3887b1c06baaf19c8",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "邓家湾",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/dengjiawan.html",
+    "candidateTrainNumbers": [
+      "5635",
+      "5636"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6d5638e9a106e5a97ab861be1bae34422be442973c4ce323434784234969a0b2",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "铜鼓溪",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/tongguxi.html",
+    "candidateTrainNumbers": [
+      "5635"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ae263492b64521fdd5a2c1b22ddbd9f45197f2844dbac792fb8e446743bbd945",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "镇雄",
+    "city": "昭通",
+    "cityId": "yunnan-zhaotong",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "sourceUrl": "https://www.crecc.com/yunnan/zhaotong/zhenxiong.html",
+    "candidateTrainNumbers": [
+      "C6382",
+      "D1702",
+      "D1703",
+      "D1717",
+      "D1725",
+      "D1806",
+      "D1811",
+      "D4284",
+      "D4285",
+      "D4294",
+      "D4399",
+      "D4552",
+      "D4686",
+      "D6176",
+      "D9942",
+      "G2190",
+      "G2191",
+      "G2301",
+      "G2304",
+      "G2803",
+      "G2804",
+      "G2829",
+      "G2830",
+      "G2866",
+      "G3475",
+      "G3701",
+      "G3707",
+      "G4505",
+      "G4527",
+      "G8521",
+      "G8774",
+      "G8780",
+      "G8781",
+      "G8782",
+      "G8787",
+      "G8788",
+      "G8789",
+      "G8790"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "dd93b9ef6f296a16c4bac889737bb9f6e60d9b2121318999f7a0eaceb192a632",
+    "retrievedAt": "2026-10-09"
+  }
+]

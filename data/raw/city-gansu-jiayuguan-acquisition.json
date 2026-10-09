@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "嘉峪关",
+  "stationCount": 4,
+  "candidateServices": 238,
+  "acquiredAdditionalServices": 28,
+  "failedPages": [],
+  "stationIssues": [
+    "桥西"
+  ]
+}

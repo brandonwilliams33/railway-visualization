@@ -1,0 +1,24 @@
+[
+  {
+    "trainNumber": "Y791",
+    "category": "OTHER",
+    "stopNames": [
+      "中卫",
+      "哈达铺",
+      "陇南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y791.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "3304b42bd36b071677da6fce1fb19207e585e7daf0ee025e085b6ed599e0af30",
+    "elapsedMinutes": [
+      0,
+      779,
+      860
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

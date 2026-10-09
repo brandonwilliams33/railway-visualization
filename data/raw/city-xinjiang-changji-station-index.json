@@ -1,0 +1,19 @@
+[
+  {
+    "name": "玛纳斯",
+    "city": "昌吉",
+    "cityId": "xinjiang-changji",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "sourceUrl": "https://www.crecc.com/xinjiang/changji/manasi.html",
+    "candidateTrainNumbers": [
+      "5802",
+      "5806",
+      "K9735",
+      "K9738"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f2fd4713b4c6bdf96d45c78ef61a2e6005dcb6a3298a18afe6b3e27d5c791be1",
+    "retrievedAt": "2026-10-09"
+  }
+]

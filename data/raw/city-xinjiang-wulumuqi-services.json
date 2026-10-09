@@ -1,0 +1,9503 @@
+[
+  {
+    "trainNumber": "5801",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "奎屯",
+      "双河市",
+      "博乐",
+      "阿拉山口"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5801.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8c5e1e62dc10df9ff803bc997a8258c466e8324f2db4912b6a096f5ad2dc1573",
+    "elapsedMinutes": [
+      0,
+      125,
+      234,
+      466,
+      491,
+      625
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5802",
+    "category": "OTHER",
+    "stopNames": [
+      "阿拉山口",
+      "博乐",
+      "双河市",
+      "奎屯",
+      "石河子",
+      "玛纳斯",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5802.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "aa2ecd2dd0bff7fcb37f3473077108e5437fabb54eb26712be68d98686966321",
+    "elapsedMinutes": [
+      0,
+      104,
+      163,
+      390,
+      469,
+      484,
+      611
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5804",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "奎屯",
+      "双河市",
+      "博乐",
+      "阿拉山口"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5804.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9e70082854be2eda6d9ea7754b4a2c932a9a5a8c2107f3f26997553c63f0dc9b",
+    "elapsedMinutes": [
+      0,
+      125,
+      234,
+      466,
+      491,
+      625
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5805",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "奎屯",
+      "双河市",
+      "博乐",
+      "阿拉山口"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5805.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c0ba2af764e1d426063926a6a463544bd57f29cbbc625a9692c815855213eb54",
+    "elapsedMinutes": [
+      0,
+      125,
+      234,
+      466,
+      491,
+      625
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5806",
+    "category": "OTHER",
+    "stopNames": [
+      "阿拉山口",
+      "博乐",
+      "双河市",
+      "奎屯",
+      "石河子",
+      "玛纳斯",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5806.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "294b7c06bc0a8304bce0938bc3ed207e429a6ce86eb007cd21f720c6a62c7e34",
+    "elapsedMinutes": [
+      0,
+      104,
+      163,
+      390,
+      469,
+      484,
+      611
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5815",
+    "category": "OTHER",
+    "stopNames": [
+      "和田",
+      "洛浦",
+      "策勒",
+      "玉泉镇",
+      "于田",
+      "民丰",
+      "南屯",
+      "金山",
+      "且末",
+      "瓦石峡",
+      "若羌",
+      "库尔勒",
+      "乌鲁木齐南",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5815.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0f73ed7c901a1a896d403bd0f2e6e23aa649a316eaacd0c3398b8806a9625622",
+    "elapsedMinutes": [
+      0,
+      39,
+      92,
+      129,
+      161,
+      251,
+      348,
+      431,
+      454,
+      569,
+      630,
+      1015,
+      1342,
+      1358
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5816",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐",
+      "乌鲁木齐南",
+      "库尔勒",
+      "若羌",
+      "瓦石峡",
+      "且末",
+      "金山",
+      "南屯",
+      "民丰",
+      "于田",
+      "玉泉镇",
+      "洛浦",
+      "和田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5816.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "54bce2db6e2ef7db02593e47c52d148dffd3888eb5135b6d5d809acef0d95424",
+    "elapsedMinutes": [
+      0,
+      13,
+      362,
+      709,
+      788,
+      898,
+      917,
+      994,
+      1083,
+      1156,
+      1187,
+      1262,
+      1294
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5817",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐",
+      "乌鲁木齐南",
+      "库尔勒",
+      "若羌",
+      "瓦石峡",
+      "且末",
+      "金山",
+      "南屯",
+      "民丰",
+      "于田",
+      "玉泉镇",
+      "洛浦",
+      "和田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5817.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f6acaf9f85bf4baf6e314b9d4b5a133297c77dce414c4ff32bbf53ec9006c622",
+    "elapsedMinutes": [
+      0,
+      13,
+      362,
+      709,
+      788,
+      898,
+      917,
+      994,
+      1083,
+      1156,
+      1187,
+      1262,
+      1294
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5818",
+    "category": "OTHER",
+    "stopNames": [
+      "和田",
+      "洛浦",
+      "策勒",
+      "玉泉镇",
+      "于田",
+      "民丰",
+      "南屯",
+      "金山",
+      "且末",
+      "瓦石峡",
+      "若羌",
+      "库尔勒",
+      "乌鲁木齐南",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5818.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "471b27f3e075dbf5ad79dba732fcf0f0c216725d48a357310004e4b538250c22",
+    "elapsedMinutes": [
+      0,
+      39,
+      92,
+      129,
+      161,
+      251,
+      348,
+      431,
+      454,
+      569,
+      630,
+      1015,
+      1342,
+      1358
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7555",
+    "category": "OTHER",
+    "stopNames": [
+      "和田",
+      "墨玉",
+      "昆玉",
+      "皮山",
+      "叶城",
+      "泽普",
+      "莎车",
+      "英吉沙",
+      "阿克陶",
+      "喀什",
+      "阿图什",
+      "巴楚",
+      "阿克苏",
+      "新和",
+      "库车",
+      "铁门关",
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "鱼儿沟",
+      "吐鲁番北",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7555.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "06fea71e52d18fb50bd71a055614a4519dd9784cbea64e2789a1c496e9713ff4",
+    "elapsedMinutes": [
+      0,
+      17,
+      48,
+      119,
+      182,
+      211,
+      242,
+      354,
+      379,
+      422,
+      491,
+      735,
+      1082,
+      1246,
+      1290,
+      1516,
+      1562,
+      1630,
+      1660,
+      1691,
+      1773,
+      1873,
+      2034
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7556",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北",
+      "鱼儿沟",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒",
+      "铁门关",
+      "库车",
+      "新和",
+      "阿克苏",
+      "巴楚",
+      "阿图什",
+      "喀什",
+      "阿克陶",
+      "英吉沙",
+      "莎车",
+      "泽普",
+      "叶城",
+      "皮山",
+      "昆玉",
+      "墨玉",
+      "和田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7556.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b579ca2e38bd0a43eb0add478779569b6a6d3ba261d4118cef04d9d1de03e0df",
+    "elapsedMinutes": [
+      0,
+      102,
+      223,
+      336,
+      367,
+      399,
+      499,
+      574,
+      786,
+      836,
+      1000,
+      1321,
+      1515,
+      1556,
+      1615,
+      1637,
+      1752,
+      1773,
+      1807,
+      1867,
+      1933,
+      1963,
+      1983
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7557",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北",
+      "鱼儿沟",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒",
+      "铁门关",
+      "库车",
+      "新和",
+      "阿克苏",
+      "巴楚",
+      "阿图什",
+      "喀什",
+      "阿克陶",
+      "英吉沙",
+      "莎车",
+      "泽普",
+      "叶城",
+      "皮山",
+      "昆玉",
+      "墨玉",
+      "和田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7557.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "06321926f8f69c2e86deae7fc9475e13ed2067a304fc6806ff49efe4d09ae119",
+    "elapsedMinutes": [
+      0,
+      102,
+      223,
+      336,
+      367,
+      399,
+      499,
+      574,
+      786,
+      836,
+      1000,
+      1321,
+      1515,
+      1556,
+      1615,
+      1637,
+      1752,
+      1773,
+      1807,
+      1867,
+      1933,
+      1963,
+      1983
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7558",
+    "category": "OTHER",
+    "stopNames": [
+      "和田",
+      "墨玉",
+      "昆玉",
+      "皮山",
+      "叶城",
+      "泽普",
+      "莎车",
+      "英吉沙",
+      "阿克陶",
+      "喀什",
+      "阿图什",
+      "巴楚",
+      "阿克苏",
+      "新和",
+      "库车",
+      "铁门关",
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "鱼儿沟",
+      "吐鲁番北",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7558.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a4c8d8ab3659492fadf5a6c6a0ddbd304ddb10d7662e55a77d48697ae90806fe",
+    "elapsedMinutes": [
+      0,
+      17,
+      48,
+      119,
+      182,
+      211,
+      242,
+      354,
+      379,
+      422,
+      491,
+      735,
+      1082,
+      1246,
+      1290,
+      1516,
+      1562,
+      1630,
+      1660,
+      1691,
+      1773,
+      1873,
+      2034
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4187",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4187.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b2a38879bbee182cef7e5b4fbfeab6ce66e01c6f94121313242290772416f3df",
+    "elapsedMinutes": [
+      0,
+      77,
+      101,
+      136
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4188",
+    "category": "C",
+    "stopNames": [
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4188.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d611117456fd68c82cbf58d85b9884d8ee3851cd944e7ed17a3f8e97e4c32968",
+    "elapsedMinutes": [
+      0,
+      27,
+      50,
+      123
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4189",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "乌苏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4189.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f105e334646165149bce2dc3e22650b98c1bb24b64b3aed827347593eb9a9393",
+    "elapsedMinutes": [
+      0,
+      70,
+      91,
+      123,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4190",
+    "category": "C",
+    "stopNames": [
+      "乌苏",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4190.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3ea6304969f6e5c0bc6f124dd49f75d4be2e99ac1197c7dfd72afe6e31bf0830",
+    "elapsedMinutes": [
+      0,
+      12,
+      41,
+      64,
+      135
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4191",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "乌苏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4191.html",
+    "sourceUpdatedAt": "2026-08-12",
+    "sourceSha256": "f6fae79badf01a10fd8df7821275c176de9ff4787f84a567fbaef104ba0f42a3",
+    "elapsedMinutes": [
+      0,
+      68,
+      89,
+      123,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4192",
+    "category": "C",
+    "stopNames": [
+      "乌苏",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4192.html",
+    "sourceUpdatedAt": "2026-08-12",
+    "sourceSha256": "81a0d7e4104601d2a3040c7fc6449339985dc77bdce86e9ea4de0cd2d5b44715",
+    "elapsedMinutes": [
+      0,
+      12,
+      41,
+      64,
+      140
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4193",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "奎屯",
+      "乌苏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4193.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "c66be9419b726ca33f42b0ac6ef5889b4395f2c94866f00555066f6a4b84afed",
+    "elapsedMinutes": [
+      0,
+      70,
+      117,
+      131
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4194",
+    "category": "C",
+    "stopNames": [
+      "乌苏",
+      "奎屯",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4194.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "f4a4798a8b48d7ac39f160f758963de3e6af47c6dcd9aeb0db360e76581b2d48",
+    "elapsedMinutes": [
+      0,
+      10,
+      66,
+      143
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4195",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4195.html",
+    "sourceUpdatedAt": "2026-07-06",
+    "sourceSha256": "23a03631151990cce5d5c5ceef33434f4d03caee18e4ed319e8b5e97d4f35286",
+    "elapsedMinutes": [
+      0,
+      70,
+      91,
+      125,
+      343
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4196",
+    "category": "C",
+    "stopNames": [
+      "伊宁",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4196.html",
+    "sourceUpdatedAt": "2026-07-23",
+    "sourceSha256": "3000ccfa5370887fc937b00a6767f7353cd02e99c295941313c4f26b592f41b4",
+    "elapsedMinutes": [
+      0,
+      255,
+      284,
+      309,
+      380
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4197",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "克拉玛依"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4197.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2be3c76fe0edd4d432ad320f657229beb51dd97e937157e98b821093b218bf40",
+    "elapsedMinutes": [
+      0,
+      72,
+      93,
+      127,
+      227
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4198",
+    "category": "C",
+    "stopNames": [
+      "克拉玛依",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4198.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a04d3ba4e5af190dc1cab0a0c1de6e13c753987791ea9a2461c1297629e9d232",
+    "elapsedMinutes": [
+      0,
+      99,
+      128,
+      153,
+      224
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4341",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4341.html",
+    "sourceUpdatedAt": "2026-07-01",
+    "sourceSha256": "95a9054b247041ae215552f52d0b2f04140e9417fde59941efddc2ec8192dac0",
+    "elapsedMinutes": [
+      0,
+      76,
+      97,
+      129
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4342",
+    "category": "C",
+    "stopNames": [
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4342.html",
+    "sourceUpdatedAt": "2026-07-01",
+    "sourceSha256": "0f0894353c15d59f57c0d259e6b7a5239ca07b9a7fee8c3f243fb3f98d1be24e",
+    "elapsedMinutes": [
+      0,
+      27,
+      50,
+      121
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4343",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4343.html",
+    "sourceUpdatedAt": "2026-07-01",
+    "sourceSha256": "6506c35c0dc9619c6da42a4cb51546dabe8c48fa9c961a04001afc7747c64cd5",
+    "elapsedMinutes": [
+      0,
+      74,
+      95,
+      127
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4344",
+    "category": "C",
+    "stopNames": [
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4344.html",
+    "sourceUpdatedAt": "2026-07-01",
+    "sourceSha256": "faac70e63049c6d53ddbc00703866406c52cd5f43d85255822b84cb4a158e162",
+    "elapsedMinutes": [
+      0,
+      27,
+      52,
+      123
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4347",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4347.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "34ff37fa12a501ee4480a66f64bc1be76e15c017aea204567aa2b1c0cd8f3072",
+    "elapsedMinutes": [
+      0,
+      70,
+      147,
+      421
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4348",
+    "category": "C",
+    "stopNames": [
+      "伊宁",
+      "奎屯",
+      "石河子",
+      "乌鲁木齐",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4348.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "94488ce085ce66e30e1a372933568396896c4745b58033ce670c69199334fa5b",
+    "elapsedMinutes": [
+      0,
+      233,
+      285,
+      356,
+      389
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4349",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐南",
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "乌苏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4349.html",
+    "sourceUpdatedAt": "2026-05-28",
+    "sourceSha256": "7a9513652cd4c0f265d1c5ee545ecfc889688f6a315b3023f4b0bf857eedb3f7",
+    "elapsedMinutes": [
+      0,
+      14,
+      104,
+      125,
+      157,
+      171
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4350",
+    "category": "C",
+    "stopNames": [
+      "乌苏",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4350.html",
+    "sourceUpdatedAt": "2026-05-28",
+    "sourceSha256": "b27dd0145ed0eea88619667c3455bdff92d7d8ce89a871f23c0f1daa2315cd78",
+    "elapsedMinutes": [
+      0,
+      14,
+      45,
+      74,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4351",
+    "category": "C",
+    "stopNames": [
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4351.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "3b1a79a6f8deec4e89177c4239efa85fba31b380a9dbaccd5b00c8842d97ea1e",
+    "elapsedMinutes": [
+      0,
+      33,
+      58,
+      82,
+      244
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4352",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐南",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4352.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "e8b99ecd7d06b89e0e749a9d5759d65e1e97f1bda0fcb354ef8c96ca6ba0320f",
+    "elapsedMinutes": [
+      0,
+      182,
+      206,
+      231,
+      265
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4353",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐南",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4353.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "be9cc1b8e6a7618a4d003c9324865c12c8bdba3a52c2c88a211940410c88d907",
+    "elapsedMinutes": [
+      0,
+      182,
+      206,
+      231,
+      265
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4354",
+    "category": "C",
+    "stopNames": [
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4354.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "95c9aaf2a8f1863433e0f7ec630e26892a7482d0fd3a3a6b37a755ccf560a6c1",
+    "elapsedMinutes": [
+      0,
+      33,
+      58,
+      82,
+      244
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4357",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4357.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "9b122ce84b226554847c25a0a83afd39aff1a6c3141a41e699ea8b0b7f732613",
+    "elapsedMinutes": [
+      0,
+      70,
+      91,
+      125,
+      343
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4358",
+    "category": "C",
+    "stopNames": [
+      "伊宁",
+      "奎屯",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4358.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "368f9be3a9e3fdb154f67667dc6384b7d0587a016219f49ee6f0e5e12e2e302b",
+    "elapsedMinutes": [
+      0,
+      230,
+      394
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4361",
+    "category": "C",
+    "stopNames": [
+      "哈密",
+      "吐哈",
+      "鄯善北",
+      "吐鲁番北",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4361.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "c4bde7899d811246a545879aeff3519489275811d36b8ea5c439d9e01c294e9f",
+    "elapsedMinutes": [
+      0,
+      128,
+      148,
+      191,
+      298
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4362",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北",
+      "鄯善北",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4362.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "02373004fb124e66e0929412beb6f6e37f65622219af0e56e5afa96d2c47bdf4",
+    "elapsedMinutes": [
+      0,
+      78,
+      152,
+      273
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4363",
+    "category": "C",
+    "stopNames": [
+      "哈密",
+      "吐哈",
+      "鄯善北",
+      "吐鲁番北",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4363.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "e4655d7df24a9c38f86cb605c93ddead4def8e18810af8d062b03d3375d42ab6",
+    "elapsedMinutes": [
+      0,
+      107,
+      127,
+      170,
+      267
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4364",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐南",
+      "吐鲁番北",
+      "鄯善北",
+      "吐哈",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4364.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "eef1a7d12f522c19b9cec29890ea51e772d7dac70359b3b306faf54298521ad6",
+    "elapsedMinutes": [
+      0,
+      77,
+      123,
+      144,
+      255
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4370",
+    "category": "C",
+    "stopNames": [
+      "伊宁",
+      "奎屯",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4370.html",
+    "sourceUpdatedAt": "2026-03-31",
+    "sourceSha256": "0a1d5a2db12aefea5bfec763120438ac49aa9071826798b0922a8f61e665c5f3",
+    "elapsedMinutes": [
+      0,
+      249,
+      295,
+      372
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C801",
+    "category": "C",
+    "stopNames": [
+      "库尔勒",
+      "焉耆",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c801.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7857102a1cfaabec2de9b9c4a5ca8c3682eb7c65b63bd6ae39cefc4acafd6484",
+    "elapsedMinutes": [
+      0,
+      30,
+      71,
+      235
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C802",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c802.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cd6a4be39d12e22d77adb992f8ea331389e8e1d594570a0be521c0814881d846",
+    "elapsedMinutes": [
+      0,
+      160,
+      183,
+      206,
+      240
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C803",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c803.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "64008af6a25e9dbcad9592f57f89424bfb056fd091d5a074b4b2c3f09b45df9d",
+    "elapsedMinutes": [
+      0,
+      160,
+      183,
+      206,
+      240
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C804",
+    "category": "C",
+    "stopNames": [
+      "库尔勒",
+      "焉耆",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c804.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3a416f066e15d255d64e6694c6512850a10584d151a8409544c89642dbe2731b",
+    "elapsedMinutes": [
+      0,
+      30,
+      71,
+      235
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C805",
+    "category": "C",
+    "stopNames": [
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c805.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "839311f4a5dcb66da72e4794b9533017e8d1ea386d6ea3fbb835bd55bbd97290",
+    "elapsedMinutes": [
+      0,
+      33,
+      57,
+      82,
+      250
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C806",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c806.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "48ee0b81ce25f71e25589f5f175edc3c3d41ba86c4788db25387731a3413df73",
+    "elapsedMinutes": [
+      0,
+      159,
+      182,
+      206,
+      240
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C807",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c807.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3b7dde1f6d49b659ee7ac87978b29609eda92503b7bb6eab136d1457dc7d279e",
+    "elapsedMinutes": [
+      0,
+      159,
+      182,
+      206,
+      240
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C808",
+    "category": "C",
+    "stopNames": [
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c808.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c8a8f90f789c7e3459166c01ee3940f7336803e38c868fdff2be479f5747b0ad",
+    "elapsedMinutes": [
+      0,
+      33,
+      57,
+      82,
+      250
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C809",
+    "category": "C",
+    "stopNames": [
+      "库尔勒",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c809.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8ec0af6f34509da256ad4b510d48f7bb181d29de6afe4f3e5244aede19824165",
+    "elapsedMinutes": [
+      0,
+      219
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C810",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c810.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5b928a0f339037e137b5fe4451d4da2d642dec3a44cc83a2903a12e179fc433e",
+    "elapsedMinutes": [
+      0,
+      225
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C811",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c811.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "66200c534741dc259bdb2ffc8bd240984e6b9365438085c53b236807a19a9133",
+    "elapsedMinutes": [
+      0,
+      225
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C812",
+    "category": "C",
+    "stopNames": [
+      "库尔勒",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c812.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "93475868c5645a4ed9c89d43cce72b1709d5880d303a442d1d038dee4c3d4784",
+    "elapsedMinutes": [
+      0,
+      219
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C813",
+    "category": "C",
+    "stopNames": [
+      "库尔勒",
+      "焉耆",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c813.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0a1dfb65e769673bc7ee98923bb520b7941b84a1cbe66b7d7cb8583ee05f5e1d",
+    "elapsedMinutes": [
+      0,
+      31,
+      78,
+      235
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C814",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c814.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e613dde589b75d2afce2ce4eaf1fee689d95b9d1b34c44ea5cd9677b8b6900a8",
+    "elapsedMinutes": [
+      0,
+      162,
+      186,
+      211,
+      248
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C815",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c815.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1d03b882a4d1083e7b61677c4b1856cdada7581aedffd911b9329919491e05e7",
+    "elapsedMinutes": [
+      0,
+      162,
+      186,
+      211,
+      248
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C816",
+    "category": "C",
+    "stopNames": [
+      "库尔勒",
+      "焉耆",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c816.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "da73b3b02a40b172a3b159200a12c5178ff811038210be65a9a4632400a53fa0",
+    "elapsedMinutes": [
+      0,
+      31,
+      78,
+      235
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C817",
+    "category": "C",
+    "stopNames": [
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "乌鲁木齐南",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c817.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d24b88f269881d50be25879c59b02dacb1a9a3744ed9f5dde21974ada2c41b6a",
+    "elapsedMinutes": [
+      0,
+      31,
+      55,
+      78,
+      229,
+      243
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C818",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "乌鲁木齐南",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c818.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bfbdf482cf0707d0001ccc89e902741198db87cf01afe104278bce280f9a554a",
+    "elapsedMinutes": [
+      0,
+      11,
+      172,
+      195,
+      219,
+      253
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C819",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "乌鲁木齐南",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c819.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e788fd3876f082f45716b561ecdb3b22c9cea722e0ef0df2f51cdac320e39f47",
+    "elapsedMinutes": [
+      0,
+      11,
+      172,
+      195,
+      219,
+      253
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C820",
+    "category": "C",
+    "stopNames": [
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "乌鲁木齐南",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c820.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "09eab4df82430e60511c444346bc49c97cbdd70506a1f5f36443c23ed769d790",
+    "elapsedMinutes": [
+      0,
+      31,
+      55,
+      78,
+      229,
+      243
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C821",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c821.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4708da3fddd39d580a291bc9f7401ac94b6fba686c2e4aa94fc62658ac713f09",
+    "elapsedMinutes": [
+      0,
+      71,
+      93,
+      123
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C823",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "乌苏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c823.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2d4c3f2df4b3ead699e208cd81127b9f6b26d24b84ae82a874b953127872d479",
+    "elapsedMinutes": [
+      0,
+      70,
+      91,
+      123,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C824",
+    "category": "C",
+    "stopNames": [
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c824.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3cc2ac8ceb3152e166bdbd11a35518d208ce57e53f00fa4ee45878ff2edd6e6c",
+    "elapsedMinutes": [
+      0,
+      27,
+      50,
+      121
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C826",
+    "category": "C",
+    "stopNames": [
+      "乌苏",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c826.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "292edd99108b5f7fed307353c0c7de7bb8e9c6ee32190157019a78e220a8668b",
+    "elapsedMinutes": [
+      0,
+      12,
+      41,
+      64,
+      135,
+      154
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C827",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐南",
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c827.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "45282ac88d162db3a6930fb0bb0882da87631abce9b23318c564f849e205897b",
+    "elapsedMinutes": [
+      0,
+      12,
+      94,
+      115,
+      147
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C830",
+    "category": "C",
+    "stopNames": [
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c830.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3ea2127beeb32e2b6e1ac4225f1f2a7d0969df0ef00686dba717c6bf7be70032",
+    "elapsedMinutes": [
+      0,
+      27,
+      50,
+      121
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C841",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "精河",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c841.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6b3e066906ad15b7acb0002a336b789dfe77df8ef9fc5f13a25d90be057035ef",
+    "elapsedMinutes": [
+      0,
+      74,
+      97,
+      133,
+      206,
+      346
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C842",
+    "category": "C",
+    "stopNames": [
+      "伊宁",
+      "精河南",
+      "乌苏",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c842.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f81edbd4695ce4c34a890fbb3919d7ac97e8ba16e129aab4ee764e82e335a8b0",
+    "elapsedMinutes": [
+      0,
+      130,
+      204,
+      218,
+      247,
+      270,
+      341
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C843",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "乌苏",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c843.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1629d106e0467f07b79cbca26d784d5cacfaccfbb320d504679dcca019772cf1",
+    "elapsedMinutes": [
+      0,
+      74,
+      95,
+      127,
+      141,
+      215,
+      338
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C844",
+    "category": "C",
+    "stopNames": [
+      "伊宁",
+      "精河南",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c844.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7d3ec8be2d02a7208115b649d93802cdb7da930fb0e01e84e5b1a42d58feb096",
+    "elapsedMinutes": [
+      0,
+      120,
+      203,
+      232,
+      255,
+      326
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C845",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c845.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6d42d186bd001b676c7f4e83a85d9edfb5695d4af0ee6669b8d81f0815bc800a",
+    "elapsedMinutes": [
+      0,
+      299
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C846",
+    "category": "C",
+    "stopNames": [
+      "伊宁",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c846.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d8c31af8afd39bdea510316b58a5aea5cad9260756fd7af97401dfe0a9425a29",
+    "elapsedMinutes": [
+      0,
+      299
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C847",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c847.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e840de07bf44b9effd66c20221ff3009a3bf087a2b5eb9ac09dd02e0880d6daa",
+    "elapsedMinutes": [
+      0,
+      299
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C848",
+    "category": "C",
+    "stopNames": [
+      "伊宁",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c848.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1c79312fb2a356f47769b4985cabda2deca5c59f0c90ad76d8026b7b5a39b301",
+    "elapsedMinutes": [
+      0,
+      299
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C849",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐南",
+      "乌鲁木齐",
+      "石河子",
+      "奎屯",
+      "乌苏",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c849.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3d0a332a7dd9efe6fa40ab0acdcd8aa3acfdae39921e3c7aea06c00eafdd6eee",
+    "elapsedMinutes": [
+      0,
+      12,
+      92,
+      140,
+      154,
+      228,
+      352
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C850",
+    "category": "C",
+    "stopNames": [
+      "伊宁",
+      "精河南",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c850.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4aefb88f7aee2cdbf3701e74880f44bd0f9a98ec7c710f33ccd0a09bc33c8d84",
+    "elapsedMinutes": [
+      0,
+      120,
+      205,
+      234,
+      257,
+      328,
+      353
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C851",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "克拉玛依"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c851.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "00835c0714673341ef6dfd85bde2b1f73e408d65a3e66751026cda5ae8eface8",
+    "elapsedMinutes": [
+      0,
+      72,
+      93,
+      125,
+      191
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C852",
+    "category": "C",
+    "stopNames": [
+      "克拉玛依",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c852.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0a2324a73eda62b81d098c778620d2e8973227c5540834b24e214aacb171b490",
+    "elapsedMinutes": [
+      0,
+      65,
+      94,
+      117,
+      192
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C853",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "克拉玛依"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c853.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "21e36ae2b450d9d75012890c5fa9d7c3044e747ffd68285e3f499b74233748b1",
+    "elapsedMinutes": [
+      0,
+      74,
+      95,
+      127,
+      197
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C854",
+    "category": "C",
+    "stopNames": [
+      "克拉玛依",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c854.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6e89c31b1378c235ca10ef702a339a401bbfa5095a66d01e24bc8798934d8638",
+    "elapsedMinutes": [
+      0,
+      64,
+      93,
+      116,
+      191
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C855",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "奎屯",
+      "克拉玛依"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c855.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "30df5083ed3a9abc1ed6854a79143d503f6e064dc4175e4976024a535ec308e4",
+    "elapsedMinutes": [
+      0,
+      65,
+      105,
+      175
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C856",
+    "category": "C",
+    "stopNames": [
+      "克拉玛依",
+      "奎屯",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c856.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "366c3987fa0071cd65204ea9a318a8d293934c0a3170093a9d1534f40d407827",
+    "elapsedMinutes": [
+      0,
+      68,
+      115,
+      186
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C857",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "克拉玛依"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c857.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f6c5d774ddc88b9d3892e68719b452b541b5b13b0fc8f2ccd2b7b06390ed33a3",
+    "elapsedMinutes": [
+      0,
+      170
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C858",
+    "category": "C",
+    "stopNames": [
+      "克拉玛依",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c858.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cc97ff0f893f806539c2e286527f898cdbbbfce0a4043dfea1c22aadfa9b2cac",
+    "elapsedMinutes": [
+      0,
+      169
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C859",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐南",
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "克拉玛依"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c859.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c3c8031fddebae829df277bf5e501e9b153a1b1c362c04e42dd133a5161ae7f7",
+    "elapsedMinutes": [
+      0,
+      15,
+      100,
+      121,
+      153,
+      223
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C860",
+    "category": "C",
+    "stopNames": [
+      "克拉玛依",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c860.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6dc1d7114ebf506682368381d304b92ef8b4359c27df3c4246b195fad45a3a46",
+    "elapsedMinutes": [
+      0,
+      71,
+      100,
+      123,
+      195,
+      215
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C861",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "博乐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c861.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "85c954e64209def795c2e403b00e9287ca13cc2c8e2f496506346da069ab735f",
+    "elapsedMinutes": [
+      0,
+      70,
+      91,
+      123,
+      257
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C862",
+    "category": "C",
+    "stopNames": [
+      "博乐",
+      "双河市",
+      "精河",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c862.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c8fbfd1dcec4c36f2abb3d5968b4c9e346bceeb87d9a296c474a4274e49d0c6a",
+    "elapsedMinutes": [
+      0,
+      21,
+      70,
+      141,
+      170,
+      193,
+      266
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C863",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "博乐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c863.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "011093f72b6ec1148662bb08cc9b95f6eb13a7ebba33abf8e2f6d69678206dfe",
+    "elapsedMinutes": [
+      0,
+      240
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C864",
+    "category": "C",
+    "stopNames": [
+      "博乐",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c864.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9f07a22550f934d28f2b0a75a88b9243f3b66b54caeb773475ad05d8e9aa4229",
+    "elapsedMinutes": [
+      0,
+      237
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C865",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "精河",
+      "博乐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c865.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ae563d182266c5470a9a25a017dd0df2fb6549782fa676f5ab02624cc016d25e",
+    "elapsedMinutes": [
+      0,
+      73,
+      94,
+      126,
+      199,
+      265
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C866",
+    "category": "C",
+    "stopNames": [
+      "博乐",
+      "精河",
+      "乌苏",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c866.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5c0567a7bd1d97d6b92f4adb0e8f06d19ea3a25e3e88546f83883e5434ac31f5",
+    "elapsedMinutes": [
+      0,
+      63,
+      130,
+      146,
+      175,
+      198,
+      275
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C867",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "乌苏",
+      "精河",
+      "双河市",
+      "博乐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c867.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "22a8e58d8d5f331b113c578c3c961b2aba759ba6b93ae1ee47f05690580b2e4e",
+    "elapsedMinutes": [
+      0,
+      69,
+      90,
+      121,
+      134,
+      197,
+      244,
+      272
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C868",
+    "category": "C",
+    "stopNames": [
+      "博乐",
+      "乌苏",
+      "奎屯",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c868.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fb3c0b246d5a93cbee173be0c3d6eac8e9100253be5d1d4660591aa1262c0d56",
+    "elapsedMinutes": [
+      0,
+      126,
+      142,
+      198,
+      275
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C871",
+    "category": "C",
+    "stopNames": [
+      "库尔勒",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c871.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9d6052a102132006eea23e0441cad6d003423f26ecc2445524404cd7e0dcab15",
+    "elapsedMinutes": [
+      0,
+      205
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C872",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐南",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c872.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2ec7c2a9b967df01d07a9f4301e689675619a61326fc1e8a3b91a56c3fca14c4",
+    "elapsedMinutes": [
+      0,
+      207
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C873",
+    "category": "C",
+    "stopNames": [
+      "乌鲁木齐南",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c873.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9ce1911e6515ed652df37fbe98e2da2a1ea1f17f2661d5369e66352be5c9d6d6",
+    "elapsedMinutes": [
+      0,
+      207
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C874",
+    "category": "C",
+    "stopNames": [
+      "库尔勒",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c874.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0a093956840d604ee9148044b93554da3097700e586f950e96b499af9714c222",
+    "elapsedMinutes": [
+      0,
+      205
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8801",
+    "category": "D",
+    "stopNames": [
+      "哈密",
+      "吐哈",
+      "鄯善北",
+      "吐鲁番北",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8801.html",
+    "sourceUpdatedAt": "2026-08-22",
+    "sourceSha256": "8ad046e7831a485717db30d8b05dd577db5d3dd44b60ac9bfc5ae8fad57f262a",
+    "elapsedMinutes": [
+      0,
+      75,
+      93,
+      123,
+      185
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8802",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北",
+      "鄯善北",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8802.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4011ecc5271afe44f9169fdcef3e18755ff5174f59f0541e825e91a8f06930e2",
+    "elapsedMinutes": [
+      0,
+      57,
+      87,
+      164
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8803",
+    "category": "D",
+    "stopNames": [
+      "哈密",
+      "吐哈",
+      "吐鲁番北",
+      "乌鲁木齐南",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8803.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ea280fcb89180b6e0793ea07ad98d5cc0a8e66ea4b5ed9b9440df7d69b83b364",
+    "elapsedMinutes": [
+      0,
+      68,
+      113,
+      163,
+      176
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8804",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8804.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "de4416a3ab9f52bd20de2f88c6302441db2bccabf33a6c184250dbee8f7a1bf6",
+    "elapsedMinutes": [
+      0,
+      59,
+      163
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8805",
+    "category": "D",
+    "stopNames": [
+      "哈密",
+      "吐哈",
+      "鄯善北",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8805.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e4a6faac0a934c915c586ab3d6318c56533bb0e8b30830f1c5444582684c06f5",
+    "elapsedMinutes": [
+      0,
+      73,
+      88,
+      167
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8806",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北",
+      "鄯善北",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8806.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2adbd3c100747301dbb3499739d4961904268d9abbebd4e4e7693e5c2c2dc3c0",
+    "elapsedMinutes": [
+      0,
+      61,
+      91,
+      172
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8807",
+    "category": "D",
+    "stopNames": [
+      "哈密",
+      "鄯善北",
+      "吐鲁番北",
+      "乌鲁木齐南",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8807.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "53468cbc21389781e780d4dd47d9e60e75285528738e2af0115c3ff63d03e5de",
+    "elapsedMinutes": [
+      0,
+      79,
+      109,
+      159,
+      172
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8808",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北",
+      "鄯善北",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8808.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f9221c40640b42f4cb83b46557cbd33fb7bb024211b67a3cb117bcaf646ff050",
+    "elapsedMinutes": [
+      0,
+      54,
+      84,
+      169
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8809",
+    "category": "D",
+    "stopNames": [
+      "哈密",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8809.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4655f538e4fb2e07d3a0ebfcfa1a5c3fadf3fa92b4d4dede6aa8047c223282c1",
+    "elapsedMinutes": [
+      0,
+      178
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8810",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北",
+      "鄯善北",
+      "吐哈",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8810.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "8ab9bc8676805df0219578ab92643dd251e27d33f3196bf8222c1ba625c142f9",
+    "elapsedMinutes": [
+      0,
+      57,
+      87,
+      102,
+      176
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8811",
+    "category": "D",
+    "stopNames": [
+      "哈密",
+      "鄯善北",
+      "吐鲁番北",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8811.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b0922de70d8528315a593faa9296e483e80d47485557634a4c8089f4096ba74b",
+    "elapsedMinutes": [
+      0,
+      77,
+      107,
+      172
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8812",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐南",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8812.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "92070898b30c2600fd24104027019e848185bd304308397f427d976e18f8888e",
+    "elapsedMinutes": [
+      0,
+      152
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8813",
+    "category": "D",
+    "stopNames": [
+      "哈密",
+      "鄯善北",
+      "吐鲁番北",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8813.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "52721c3619eb63f17f83fd28c54a23d58f77d63e81b142261225c3c74eb2357a",
+    "elapsedMinutes": [
+      0,
+      83,
+      113,
+      170
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8814",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐",
+      "乌鲁木齐南",
+      "吐鲁番北",
+      "鄯善北",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8814.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4bf4c976ab37cf7c896cf7c7543d4030f4424401a94ab2b15343590071abe61f",
+    "elapsedMinutes": [
+      0,
+      11,
+      60,
+      90,
+      175
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9361",
+    "category": "D",
+    "stopNames": [
+      "吐鲁番北",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9361.html",
+    "sourceUpdatedAt": "2026-08-22",
+    "sourceSha256": "0e805b905b1e3e6ef2b9b8c94a98d0514d2e8a6d9a09f516422dd09cdd00e42b",
+    "elapsedMinutes": [
+      0,
+      60
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9362",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9362.html",
+    "sourceUpdatedAt": "2026-08-22",
+    "sourceSha256": "e41b8af68066f68849ca4a77b0496877c8d2587ad128435763e297c56994a6af",
+    "elapsedMinutes": [
+      0,
+      94
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9363",
+    "category": "D",
+    "stopNames": [
+      "吐鲁番北",
+      "乌鲁木齐南",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9363.html",
+    "sourceUpdatedAt": "2026-04-28",
+    "sourceSha256": "22ba52954013cb265961ac32dee875476bb4f001dbaf56a845aee5bef51ff442",
+    "elapsedMinutes": [
+      0,
+      51,
+      80
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9364",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9364.html",
+    "sourceUpdatedAt": "2026-04-28",
+    "sourceSha256": "dd22bfcf2766fc096e42696e10c3876130ec7c94a957c7063cbdf8f1236d0e82",
+    "elapsedMinutes": [
+      0,
+      56
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9365",
+    "category": "D",
+    "stopNames": [
+      "吐鲁番北",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9365.html",
+    "sourceUpdatedAt": "2026-07-02",
+    "sourceSha256": "313bfe6af55f3a5feae5778538480b1ac6bfaf0afa331dc693cdf3cecb4a1249",
+    "elapsedMinutes": [
+      0,
+      80
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9366",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐南",
+      "吐鲁番北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9366.html",
+    "sourceUpdatedAt": "2026-07-02",
+    "sourceSha256": "18c749f7fee89a29572ee4bd12f477e5f8aaeb85cf5cea1fea227619d3d6dd12",
+    "elapsedMinutes": [
+      0,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9367",
+    "category": "D",
+    "stopNames": [
+      "哈密",
+      "吐哈",
+      "鄯善北",
+      "吐鲁番北",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9367.html",
+    "sourceUpdatedAt": "2026-05-28",
+    "sourceSha256": "534bac9350fccc0a40629268e8c5d6b7bbdcae4b79f5bf3dc1d484f964c4eedc",
+    "elapsedMinutes": [
+      0,
+      68,
+      83,
+      113,
+      173
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9368",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北",
+      "鄯善北",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9368.html",
+    "sourceUpdatedAt": "2026-05-28",
+    "sourceSha256": "3683388f018fe3872f8675ecc209e74bb516aac2507eaf655d325b5cd821208b",
+    "elapsedMinutes": [
+      0,
+      58,
+      92,
+      175
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9371",
+    "category": "D",
+    "stopNames": [
+      "鄯善北",
+      "吐鲁番北",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9371.html",
+    "sourceUpdatedAt": "2026-05-28",
+    "sourceSha256": "b9f0958baa2739d7f79721d617990139dbefafadc08f6c7302b6645393e2a9bb",
+    "elapsedMinutes": [
+      0,
+      51,
+      126
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9372",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐",
+      "乌鲁木齐南",
+      "吐鲁番北",
+      "鄯善北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9372.html",
+    "sourceUpdatedAt": "2026-05-28",
+    "sourceSha256": "dd550c844d7b380664200d388108538464b9527349bca88062e1c7335d7705df",
+    "elapsedMinutes": [
+      0,
+      13,
+      112,
+      158
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9373",
+    "category": "D",
+    "stopNames": [
+      "吐鲁番北",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9373.html",
+    "sourceUpdatedAt": "2026-04-06",
+    "sourceSha256": "c5b63187d1955b6218c23bff833bebefdfb6c4a9f04ea952f5a097bbe9f61545",
+    "elapsedMinutes": [
+      0,
+      59
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9374",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐南",
+      "吐鲁番北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9374.html",
+    "sourceUpdatedAt": "2026-04-06",
+    "sourceSha256": "5e726c4a7e3cddd7d9683473001cf6e7856aea88fa5a56af616bf060afda3679",
+    "elapsedMinutes": [
+      0,
+      74
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9375",
+    "category": "D",
+    "stopNames": [
+      "吐鲁番北",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9375.html",
+    "sourceUpdatedAt": "2026-07-23",
+    "sourceSha256": "8117d69c2f4422f2a00d60cad20300c43b6668202709597cb480a22f21713335",
+    "elapsedMinutes": [
+      0,
+      80
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9376",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9376.html",
+    "sourceUpdatedAt": "2026-07-23",
+    "sourceSha256": "65e6d34a464408f4f587afe6748a8a6d6b857916e3d3a4300a7767620b630d22",
+    "elapsedMinutes": [
+      0,
+      100
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6701",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "奎屯",
+      "乌苏",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6701.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6756bf0ef503614d239b24a6b160cf032a2314ea86c00474a47febaeed70a097",
+    "elapsedMinutes": [
+      0,
+      91,
+      151,
+      169,
+      538
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6702",
+    "category": "K",
+    "stopNames": [
+      "伊宁",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6702.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "334afd030b836075923299360e69fafc83f8e3e3bb3ce5598de6afe5918f2dae",
+    "elapsedMinutes": [
+      0,
+      412,
+      450,
+      477,
+      610
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6703",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6703.html",
+    "sourceUpdatedAt": "2026-06-30",
+    "sourceSha256": "936a70e8b6496c620b6013682582a454a677217132675b691866167d9c05c97b",
+    "elapsedMinutes": [
+      0,
+      91,
+      151,
+      553
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6704",
+    "category": "K",
+    "stopNames": [
+      "伊宁",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6704.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "946ccc4eee48425363eb118556d5669019c0ba8d597f5c032370df6a5956ee2c",
+    "elapsedMinutes": [
+      0,
+      367,
+      410,
+      442,
+      574
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6705",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6705.html",
+    "sourceUpdatedAt": "2026-07-02",
+    "sourceSha256": "f02dfc7c325686da41c2ada36d2d523922ddd7c9bf0888c5c7462622bc68d4d2",
+    "elapsedMinutes": [
+      0,
+      91,
+      151,
+      553
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6706",
+    "category": "K",
+    "stopNames": [
+      "伊宁",
+      "奎屯",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6706.html",
+    "sourceUpdatedAt": "2026-07-01",
+    "sourceSha256": "2dede5f72e62a1c30fc3e9b6774f80382435aede9dd2483b665861ef7ff220a6",
+    "elapsedMinutes": [
+      0,
+      379,
+      552
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6707",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6707.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "1111a932518e715fb68b7ec8c83788893991570ca84f8b2b49cd85e0f05456f1",
+    "elapsedMinutes": [
+      0,
+      91
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6708",
+    "category": "K",
+    "stopNames": [
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6708.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "eba519e98fae5c7d65caf4888111afc5a1685c17b5295e1517f28a0a4b0267e9",
+    "elapsedMinutes": [
+      0,
+      90
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6711",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "奎屯",
+      "克拉玛依",
+      "额敏",
+      "塔城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6711.html",
+    "sourceUpdatedAt": "2026-05-25",
+    "sourceSha256": "ee550be0f3a2470dbc3b45a1e1356d0e9356b462f403c6a019fbbb81a7ccf8b4",
+    "elapsedMinutes": [
+      0,
+      209,
+      377,
+      569,
+      603
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6712",
+    "category": "K",
+    "stopNames": [
+      "塔城",
+      "额敏",
+      "克拉玛依",
+      "奎屯",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6712.html",
+    "sourceUpdatedAt": "2026-05-28",
+    "sourceSha256": "e543e7adc753e8339dba677cbd80707ac573364b891fe2cba32f82e39e21745a",
+    "elapsedMinutes": [
+      0,
+      31,
+      270,
+      420,
+      722
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6713",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "奎屯",
+      "博乐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6713.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "772f529114d90e46f8a46f70d708d86f2c771279f7a9320d1e2109eb7f279c24",
+    "elapsedMinutes": [
+      0,
+      91,
+      152,
+      391
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6714",
+    "category": "K",
+    "stopNames": [
+      "博乐",
+      "精河",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6714.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "7f3e19654bff2d6e01f2f50f4ec5c99a322afd8a1e5ce81d6b16754913fac2b1",
+    "elapsedMinutes": [
+      0,
+      79,
+      266,
+      304,
+      331,
+      423
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6719",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "克拉玛依"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6719.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "3c7e638af78affc75abcb073578d6e3902467b9daf1e9f6ca98a23785e5ad622",
+    "elapsedMinutes": [
+      0,
+      91,
+      119,
+      159,
+      286
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6720",
+    "category": "K",
+    "stopNames": [
+      "克拉玛依",
+      "奎屯",
+      "石河子",
+      "乌鲁木齐",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6720.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "fee384a9a57219bbfd9e0cbe377d31ac77ae6dbcd6dcf47a5adf54588255ff68",
+    "elapsedMinutes": [
+      0,
+      160,
+      220,
+      312,
+      351
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6721",
+    "category": "K",
+    "stopNames": [
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6721.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "286d00cc82247edc853c2c273a5081558d9194b2641bccecf961bf3ef211ff67",
+    "elapsedMinutes": [
+      0,
+      39,
+      70,
+      100,
+      549
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6722",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6722.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "306e9d87c9351c6cb88465f5958cd789271aadf063cb1a7e64a22b9eb2a1e0ec",
+    "elapsedMinutes": [
+      0,
+      243,
+      271,
+      301,
+      349
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6723",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6723.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "5a1e4fb099704ab2d54220f577710293d5a0cf0b0d261497c24e921fe0328857",
+    "elapsedMinutes": [
+      0,
+      243,
+      271,
+      301,
+      349
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6724",
+    "category": "K",
+    "stopNames": [
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6724.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "7307be5e6de1ef10506196aa4902ffb25018dcdd4ee1a8f745f2e9a5258b907b",
+    "elapsedMinutes": [
+      0,
+      39,
+      70,
+      100,
+      549
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6725",
+    "category": "K",
+    "stopNames": [
+      "喀什",
+      "巴楚",
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6725.html",
+    "sourceUpdatedAt": "2026-08-05",
+    "sourceSha256": "0a5e9ae4f0a4b8b37050c51e149bb942cb47c707cf15e5ad70ce255550deb528",
+    "elapsedMinutes": [
+      0,
+      229,
+      429,
+      650,
+      1041,
+      1105,
+      1135,
+      1165,
+      1497
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6726",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒",
+      "库车",
+      "新和",
+      "阿克苏",
+      "巴楚",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6726.html",
+    "sourceUpdatedAt": "2026-08-06",
+    "sourceSha256": "ee31945b418683a9a59cb8343081bc599e62668fe0482f46e4b39c23f98f2a9d",
+    "elapsedMinutes": [
+      0,
+      236,
+      264,
+      294,
+      335,
+      519,
+      554,
+      685,
+      876,
+      1147
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6727",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒",
+      "库车",
+      "新和",
+      "阿克苏",
+      "巴楚",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6727.html",
+    "sourceUpdatedAt": "2026-08-06",
+    "sourceSha256": "77db421c88188ecdf0aed19a126b7364348e97042f550e635b13f06053d8d347",
+    "elapsedMinutes": [
+      0,
+      236,
+      264,
+      294,
+      335,
+      519,
+      554,
+      685,
+      876,
+      1147
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6728",
+    "category": "K",
+    "stopNames": [
+      "喀什",
+      "巴楚",
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6728.html",
+    "sourceUpdatedAt": "2026-08-05",
+    "sourceSha256": "005de66692cb4170b6426e9cd39ebe77e8eab6d4f6e9928c896440b5023da7af",
+    "elapsedMinutes": [
+      0,
+      229,
+      429,
+      650,
+      1041,
+      1105,
+      1135,
+      1165,
+      1497
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6735",
+    "category": "K",
+    "stopNames": [
+      "喀什",
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "和硕",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6735.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9ace6a183050bce055797be1d76dc24034960b41556671a278e7a087623d7e83",
+    "elapsedMinutes": [
+      0,
+      296,
+      484,
+      777,
+      896,
+      1236
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6736",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐南",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒",
+      "库车",
+      "阿克苏",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6736.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "ea6ac1c38e67ab6ff9d9503f42b5358808997316f627ad646bb13254b6a6508c",
+    "elapsedMinutes": [
+      0,
+      288,
+      320,
+      353,
+      395,
+      630,
+      861,
+      1197
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6737",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐南",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒",
+      "库车",
+      "阿克苏",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6737.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "6a584cb342ae0e98ced035e6d9384591a8cf9a3896bdfa2434c7ae432b9acc2c",
+    "elapsedMinutes": [
+      0,
+      288,
+      320,
+      353,
+      395,
+      630,
+      861,
+      1197
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6738",
+    "category": "K",
+    "stopNames": [
+      "喀什",
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "和硕",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6738.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "47b2826374a71b66d0879a43a703babed36eb3f6a64ae189de5bc383cccdd38a",
+    "elapsedMinutes": [
+      0,
+      296,
+      484,
+      777,
+      896,
+      1236
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6741",
+    "category": "K",
+    "stopNames": [
+      "喀什",
+      "巴楚",
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6741.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e0640fc06218db6eb62980f684b978229d9d4bd2eca387527c282452ef6b52d5",
+    "elapsedMinutes": [
+      0,
+      247,
+      500,
+      666,
+      863,
+      925,
+      976,
+      1278
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6742",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "和硕",
+      "库尔勒",
+      "库车",
+      "阿克苏",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6742.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9724f338faec46928d71ed0ce90f1beec107f9c1bc44a9856c70b91aaa451cb2",
+    "elapsedMinutes": [
+      0,
+      277,
+      369,
+      585,
+      823,
+      1152
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6743",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "和硕",
+      "库尔勒",
+      "库车",
+      "阿克苏",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6743.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6db264748b7eb2dd3f824715a3e2fcce2536c599e9c479802854882a36b48a10",
+    "elapsedMinutes": [
+      0,
+      277,
+      369,
+      585,
+      823,
+      1152
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6744",
+    "category": "K",
+    "stopNames": [
+      "喀什",
+      "巴楚",
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6744.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f66cf167ed5e20bbda1c158831a64b8f443e22e88ca0eb71604db983e3974f23",
+    "elapsedMinutes": [
+      0,
+      247,
+      500,
+      666,
+      863,
+      925,
+      976,
+      1278
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6745",
+    "category": "K",
+    "stopNames": [
+      "喀什",
+      "巴楚",
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6745.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "010e8b8ea33d57f1adea3afab3538c3f7e2c617e4c1b09a048794e0a807a156e",
+    "elapsedMinutes": [
+      0,
+      248,
+      476,
+      642,
+      1068,
+      1132,
+      1210,
+      1468
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6746",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒",
+      "库车",
+      "阿克苏",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6746.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b4a73b5fd356ffa857445b5c73af265013ed542bc5d9a2702e65b3332f94984d",
+    "elapsedMinutes": [
+      0,
+      273,
+      304,
+      336,
+      384,
+      568,
+      723,
+      1170
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6747",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒",
+      "库车",
+      "阿克苏",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6747.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a542a6d3d3e0b30b69c10fc9aa218580f669a67a53000e8326c1bb2534e35b90",
+    "elapsedMinutes": [
+      0,
+      273,
+      304,
+      336,
+      384,
+      568,
+      723,
+      1170
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6748",
+    "category": "K",
+    "stopNames": [
+      "喀什",
+      "巴楚",
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6748.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "87554507903dbbb2904dd2ef8c3ff115ed7e0248721d22c514822257213ba8e0",
+    "elapsedMinutes": [
+      0,
+      248,
+      476,
+      642,
+      1068,
+      1132,
+      1210,
+      1468
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6751",
+    "category": "K",
+    "stopNames": [
+      "皮山",
+      "昆玉",
+      "墨玉",
+      "和田",
+      "洛浦",
+      "策勒",
+      "于田",
+      "民丰",
+      "若羌",
+      "库尔勒",
+      "乌鲁木齐",
+      "奎屯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6751.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "027ebf99af83e0e4b24963ebbd60f5139910d6924607405fc6136177b5ad4672",
+    "elapsedMinutes": [
+      0,
+      57,
+      87,
+      106,
+      158,
+      203,
+      257,
+      321,
+      690,
+      996,
+      1336,
+      1507
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6752",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒",
+      "库车",
+      "阿克苏",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6752.html",
+    "sourceUpdatedAt": "2026-09-03",
+    "sourceSha256": "66c5b3fdbec7710a702c2b344f9a834671488c9a925dcdb41faee70e0b455bf1",
+    "elapsedMinutes": [
+      0,
+      273,
+      304,
+      336,
+      384,
+      568,
+      723,
+      1170
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6753",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒",
+      "库车",
+      "阿克苏",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6753.html",
+    "sourceUpdatedAt": "2026-09-03",
+    "sourceSha256": "aaa27f0cfd752d658f9109e1dbfe4a1001e28dc9cba42a2dc458fb2b397276ce",
+    "elapsedMinutes": [
+      0,
+      273,
+      304,
+      336,
+      384,
+      568,
+      723,
+      1170
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6754",
+    "category": "K",
+    "stopNames": [
+      "皮山",
+      "昆玉",
+      "墨玉",
+      "和田",
+      "洛浦",
+      "策勒",
+      "于田",
+      "民丰",
+      "若羌",
+      "库尔勒",
+      "乌鲁木齐",
+      "奎屯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6754.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "82f2fcee08e18dc5e3c7c3ccba47ec045803e8f0ea3b3a08fcb7eebc15829d17",
+    "elapsedMinutes": [
+      0,
+      57,
+      87,
+      106,
+      158,
+      203,
+      257,
+      321,
+      690,
+      996,
+      1336,
+      1507
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6755",
+    "category": "K",
+    "stopNames": [
+      "和田",
+      "莎车",
+      "阿克陶",
+      "喀什",
+      "巴楚",
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6755.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "16761e98acbb768cbdcfebf6dc61e6cad4ac10c105fc1e1a3f796d2dc508065d",
+    "elapsedMinutes": [
+      0,
+      226,
+      347,
+      385,
+      640,
+      840,
+      1061,
+      1452,
+      1516,
+      1546,
+      1576,
+      1908
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6756",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒",
+      "库车",
+      "新和",
+      "阿克苏",
+      "巴楚",
+      "喀什",
+      "莎车",
+      "泽普",
+      "叶城",
+      "皮山",
+      "墨玉",
+      "和田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6756.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a19a3f723b21df23f80e404ed9438153457f9376630d04c33e194177a96cb045",
+    "elapsedMinutes": [
+      0,
+      236,
+      264,
+      294,
+      335,
+      519,
+      554,
+      685,
+      876,
+      1147,
+      1370,
+      1389,
+      1418,
+      1470,
+      1553,
+      1572
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6757",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "马兰",
+      "和硕",
+      "焉耆",
+      "库尔勒",
+      "库车",
+      "新和",
+      "阿克苏",
+      "巴楚",
+      "喀什",
+      "莎车",
+      "泽普",
+      "叶城",
+      "皮山",
+      "墨玉",
+      "和田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6757.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3655e962b5e908169c8acf1315ca78c53b3fe0b57ee46203932d8760a8c74ab8",
+    "elapsedMinutes": [
+      0,
+      236,
+      264,
+      294,
+      335,
+      519,
+      554,
+      685,
+      876,
+      1147,
+      1370,
+      1389,
+      1418,
+      1470,
+      1553,
+      1572
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6758",
+    "category": "K",
+    "stopNames": [
+      "和田",
+      "莎车",
+      "阿克陶",
+      "喀什",
+      "巴楚",
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6758.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d29fd493ed253c05b3742eb56c518c5d735c618e8e0e6e344db19bea02e6894e",
+    "elapsedMinutes": [
+      0,
+      226,
+      347,
+      385,
+      640,
+      840,
+      1061,
+      1452,
+      1516,
+      1546,
+      1576,
+      1908
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6761",
+    "category": "K",
+    "stopNames": [
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6761.html",
+    "sourceUpdatedAt": "2026-05-28",
+    "sourceSha256": "f8366c04614ddddacbb085392e45de8b33ffc89c1f703308f604eb364592757f",
+    "elapsedMinutes": [
+      0,
+      136,
+      297,
+      361,
+      392,
+      422,
+      658
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6762",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "库尔勒",
+      "库车",
+      "新和",
+      "阿克苏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6762.html",
+    "sourceUpdatedAt": "2026-05-25",
+    "sourceSha256": "b9b6feec08e5f7680990c3f359143dc846e2f72c7958ba9ef320c11eb597ff87",
+    "elapsedMinutes": [
+      0,
+      385,
+      583,
+      618,
+      729
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6763",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "库尔勒",
+      "库车",
+      "新和",
+      "阿克苏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6763.html",
+    "sourceUpdatedAt": "2026-05-25",
+    "sourceSha256": "eb0983498458b4640fc4c82c6b287ceb9f10719870cddf136ec347656a63e104",
+    "elapsedMinutes": [
+      0,
+      385,
+      583,
+      618,
+      729
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6764",
+    "category": "K",
+    "stopNames": [
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6764.html",
+    "sourceUpdatedAt": "2026-05-28",
+    "sourceSha256": "c17fc35cef61bddfc28ca3976986619b3ce0d17a4eb8cea122c53a579b529b37",
+    "elapsedMinutes": [
+      0,
+      136,
+      297,
+      361,
+      392,
+      422,
+      658
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6765",
+    "category": "K",
+    "stopNames": [
+      "米兰",
+      "若羌",
+      "库尔勒",
+      "焉耆",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6765.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "211655f906560de53e699a992428699afe5672af940518bfb91e62210cae9faa",
+    "elapsedMinutes": [
+      0,
+      36,
+      361,
+      428,
+      753
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6766",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "焉耆",
+      "库尔勒",
+      "若羌",
+      "米兰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6766.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "2a4b80b7d73737e15a1c142afe3dd1025cfbb1b7009dacc99ec8dadc97c2fef4",
+    "elapsedMinutes": [
+      0,
+      278,
+      319,
+      675,
+      733
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6767",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "焉耆",
+      "库尔勒",
+      "若羌",
+      "米兰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6767.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "2d36acf41a5b3b293ac6166326ebc7713df6fdbcdfed0f9680080ccc16a84d9e",
+    "elapsedMinutes": [
+      0,
+      278,
+      319,
+      675,
+      733
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6768",
+    "category": "K",
+    "stopNames": [
+      "米兰",
+      "若羌",
+      "库尔勒",
+      "焉耆",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6768.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "39ccf6f9b8bccebc7bcaced63fe3530006dda6ba8536ae09f29fe1f92e52247f",
+    "elapsedMinutes": [
+      0,
+      36,
+      361,
+      428,
+      753
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9717",
+    "category": "K",
+    "stopNames": [
+      "和田",
+      "墨玉",
+      "昆玉",
+      "皮山",
+      "叶城",
+      "莎车",
+      "英吉沙",
+      "喀什",
+      "阿图什",
+      "阿克苏",
+      "库车",
+      "轮台",
+      "铁门关",
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9717.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "001ae5179714055f041161dcb1e8885bcae4433a63e70942a3784993b5999e90",
+    "elapsedMinutes": [
+      0,
+      16,
+      47,
+      108,
+      161,
+      204,
+      283,
+      335,
+      389,
+      665,
+      828,
+      902,
+      984,
+      1016,
+      1077,
+      1106,
+      1135,
+      1505
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9718",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "焉耆",
+      "库尔勒",
+      "轮台",
+      "库车",
+      "新和",
+      "阿克苏",
+      "巴楚",
+      "阿图什",
+      "喀什",
+      "英吉沙",
+      "莎车",
+      "泽普",
+      "叶城",
+      "皮山",
+      "昆玉",
+      "墨玉",
+      "和田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9718.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8b879537fd31a299abf4875fb8ceec9bb9a6c1e9c3ce7c3cd372aaa68a76b9c8",
+    "elapsedMinutes": [
+      0,
+      387,
+      430,
+      565,
+      623,
+      658,
+      771,
+      946,
+      1078,
+      1112,
+      1176,
+      1253,
+      1274,
+      1304,
+      1357,
+      1417,
+      1447,
+      1466
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9719",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "焉耆",
+      "库尔勒",
+      "轮台",
+      "库车",
+      "新和",
+      "阿克苏",
+      "巴楚",
+      "阿图什",
+      "喀什",
+      "英吉沙",
+      "莎车",
+      "泽普",
+      "叶城",
+      "皮山",
+      "昆玉",
+      "墨玉",
+      "和田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9719.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e59fcd3bd736f42fe50548c5bb12820bbc96e23b672014bcf557c475007323fa",
+    "elapsedMinutes": [
+      0,
+      387,
+      430,
+      565,
+      623,
+      658,
+      771,
+      946,
+      1078,
+      1112,
+      1176,
+      1253,
+      1274,
+      1304,
+      1357,
+      1417,
+      1447,
+      1466
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9720",
+    "category": "K",
+    "stopNames": [
+      "和田",
+      "墨玉",
+      "昆玉",
+      "皮山",
+      "叶城",
+      "莎车",
+      "英吉沙",
+      "喀什",
+      "阿图什",
+      "阿克苏",
+      "库车",
+      "轮台",
+      "铁门关",
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "马兰",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9720.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a534bb7da597a0f8217aef80d0523d2b2d3789cab19517833863a272b902e5be",
+    "elapsedMinutes": [
+      0,
+      16,
+      47,
+      108,
+      161,
+      204,
+      283,
+      335,
+      389,
+      665,
+      828,
+      902,
+      984,
+      1016,
+      1077,
+      1106,
+      1135,
+      1505
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9735",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "玛纳斯",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "克拉玛依",
+      "福海",
+      "北屯市",
+      "阿勒泰",
+      "阿勒泰",
+      "富蕴"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9735.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "63e6656ffc6e968b6b902cd74f783777cbe0c19c4f4a9c796d4e97ed9908c450",
+    "elapsedMinutes": [
+      0,
+      81,
+      96,
+      122,
+      162,
+      323,
+      690,
+      723,
+      800,
+      765,
+      896
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        10
+      ]
+    }
+  },
+  {
+    "trainNumber": "K9736",
+    "category": "K",
+    "stopNames": [
+      "阿勒泰",
+      "北屯市",
+      "福海",
+      "克拉玛依",
+      "奎屯",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9736.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8fe24f0a1cb1b98946d9f0d87ace4bb93e5404ebba9bb28f7616625188955c93",
+    "elapsedMinutes": [
+      0,
+      47,
+      88,
+      356,
+      496,
+      560,
+      670
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9738",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "玛纳斯",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "克拉玛依",
+      "福海",
+      "北屯市",
+      "阿勒泰",
+      "阿勒泰",
+      "富蕴"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9738.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "dc85127516b07b807f56d6bc0c0c6731a276e0d4e48965466c63d4f94db5b16a",
+    "elapsedMinutes": [
+      0,
+      81,
+      96,
+      122,
+      162,
+      323,
+      690,
+      723,
+      800,
+      765,
+      896
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        10
+      ]
+    }
+  },
+  {
+    "trainNumber": "K9751",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "准东",
+      "富蕴",
+      "阿勒泰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9751.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "263c3230cbf3abc597793dbd0d5e54d7a9d47fc4c4f2eb1067602d0f03bf1ce8",
+    "elapsedMinutes": [
+      0,
+      147,
+      341,
+      435
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9752",
+    "category": "K",
+    "stopNames": [
+      "阿勒泰",
+      "富蕴",
+      "准东",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9752.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f19d712cf7b384ec56e35f6023d283520d7712f06dfb3ff64b5c1ece0d2c3bd8",
+    "elapsedMinutes": [
+      0,
+      89,
+      257,
+      419
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9755",
+    "category": "K",
+    "stopNames": [
+      "米兰",
+      "若羌",
+      "库尔勒",
+      "焉耆",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9755.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "7c772bc96ac5bb82e7077a160e7f7d55314a80c284d00468db89d7e17ef7769e",
+    "elapsedMinutes": [
+      0,
+      36,
+      362,
+      438,
+      723
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9756",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "焉耆",
+      "库尔勒",
+      "若羌",
+      "米兰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9756.html",
+    "sourceUpdatedAt": "2026-09-02",
+    "sourceSha256": "b3c1e313471bd589a3da685a378529a4d641ef74ef46b9a11285ccc345399976",
+    "elapsedMinutes": [
+      0,
+      280,
+      323,
+      673,
+      731
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9757",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "焉耆",
+      "库尔勒",
+      "若羌",
+      "米兰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9757.html",
+    "sourceUpdatedAt": "2026-09-02",
+    "sourceSha256": "c492b632b6e76d5ab1e7ffe5d9f9c834b32a2211b7854dc793ecd21d7ad005cf",
+    "elapsedMinutes": [
+      0,
+      280,
+      323,
+      673,
+      731
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9758",
+    "category": "K",
+    "stopNames": [
+      "米兰",
+      "若羌",
+      "库尔勒",
+      "焉耆",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9758.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "dc49591e4018838b2c323fee13c66ca708ea860e314330eea6b6879b5c63df6c",
+    "elapsedMinutes": [
+      0,
+      36,
+      362,
+      438,
+      723
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9759",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐南",
+      "乌鲁木齐",
+      "石河子",
+      "奎屯",
+      "尼勒克",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9759.html",
+    "sourceUpdatedAt": "2026-01-16",
+    "sourceSha256": "539b3ab15df6f0414a2eb7f750d43ead28f9deb9668989e2c8a6164526a08c59",
+    "elapsedMinutes": [
+      0,
+      14,
+      151,
+      216,
+      513,
+      640
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9760",
+    "category": "K",
+    "stopNames": [
+      "伊宁",
+      "尼勒克",
+      "奎屯",
+      "石河子",
+      "乌鲁木齐",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9760.html",
+    "sourceUpdatedAt": "2026-01-16",
+    "sourceSha256": "7c153a2e4a1132a1869caea299fe717925369f3d81acbc450e1c63054ed3e118",
+    "elapsedMinutes": [
+      0,
+      63,
+      388,
+      455,
+      587,
+      621
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9765",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "奎屯",
+      "克拉玛依",
+      "阿勒泰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9765.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "5655dd80a0d5f3d5fa874b70820e97c1586685026018c22098c72b6bc26c2bbb",
+    "elapsedMinutes": [
+      0,
+      94,
+      155,
+      266,
+      560
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9766",
+    "category": "K",
+    "stopNames": [
+      "阿勒泰",
+      "克拉玛依",
+      "奎屯",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9766.html",
+    "sourceUpdatedAt": "2026-06-30",
+    "sourceSha256": "741bfc95d37f59990bf64649f21170dc4e7b6380462a513d4d22e1fff204516f",
+    "elapsedMinutes": [
+      0,
+      307,
+      407,
+      468,
+      560
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9767",
+    "category": "K",
+    "stopNames": [
+      "喀什",
+      "巴楚",
+      "阿克苏",
+      "新和",
+      "库车",
+      "轮台",
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9767.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d8dc96dd681f9ec9f5b90101e810436a661067190995473997f7c72f3d8b8852",
+    "elapsedMinutes": [
+      0,
+      149,
+      320,
+      445,
+      476,
+      542,
+      651,
+      708,
+      737,
+      1078
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9768",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐南",
+      "马兰",
+      "焉耆",
+      "库尔勒",
+      "轮台",
+      "库车",
+      "阿克苏",
+      "巴楚",
+      "阿图什",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9768.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ba4c01626ec9c2926caa9119b5fee47cfea8c47c0724876bc31035342f902344",
+    "elapsedMinutes": [
+      0,
+      318,
+      392,
+      440,
+      567,
+      630,
+      770,
+      912,
+      1045,
+      1079
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9769",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐南",
+      "马兰",
+      "焉耆",
+      "库尔勒",
+      "轮台",
+      "库车",
+      "阿克苏",
+      "巴楚",
+      "阿图什",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9769.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8cd4d1e7475b39abc82f8968736b4b1767e7070b2bf970418ca52880f1424a54",
+    "elapsedMinutes": [
+      0,
+      318,
+      392,
+      440,
+      567,
+      630,
+      770,
+      912,
+      1045,
+      1079
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9770",
+    "category": "K",
+    "stopNames": [
+      "喀什",
+      "巴楚",
+      "阿克苏",
+      "新和",
+      "库车",
+      "轮台",
+      "库尔勒",
+      "焉耆",
+      "和硕",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9770.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7ec67eedd52fa795634d6e602cbba867291847e1e001f6308d0b6ab29008b01c",
+    "elapsedMinutes": [
+      0,
+      149,
+      320,
+      445,
+      476,
+      542,
+      651,
+      708,
+      737,
+      1078
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9771",
+    "category": "K",
+    "stopNames": [
+      "喀什",
+      "阿图什",
+      "巴楚",
+      "阿克苏",
+      "新和",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "吐鲁番北",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9771.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e2f30dc282dd2d24a8278172043d5e658239dc239f9435fb747eba4518ec91c9",
+    "elapsedMinutes": [
+      0,
+      31,
+      155,
+      294,
+      447,
+      479,
+      647,
+      706,
+      917,
+      1044
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9772",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐南",
+      "吐鲁番北",
+      "和硕",
+      "焉耆",
+      "库尔勒",
+      "铁门关",
+      "轮台",
+      "库车",
+      "新和",
+      "阿克苏",
+      "巴楚",
+      "阿图什",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9772.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cab24037c83b77e28e6107222f74fe5a14be20541dfffecc392942004bc494b7",
+    "elapsedMinutes": [
+      0,
+      99,
+      318,
+      348,
+      389,
+      447,
+      529,
+      587,
+      626,
+      739,
+      1012,
+      1139,
+      1177
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9773",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐南",
+      "吐鲁番北",
+      "和硕",
+      "焉耆",
+      "库尔勒",
+      "铁门关",
+      "轮台",
+      "库车",
+      "新和",
+      "阿克苏",
+      "巴楚",
+      "阿图什",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9773.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1b481f7d9567c44e81c799d1f760ea2f24a8627eddebc7f8f2f3f5cd2b69eb02",
+    "elapsedMinutes": [
+      0,
+      99,
+      318,
+      348,
+      389,
+      447,
+      529,
+      587,
+      626,
+      739,
+      1012,
+      1139,
+      1177
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9774",
+    "category": "K",
+    "stopNames": [
+      "喀什",
+      "阿图什",
+      "巴楚",
+      "阿克苏",
+      "新和",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "吐鲁番北",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9774.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "291ce36dfd8c3d7cf9ad3845259b342239f189bafab3b0f07f8c71d7aaef2b6c",
+    "elapsedMinutes": [
+      0,
+      31,
+      155,
+      294,
+      447,
+      479,
+      647,
+      706,
+      917,
+      1044
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9775",
+    "category": "K",
+    "stopNames": [
+      "图木舒克",
+      "阿克苏",
+      "新和",
+      "库车",
+      "轮台",
+      "库尔勒",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9775.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6d3804a2dd77ee804976d1a1a4875ab8072b2642dcfde161a653320868438fc8",
+    "elapsedMinutes": [
+      0,
+      137,
+      253,
+      284,
+      342,
+      451,
+      798
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9776",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "焉耆",
+      "库尔勒",
+      "轮台",
+      "库车",
+      "新和",
+      "阿克苏",
+      "图木舒克"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9776.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3273c4bfa7fb94746ebf6b6e97aebe17300a72f911e79e3ce868530fd3bd3bc5",
+    "elapsedMinutes": [
+      0,
+      309,
+      350,
+      479,
+      545,
+      592,
+      747,
+      905
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9777",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "焉耆",
+      "库尔勒",
+      "轮台",
+      "库车",
+      "新和",
+      "阿克苏",
+      "图木舒克"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9777.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7cc77a77bd7187b0532f3aab8aeb279c82f8af1030c723130e32b0d54bcc7de5",
+    "elapsedMinutes": [
+      0,
+      309,
+      350,
+      479,
+      545,
+      592,
+      747,
+      905
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9778",
+    "category": "K",
+    "stopNames": [
+      "图木舒克",
+      "阿克苏",
+      "新和",
+      "库车",
+      "轮台",
+      "库尔勒",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9778.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "504060e749322e469320e6d900a84a2713d1889ed976761c23c7708f6d325ee9",
+    "elapsedMinutes": [
+      0,
+      137,
+      253,
+      284,
+      342,
+      451,
+      798
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9781",
+    "category": "K",
+    "stopNames": [
+      "阿拉尔",
+      "阿瓦提",
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "吐鲁番北",
+      "乌鲁木齐南",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9781.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c172fb1d8862a827bb4ce2d096260877d1fe3744fc06e9d99a59564a6afc2da3",
+    "elapsedMinutes": [
+      0,
+      55,
+      135,
+      300,
+      530,
+      588,
+      769,
+      899,
+      924
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9782",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北",
+      "焉耆",
+      "库尔勒",
+      "轮台",
+      "库车",
+      "新和",
+      "阿克苏",
+      "阿瓦提",
+      "阿拉尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9782.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "84cfd7740fe73d0aa752b7c5f1c7f7c6e5aaf1ff5d6ed31cf60931c7bbe1902f",
+    "elapsedMinutes": [
+      0,
+      102,
+      307,
+      348,
+      510,
+      588,
+      629,
+      740,
+      831,
+      889
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9783",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北",
+      "焉耆",
+      "库尔勒",
+      "轮台",
+      "库车",
+      "新和",
+      "阿克苏",
+      "阿瓦提",
+      "阿拉尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9783.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fc7fa3c8111e51184e5ef88f76b4c75fb1fca9ffd3def65768ad891ba4036eb3",
+    "elapsedMinutes": [
+      0,
+      102,
+      307,
+      348,
+      510,
+      588,
+      629,
+      740,
+      831,
+      889
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9784",
+    "category": "K",
+    "stopNames": [
+      "阿拉尔",
+      "阿瓦提",
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "吐鲁番北",
+      "乌鲁木齐南",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9784.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ca10879b5db11f58216a08e4d8c054f8ca24539db8364d4c9b651de3d76e0d3e",
+    "elapsedMinutes": [
+      0,
+      55,
+      135,
+      300,
+      530,
+      588,
+      769,
+      899,
+      924
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9785",
+    "category": "K",
+    "stopNames": [
+      "喀什",
+      "阿克陶",
+      "英吉沙",
+      "莎车",
+      "叶城",
+      "皮山",
+      "昆玉",
+      "墨玉",
+      "和田",
+      "洛浦",
+      "策勒",
+      "玉泉镇",
+      "于田",
+      "民丰",
+      "南屯",
+      "金山",
+      "且末",
+      "瓦石峡",
+      "若羌",
+      "尉犁",
+      "库尔勒",
+      "焉耆",
+      "吐鲁番北",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9785.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5d4c257277d4318119e70cc816d2de26887d1a581fe815ea915ba466b29144d5",
+    "elapsedMinutes": [
+      0,
+      26,
+      47,
+      123,
+      167,
+      217,
+      277,
+      311,
+      340,
+      405,
+      461,
+      506,
+      536,
+      607,
+      710,
+      792,
+      809,
+      925,
+      985,
+      1252,
+      1292,
+      1357,
+      1552,
+      1725
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9786",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐南",
+      "吐鲁番北",
+      "马兰",
+      "焉耆",
+      "库尔勒",
+      "尉犁",
+      "若羌",
+      "瓦石峡",
+      "且末",
+      "金山",
+      "南屯",
+      "民丰",
+      "于田",
+      "玉泉镇",
+      "策勒",
+      "洛浦",
+      "和田",
+      "墨玉",
+      "昆玉",
+      "皮山",
+      "叶城",
+      "泽普",
+      "莎车",
+      "英吉沙",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9786.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9a5b6f0e574e8665d84b129e434a427a165f847f4509ceb6043b764f1289f795",
+    "elapsedMinutes": [
+      0,
+      139,
+      330,
+      383,
+      424,
+      484,
+      727,
+      812,
+      932,
+      949,
+      1032,
+      1133,
+      1206,
+      1242,
+      1277,
+      1340,
+      1382,
+      1433,
+      1465,
+      1527,
+      1580,
+      1609,
+      1628,
+      1712,
+      1761
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9787",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐南",
+      "吐鲁番北",
+      "马兰",
+      "焉耆",
+      "库尔勒",
+      "尉犁",
+      "若羌",
+      "瓦石峡",
+      "且末",
+      "金山",
+      "南屯",
+      "民丰",
+      "于田",
+      "玉泉镇",
+      "策勒",
+      "洛浦",
+      "和田",
+      "墨玉",
+      "昆玉",
+      "皮山",
+      "叶城",
+      "泽普",
+      "莎车",
+      "英吉沙",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9787.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cfacff89ad8e03248cbc37cf423b6f29ac08d5fec6af7ef0e1bec2bd0744a223",
+    "elapsedMinutes": [
+      0,
+      139,
+      330,
+      383,
+      424,
+      484,
+      727,
+      812,
+      932,
+      949,
+      1032,
+      1133,
+      1206,
+      1242,
+      1277,
+      1340,
+      1382,
+      1433,
+      1465,
+      1527,
+      1580,
+      1609,
+      1628,
+      1712,
+      1761
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9788",
+    "category": "K",
+    "stopNames": [
+      "喀什",
+      "阿克陶",
+      "英吉沙",
+      "莎车",
+      "叶城",
+      "皮山",
+      "昆玉",
+      "墨玉",
+      "和田",
+      "洛浦",
+      "策勒",
+      "玉泉镇",
+      "于田",
+      "民丰",
+      "南屯",
+      "金山",
+      "且末",
+      "瓦石峡",
+      "若羌",
+      "尉犁",
+      "库尔勒",
+      "焉耆",
+      "吐鲁番北",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9788.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1da9e9b00079960b980000c7728aec8e932ea730b0e65b22fcc4c96971b41d04",
+    "elapsedMinutes": [
+      0,
+      26,
+      47,
+      123,
+      167,
+      217,
+      277,
+      311,
+      340,
+      405,
+      461,
+      506,
+      536,
+      607,
+      710,
+      792,
+      809,
+      925,
+      985,
+      1252,
+      1292,
+      1357,
+      1552,
+      1725
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9789",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐南",
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "精河南",
+      "尼勒克",
+      "伊宁",
+      "霍尔果斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9789.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "04ecc1334669a5b877d512004b1f57ad6ba3a98a1da268c991899b7307384908",
+    "elapsedMinutes": [
+      0,
+      14,
+      127,
+      153,
+      193,
+      343,
+      509,
+      600,
+      702
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9790",
+    "category": "K",
+    "stopNames": [
+      "霍尔果斯",
+      "伊宁",
+      "尼勒克",
+      "精河南",
+      "奎屯",
+      "石河子",
+      "乌鲁木齐",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9790.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1bb692615c8f856d2848c7e0fb3f7874133f551edd296298d83ca2c025bb1136",
+    "elapsedMinutes": [
+      0,
+      75,
+      187,
+      339,
+      464,
+      529,
+      626,
+      655
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9855",
+    "category": "K",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "额敏",
+      "塔城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9855.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "5f268229e8cf4196f683dedc231724e8e8252cc4bc106e5844df4e9ddac0d5bf",
+    "elapsedMinutes": [
+      0,
+      127,
+      156,
+      205,
+      588,
+      626
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9856",
+    "category": "K",
+    "stopNames": [
+      "塔城",
+      "额敏",
+      "克拉玛依",
+      "奎屯",
+      "石河子",
+      "乌鲁木齐",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9856.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a8473a0859659117c434b01cc806a647b29ca1f2966cd12415a0fd4a6c75f85a",
+    "elapsedMinutes": [
+      0,
+      35,
+      294,
+      415,
+      476,
+      585,
+      619
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T4351",
+    "category": "T",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t4351.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "c22adbf4c1ba2c6350c884ef801f34ee0b9acc52a7a33d2efee42aaaa03e4c6c",
+    "elapsedMinutes": [
+      0,
+      79
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T4352",
+    "category": "T",
+    "stopNames": [
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t4352.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "42b18f303900a6cd915059544a1583c23fa0cec27f04ff5a62c451ace788fd77",
+    "elapsedMinutes": [
+      0,
+      81
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T4353",
+    "category": "T",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "奎屯",
+      "乌苏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t4353.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "b43ad31073c8ff5a4597157224832376e1f45d4383c18ab9003f4cfa2779a152",
+    "elapsedMinutes": [
+      0,
+      84,
+      137,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T4354",
+    "category": "T",
+    "stopNames": [
+      "乌苏",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t4354.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "bb7de0e0de357d21df3e73d4c84a8cea03395ae967a332af8686ee57301bfb01",
+    "elapsedMinutes": [
+      0,
+      12,
+      45,
+      73,
+      156,
+      195
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T4375",
+    "category": "T",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯",
+      "克拉玛依"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t4375.html",
+    "sourceUpdatedAt": "2026-05-30",
+    "sourceSha256": "8c3a97e36a4c80cb41fdfa577de40c0a8afd33acd4041e421582a48532113e1b",
+    "elapsedMinutes": [
+      0,
+      80,
+      104,
+      140,
+      258
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T4376",
+    "category": "T",
+    "stopNames": [
+      "克拉玛依",
+      "奎屯",
+      "石河子",
+      "乌鲁木齐",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t4376.html",
+    "sourceUpdatedAt": "2026-05-30",
+    "sourceSha256": "debbdc49ac4e7d25733d7c3040b87974ec981283635486a33bde8ad77fe44066",
+    "elapsedMinutes": [
+      0,
+      125,
+      215,
+      298,
+      337
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9515",
+    "category": "T",
+    "stopNames": [
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9515.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "149ec59bb2058e865571e12014aefd908f28c439dccbf1507aceb4e7e60f9593",
+    "elapsedMinutes": [
+      0,
+      126,
+      277,
+      582
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9516",
+    "category": "T",
+    "stopNames": [
+      "乌鲁木齐",
+      "库尔勒",
+      "库车",
+      "阿克苏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9516.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ab12f6fd3581abba41256921c585676aead95a0ab1c826dab7e09e8aa867dfe1",
+    "elapsedMinutes": [
+      0,
+      272,
+      436,
+      577
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9517",
+    "category": "T",
+    "stopNames": [
+      "乌鲁木齐",
+      "库尔勒",
+      "库车",
+      "阿克苏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9517.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4ba52150e0667f9f5a5b409948eea553e92c52dccd21067e782e76b602fddc6f",
+    "elapsedMinutes": [
+      0,
+      272,
+      436,
+      577
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9518",
+    "category": "T",
+    "stopNames": [
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9518.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "de537864b22c8e1199bf0a2e726dd1ca99ccdfa18b809d4e4db06ba754edb282",
+    "elapsedMinutes": [
+      0,
+      126,
+      277,
+      582
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9519",
+    "category": "T",
+    "stopNames": [
+      "喀什",
+      "阿克苏",
+      "新和",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "吐鲁番北",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9519.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "36924d8a976f6aeda7d604e29295458f25543635007646ff9afe01803bfa6a55",
+    "elapsedMinutes": [
+      0,
+      296,
+      403,
+      435,
+      588,
+      653,
+      811,
+      941
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9520",
+    "category": "T",
+    "stopNames": [
+      "乌鲁木齐南",
+      "吐鲁番北",
+      "马兰",
+      "焉耆",
+      "库尔勒",
+      "轮台",
+      "库车",
+      "新和",
+      "阿克苏",
+      "巴楚",
+      "阿图什",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9520.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c37c0bc5d59d5b78ec8e585ca16344959dbc5bb6498bb4830ac2ec510ea786a3",
+    "elapsedMinutes": [
+      0,
+      83,
+      239,
+      284,
+      326,
+      453,
+      512,
+      552,
+      673,
+      833,
+      949,
+      982
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9521",
+    "category": "T",
+    "stopNames": [
+      "乌鲁木齐南",
+      "吐鲁番北",
+      "马兰",
+      "焉耆",
+      "库尔勒",
+      "轮台",
+      "库车",
+      "新和",
+      "阿克苏",
+      "巴楚",
+      "阿图什",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9521.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "29d6a7a8285861917e4758489cf460c4900e9ce324d7def34c7ab6016d672bdf",
+    "elapsedMinutes": [
+      0,
+      83,
+      239,
+      284,
+      326,
+      453,
+      512,
+      552,
+      673,
+      833,
+      949,
+      982
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9522",
+    "category": "T",
+    "stopNames": [
+      "喀什",
+      "阿克苏",
+      "新和",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "吐鲁番北",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9522.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fdaed1519217d36eb39a310d3e5be717d8436beff787bcfd2b8939aaae8424e9",
+    "elapsedMinutes": [
+      0,
+      296,
+      403,
+      435,
+      588,
+      653,
+      811,
+      941
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9525",
+    "category": "T",
+    "stopNames": [
+      "和田",
+      "皮山",
+      "叶城",
+      "泽普",
+      "莎车",
+      "英吉沙",
+      "喀什",
+      "阿图什",
+      "巴楚",
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "吐鲁番北",
+      "乌鲁木齐南",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9525.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8e9a65cae4e6acec6baf73f188d787741ade27395be8d8de483551c1e75490de",
+    "elapsedMinutes": [
+      0,
+      88,
+      138,
+      161,
+      178,
+      258,
+      300,
+      350,
+      457,
+      579,
+      740,
+      893,
+      955,
+      1123,
+      1253,
+      1280
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9526",
+    "category": "T",
+    "stopNames": [
+      "乌鲁木齐",
+      "乌鲁木齐南",
+      "吐鲁番北",
+      "焉耆",
+      "库尔勒",
+      "库车",
+      "阿克苏",
+      "巴楚",
+      "喀什",
+      "阿克陶",
+      "英吉沙",
+      "莎车",
+      "泽普",
+      "叶城",
+      "墨玉",
+      "和田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9526.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e96dec990e374ad759fef0eb9828fd8167db740dd2976b9ff2e40c6d5daba674",
+    "elapsedMinutes": [
+      0,
+      13,
+      107,
+      288,
+      329,
+      518,
+      677,
+      835,
+      986,
+      1043,
+      1063,
+      1144,
+      1167,
+      1202,
+      1336,
+      1364
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9527",
+    "category": "T",
+    "stopNames": [
+      "乌鲁木齐",
+      "乌鲁木齐南",
+      "吐鲁番北",
+      "焉耆",
+      "库尔勒",
+      "库车",
+      "阿克苏",
+      "巴楚",
+      "喀什",
+      "阿克陶",
+      "英吉沙",
+      "莎车",
+      "泽普",
+      "叶城",
+      "墨玉",
+      "和田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9527.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "510af0529922bb2ca2705ecf4afda5930706d14e7d98a12fdcd76f5d5b88e6fd",
+    "elapsedMinutes": [
+      0,
+      13,
+      107,
+      288,
+      329,
+      518,
+      677,
+      835,
+      986,
+      1043,
+      1063,
+      1144,
+      1167,
+      1202,
+      1336,
+      1364
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9528",
+    "category": "T",
+    "stopNames": [
+      "和田",
+      "皮山",
+      "叶城",
+      "泽普",
+      "莎车",
+      "英吉沙",
+      "喀什",
+      "阿图什",
+      "巴楚",
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "吐鲁番北",
+      "乌鲁木齐南",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9528.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0f1e48edb61889e1ddfbbc0868eac68c80059f80fc94609c9ad1e94d3763852f",
+    "elapsedMinutes": [
+      0,
+      88,
+      138,
+      161,
+      178,
+      258,
+      300,
+      350,
+      457,
+      579,
+      740,
+      893,
+      955,
+      1123,
+      1253,
+      1280
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9535",
+    "category": "T",
+    "stopNames": [
+      "阿克苏",
+      "库车",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9535.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d3572075a8192fc8afee78d02b3f0025bdc6ae46b7664dbf6f7fceafe1f47f26",
+    "elapsedMinutes": [
+      0,
+      123,
+      603
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9536",
+    "category": "T",
+    "stopNames": [
+      "乌鲁木齐",
+      "库车",
+      "阿克苏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9536.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "d50c378c862e1a1118849e9b0548ec97a788f9c71834b08520ce5cc7a8dc4065",
+    "elapsedMinutes": [
+      0,
+      534,
+      676
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9537",
+    "category": "T",
+    "stopNames": [
+      "乌鲁木齐",
+      "库车",
+      "阿克苏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9537.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "6cbc81efc043ecc468f188c524137d0f8d0d41fed90bb0b67a3d3360af00bab6",
+    "elapsedMinutes": [
+      0,
+      534,
+      676
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9538",
+    "category": "T",
+    "stopNames": [
+      "阿克苏",
+      "库车",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9538.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4506c2cea01615ea9c37976f17f349dc47604bf86e3457d55b0e9e4e34c1da82",
+    "elapsedMinutes": [
+      0,
+      123,
+      603
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9555",
+    "category": "T",
+    "stopNames": [
+      "和田",
+      "昆玉",
+      "叶城",
+      "泽普",
+      "莎车",
+      "英吉沙",
+      "阿克陶",
+      "喀什",
+      "阿图什",
+      "巴楚",
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9555.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "88fc52e2ccf31f4ddf9e1cc9a7fea22a9940344647c4b71146a5f1b6095af310",
+    "elapsedMinutes": [
+      0,
+      41,
+      155,
+      179,
+      204,
+      274,
+      297,
+      330,
+      382,
+      580,
+      714,
+      861,
+      1032,
+      1090,
+      1375
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9556",
+    "category": "T",
+    "stopNames": [
+      "乌鲁木齐南",
+      "焉耆",
+      "库尔勒",
+      "库车",
+      "阿克苏",
+      "喀什",
+      "英吉沙",
+      "莎车",
+      "泽普",
+      "叶城",
+      "皮山",
+      "墨玉",
+      "和田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9556.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6c73db6fe7c793ee61f057ea29274bd7dc822388fe3bdf0d060cfb26282c6bf6",
+    "elapsedMinutes": [
+      0,
+      286,
+      323,
+      495,
+      632,
+      976,
+      1039,
+      1112,
+      1132,
+      1159,
+      1221,
+      1306,
+      1324
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9557",
+    "category": "T",
+    "stopNames": [
+      "乌鲁木齐南",
+      "焉耆",
+      "库尔勒",
+      "库车",
+      "阿克苏",
+      "喀什",
+      "英吉沙",
+      "莎车",
+      "泽普",
+      "叶城",
+      "皮山",
+      "墨玉",
+      "和田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9557.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cfd88058e7cef3ef2af6362c632d4931e03d451e98c5d7c64c301787b5059369",
+    "elapsedMinutes": [
+      0,
+      286,
+      323,
+      495,
+      632,
+      976,
+      1039,
+      1112,
+      1132,
+      1159,
+      1221,
+      1306,
+      1324
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9558",
+    "category": "T",
+    "stopNames": [
+      "和田",
+      "昆玉",
+      "叶城",
+      "泽普",
+      "莎车",
+      "英吉沙",
+      "阿克陶",
+      "喀什",
+      "阿图什",
+      "巴楚",
+      "阿克苏",
+      "库车",
+      "库尔勒",
+      "焉耆",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9558.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3fdd09ea8d1befd99a2ecd268c337217efb7b0acdd0ee3fec48f89ad1da013cc",
+    "elapsedMinutes": [
+      0,
+      41,
+      155,
+      179,
+      204,
+      274,
+      297,
+      330,
+      382,
+      580,
+      714,
+      861,
+      1032,
+      1090,
+      1375
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9571",
+    "category": "T",
+    "stopNames": [
+      "乌鲁木齐",
+      "沙湾市",
+      "奎屯",
+      "克拉玛依",
+      "额敏",
+      "塔城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9571.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ed34bc2877de909b0dd6e0961afca025671495e1d4d19d46606e785ceafd420d",
+    "elapsedMinutes": [
+      0,
+      102,
+      136,
+      220,
+      413,
+      447
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T9572",
+    "category": "T",
+    "stopNames": [
+      "塔城",
+      "额敏",
+      "克拉玛依",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t9572.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4a671e7156b6795dac4b2b38ab0f8d36c159293eec53f32c5f07d0ecd3a56cc3",
+    "elapsedMinutes": [
+      0,
+      31,
+      226,
+      303,
+      336,
+      361,
+      442
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y207",
+    "category": "OTHER",
+    "stopNames": [
+      "哈密",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y207.html",
+    "sourceUpdatedAt": "2026-07-08",
+    "sourceSha256": "e8e8b614b360a761fb22b6527dea9fbbf3aaeadad1fab5ca995038765c99a087",
+    "elapsedMinutes": [
+      0,
+      349
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y214",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番",
+      "哈密"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y214.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "1d84c318ffd4ace2edc3d08d205d559eddfcc98cc495b270c835d3f56ec8fb4e",
+    "elapsedMinutes": [
+      0,
+      113,
+      374
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y414",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番",
+      "库车",
+      "哈密",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y414.html",
+    "sourceUpdatedAt": "2026-09-02",
+    "sourceSha256": "844692d723b1aca68e0e3b2949de110366f97a2f56968816010b6fe69d974036",
+    "elapsedMinutes": [
+      0,
+      113,
+      1149,
+      428,
+      1710
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y415",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番",
+      "库车",
+      "哈密",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y415.html",
+    "sourceUpdatedAt": "2026-09-02",
+    "sourceSha256": "4f2d34ac95a163db5bf7d66f7b2c8c1b0b7f0eac94d042e6bf1e8fbcf0a7c70a",
+    "elapsedMinutes": [
+      0,
+      113,
+      1149,
+      428,
+      1710
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y536",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y536.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "572f2db408d5b1e8b03c5cf1eb1c88e3719c51390a67475ee8a78ff681443611",
+    "elapsedMinutes": [
+      0,
+      420,
+      655
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y57",
+    "category": "OTHER",
+    "stopNames": [
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y57.html",
+    "sourceUpdatedAt": "2026-08-02",
+    "sourceSha256": "fdfc1c0f11d148fb274629270b5dbf14f024c56725116d713c67af4af0e72e0e",
+    "elapsedMinutes": [
+      0,
+      115
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y603",
+    "category": "OTHER",
+    "stopNames": [
+      "哈密",
+      "吐鲁番",
+      "乌鲁木齐",
+      "奎屯",
+      "北屯市"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y603.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "144a85514043a7def875fa968314022838a1d7ab644625c6f354a9131abeaf92",
+    "elapsedMinutes": [
+      0,
+      242,
+      363,
+      609,
+      1017
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y611",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐",
+      "奎屯",
+      "北屯市"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y611.html",
+    "sourceUpdatedAt": "2026-09-08",
+    "sourceSha256": "2f0d4ed5813bfab2ab4bbda7f36e3be19f8d2e96549cc777d2f22ecb33370f82",
+    "elapsedMinutes": [
+      0,
+      163,
+      568
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y625",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "吐鲁番",
+      "吐鲁番",
+      "乌鲁木齐",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y625.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "65016e9d028dfd87573bb473df5b61d792943288f0c576455d5d19e4f1bb4f69",
+    "elapsedMinutes": [
+      0,
+      438,
+      438,
+      580,
+      549
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y626",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y626.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "254dff90dc8672c955e0d4471845d72641e7c55a4589bd72ed5a8c3f5be1f414",
+    "elapsedMinutes": [
+      0,
+      116,
+      323
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y628",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "吐鲁番",
+      "吐鲁番",
+      "乌鲁木齐",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y628.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "0dec3f5b2b96a97c7b3b74648585dcd57d2cef67a2f7696b41fd4c512a3f76e3",
+    "elapsedMinutes": [
+      0,
+      438,
+      438,
+      580,
+      549
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y631",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y631.html",
+    "sourceUpdatedAt": "2026-06-17",
+    "sourceSha256": "044c7ee90562f5bab277fe7f9e6446b50acf41e441a3ef7dfe9ead71727808e7",
+    "elapsedMinutes": [
+      0,
+      192,
+      584
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y636",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "乌鲁木齐",
+      "库尔勒",
+      "库车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y636.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "4601b65a75a74f5e324a510c359ad4ff7d93c1e74418201fa04a2f058ed088e0",
+    "elapsedMinutes": [
+      0,
+      586,
+      885,
+      1085
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y637",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "乌鲁木齐",
+      "库尔勒",
+      "库车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y637.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "688f3f1bb7af0d670247279cc5db4a7b7a75b653b4fa2d4f20a62e24945542d7",
+    "elapsedMinutes": [
+      0,
+      586,
+      885,
+      1085
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y647",
+    "category": "OTHER",
+    "stopNames": [
+      "库尔勒",
+      "吐鲁番",
+      "哈密",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y647.html",
+    "sourceUpdatedAt": "2026-09-02",
+    "sourceSha256": "230b1fc6a07d59bc5accd2e94d8a5273251879be525bc6dda3c41de714de2c60",
+    "elapsedMinutes": [
+      0,
+      204,
+      465,
+      438,
+      580
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y648",
+    "category": "OTHER",
+    "stopNames": [
+      "库尔勒",
+      "吐鲁番",
+      "哈密",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y648.html",
+    "sourceUpdatedAt": "2026-09-02",
+    "sourceSha256": "a0771147ed6f379613830d5b1ae6fa96565d8e678cc9c7f85c37bc87e9d71837",
+    "elapsedMinutes": [
+      0,
+      204,
+      465,
+      438,
+      580
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y650",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "库尔勒",
+      "库尔勒",
+      "吐鲁番",
+      "吐鲁番",
+      "乌鲁木齐",
+      "哈密",
+      "奎屯",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y650.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "4c5be37c24dc755c53021999f3fe0f29c3817dcfb27cb0449ac5a109b24fa1d8",
+    "elapsedMinutes": [
+      0,
+      159,
+      159,
+      386,
+      383,
+      497,
+      650,
+      677,
+      793,
+      1035
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y651",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "库尔勒",
+      "库尔勒",
+      "吐鲁番",
+      "吐鲁番",
+      "乌鲁木齐",
+      "哈密",
+      "奎屯",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y651.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "c48da1a355b994853b878789d5fca60b79b1f8a01b2031e2f6fb0eb0e129e6d3",
+    "elapsedMinutes": [
+      0,
+      159,
+      159,
+      386,
+      383,
+      497,
+      650,
+      677,
+      793,
+      1035
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y706",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "乌鲁木齐",
+      "吐鲁番",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y706.html",
+    "sourceUpdatedAt": "2026-05-18",
+    "sourceSha256": "6cfd4dde497273cff8d00c651b70bf9c1d461c8741480d6a31c0d8c37763f1ea",
+    "elapsedMinutes": [
+      0,
+      460,
+      601,
+      808
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y707",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "乌鲁木齐",
+      "吐鲁番",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y707.html",
+    "sourceUpdatedAt": "2026-05-18",
+    "sourceSha256": "ecd8974154504f8ba4d9895f90b5b0a40193f48502e7b28e2517074e9ad138a8",
+    "elapsedMinutes": [
+      0,
+      460,
+      601,
+      808
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y740",
+    "category": "OTHER",
+    "stopNames": [
+      "库尔勒",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y740.html",
+    "sourceUpdatedAt": "2026-07-01",
+    "sourceSha256": "1f4e0f00c0ef4cdfd6ffe8fc336150b91d7ecfa5c94cc1a9755a4805678013ef",
+    "elapsedMinutes": [
+      0,
+      202,
+      313
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y741",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐",
+      "奎屯",
+      "北屯市"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y741.html",
+    "sourceUpdatedAt": "2026-07-14",
+    "sourceSha256": "a1a59f4e94c496156291b3234259067e449f3903820b0cc49e19d18d3af03cdf",
+    "elapsedMinutes": [
+      0,
+      160,
+      610
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y750",
+    "category": "OTHER",
+    "stopNames": [
+      "库尔勒",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y750.html",
+    "sourceUpdatedAt": "2026-08-15",
+    "sourceSha256": "b92a21aee5698af7dc90450c5a6b4fafdd49d9c9975fa9194e62c63d9b014b40",
+    "elapsedMinutes": [
+      0,
+      202,
+      313
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y801",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐",
+      "伊宁",
+      "霍尔果斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y801.html",
+    "sourceUpdatedAt": "2026-06-30",
+    "sourceSha256": "4a04f55ed72b8f93d430463b2c37d96f0cad0471132d662f35b12f64868e23f2",
+    "elapsedMinutes": [
+      0,
+      512,
+      706
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y803",
+    "category": "OTHER",
+    "stopNames": [
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y803.html",
+    "sourceUpdatedAt": "2026-07-27",
+    "sourceSha256": "8720034f15cf1785f83e2dfb23620171ea05b56dc25e11ca5f4f158bdbdddf1a",
+    "elapsedMinutes": [
+      0,
+      104
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y807",
+    "category": "OTHER",
+    "stopNames": [
+      "哈密",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y807.html",
+    "sourceUpdatedAt": "2026-08-26",
+    "sourceSha256": "4c927b3d251e0b09c26a3079f7169e53a8dfcc46287379d6be86c31f2e663edb",
+    "elapsedMinutes": [
+      0,
+      350
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y811",
+    "category": "OTHER",
+    "stopNames": [
+      "哈密",
+      "吐鲁番",
+      "乌鲁木齐",
+      "奎屯",
+      "北屯市"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y811.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "507659e1488feba3dda43f8efefd158afbb91d4ec5bef60b374ea05de9b88a25",
+    "elapsedMinutes": [
+      0,
+      238,
+      350,
+      548,
+      942
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y814",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "精河南",
+      "乌鲁木齐",
+      "吐鲁番",
+      "库尔勒"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y814.html",
+    "sourceUpdatedAt": "2026-07-07",
+    "sourceSha256": "2cbe8280c44a27d27b9649f08ae558c7f4af32291de41644af065d26cf193fb3",
+    "elapsedMinutes": [
+      0,
+      198,
+      480,
+      619,
+      824
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y822",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "库尔勒",
+      "吐鲁番",
+      "乌鲁木齐",
+      "奎屯",
+      "精河南",
+      "尼勒克",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y822.html",
+    "sourceUpdatedAt": "2026-09-02",
+    "sourceSha256": "25e13d80eaca3c54866efe4c3479eb075731dfbe49f839c7a965135a3add9f16",
+    "elapsedMinutes": [
+      0,
+      160,
+      387,
+      498,
+      709,
+      815,
+      936,
+      997
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y823",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "库尔勒",
+      "吐鲁番",
+      "乌鲁木齐",
+      "奎屯",
+      "精河南",
+      "尼勒克",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y823.html",
+    "sourceUpdatedAt": "2026-09-02",
+    "sourceSha256": "862d266957f72af9adaa9cdd856126524068341b5739f2a56029a8a2e835afe6",
+    "elapsedMinutes": [
+      0,
+      160,
+      387,
+      498,
+      709,
+      815,
+      936,
+      997
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y824",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y824.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e520799f4acc5c4f477b365d904330fcc899648222f0cb91d87a00060546363d",
+    "elapsedMinutes": [
+      0,
+      655
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y836",
+    "category": "OTHER",
+    "stopNames": [
+      "阿勒泰",
+      "北屯市",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y836.html",
+    "sourceUpdatedAt": "2026-09-08",
+    "sourceSha256": "b8970adddfe94cfdbc11abba77047df19b4918f6d588385739ffdadaf5fbe547",
+    "elapsedMinutes": [
+      0,
+      45,
+      643
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y847",
+    "category": "OTHER",
+    "stopNames": [
+      "库尔勒",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y847.html",
+    "sourceUpdatedAt": "2026-08-02",
+    "sourceSha256": "e16aa0f3ae89b683949162b1cd798f1d1791f75b0255351829e0a0a2b1c0d71a",
+    "elapsedMinutes": [
+      0,
+      248,
+      458
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y850",
+    "category": "OTHER",
+    "stopNames": [
+      "库尔勒",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y850.html",
+    "sourceUpdatedAt": "2026-08-02",
+    "sourceSha256": "d5a8cb6ce88454b36f72424fb621d757a1889815f0d1658a8fbdd9fe3036523e",
+    "elapsedMinutes": [
+      0,
+      248,
+      458
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y852",
+    "category": "OTHER",
+    "stopNames": [
+      "奎屯",
+      "乌鲁木齐",
+      "库尔勒",
+      "库车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y852.html",
+    "sourceUpdatedAt": "2026-07-14",
+    "sourceSha256": "90d5b079f332cd0f20689cc9ab495b50c0332994e679b0150b0c69a92bb6a01b",
+    "elapsedMinutes": [
+      0,
+      285,
+      809,
+      995
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y853",
+    "category": "OTHER",
+    "stopNames": [
+      "奎屯",
+      "乌鲁木齐",
+      "库尔勒",
+      "库车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y853.html",
+    "sourceUpdatedAt": "2026-07-14",
+    "sourceSha256": "5b570cf3f87d49c182c01945e1c30cd46cb156058e658868e8043e39c3f25b96",
+    "elapsedMinutes": [
+      0,
+      285,
+      809,
+      995
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y855",
+    "category": "OTHER",
+    "stopNames": [
+      "库尔勒",
+      "吐鲁番",
+      "吐鲁番",
+      "哈密",
+      "乌鲁木齐",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y855.html",
+    "sourceUpdatedAt": "2026-07-27",
+    "sourceSha256": "d11252354e692fd136ec0a2ee66817d80e5a7818493d20a0f7d56880df673a60",
+    "elapsedMinutes": [
+      0,
+      202,
+      408,
+      466,
+      518,
+      1055
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y858",
+    "category": "OTHER",
+    "stopNames": [
+      "库尔勒",
+      "吐鲁番",
+      "吐鲁番",
+      "哈密",
+      "乌鲁木齐",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y858.html",
+    "sourceUpdatedAt": "2026-07-27",
+    "sourceSha256": "e40f945a4e316d089661fcd90085795803c5d13b09fda38ea855c6192104422f",
+    "elapsedMinutes": [
+      0,
+      202,
+      408,
+      466,
+      518,
+      1055
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y859",
+    "category": "OTHER",
+    "stopNames": [
+      "哈密",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y859.html",
+    "sourceUpdatedAt": "2026-07-01",
+    "sourceSha256": "df2874ecc2b8a57ecae0093e364c093cdf5c14f3d0fb88b949e62a93197dbe70",
+    "elapsedMinutes": [
+      0,
+      370
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y864",
+    "category": "OTHER",
+    "stopNames": [
+      "奎屯",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y864.html",
+    "sourceUpdatedAt": "2026-09-08",
+    "sourceSha256": "72b5b8a759bf626066a98dcc5c2c0b7a523a5603c06e756bdb2dafaa05d23bcc",
+    "elapsedMinutes": [
+      0,
+      285
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y880",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "奎屯",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y880.html",
+    "sourceUpdatedAt": "2026-04-10",
+    "sourceSha256": "b8f081c21ef98ee08e1f1541f727923314112460f9c86e32b52ac1bffbcd5ab3",
+    "elapsedMinutes": [
+      0,
+      380,
+      570
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y889",
+    "category": "OTHER",
+    "stopNames": [
+      "哈密",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y889.html",
+    "sourceUpdatedAt": "2026-04-20",
+    "sourceSha256": "7d0071045e3a473c2193c7ef6925fbc5e6259f0f340dcf7a21de632b4cb52fed",
+    "elapsedMinutes": [
+      0,
+      258,
+      379
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y901",
+    "category": "OTHER",
+    "stopNames": [
+      "阿勒泰",
+      "北屯市",
+      "吐鲁番",
+      "乌鲁木齐",
+      "奎屯",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y901.html",
+    "sourceUpdatedAt": "2026-08-17",
+    "sourceSha256": "634397ed728d084a48e1bebc4956c3f2636390e8b2ceeb7f166b2f186821d369",
+    "elapsedMinutes": [
+      0,
+      45,
+      1030,
+      1175,
+      1365,
+      1512,
+      1750
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y904",
+    "category": "OTHER",
+    "stopNames": [
+      "阿勒泰",
+      "北屯市",
+      "吐鲁番",
+      "乌鲁木齐",
+      "奎屯",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y904.html",
+    "sourceUpdatedAt": "2026-08-17",
+    "sourceSha256": "872e3981d79d089b0aa8af9c7334c8aa8bfc68f9da27edb8e41a429d812c51d7",
+    "elapsedMinutes": [
+      0,
+      45,
+      1030,
+      1175,
+      1365,
+      1512,
+      1750
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y905",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "库尔勒",
+      "吐鲁番",
+      "乌鲁木齐",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y905.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "add0f2a1ec74405b9cffdfd161dda471abf73bfa4f4a8aaaa1fc457beed38320",
+    "elapsedMinutes": [
+      0,
+      159,
+      395,
+      504,
+      683,
+      1115
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y908",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "库尔勒",
+      "吐鲁番",
+      "乌鲁木齐",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y908.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "5f9c6342988469ee75efa4555c29144d716e86bcbfe5879619bcca21de513624",
+    "elapsedMinutes": [
+      0,
+      159,
+      395,
+      504,
+      683,
+      1115
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y915",
+    "category": "OTHER",
+    "stopNames": [
+      "阿克苏",
+      "库尔勒",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y915.html",
+    "sourceUpdatedAt": "2026-07-17",
+    "sourceSha256": "d98819a6e3377fbe1e01ae92a5a5ab2d8aa230257e89b20002e0150cda34097c",
+    "elapsedMinutes": [
+      0,
+      355,
+      711,
+      831
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y916",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "奎屯",
+      "乌鲁木齐",
+      "吐鲁番",
+      "库尔勒",
+      "库车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y916.html",
+    "sourceUpdatedAt": "2026-09-08",
+    "sourceSha256": "6d9fab915b0a8a431c2621deab536d7884b2e0fdbaa575f545909529d2fe94aa",
+    "elapsedMinutes": [
+      0,
+      380,
+      524,
+      668,
+      871,
+      1057
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y917",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "奎屯",
+      "乌鲁木齐",
+      "吐鲁番",
+      "库尔勒",
+      "库车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y917.html",
+    "sourceUpdatedAt": "2026-09-08",
+    "sourceSha256": "bced73976481073b5fa19743562aade3d57c881b6afc3300ce99306e78dbdf2d",
+    "elapsedMinutes": [
+      0,
+      380,
+      524,
+      668,
+      871,
+      1057
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y918",
+    "category": "OTHER",
+    "stopNames": [
+      "阿克苏",
+      "库尔勒",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y918.html",
+    "sourceUpdatedAt": "2026-07-17",
+    "sourceSha256": "8ce96c4beb0e8d44d5db376300fc045ae17d0f743d3788de1c393d72dc7ac654",
+    "elapsedMinutes": [
+      0,
+      355,
+      711,
+      831
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y923",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐南",
+      "乌鲁木齐",
+      "准东",
+      "富蕴"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y923.html",
+    "sourceUpdatedAt": "2026-09-03",
+    "sourceSha256": "60a06e9cbb97da6ff23d4e511bacab9bfa4d5685d0198e1d39615e6a2b52c715",
+    "elapsedMinutes": [
+      0,
+      14,
+      214,
+      416
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y931",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "尼勒克",
+      "吐鲁番",
+      "精河南",
+      "乌鲁木齐",
+      "奎屯",
+      "奎屯",
+      "北屯市",
+      "北屯市"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y931.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "6a629c19791c6342ab0660456b6226c382c83082b82aa3db1499c9569945b294",
+    "elapsedMinutes": [
+      0,
+      76,
+      210,
+      179,
+      330,
+      342,
+      533,
+      717,
+      895
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y934",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "尼勒克",
+      "吐鲁番",
+      "精河南",
+      "乌鲁木齐",
+      "奎屯",
+      "奎屯",
+      "北屯市",
+      "北屯市"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y934.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "78b8f6384019e4368bac535b4a51b822c5119e32391898570bf9afac3e1ea511",
+    "elapsedMinutes": [
+      0,
+      76,
+      210,
+      179,
+      330,
+      342,
+      533,
+      717,
+      895
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y935",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "尼勒克",
+      "吐鲁番",
+      "精河南",
+      "乌鲁木齐",
+      "奎屯",
+      "奎屯",
+      "北屯市",
+      "北屯市"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y935.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "4747b0ca2e4ed7adf93067e5566fd6340b4335d84748be3a93d7a5590fdb3b67",
+    "elapsedMinutes": [
+      0,
+      76,
+      210,
+      179,
+      330,
+      342,
+      533,
+      717,
+      895
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y936",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "乌鲁木齐",
+      "奎屯",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y936.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "3c9812140cb809902472ca0c58e65f47b82cdb962872ac47d9f24701843ad1a3",
+    "elapsedMinutes": [
+      0,
+      683,
+      456,
+      580,
+      762
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y937",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "乌鲁木齐",
+      "奎屯",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y937.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "162212c44de5911396ead6d9b57b0c177787c4f129548279018fbbb7d350c183",
+    "elapsedMinutes": [
+      0,
+      683,
+      456,
+      580,
+      762
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y938",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y938.html",
+    "sourceUpdatedAt": "2026-07-01",
+    "sourceSha256": "962c9b0a4bf6c2244e29d6b74596fe0f42675018182cc3ea6fc55344a22e4ef4",
+    "elapsedMinutes": [
+      0,
+      510
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y942",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "乌鲁木齐",
+      "奎屯",
+      "北屯市"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y942.html",
+    "sourceUpdatedAt": "2026-09-02",
+    "sourceSha256": "7fe2518c9402f7f3b396d5e91672b2d48b7cd152289c5bab85e46bc2f92f6214",
+    "elapsedMinutes": [
+      0,
+      432,
+      623,
+      342,
+      717
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y943",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "乌鲁木齐",
+      "奎屯",
+      "北屯市"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y943.html",
+    "sourceUpdatedAt": "2026-09-02",
+    "sourceSha256": "07af049ed70a6df9e767c813eeb134393687b5a522b9e04a16e6b0d407e8c9bc",
+    "elapsedMinutes": [
+      0,
+      432,
+      623,
+      342,
+      717
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y945",
+    "category": "OTHER",
+    "stopNames": [
+      "吐鲁番",
+      "乌鲁木齐",
+      "奎屯",
+      "精河南",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y945.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "92f5e7a73755084aa95839e31dc7898b23b117b42f9904d14dcf0154683b0ec3",
+    "elapsedMinutes": [
+      0,
+      105,
+      316,
+      422,
+      604
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y955",
+    "category": "OTHER",
+    "stopNames": [
+      "喀什",
+      "奎屯",
+      "阿克苏",
+      "吐鲁番",
+      "库车",
+      "乌鲁木齐",
+      "北屯市",
+      "库尔勒",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y955.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "9755bded4ce9a28771733c01fdb32aed91e4c6a9a6386a7d4592ed692ce9f8e5",
+    "elapsedMinutes": [
+      0,
+      342,
+      359,
+      202,
+      521,
+      313,
+      717,
+      698,
+      524,
+      812
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4,
+        6,
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y958",
+    "category": "OTHER",
+    "stopNames": [
+      "喀什",
+      "奎屯",
+      "阿克苏",
+      "吐鲁番",
+      "库车",
+      "乌鲁木齐",
+      "北屯市",
+      "库尔勒",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y958.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "4b344550a849639124c4da88a396b6bc746a86146e4dd36087618a41d6db24e5",
+    "elapsedMinutes": [
+      0,
+      342,
+      359,
+      202,
+      521,
+      313,
+      717,
+      698,
+      524,
+      812
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4,
+        6,
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y959",
+    "category": "OTHER",
+    "stopNames": [
+      "喀什",
+      "奎屯",
+      "阿克苏",
+      "吐鲁番",
+      "库车",
+      "乌鲁木齐",
+      "北屯市",
+      "库尔勒",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y959.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "428e03084daf47d0b665579b6c78024cefd57819550311a5dddb4f25e4a85eec",
+    "elapsedMinutes": [
+      0,
+      342,
+      359,
+      202,
+      521,
+      313,
+      717,
+      698,
+      524,
+      812
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4,
+        6,
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y965",
+    "category": "OTHER",
+    "stopNames": [
+      "喀什",
+      "阿克苏",
+      "吐鲁番",
+      "库车",
+      "乌鲁木齐",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y965.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "06272b50c5798a9312770a6a7cf45acbbe7fcc371f3d9f94feaaab50d9fafc75",
+    "elapsedMinutes": [
+      0,
+      363,
+      395,
+      555,
+      504,
+      683,
+      1115
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y968",
+    "category": "OTHER",
+    "stopNames": [
+      "喀什",
+      "阿克苏",
+      "吐鲁番",
+      "库车",
+      "乌鲁木齐",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y968.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "4f9f7dea6a5d349c8e7087f8a3e849a4edda9c26ae3e72b27a1c1958a2b0f8ca",
+    "elapsedMinutes": [
+      0,
+      363,
+      395,
+      555,
+      504,
+      683,
+      1115
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y981",
+    "category": "OTHER",
+    "stopNames": [
+      "库尔勒",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y981.html",
+    "sourceUpdatedAt": "2026-06-30",
+    "sourceSha256": "5ead5bff1883c48eecb2533c376fd442ff0c8cb9cbb8e3bb493dad9063eb9999",
+    "elapsedMinutes": [
+      0,
+      202,
+      313
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y984",
+    "category": "OTHER",
+    "stopNames": [
+      "库尔勒",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y984.html",
+    "sourceUpdatedAt": "2026-06-30",
+    "sourceSha256": "963fed17b821739a4548625416c821764c25c7fff6dd21c3bf6923697af945fd",
+    "elapsedMinutes": [
+      0,
+      202,
+      313
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y985",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "库尔勒",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y985.html",
+    "sourceUpdatedAt": "2026-07-24",
+    "sourceSha256": "a9f0f1cd303ac7cb972860532e40b69a500847a8339bf7e5c87b8ecd23c53964",
+    "elapsedMinutes": [
+      0,
+      195,
+      551,
+      671
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y986",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "库尔勒",
+      "吐鲁番",
+      "乌鲁木齐",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y986.html",
+    "sourceUpdatedAt": "2026-09-08",
+    "sourceSha256": "8b6336b96688f928b3220bbcbacd9ca35f0b1a26b7c86f1a63bb491a470dca8f",
+    "elapsedMinutes": [
+      0,
+      159,
+      386,
+      497,
+      688,
+      1054
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y987",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "库尔勒",
+      "吐鲁番",
+      "乌鲁木齐",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y987.html",
+    "sourceUpdatedAt": "2026-09-08",
+    "sourceSha256": "ce9c7a824efe36b93195c6cee36868a5d6bd19e140d1ca84c9b3ffac276d9aed",
+    "elapsedMinutes": [
+      0,
+      159,
+      386,
+      497,
+      688,
+      1054
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y988",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "库尔勒",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y988.html",
+    "sourceUpdatedAt": "2026-07-24",
+    "sourceSha256": "4d1270411ac7c023d855839304d08dd9735982b28581879a2e24e3896e9457c0",
+    "elapsedMinutes": [
+      0,
+      195,
+      551,
+      671
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y995",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐南",
+      "乌鲁木齐",
+      "石河子",
+      "奎屯",
+      "克拉玛依",
+      "北屯市",
+      "阿勒泰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y995.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "27e5eadd5d6607361854fa1e106853f2b97561fa628270ba4fecd617c657b606",
+    "elapsedMinutes": [
+      0,
+      12,
+      133,
+      194,
+      307,
+      555,
+      608
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y996",
+    "category": "OTHER",
+    "stopNames": [
+      "阿勒泰",
+      "北屯市",
+      "克拉玛依",
+      "奎屯",
+      "石河子",
+      "乌鲁木齐",
+      "乌鲁木齐南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y996.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "15112fdac98c7e276bb2eec8637558f94e8cc11295c9f9186ec469852a670c02",
+    "elapsedMinutes": [
+      0,
+      45,
+      313,
+      414,
+      474,
+      566,
+      600
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z6511",
+    "category": "Z",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "奎屯",
+      "尼勒克",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z6511.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9b5b46b014e978086e8b22d50ac8097628c95d8a75e757edfbf7799351de58b3",
+    "elapsedMinutes": [
+      0,
+      79,
+      127,
+      373,
+      467
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z6512",
+    "category": "Z",
+    "stopNames": [
+      "伊宁",
+      "尼勒克",
+      "奎屯",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z6512.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "639d436c1f37cc4d08a9bf7f05d67f87b084040e14c9433059507773dd453ca1",
+    "elapsedMinutes": [
+      0,
+      65,
+      321,
+      372,
+      464
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z6515",
+    "category": "Z",
+    "stopNames": [
+      "喀什",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z6515.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9ac6eea12b810f0a41e33d224b3740fc25301d13080952917e9822dd59293c87",
+    "elapsedMinutes": [
+      0,
+      690
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z6516",
+    "category": "Z",
+    "stopNames": [
+      "乌鲁木齐",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z6516.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f2977c5ecbe6772b0f48a325e0658634ee8c8a41ee56adf0823103608a2b6a7b",
+    "elapsedMinutes": [
+      0,
+      690
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z6517",
+    "category": "Z",
+    "stopNames": [
+      "乌鲁木齐",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z6517.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "14eca43725c7378964a35ca674aa54c3d0ea36b54972b3454f2623f43457efa2",
+    "elapsedMinutes": [
+      0,
+      690
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z6518",
+    "category": "Z",
+    "stopNames": [
+      "喀什",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z6518.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "82c93ed0c7bf1a62e64f6a1105a77fa52b9e7b90ac5f75062bf380b08bdc8385",
+    "elapsedMinutes": [
+      0,
+      690
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9833",
+    "category": "Z",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子",
+      "沙湾市",
+      "奎屯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9833.html",
+    "sourceUpdatedAt": "2026-05-30",
+    "sourceSha256": "b387271433c6acc69bdfe1135ca61577fae0f226c5340812704d99c0c74835c2",
+    "elapsedMinutes": [
+      0,
+      80,
+      102,
+      133
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9834",
+    "category": "Z",
+    "stopNames": [
+      "乌苏",
+      "奎屯",
+      "沙湾市",
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9834.html",
+    "sourceUpdatedAt": "2026-05-30",
+    "sourceSha256": "92fbd1b4160a7e61626d064b28f6216c7c278569abd1c859bab9031b049d224a",
+    "elapsedMinutes": [
+      0,
+      12,
+      41,
+      64,
+      144
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9835",
+    "category": "Z",
+    "stopNames": [
+      "乌鲁木齐",
+      "石河子"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9835.html",
+    "sourceUpdatedAt": "2026-07-06",
+    "sourceSha256": "fc51b9af0d3211e50262d7a3b195421c97fec5e3bd6bcbc2f92012b054b18cb1",
+    "elapsedMinutes": [
+      0,
+      80
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9836",
+    "category": "Z",
+    "stopNames": [
+      "石河子",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9836.html",
+    "sourceUpdatedAt": "2026-07-06",
+    "sourceSha256": "a0de0b1165b742da5c7ec798e1ec67a7bc5cc96b15d59cb03afb6e6c998fc697",
+    "elapsedMinutes": [
+      0,
+      79
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

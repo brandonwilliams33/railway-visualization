@@ -1,0 +1,544 @@
+[
+  {
+    "trainNumber": "C319",
+    "category": "C",
+    "stopNames": [
+      "大理",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c319.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "d78a2dfa3528d4fbc7f3538ccc5cd48ae363c50f1a7c52fb8677fb273c15471f",
+    "elapsedMinutes": [
+      0,
+      122
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C321",
+    "category": "C",
+    "stopNames": [
+      "大理",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c321.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "740ee378d6835c5f6a6e4b7a573b5bd952b83dba59e302b6220c341df4b5cab5",
+    "elapsedMinutes": [
+      0,
+      121
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C322",
+    "category": "C",
+    "stopNames": [
+      "丽江",
+      "大理"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c322.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "67e690c8ebf66c7dc92d8071a204dba02c399f9a172601034f455faddce07817",
+    "elapsedMinutes": [
+      0,
+      105
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C323",
+    "category": "C",
+    "stopNames": [
+      "大理",
+      "鹤庆",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c323.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c7bbee2dec1fe6108b9fb01c35d70a388ef7c33570293639577d34d67cfb7e76",
+    "elapsedMinutes": [
+      0,
+      68,
+      96
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C325",
+    "category": "C",
+    "stopNames": [
+      "大理",
+      "鹤庆",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c325.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0a3e3079970d9389f1d8897db595423ff13920427480b75909d9c36d95423882",
+    "elapsedMinutes": [
+      0,
+      111,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C326",
+    "category": "C",
+    "stopNames": [
+      "丽江",
+      "大理"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c326.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a1d6893751bc0f11bc3626102c5786b2355e5f05398f65f125f59fc960a49913",
+    "elapsedMinutes": [
+      0,
+      97
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C327",
+    "category": "C",
+    "stopNames": [
+      "大理",
+      "鹤庆",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c327.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "87698871d0ede48bdfa63b9c2ab91301c484962be656b8a4aa764ac9321787ce",
+    "elapsedMinutes": [
+      0,
+      114,
+      141
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C328",
+    "category": "C",
+    "stopNames": [
+      "丽江",
+      "鹤庆",
+      "大理"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c328.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "72f725f2ecbcd6a3d9baced0e5210fe6a34b6f8a46e7c80d56aae852ebadee15",
+    "elapsedMinutes": [
+      0,
+      19,
+      125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C329",
+    "category": "C",
+    "stopNames": [
+      "大理",
+      "鹤庆",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c329.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fa8e9ea9ccf019694873037ea2fa2860ec64065a7ba5ac6f91a698ca16b643be",
+    "elapsedMinutes": [
+      0,
+      129,
+      159
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C389",
+    "category": "C",
+    "stopNames": [
+      "大理",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c389.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "6f37f465b83e02973d30821e1f5203c25db54250d5f6eb6826f9ff83d57f4a75",
+    "elapsedMinutes": [
+      0,
+      142
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C400",
+    "category": "C",
+    "stopNames": [
+      "香格里拉",
+      "小中甸",
+      "丽江",
+      "大理"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c400.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "3e51a0bd216ca299a64adb9954686ae90d02a95cdadd896de9095234e4cebc9e",
+    "elapsedMinutes": [
+      0,
+      18,
+      79,
+      220
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4313",
+    "category": "C",
+    "stopNames": [
+      "丽江",
+      "香格里拉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4313.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "020c1af21c80743e923641cfa0d4a5d5b83cdb96423a43691d87227585049f32",
+    "elapsedMinutes": [
+      0,
+      109
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C441",
+    "category": "C",
+    "stopNames": [
+      "丽江",
+      "小中甸",
+      "香格里拉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c441.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "64b0d3130ed82ee260ae757c5f67053953c1fc7480a350187c41f3a9cfe43ed2",
+    "elapsedMinutes": [
+      0,
+      70,
+      95
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C442",
+    "category": "C",
+    "stopNames": [
+      "香格里拉",
+      "丽江",
+      "鹤庆",
+      "大理"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c442.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6fde753d532e572ddb008e964d2992fc0acae56d5c1267ad17c230bee18a44a6",
+    "elapsedMinutes": [
+      0,
+      73,
+      99,
+      199
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C984",
+    "category": "C",
+    "stopNames": [
+      "香格里拉",
+      "小中甸",
+      "丽江",
+      "大理"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c984.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ae6ef3f2dd451c95d9f4f7df8546bbaea572aa2b212bcf61a57811c0d8412312",
+    "elapsedMinutes": [
+      0,
+      19,
+      100,
+      242
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C985",
+    "category": "C",
+    "stopNames": [
+      "大理",
+      "丽江",
+      "小中甸",
+      "香格里拉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c985.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "579ecdad60387b840db0ea26ecb239b82d04c8f2600b8ad20a33cdd0cb5db69b",
+    "elapsedMinutes": [
+      0,
+      109,
+      191,
+      216
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C986",
+    "category": "C",
+    "stopNames": [
+      "香格里拉",
+      "丽江",
+      "鹤庆",
+      "大理"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c986.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ba9990c14ec763f52eb289fcc5613901f3e6e358eaf6455811865da60f89f73d",
+    "elapsedMinutes": [
+      0,
+      99,
+      127,
+      247
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C987",
+    "category": "C",
+    "stopNames": [
+      "大理",
+      "鹤庆",
+      "丽江",
+      "香格里拉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c987.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "401c6f4b831b2103b5af013307338d5c5c0a0de30edb584740b87db8d873525e",
+    "elapsedMinutes": [
+      0,
+      68,
+      117,
+      198
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C988",
+    "category": "C",
+    "stopNames": [
+      "香格里拉",
+      "丽江",
+      "大理"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c988.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "87530817e0481648d986213f013f43bb682e0201826797d236bf4c790382f6fd",
+    "elapsedMinutes": [
+      0,
+      73,
+      195
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C989",
+    "category": "C",
+    "stopNames": [
+      "丽江",
+      "香格里拉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c989.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "eb631d33d7e6696960dc3a62d67cab3e6fb344b81af73d28c3a7120d60fdb272",
+    "elapsedMinutes": [
+      0,
+      84
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C990",
+    "category": "C",
+    "stopNames": [
+      "香格里拉",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c990.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a8a7177149e544192db76a4b035a87ff15f1ff493573f82ded11d3ac92b131ac",
+    "elapsedMinutes": [
+      0,
+      83
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y748",
+    "category": "OTHER",
+    "stopNames": [
+      "丽江",
+      "祥云"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y748.html",
+    "sourceUpdatedAt": "2026-04-22",
+    "sourceSha256": "e87b62a4c47455d50d3f3054199eada4ebdfd62aa254a1f8bd2e54241107028f",
+    "elapsedMinutes": [
+      0,
+      375
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y759",
+    "category": "OTHER",
+    "stopNames": [
+      "大理",
+      "鹤庆",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y759.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bbadec32d6121ab2c4b4644a0c46f429637b31faacb7cad1ac04e1687e6bd059",
+    "elapsedMinutes": [
+      0,
+      205,
+      260
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y760",
+    "category": "OTHER",
+    "stopNames": [
+      "丽江",
+      "鹤庆",
+      "大理"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y760.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "38dc3c6c327eadeba5a13cd5e090b379940336ac57cec4db46741c9b608ea7b3",
+    "elapsedMinutes": [
+      0,
+      23,
+      180
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y874",
+    "category": "OTHER",
+    "stopNames": [
+      "丽江",
+      "鹤庆"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y874.html",
+    "sourceUpdatedAt": "2026-04-16",
+    "sourceSha256": "e1c548a293bd754bde081d37c1b146028c317e71ad4c772a9337c26d69384450",
+    "elapsedMinutes": [
+      0,
+      32
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

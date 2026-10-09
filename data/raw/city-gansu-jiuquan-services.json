@@ -1,0 +1,120 @@
+[
+  {
+    "trainNumber": "D9369",
+    "category": "D",
+    "stopNames": [
+      "柳园南",
+      "哈密",
+      "吐哈",
+      "鄯善北",
+      "吐鲁番北",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9369.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "161b85f0f78df70962280daa5fd8487724434d3979b22b9d438c26178f38f4fb",
+    "elapsedMinutes": [
+      0,
+      95,
+      169,
+      184,
+      214,
+      309
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9370",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北",
+      "鄯善北",
+      "哈密",
+      "柳园南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9370.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "db1d6d35ea0b2a42ab70e0e7d7741ae415723bc2a3e8c8f6f0d7ff99c95afdf9",
+    "elapsedMinutes": [
+      0,
+      62,
+      92,
+      173,
+      279
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y271",
+    "category": "OTHER",
+    "stopNames": [
+      "西宁",
+      "马海",
+      "敦煌"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y271.html",
+    "sourceUpdatedAt": "2026-08-02",
+    "sourceSha256": "f4de792b71f3e6cd856c0d91a6297788a89e31994b5e8a5ca4b5c67ba412d906",
+    "elapsedMinutes": [
+      0,
+      531,
+      789
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y413",
+    "category": "OTHER",
+    "stopNames": [
+      "柳园",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y413.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f746e5bcc99b84484e9e78a330b830995f29d8aa7becf7a58f70f713ee2cecd0",
+    "elapsedMinutes": [
+      0,
+      574,
+      715
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y468",
+    "category": "OTHER",
+    "stopNames": [
+      "格尔木",
+      "敦煌"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y468.html",
+    "sourceUpdatedAt": "2026-08-22",
+    "sourceSha256": "fed0e7293e2bcd82c6b03d261a3f56538468aa529b763362d67ba125c53773ae",
+    "elapsedMinutes": [
+      0,
+      1105
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

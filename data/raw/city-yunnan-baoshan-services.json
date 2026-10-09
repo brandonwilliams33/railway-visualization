@@ -1,0 +1,715 @@
+[
+  {
+    "trainNumber": "C371",
+    "category": "C",
+    "stopNames": [
+      "香格里拉",
+      "丽江",
+      "鹤庆",
+      "大理",
+      "漾濞",
+      "永平县",
+      "保山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c371.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b001133eb560cee6ab5993a52dcfa90e708ad7414b3bb3d44f6aa8cab5dcbef3",
+    "elapsedMinutes": [
+      0,
+      82,
+      118,
+      235,
+      265,
+      298,
+      331
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C372",
+    "category": "C",
+    "stopNames": [
+      "保山",
+      "永平县",
+      "漾濞",
+      "大理",
+      "鹤庆",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c372.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "917c8c494ed9e281f00ed32b9fba436f62d25daf1931a0ca4c263a429ad1a546",
+    "elapsedMinutes": [
+      0,
+      27,
+      59,
+      91,
+      189,
+      234
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C373",
+    "category": "C",
+    "stopNames": [
+      "保山",
+      "永平县",
+      "漾濞",
+      "大理",
+      "鹤庆",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c373.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4f943610476314904a42cf45ca93090147138b933cd18bf9474421207a3f4ed3",
+    "elapsedMinutes": [
+      0,
+      27,
+      59,
+      91,
+      189,
+      234
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C374",
+    "category": "C",
+    "stopNames": [
+      "香格里拉",
+      "丽江",
+      "鹤庆",
+      "大理",
+      "漾濞",
+      "永平县",
+      "保山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c374.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9539573a493e6108728a6c8a96d4c70a765425aebd007e95f4bef24fa0f5d64c",
+    "elapsedMinutes": [
+      0,
+      82,
+      118,
+      235,
+      265,
+      298,
+      331
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C375",
+    "category": "C",
+    "stopNames": [
+      "丽江",
+      "鹤庆",
+      "大理",
+      "漾濞",
+      "永平县",
+      "保山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c375.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "119ad7b026991a7f347f420b5953f29a2c75bfffa145d5ba69ee4078bc8e2697",
+    "elapsedMinutes": [
+      0,
+      28,
+      142,
+      186,
+      220,
+      253
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C376",
+    "category": "C",
+    "stopNames": [
+      "保山",
+      "永平县",
+      "漾濞",
+      "大理",
+      "丽江",
+      "小中甸",
+      "香格里拉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c376.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c4e7dd61cf2d0dc5002f5cd6f46393eb8e7651685607756f33ba222ff37e5b04",
+    "elapsedMinutes": [
+      0,
+      27,
+      70,
+      105,
+      261,
+      339,
+      371
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C377",
+    "category": "C",
+    "stopNames": [
+      "保山",
+      "永平县",
+      "漾濞",
+      "大理",
+      "丽江",
+      "小中甸",
+      "香格里拉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c377.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "842b9f7b98d8b5ed1824d57672dc168fd1cb4e6a3eb006c1acdb3b432950d71f",
+    "elapsedMinutes": [
+      0,
+      27,
+      70,
+      105,
+      261,
+      339,
+      371
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C378",
+    "category": "C",
+    "stopNames": [
+      "丽江",
+      "鹤庆",
+      "大理",
+      "漾濞",
+      "永平县",
+      "保山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c378.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "32259a7caf4aafcc698aa5adaddc7a23d568f07f03c575e6ddaf69edcabaac15",
+    "elapsedMinutes": [
+      0,
+      28,
+      142,
+      186,
+      220,
+      253
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4221",
+    "category": "C",
+    "stopNames": [
+      "丽江",
+      "大理",
+      "保山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4221.html",
+    "sourceUpdatedAt": "2026-03-20",
+    "sourceSha256": "d4b0d65bf0ef699ab9c78587bd65bdb45e516ae8aa702a605e3a895f728d225c",
+    "elapsedMinutes": [
+      0,
+      100,
+      242
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4224",
+    "category": "C",
+    "stopNames": [
+      "丽江",
+      "大理",
+      "保山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4224.html",
+    "sourceUpdatedAt": "2026-03-20",
+    "sourceSha256": "48d6b337d093328271b4ed6a364e97e4e41b308aba9a615547266c27b9ae1209",
+    "elapsedMinutes": [
+      0,
+      100,
+      242
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4314",
+    "category": "C",
+    "stopNames": [
+      "保山",
+      "永平县",
+      "漾濞",
+      "大理",
+      "云南驿",
+      "楚雄"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4314.html",
+    "sourceUpdatedAt": "2026-03-20",
+    "sourceSha256": "6cbd19aa8622971b0f1db054e732d94c9b92df39bcf10309839e1cc1b63ed99a",
+    "elapsedMinutes": [
+      0,
+      27,
+      79,
+      115,
+      166,
+      209
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C596",
+    "category": "C",
+    "stopNames": [
+      "保山",
+      "永平县",
+      "漾濞",
+      "大理"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c596.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bddde8e717a4e676a0e298f95fcc6fdcf15ab314347ce7a1409baa32463d305c",
+    "elapsedMinutes": [
+      0,
+      38,
+      71,
+      110
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C597",
+    "category": "C",
+    "stopNames": [
+      "大理",
+      "永平县",
+      "保山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c597.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9229a454e0f90d68b268cdcaed7520bd7466f1791e0b0da6e53dac848cfbb409",
+    "elapsedMinutes": [
+      0,
+      62,
+      95
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C599",
+    "category": "C",
+    "stopNames": [
+      "保山",
+      "蒲缥"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c599.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "952a3f04650288b202799348603c8f4c3edae4c168ab17250cde3dba7e81d336",
+    "elapsedMinutes": [
+      0,
+      15
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C600",
+    "category": "C",
+    "stopNames": [
+      "蒲缥",
+      "保山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c600.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "533c356904c531bf3c1e8a3e96e6d2422b0b783581c742dccf5e858fe704c624",
+    "elapsedMinutes": [
+      0,
+      16
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y684",
+    "category": "OTHER",
+    "stopNames": [
+      "保山",
+      "大理",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y684.html",
+    "sourceUpdatedAt": "2026-05-16",
+    "sourceSha256": "d3f0eecc53063bda9f37a0ad23a3d011fe27e92bb7dc71e437e3ad9aa2172ce3",
+    "elapsedMinutes": [
+      0,
+      565,
+      720
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y742",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "大理",
+      "伊宁",
+      "保山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y742.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "7010a4670b350ffbf04fe5032b63d8c25c0650ab2ef15ab434d6710dc3c3a634",
+    "elapsedMinutes": [
+      0,
+      457,
+      1054,
+      617
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y743",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "大理",
+      "伊宁",
+      "保山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y743.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "abd2cca1ab4c9c3afa13e7d2903efaab099b384155c57dfca03934459126b171",
+    "elapsedMinutes": [
+      0,
+      457,
+      1054,
+      617
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        4
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y746",
+    "category": "OTHER",
+    "stopNames": [
+      "保山",
+      "大理",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y746.html",
+    "sourceUpdatedAt": "2026-04-19",
+    "sourceSha256": "a96ce9cffdb943ffe1018e3716f54351e157a762aa6af04b6924f8421d547f36",
+    "elapsedMinutes": [
+      0,
+      423,
+      718
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y747",
+    "category": "OTHER",
+    "stopNames": [
+      "保山",
+      "大理",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y747.html",
+    "sourceUpdatedAt": "2026-04-19",
+    "sourceSha256": "24e5d1868fecf216aaa39450083f0459f927eff1ed361cd3e7e94345626700d3",
+    "elapsedMinutes": [
+      0,
+      423,
+      718
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y762",
+    "category": "OTHER",
+    "stopNames": [
+      "保山",
+      "大理",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y762.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9b60b65ec70dce013e94a115eba94799b1e5d30cf85d70afe217636f0d73d9da",
+    "elapsedMinutes": [
+      0,
+      154,
+      339
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y763",
+    "category": "OTHER",
+    "stopNames": [
+      "保山",
+      "大理",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y763.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9a7f5dc5d58f48311f03c2509a8d9d17b842b683a79c382a9eaa70dfa3073f3f",
+    "elapsedMinutes": [
+      0,
+      154,
+      339
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y772",
+    "category": "OTHER",
+    "stopNames": [
+      "保山",
+      "大理",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y772.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7754a78dc379d178598d0c994f2e68dc7781613f7001dfe9525526a827e392eb",
+    "elapsedMinutes": [
+      0,
+      440,
+      696
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y773",
+    "category": "OTHER",
+    "stopNames": [
+      "保山",
+      "大理",
+      "丽江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y773.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8a3c439388ec0650dcc6278c4074c90f5abbd210d61b47373fa4eaa52e6c7b56",
+    "elapsedMinutes": [
+      0,
+      440,
+      696
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y793",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "大理",
+      "库尔勒",
+      "保山",
+      "吐鲁番",
+      "乌鲁木齐",
+      "奎屯",
+      "精河南",
+      "尼勒克",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y793.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "7cd940287c6c156914a53e3a50b69e76ed50ff56ebbab980e3ad3c746bc3cfe6",
+    "elapsedMinutes": [
+      0,
+      400,
+      160,
+      739,
+      387,
+      498,
+      709,
+      815,
+      936,
+      997
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y796",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "大理",
+      "库尔勒",
+      "保山",
+      "吐鲁番",
+      "乌鲁木齐",
+      "奎屯",
+      "精河南",
+      "尼勒克",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y796.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "68c22d68be815aea4a02c4fc6b0564f50eaf5d94dcbf8698ce2377481905a171",
+    "elapsedMinutes": [
+      0,
+      400,
+      160,
+      739,
+      387,
+      498,
+      709,
+      815,
+      936,
+      997
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y797",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "大理",
+      "库尔勒",
+      "保山",
+      "吐鲁番",
+      "乌鲁木齐",
+      "奎屯",
+      "精河南",
+      "尼勒克",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y797.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "3ba1312f118872d4b46d482feb49e3e708eb321de01f727aa34354dbd7f295e1",
+    "elapsedMinutes": [
+      0,
+      400,
+      160,
+      739,
+      387,
+      498,
+      709,
+      815,
+      936,
+      997
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3,
+        5
+      ]
+    }
+  }
+]

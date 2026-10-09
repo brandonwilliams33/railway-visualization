@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "黔东南",
+  "stationCount": 16,
+  "candidateServices": 366,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "宝老山"
+  ]
+}

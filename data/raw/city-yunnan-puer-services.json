@@ -1,0 +1,132 @@
+[
+  {
+    "trainNumber": "C390",
+    "category": "C",
+    "stopNames": [
+      "西双版纳",
+      "普洱"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c390.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "112b7e9b9577ced88e9960c76ef6129d062193a0c5f13b5ab9a11978016d7e98",
+    "elapsedMinutes": [
+      0,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C391",
+    "category": "C",
+    "stopNames": [
+      "普洱",
+      "野象谷",
+      "西双版纳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c391.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0bb8e582609eeab1bf3b277471f3aecfb774f9c052673c4ba3f6def95af82319",
+    "elapsedMinutes": [
+      0,
+      33,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4204",
+    "category": "C",
+    "stopNames": [
+      "磨憨",
+      "橄榄坝",
+      "西双版纳",
+      "普洱"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4204.html",
+    "sourceUpdatedAt": "2026-08-21",
+    "sourceSha256": "48c9958e5f4e8b76641add1b4ba5eee127ab2ec605b8925e30b4319ffdd7a608",
+    "elapsedMinutes": [
+      0,
+      48,
+      89,
+      139
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4229",
+    "category": "C",
+    "stopNames": [
+      "普洱",
+      "西双版纳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4229.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "5f619b0056a8b9a9b04b85e3f82a5efd3feafd2262c841aa61ff22c2df67b2fd",
+    "elapsedMinutes": [
+      0,
+      41
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4230",
+    "category": "C",
+    "stopNames": [
+      "西双版纳",
+      "普洱"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4230.html",
+    "sourceUpdatedAt": "2026-08-21",
+    "sourceSha256": "3f2722a74f7bc5eaf2b3b4040791a42999f2cb49cc3a0997810d6e4bbbe48557",
+    "elapsedMinutes": [
+      0,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4318",
+    "category": "C",
+    "stopNames": [
+      "磨憨",
+      "橄榄坝",
+      "西双版纳",
+      "普洱"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4318.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "01d56165a4d6e0a5886978c6b61bdccccf46c28dab884310056dff2ad0d02f05",
+    "elapsedMinutes": [
+      0,
+      66,
+      84,
+      130
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

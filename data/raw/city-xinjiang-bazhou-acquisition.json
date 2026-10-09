@@ -1,0 +1,18 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "巴州",
+  "stationCount": 10,
+  "candidateServices": 227,
+  "acquiredAdditionalServices": 27,
+  "failedPages": [
+    {
+      "trainNumber": "Y830",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "Y978",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

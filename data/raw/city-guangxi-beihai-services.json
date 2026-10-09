@@ -1,0 +1,120 @@
+[
+  {
+    "trainNumber": "D4238",
+    "category": "D",
+    "stopNames": [
+      "北海",
+      "合浦",
+      "钦州东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4238.html",
+    "sourceUpdatedAt": "2026-03-11",
+    "sourceSha256": "ac3d6713fc8689f9c038b78c638b3f79a7995000fdf99e6e2c673c257996199f",
+    "elapsedMinutes": [
+      0,
+      12,
+      37
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8331",
+    "category": "D",
+    "stopNames": [
+      "防城港北",
+      "钦州东",
+      "合浦",
+      "北海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8331.html",
+    "sourceUpdatedAt": "2026-04-13",
+    "sourceSha256": "3db2ac234c34c84ba73b56fa4bc39d3b5d43f3ab929cd22024ee41bd739021d1",
+    "elapsedMinutes": [
+      0,
+      29,
+      56,
+      71
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8332",
+    "category": "D",
+    "stopNames": [
+      "北海",
+      "合浦",
+      "钦州东",
+      "防城港北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8332.html",
+    "sourceUpdatedAt": "2026-04-13",
+    "sourceSha256": "453a5212174317417cba2ca77eb42c431838ab7ad4bca5ba544a460ac5df4a0e",
+    "elapsedMinutes": [
+      0,
+      12,
+      43,
+      79
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8333",
+    "category": "D",
+    "stopNames": [
+      "北海",
+      "合浦",
+      "钦州东",
+      "防城港北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8333.html",
+    "sourceUpdatedAt": "2026-04-13",
+    "sourceSha256": "0d18447fc599b93260ad302321a9c1bbb24d3ee6768a366c297e9319952f973c",
+    "elapsedMinutes": [
+      0,
+      12,
+      43,
+      79
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8334",
+    "category": "D",
+    "stopNames": [
+      "防城港北",
+      "钦州东",
+      "合浦",
+      "北海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8334.html",
+    "sourceUpdatedAt": "2026-04-13",
+    "sourceSha256": "f1b79c7ba40aa2cf78583517adbab9a4a939c380e980812a45667da8833a3c7a",
+    "elapsedMinutes": [
+      0,
+      29,
+      56,
+      71
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

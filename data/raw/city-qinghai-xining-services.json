@@ -1,0 +1,484 @@
+[
+  {
+    "trainNumber": "5901",
+    "category": "OTHER",
+    "stopNames": [
+      "西宁",
+      "湟源",
+      "海晏",
+      "哈尔盖",
+      "天峻",
+      "乌兰",
+      "柯柯",
+      "德令哈",
+      "饮马峡",
+      "锡铁山",
+      "达布逊",
+      "察尔汗",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5901.html",
+    "sourceUpdatedAt": "2026-03-30",
+    "sourceSha256": "8dcee0d854d8f9409c18a2fddd4fe2d3fb4e822a74538052c7ec0ca5a803f29d",
+    "elapsedMinutes": [
+      0,
+      42,
+      67,
+      186,
+      279,
+      333,
+      350,
+      413,
+      525,
+      552,
+      586,
+      600,
+      648
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5902",
+    "category": "OTHER",
+    "stopNames": [
+      "格尔木",
+      "察尔汗",
+      "达布逊",
+      "锡铁山",
+      "饮马峡",
+      "德令哈",
+      "柯柯",
+      "乌兰",
+      "天峻",
+      "哈尔盖",
+      "海晏",
+      "湟源",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5902.html",
+    "sourceUpdatedAt": "2026-03-31",
+    "sourceSha256": "32cb8828680d92371ad7259d482ffeb3c9af161cfb515862c13da558d569c046",
+    "elapsedMinutes": [
+      0,
+      42,
+      68,
+      101,
+      128,
+      229,
+      306,
+      326,
+      393,
+      495,
+      551,
+      579,
+      637
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7581",
+    "category": "OTHER",
+    "stopNames": [
+      "西宁",
+      "湟源",
+      "海晏",
+      "哈尔盖",
+      "天峻",
+      "乌兰",
+      "柯柯",
+      "德令哈",
+      "饮马峡",
+      "锡铁山",
+      "达布逊",
+      "察尔汗",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7581.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "f88df11aead3bade382bda3799269ef30f34b9eb0a57a80cc92a4bdffbec6b33",
+    "elapsedMinutes": [
+      0,
+      42,
+      67,
+      123,
+      216,
+      270,
+      289,
+      356,
+      459,
+      486,
+      520,
+      534,
+      585
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7582",
+    "category": "OTHER",
+    "stopNames": [
+      "格尔木",
+      "察尔汗",
+      "达布逊",
+      "锡铁山",
+      "饮马峡",
+      "德令哈",
+      "柯柯",
+      "乌兰",
+      "天峻",
+      "哈尔盖",
+      "海晏",
+      "湟源",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7582.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "dfb95a8115145e1cab498aecc8b383c89ce9cc3db6cd5234dd6470f7a2ebd836",
+    "elapsedMinutes": [
+      0,
+      42,
+      56,
+      89,
+      116,
+      217,
+      283,
+      302,
+      355,
+      457,
+      513,
+      538,
+      592
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7585",
+    "category": "OTHER",
+    "stopNames": [
+      "西宁",
+      "湟源",
+      "海晏",
+      "哈尔盖",
+      "天峻",
+      "乌兰",
+      "柯柯",
+      "德令哈",
+      "饮马峡",
+      "锡铁山",
+      "达布逊",
+      "察尔汗",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7585.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "374e998c29ba6dab059f98c93b09f9f8991c73ab476896b1e14e92e754092529",
+    "elapsedMinutes": [
+      0,
+      42,
+      67,
+      123,
+      216,
+      270,
+      289,
+      356,
+      459,
+      486,
+      520,
+      534,
+      585
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7586",
+    "category": "OTHER",
+    "stopNames": [
+      "格尔木",
+      "察尔汗",
+      "达布逊",
+      "锡铁山",
+      "饮马峡",
+      "德令哈",
+      "柯柯",
+      "乌兰",
+      "天峻",
+      "哈尔盖",
+      "海晏",
+      "湟源",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7586.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "790327476d12fd69581deb12c033a88b5d80e1247661bad7dbbdd6138a5c80d2",
+    "elapsedMinutes": [
+      0,
+      42,
+      56,
+      89,
+      116,
+      217,
+      283,
+      302,
+      355,
+      457,
+      513,
+      538,
+      592
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C891",
+    "category": "C",
+    "stopNames": [
+      "西宁",
+      "湟源",
+      "海晏",
+      "乌兰",
+      "德令哈",
+      "格尔木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c891.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ece7ed5157e8799952f5af7e0fe1ac762ae716b87b072f96c188c23e15aa3551",
+    "elapsedMinutes": [
+      0,
+      33,
+      52,
+      187,
+      238,
+      369
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C894",
+    "category": "C",
+    "stopNames": [
+      "格尔木",
+      "德令哈",
+      "乌兰",
+      "湟源",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c894.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "56a6b4a4236c7d05abe1d3bed01b608e45fc56ed14a913045f4dc737215ba9c9",
+    "elapsedMinutes": [
+      0,
+      123,
+      173,
+      320,
+      361
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9903",
+    "category": "D",
+    "stopNames": [
+      "西宁",
+      "大通西",
+      "门源"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9903.html",
+    "sourceUpdatedAt": "2026-03-30",
+    "sourceSha256": "470632f49dd96bafdbf312b17d45d6a92460df4d72b6658064f7964e94131aad",
+    "elapsedMinutes": [
+      0,
+      19,
+      45
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9905",
+    "category": "D",
+    "stopNames": [
+      "西宁",
+      "大通西",
+      "门源"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9905.html",
+    "sourceUpdatedAt": "2026-03-14",
+    "sourceSha256": "4c4977179519838b2b55d031fe3f6119848258bea5ffdd0a9ca257b636191c57",
+    "elapsedMinutes": [
+      0,
+      19,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9906",
+    "category": "D",
+    "stopNames": [
+      "门源",
+      "大通西",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9906.html",
+    "sourceUpdatedAt": "2026-03-14",
+    "sourceSha256": "23b4f25b329b88ad3bbcbaac913e277841b437d30f3b73b6f6230ba5836f74af",
+    "elapsedMinutes": [
+      0,
+      23,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9911",
+    "category": "D",
+    "stopNames": [
+      "西宁",
+      "大通西",
+      "门源"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9911.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e2878d1130d191966776c9b82d9b56349f2016fb66c325967373e15f00ce4d00",
+    "elapsedMinutes": [
+      0,
+      19,
+      45
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9912",
+    "category": "D",
+    "stopNames": [
+      "门源",
+      "大通西",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9912.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "df42e65e27b35dc0971f0f5d4e34cf3cd40352e019aec6a1b9543528101c3383",
+    "elapsedMinutes": [
+      0,
+      24,
+      45
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9913",
+    "category": "D",
+    "stopNames": [
+      "西宁",
+      "大通西",
+      "门源"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9913.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7699e5c0d536c432968e2972889d9c1c941fe4a62f480a41f4245422194ea3bd",
+    "elapsedMinutes": [
+      0,
+      19,
+      45
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9914",
+    "category": "D",
+    "stopNames": [
+      "门源",
+      "大通西",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9914.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "66561cadb06ead8a3937e73115d5dd620df4df6e3d277c461e6ecc39e2ed31f3",
+    "elapsedMinutes": [
+      0,
+      24,
+      45
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9916",
+    "category": "D",
+    "stopNames": [
+      "门源",
+      "大通西",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9916.html",
+    "sourceUpdatedAt": "2026-01-02",
+    "sourceSha256": "a1b157e85eb3046b1307ff8a8423578b53bdd7363ceed8c3a1a90eff7062518d",
+    "elapsedMinutes": [
+      0,
+      24,
+      45
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

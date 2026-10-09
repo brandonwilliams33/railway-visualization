@@ -1,0 +1,1394 @@
+[
+  {
+    "trainNumber": "7523",
+    "category": "OTHER",
+    "stopNames": [
+      "汝箕沟",
+      "白芨沟",
+      "呼鲁斯太",
+      "大磴沟",
+      "大武口",
+      "平罗",
+      "石嘴山南",
+      "西大滩",
+      "暖泉",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7523.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ef825730cc7f58bbaa64f0348d4dc8410dc895e51fa06bb5369742c18be18c71",
+    "elapsedMinutes": [
+      0,
+      15,
+      73,
+      102,
+      152,
+      172,
+      184,
+      195,
+      209,
+      240
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7524",
+    "category": "OTHER",
+    "stopNames": [
+      "银川",
+      "暖泉",
+      "西大滩",
+      "石嘴山南",
+      "平罗",
+      "大武口",
+      "大磴沟",
+      "呼鲁斯太",
+      "白芨沟",
+      "汝箕沟"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7524.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "dda9da3c4c88a817fceec7528a4baa591a2e3c4446eb773602239823f3f6ae85",
+    "elapsedMinutes": [
+      0,
+      31,
+      48,
+      60,
+      71,
+      89,
+      137,
+      164,
+      216,
+      232
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7525",
+    "category": "OTHER",
+    "stopNames": [
+      "银川",
+      "暖泉",
+      "西大滩",
+      "石嘴山南",
+      "平罗",
+      "大武口",
+      "大磴沟",
+      "呼鲁斯太",
+      "白芨沟",
+      "汝箕沟"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7525.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "31f6f95b681cd25b11d0a88de47d8019acea8f2e606c670d46a6cec4dff871e0",
+    "elapsedMinutes": [
+      0,
+      31,
+      48,
+      60,
+      71,
+      89,
+      137,
+      164,
+      216,
+      232
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7526",
+    "category": "OTHER",
+    "stopNames": [
+      "汝箕沟",
+      "白芨沟",
+      "呼鲁斯太",
+      "大磴沟",
+      "大武口",
+      "平罗",
+      "石嘴山南",
+      "西大滩",
+      "暖泉",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7526.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ad1a331cdd5847fd9895d9e5a8b6cfc872859c03b7a3ccce7d85c7f6090b92c3",
+    "elapsedMinutes": [
+      0,
+      15,
+      73,
+      102,
+      152,
+      172,
+      184,
+      195,
+      209,
+      240
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8207",
+    "category": "C",
+    "stopNames": [
+      "银川",
+      "河东机场",
+      "吴忠",
+      "中宁东",
+      "中卫南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8207.html",
+    "sourceUpdatedAt": "2026-06-28",
+    "sourceSha256": "2a4a9bf500f986e05996289c0c5a947b153c461539e2ff07c6d18fd2c398a9a0",
+    "elapsedMinutes": [
+      0,
+      20,
+      38,
+      68,
+      87
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8208",
+    "category": "C",
+    "stopNames": [
+      "中卫南",
+      "中宁东",
+      "吴忠",
+      "河东机场",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8208.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "3e9c11e298edeb17d5b60420f957a0922c16ea2635374ce2952b33bc825b84c4",
+    "elapsedMinutes": [
+      0,
+      17,
+      46,
+      65,
+      87
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8209",
+    "category": "C",
+    "stopNames": [
+      "银川",
+      "河东机场",
+      "中宁东",
+      "中卫南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8209.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "7e5513c1f417316323ed23abb05c37030ddbe97bb772d04c48a3ac45c93695b2",
+    "elapsedMinutes": [
+      0,
+      20,
+      62,
+      81
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8210",
+    "category": "C",
+    "stopNames": [
+      "中卫南",
+      "中宁东",
+      "红寺堡北",
+      "吴忠",
+      "河东机场",
+      "银川",
+      "沙湖",
+      "石嘴山",
+      "惠农南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8210.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "649df5e770e35b98014a3052782692fe675f89ec56f80854a2793237e3d57d6b",
+    "elapsedMinutes": [
+      0,
+      17,
+      33,
+      58,
+      77,
+      99,
+      120,
+      133,
+      154
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8211",
+    "category": "C",
+    "stopNames": [
+      "惠农南",
+      "石嘴山",
+      "沙湖",
+      "银川",
+      "河东机场",
+      "红寺堡北",
+      "中卫南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8211.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "192f7b15966e362ba834c82bb808e2ecfff59b9fe8deaf3149d4d29fd925f9c6",
+    "elapsedMinutes": [
+      0,
+      15,
+      27,
+      44,
+      70,
+      102,
+      131
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8212",
+    "category": "C",
+    "stopNames": [
+      "中卫南",
+      "中宁东",
+      "红寺堡北",
+      "河东机场",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8212.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "775d97f086ad354454adc1537837067239a893c9102b96339c9f2877e3e2680a",
+    "elapsedMinutes": [
+      0,
+      17,
+      33,
+      65,
+      87
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8213",
+    "category": "C",
+    "stopNames": [
+      "银川",
+      "河东机场",
+      "中宁东",
+      "中卫南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8213.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "42b26dba324462ca0393e83ac310a0749b05d2d784e71602985db9364a9f45e0",
+    "elapsedMinutes": [
+      0,
+      20,
+      62,
+      81
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8214",
+    "category": "C",
+    "stopNames": [
+      "中卫南",
+      "中宁东",
+      "红寺堡北",
+      "吴忠",
+      "河东机场",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8214.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "afb27f59521766fdfe8372edccec9b235747acb856961c7117152469f52f3d42",
+    "elapsedMinutes": [
+      0,
+      17,
+      33,
+      56,
+      75,
+      102
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8216",
+    "category": "C",
+    "stopNames": [
+      "中卫南",
+      "中宁东",
+      "红寺堡北",
+      "吴忠",
+      "河东机场",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8216.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "ccbdceb04c27c7b9320933fa5e81875a9c4299d512fe2b2bd2d6c88559e110a3",
+    "elapsedMinutes": [
+      0,
+      17,
+      33,
+      52,
+      71,
+      93
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8221",
+    "category": "C",
+    "stopNames": [
+      "银川",
+      "吴忠",
+      "中宁东",
+      "中卫南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8221.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "702ca5e81e3df18423980b2d820614ababd2bfcd0153ef0183eb9729556a1bce",
+    "elapsedMinutes": [
+      0,
+      32,
+      62,
+      81
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8222",
+    "category": "C",
+    "stopNames": [
+      "中卫南",
+      "中宁东",
+      "红寺堡北",
+      "吴忠",
+      "灵武北",
+      "河东机场",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8222.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "51aa0b3d57d6412b3e031c5907dcb987be10c4efcff06f4ee8397369f38d820f",
+    "elapsedMinutes": [
+      0,
+      17,
+      33,
+      52,
+      64,
+      77,
+      99
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8241",
+    "category": "C",
+    "stopNames": [
+      "惠农南",
+      "石嘴山",
+      "沙湖",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8241.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "27bf68944f1f7b7cc81201fce6f579770a7265c24bddcbd2cdeaf2dbd09cbb52",
+    "elapsedMinutes": [
+      0,
+      15,
+      27,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8242",
+    "category": "C",
+    "stopNames": [
+      "银川",
+      "沙湖",
+      "石嘴山",
+      "惠农南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8242.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "9a86755ef2a92cdaca70ff12a85ff17f049bb488430202de10ed17de21190492",
+    "elapsedMinutes": [
+      0,
+      15,
+      27,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8243",
+    "category": "C",
+    "stopNames": [
+      "惠农南",
+      "石嘴山",
+      "沙湖",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8243.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "166863b7ee384505a69cc17957bff294675ade72bbba1442a76357a6d4c039a3",
+    "elapsedMinutes": [
+      0,
+      15,
+      27,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8244",
+    "category": "C",
+    "stopNames": [
+      "银川",
+      "沙湖",
+      "石嘴山",
+      "惠农南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8244.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "3134174024567a9bd8ea29311d02600a1caffdd0040705ee864e4208c26eb2ae",
+    "elapsedMinutes": [
+      0,
+      15,
+      28,
+      46
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8245",
+    "category": "C",
+    "stopNames": [
+      "惠农南",
+      "石嘴山",
+      "沙湖",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8245.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "c19e32d1f94077f2d5e1a7f7dee5270f969bd5e93c542fa61414e2e3624bb659",
+    "elapsedMinutes": [
+      0,
+      15,
+      27,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8246",
+    "category": "C",
+    "stopNames": [
+      "银川",
+      "沙湖",
+      "石嘴山",
+      "惠农南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8246.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "97805a66ed5acdeb3e7b475a2a0ed229ee0e35c54257f3b03116571950371a47",
+    "elapsedMinutes": [
+      0,
+      15,
+      27,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D1185",
+    "category": "D",
+    "stopNames": [
+      "呼和浩特东",
+      "察素齐",
+      "包头东",
+      "包头",
+      "乌拉特前旗",
+      "巴彦淖尔",
+      "磴口",
+      "乌海",
+      "惠农南",
+      "石嘴山",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d1185.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9c6b90812e4c4eab66a0147562e70f602ebc9db6b6ecf13eb3ff741338fedf9f",
+    "elapsedMinutes": [
+      0,
+      26,
+      62,
+      77,
+      115,
+      150,
+      172,
+      200,
+      222,
+      240,
+      264
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D1186",
+    "category": "D",
+    "stopNames": [
+      "银川",
+      "石嘴山",
+      "惠农南",
+      "乌海",
+      "巴彦淖尔",
+      "乌拉特前旗",
+      "包头",
+      "包头东",
+      "呼和浩特",
+      "呼和浩特东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d1186.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "75331612c22b39a489ec44649604ffb5a7bfa1bf94eb87d139410557e92384e6",
+    "elapsedMinutes": [
+      0,
+      21,
+      39,
+      61,
+      105,
+      141,
+      178,
+      194,
+      248,
+      259
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D1191",
+    "category": "D",
+    "stopNames": [
+      "呼和浩特东",
+      "呼和浩特",
+      "包头东",
+      "包头",
+      "乌拉特前旗",
+      "巴彦淖尔",
+      "碱柜",
+      "乌海",
+      "惠农南",
+      "石嘴山",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d1191.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "de6ee901d33a917f95cf10fd015a780e1613d4c6d57c51ca8b73bd5abfddd03e",
+    "elapsedMinutes": [
+      0,
+      8,
+      62,
+      76,
+      114,
+      149,
+      186,
+      198,
+      220,
+      239,
+      268
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D1192",
+    "category": "D",
+    "stopNames": [
+      "银川",
+      "沙湖",
+      "惠农南",
+      "乌海",
+      "巴彦淖尔",
+      "五原",
+      "乌拉特前旗",
+      "包头",
+      "包头东",
+      "呼和浩特东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d1192.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3da95888d3c671561f458caa410ba2eb66ff0f75da2a80a634c0d80cdce1e124",
+    "elapsedMinutes": [
+      0,
+      15,
+      38,
+      61,
+      106,
+      128,
+      147,
+      184,
+      201,
+      261
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D1197",
+    "category": "D",
+    "stopNames": [
+      "包头",
+      "巴彦淖尔",
+      "乌海",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d1197.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "048483df257c655bb5dfc6179562fe274c82e418420b2678d1ee27437b3d9500",
+    "elapsedMinutes": [
+      0,
+      63,
+      106,
+      159
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D1198",
+    "category": "D",
+    "stopNames": [
+      "银川",
+      "石嘴山",
+      "惠农南",
+      "巴彦淖尔",
+      "包头"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d1198.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "359b7b5399eb4bcb89ee17561611b8f542c53bd9168f9c6779bd2cc66f425334",
+    "elapsedMinutes": [
+      0,
+      21,
+      38,
+      98,
+      165
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4929",
+    "category": "D",
+    "stopNames": [
+      "呼和浩特东",
+      "呼和浩特",
+      "包头东",
+      "包头",
+      "巴彦淖尔",
+      "乌海",
+      "惠农南",
+      "石嘴山",
+      "沙湖",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4929.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "a226d871bd975720066c4f1c9c6bb00ef1223bb65a65dceaa934d49375cfcf94",
+    "elapsedMinutes": [
+      0,
+      8,
+      64,
+      78,
+      143,
+      187,
+      208,
+      225,
+      237,
+      255
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4930",
+    "category": "D",
+    "stopNames": [
+      "银川",
+      "沙湖",
+      "石嘴山",
+      "惠农南",
+      "乌海",
+      "巴彦淖尔",
+      "乌拉特前旗",
+      "包头",
+      "萨拉齐",
+      "察素齐",
+      "呼和浩特",
+      "呼和浩特东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4930.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "a073096d851aca23686c3900280353d99bb220312f92a05e6e172bb3cd1593b5",
+    "elapsedMinutes": [
+      0,
+      15,
+      27,
+      44,
+      66,
+      110,
+      145,
+      181,
+      211,
+      234,
+      257,
+      268
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4985",
+    "category": "D",
+    "stopNames": [
+      "呼和浩特东",
+      "呼和浩特",
+      "察素齐",
+      "包头东",
+      "乌拉特前旗",
+      "五原",
+      "巴彦淖尔",
+      "乌海",
+      "惠农南",
+      "石嘴山",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4985.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "0c48cc3676fd2d2fb7fd73b0856a55bfda2d0fc27ff84274a555b09c236bcf29",
+    "elapsedMinutes": [
+      0,
+      8,
+      35,
+      80,
+      124,
+      143,
+      165,
+      211,
+      234,
+      251,
+      275
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4986",
+    "category": "D",
+    "stopNames": [
+      "银川",
+      "沙湖",
+      "惠农南",
+      "乌海",
+      "巴彦淖尔",
+      "五原",
+      "乌拉特前旗",
+      "包头",
+      "萨拉齐",
+      "呼和浩特",
+      "呼和浩特东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4986.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "df14f1c22d16c7827369c3fdcd47ff4b6855709da92129c3358bff862206853c",
+    "elapsedMinutes": [
+      0,
+      15,
+      38,
+      60,
+      104,
+      126,
+      145,
+      181,
+      211,
+      251,
+      262
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4987",
+    "category": "D",
+    "stopNames": [
+      "包头",
+      "乌拉特前旗",
+      "巴彦淖尔",
+      "乌海",
+      "石嘴山",
+      "沙湖",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4987.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "aed0ad21ca42095372f7bf53b854fadf153a366393092caf86e438a385fe8e42",
+    "elapsedMinutes": [
+      0,
+      33,
+      68,
+      113,
+      145,
+      157,
+      175
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4988",
+    "category": "D",
+    "stopNames": [
+      "银川",
+      "石嘴山",
+      "巴彦淖尔",
+      "乌拉特前旗",
+      "包头"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4988.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "8d1029b2f31974b17f5bb188f171bdd3d3493de4ee27789922a580a7e00ba1e6",
+    "elapsedMinutes": [
+      0,
+      21,
+      92,
+      127,
+      164
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4989",
+    "category": "D",
+    "stopNames": [
+      "乌海",
+      "乌海南",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4989.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "61f6e28d2acf346cdab725950496c653302bfce105e292f86de201a64e7c0d75",
+    "elapsedMinutes": [
+      0,
+      12,
+      55
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4990",
+    "category": "D",
+    "stopNames": [
+      "银川",
+      "石嘴山",
+      "惠农南",
+      "乌海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4990.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "c13ba913d25b0534793e860e7ea06d8da4203342a14e3e69626ac8622d54eb45",
+    "elapsedMinutes": [
+      0,
+      21,
+      38,
+      60
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4991",
+    "category": "D",
+    "stopNames": [
+      "巴彦淖尔",
+      "乌海",
+      "乌海南",
+      "石嘴山",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4991.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "c6f30159685a70ea8154b78b2521aacfba853ddd3b97eb2f9a21152f2b525be7",
+    "elapsedMinutes": [
+      0,
+      41,
+      55,
+      80,
+      103
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4992",
+    "category": "D",
+    "stopNames": [
+      "银川",
+      "石嘴山",
+      "乌海",
+      "巴彦淖尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4992.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "016aa655b3079c71c2bc46155c6a92e11b6fe7908ec2fc2fb8a648812a34b441",
+    "elapsedMinutes": [
+      0,
+      21,
+      54,
+      98
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4993",
+    "category": "D",
+    "stopNames": [
+      "包头",
+      "乌拉特前旗",
+      "巴彦淖尔",
+      "乌海",
+      "石嘴山",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4993.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "c5aef14f4b938d4d4b7e89f7b093b96ffd855bafabf992600cc1f319794ba9b6",
+    "elapsedMinutes": [
+      0,
+      33,
+      68,
+      112,
+      144,
+      168
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4994",
+    "category": "D",
+    "stopNames": [
+      "银川",
+      "沙湖",
+      "石嘴山",
+      "惠农南",
+      "乌海",
+      "碱柜",
+      "磴口",
+      "巴彦淖尔",
+      "五原",
+      "乌拉特前旗",
+      "白彦花西",
+      "包头"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4994.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "52fbbf2bee841b7da520db3cc5b7d01b30e1f1e02b6a54bb65a6305be3d9e39c",
+    "elapsedMinutes": [
+      0,
+      15,
+      27,
+      44,
+      66,
+      79,
+      102,
+      124,
+      149,
+      168,
+      188,
+      210
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4995",
+    "category": "D",
+    "stopNames": [
+      "包头",
+      "白彦花西",
+      "乌拉特前旗",
+      "巴彦淖尔",
+      "磴口",
+      "乌海",
+      "惠农南",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4995.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "712a8c516c199843c15918fc845179ac7d96f385d2e5d7e2d1bd367ad25b4bd3",
+    "elapsedMinutes": [
+      0,
+      19,
+      39,
+      74,
+      96,
+      124,
+      145,
+      180
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4996",
+    "category": "D",
+    "stopNames": [
+      "银川",
+      "石嘴山",
+      "惠农南",
+      "乌海",
+      "巴彦淖尔",
+      "白彦花西",
+      "包头"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4996.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "9b58b1c380d7c65cb686cbbf01f2bc81e17399946e69b37e30ebe6e47d72ec0a",
+    "elapsedMinutes": [
+      0,
+      21,
+      38,
+      60,
+      104,
+      154,
+      176
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G2253",
+    "category": "G",
+    "stopNames": [
+      "银川",
+      "灵武北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g2253.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "22cd02a19c3306427e4d2ecae554b65a951eb1f8f5adb3574ef0e52c835e42c6",
+    "elapsedMinutes": [
+      0,
+      27
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K193",
+    "category": "K",
+    "stopNames": [
+      "呼和浩特",
+      "包头",
+      "巴彦淖尔",
+      "巴彦高勒",
+      "乌海",
+      "乌海西",
+      "惠农",
+      "石嘴山南",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k193.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "cb926cdc0b1c03c4fa3678ef077f7a3b0e472e3b0883edeaade144f4375a5a9c",
+    "elapsedMinutes": [
+      0,
+      104,
+      293,
+      346,
+      422,
+      464,
+      490,
+      529,
+      575
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K194",
+    "category": "K",
+    "stopNames": [
+      "银川",
+      "石嘴山南",
+      "惠农",
+      "乌海西",
+      "乌海",
+      "巴彦淖尔",
+      "乌拉山西",
+      "包头",
+      "呼和浩特"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k194.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "ccea51a90f7529817c9a950171d736b1f137530ecccba554653db452bfaae5c8",
+    "elapsedMinutes": [
+      0,
+      36,
+      75,
+      96,
+      127,
+      218,
+      291,
+      361,
+      514
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y173",
+    "category": "OTHER",
+    "stopNames": [
+      "银川",
+      "中卫"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y173.html",
+    "sourceUpdatedAt": "2026-06-05",
+    "sourceSha256": "af182acc602e7f0fd33658a67e3b0915567315c676ab672daea4999fab79dc81",
+    "elapsedMinutes": [
+      0,
+      126
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y287",
+    "category": "OTHER",
+    "stopNames": [
+      "银川",
+      "中卫"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y287.html",
+    "sourceUpdatedAt": "2026-05-31",
+    "sourceSha256": "f1a80210cdfbf393acdcd4c6caae9103c94e3215e1f620561647c48c3a60e4da",
+    "elapsedMinutes": [
+      0,
+      290
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y288",
+    "category": "OTHER",
+    "stopNames": [
+      "中卫",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y288.html",
+    "sourceUpdatedAt": "2026-06-05",
+    "sourceSha256": "98de4222f853a53d65d540c426221cce3a008043ad7f4c7753abe31722aacf02",
+    "elapsedMinutes": [
+      0,
+      206
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y401",
+    "category": "OTHER",
+    "stopNames": [
+      "银川",
+      "中卫",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y401.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "fa7fc52424b666bea324eb5d74b5d20104981212a93d4b446bef68a7662f6252",
+    "elapsedMinutes": [
+      0,
+      335,
+      1620,
+      1741
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

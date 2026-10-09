@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "红河",
+  "stationCount": 11,
+  "candidateServices": 225,
+  "acquiredAdditionalServices": 1,
+  "failedPages": [
+    {
+      "trainNumber": "Y776",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    }
+  ],
+  "stationIssues": []
+}

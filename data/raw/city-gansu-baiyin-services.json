@@ -1,0 +1,62 @@
+[
+  {
+    "trainNumber": "7515",
+    "category": "OTHER",
+    "stopNames": [
+      "白银西",
+      "白银市",
+      "吴家川",
+      "靖远西",
+      "靖远",
+      "东湾",
+      "长征"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7515.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1ad7e0199d0d96b8d9f2b028dae02c3d6b57f5c8176fba0df12f963b0ec42632",
+    "elapsedMinutes": [
+      0,
+      12,
+      63,
+      88,
+      96,
+      115,
+      140
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7516",
+    "category": "OTHER",
+    "stopNames": [
+      "长征",
+      "东湾",
+      "靖远",
+      "靖远西",
+      "吴家川",
+      "白银市",
+      "白银西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7516.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "64f12f0bc5466859e8ad237ec1683e47d9d43a70c6f411e6a81c8e25de720154",
+    "elapsedMinutes": [
+      0,
+      19,
+      39,
+      51,
+      78,
+      135,
+      205
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

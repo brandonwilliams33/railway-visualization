@@ -1,0 +1,44 @@
+[
+  {
+    "trainNumber": "D9901",
+    "category": "D",
+    "stopNames": [
+      "民和南",
+      "海东",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9901.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "159269d6d171b4f19805e81648c1b99041bf18c059f439c54484e4bf31fd5766",
+    "elapsedMinutes": [
+      0,
+      19,
+      41
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9902",
+    "category": "D",
+    "stopNames": [
+      "西宁",
+      "民和南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9902.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "48632c42d23dd9ecb78912e9fade8d149d8b83f6375601ab57d5126355b8a7ed",
+    "elapsedMinutes": [
+      0,
+      33
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

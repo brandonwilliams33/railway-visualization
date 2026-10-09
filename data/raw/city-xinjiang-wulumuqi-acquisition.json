@@ -1,0 +1,22 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "乌鲁木齐",
+  "stationCount": 2,
+  "candidateServices": 505,
+  "acquiredAdditionalServices": 332,
+  "failedPages": [
+    {
+      "trainNumber": "Y906",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "Y946",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "Y956",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

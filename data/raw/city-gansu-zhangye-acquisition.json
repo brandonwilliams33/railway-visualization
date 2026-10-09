@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "张掖",
+  "stationCount": 12,
+  "candidateServices": 203,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "狼尾山"
+  ]
+}

@@ -16914,5 +16914,4761 @@
     "instanceOf": [
       "Q55488"
     ]
+  },
+  {
+    "name": "乃托",
+    "wikidataId": "Q17041079",
+    "coordinate": {
+      "latitude": 28.73954,
+      "longitude": 102.602362,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17041079",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "乃托站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Naituo Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Liangshan, Sichuan"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "中华人民共和国境内的一个铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "何寨",
+    "wikidataId": "Q10886155",
+    "coordinate": {
+      "latitude": 34.4970114,
+      "longitude": 109.3201306,
+      "altitude": null,
+      "precision": 0.00027777777777778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q10886155",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "何寨站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Hezhai Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Lintong, Xi'an, Shaanxi"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "陕西省西安市临潼区铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "元江",
+    "wikidataId": "Q109018399",
+    "coordinate": {
+      "latitude": 23.701446944444445,
+      "longitude": 102.00661305555556,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q109018399",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "元江站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Yuanjiang Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "元江站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "兰州新区",
+    "wikidataId": "Q22079690",
+    "coordinate": {
+      "latitude": 36.46957,
+      "longitude": 103.616338,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q22079690",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Lanzhou New Area railway station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "兰州新区站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Zhongchuan, People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "甘肃省兰州市皋兰县铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "勐腊",
+    "wikidataId": "Q109018363",
+    "coordinate": {
+      "latitude": 21.4280616,
+      "longitude": 101.5870139,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q109018363",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "勐腊站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Mengla Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "勐腊站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "和硕",
+    "wikidataId": "Q47004219",
+    "coordinate": {
+      "latitude": 42.302322,
+      "longitude": 86.874316,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q47004219",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "和硕站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Heshuo Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Hoxud County, Bayingolin Prefecture, Xinjiang, People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "新疆巴音郭楞州和硕县铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "哈密东",
+    "wikidataId": "Q135911540",
+    "coordinate": {
+      "latitude": 42.74175210695068,
+      "longitude": 93.5918536254321,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q135911540",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "哈密东站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Hamidong Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "train station in Hami, Xinjiang"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "大方南",
+    "wikidataId": "Q28070834",
+    "coordinate": {
+      "latitude": 27.120586111111113,
+      "longitude": 105.56497777777778,
+      "altitude": null,
+      "precision": 2.777777777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q28070834",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "大方南站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Dafang South Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Dafang County, People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "贵州省毕节市大方县铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "姚渡",
+    "wikidataId": "Q28031709",
+    "coordinate": {
+      "latitude": 32.805759,
+      "longitude": 105.494319,
+      "altitude": null,
+      "precision": 0.010687713245392,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q28031709",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "姚渡站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Yaodu Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "宁强",
+    "wikidataId": "Q10945904",
+    "coordinate": {
+      "latitude": 33.06363,
+      "longitude": 106.31753,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q10945904",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "宁强站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "小中甸",
+    "wikidataId": "Q136091100",
+    "coordinate": {
+      "latitude": 27.56238,
+      "longitude": 99.81346,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q136091100",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "小中甸站"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "小中甸站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Xiaozhongdian Railway Station"
+      }
+    },
+    "descriptions": {},
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "庄里",
+    "wikidataId": "Q11062670",
+    "coordinate": {
+      "latitude": 34.82529,
+      "longitude": 109.06543,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q11062670",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "庄里站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Zhuangli Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "府谷",
+    "wikidataId": "Q135920994",
+    "coordinate": {
+      "latitude": 39.050555555555555,
+      "longitude": 111.03944444444444,
+      "altitude": null,
+      "precision": 0.0002777777777777778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q135920994",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "府谷站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Fugu Railway Station"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "陕西省榆林市府谷县铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "弯坵",
+    "wikidataId": "Q11067887",
+    "coordinate": {
+      "latitude": 27.085989,
+      "longitude": 102.195584,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q11067887",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "弯坵站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Wanqiu Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Miyi, Panzhihua"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "彬州",
+    "wikidataId": "Q24835642",
+    "coordinate": {
+      "latitude": 35.046259,
+      "longitude": 108.099624,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q24835642",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "彬州站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Binzhou Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Binzhou, Xianyang, Shaanxi, China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "陕西省咸阳市彬州市炭店镇虎家湾村铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "彭州南",
+    "wikidataId": "Q12348905",
+    "coordinate": {
+      "latitude": 30.943322222222,
+      "longitude": 103.93833611111,
+      "altitude": null,
+      "precision": 2.7777777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q12348905",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "彭州南站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Pengzhounan Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Pengzhou, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "普洱",
+    "wikidataId": "Q109018386",
+    "coordinate": {
+      "latitude": 22.77839388888889,
+      "longitude": 100.94044,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q109018386",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "普洱站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Pu'er Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "普洱站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "云南省普洱市思茅区铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "朝天南",
+    "wikidataId": "Q30345227",
+    "coordinate": {
+      "latitude": 32.640214,
+      "longitude": 105.875064,
+      "altitude": null,
+      "precision": 0.010667889483635,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q30345227",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "朝天南站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Chaotiannan Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "四川广元境内的一座铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "柳家庄",
+    "wikidataId": "Q11109598",
+    "coordinate": {
+      "latitude": 37.51684,
+      "longitude": 105.3908,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q11109598",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "柳家庄站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Liujiazhuang Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Zhongwei, Ningxia, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "步行街",
+    "wikidataId": "Q67931385",
+    "coordinate": {
+      "latitude": 30.96488056,
+      "longitude": 103.94664167,
+      "altitude": null,
+      "precision": 0.010476189731286317,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q67931385",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "步行街站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Buxingjie Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Sichuan, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "永仁",
+    "wikidataId": "Q97348430",
+    "coordinate": {
+      "latitude": 26.052005555555557,
+      "longitude": 101.70941666666667,
+      "altitude": null,
+      "precision": 2.777777777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q97348430",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "永仁站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Yongren Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "永仁站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "永寿",
+    "wikidataId": "Q28414887",
+    "coordinate": {
+      "latitude": 34.707128,
+      "longitude": 108.147052,
+      "altitude": null,
+      "precision": 0.010927436519153,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q28414887",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "永寿站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Shaanxi, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "盘古",
+    "wikidataId": "Q17040312",
+    "coordinate": {
+      "latitude": 52.702813888889,
+      "longitude": 123.87110833333,
+      "altitude": null,
+      "precision": 2.7777777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17040312",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "盘古站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Pangu Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "眉县东",
+    "wikidataId": "Q11060284",
+    "coordinate": {
+      "latitude": 34.27252,
+      "longitude": 107.83316,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q11060284",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "眉县东站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Meixian East Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Mei County, Baoji, Shaanxi"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "陕西省宝鸡市眉县常兴镇铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "磨憨",
+    "wikidataId": "Q108417976",
+    "coordinate": {
+      "latitude": 21.2526695,
+      "longitude": 101.71769111111111,
+      "altitude": null,
+      "precision": 0.000277778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q108417976",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Mohan Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "磨憨站"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "磨憨站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "云南省西双版纳傣族自治州勐腊县铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488",
+      "Q1402443"
+    ]
+  },
+  {
+    "name": "神木北",
+    "wikidataId": "Q16691630",
+    "coordinate": {
+      "latitude": 39.03911111,
+      "longitude": 110.44008333,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q16691630",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "神木北站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Shenmubei Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "陕西省榆林市神木市铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "翠屏",
+    "wikidataId": "Q17277877",
+    "coordinate": {
+      "latitude": 28.75472222,
+      "longitude": 104.59916667,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17277877",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Cuiping Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "翠屏站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Cuiping District, People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "四川省宜宾市翠屏区铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "耀州",
+    "wikidataId": "Q17026400",
+    "coordinate": {
+      "latitude": 34.909856,
+      "longitude": 108.983335,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17026400",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "耀州站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Yaozhou Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "陕西省铜川市耀州区铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "自贡北",
+    "wikidataId": "Q17035074",
+    "coordinate": {
+      "latitude": 29.3587,
+      "longitude": 104.7885,
+      "altitude": null,
+      "precision": 0.010306576779931,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17035074",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "自贡北站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Zigong North Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "station in Ziliujing, Zigong, Sichuan, China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "蒲城",
+    "wikidataId": "Q17034828",
+    "coordinate": {
+      "latitude": 34.935779,
+      "longitude": 109.554439,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17034828",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "蒲城站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Pucheng Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Pucheng, Weinan, Shaanxi, People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "陕西省渭南市蒲城县铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "蒲江",
+    "wikidataId": "Q60213476",
+    "coordinate": {
+      "latitude": 30.194703,
+      "longitude": 103.494493,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q60213476",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "蒲江站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Pujiang Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Pujiang, Chengdu, Sichuan, People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "四川省成都市蒲江县铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "蒲石",
+    "wikidataId": "Q17034912",
+    "coordinate": {
+      "latitude": 34.887112,
+      "longitude": 109.705937,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17034912",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "蒲石站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Shaanxi, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "西双版纳",
+    "wikidataId": "Q108417971",
+    "coordinate": {
+      "latitude": 21.986119,
+      "longitude": 100.771864,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q108417971",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Xishuangbanna Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "西双版纳站"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "西双版纳站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "云南省西双版纳傣族自治州景洪市铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "轮台",
+    "wikidataId": "Q28749212",
+    "coordinate": {
+      "latitude": 41.849056,
+      "longitude": 84.096148,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q28749212",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "轮台站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Luntai Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "铁门关",
+    "wikidataId": "Q136438907",
+    "coordinate": {
+      "latitude": 41.873501,
+      "longitude": 85.695744,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q136438907",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Tiemenguan Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "铁门关站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Korla, Xinjiang"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "新疆维吾尔自治区巴音郭楞蒙古自治州库尔勒市铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "铜川东",
+    "wikidataId": "Q17028736",
+    "coordinate": {
+      "latitude": 35.07891,
+      "longitude": 109.090103,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17028736",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "铜川东站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Tongchuan East Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Tongchuan, People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "陕西省铜川市王益区铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "陈庄",
+    "wikidataId": "Q17062263",
+    "coordinate": {
+      "latitude": 34.855631,
+      "longitude": 109.59254,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17062263",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "陈庄站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Shaanxi, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "香格里拉",
+    "wikidataId": "Q122870779",
+    "coordinate": {
+      "latitude": 27.8134,
+      "longitude": 99.68859,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q122870779",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Shangri-la Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "香格里拉站"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "香格里拉站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Shangri-la City, Diqing Prefecture, Yunnan, China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "云南省迪庆州香格里拉市铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488",
+      "Q22808404",
+      "Q11606300"
+    ]
+  },
+  {
+    "name": "马兰",
+    "wikidataId": "Q47004221",
+    "coordinate": {
+      "latitude": 42.233549,
+      "longitude": 87.377664,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q47004221",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "马兰站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Malan Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "黄羊湾",
+    "wikidataId": "Q11178189",
+    "coordinate": {
+      "latitude": 37.51137107973733,
+      "longitude": 105.5200147729071,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q11178189",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "黄羊湾站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Huangyangwan Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Ningxia"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "兴业南",
+    "wikidataId": "Q139971195",
+    "coordinate": {
+      "latitude": 22.716005,
+      "longitude": 109.875532,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q139971195",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Xingye South Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "兴业南站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Xingye, Yulin, Guangxi"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "广西壮族自治区玉林市兴业县石南镇铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "博白",
+    "wikidataId": "Q28412496",
+    "coordinate": {
+      "latitude": 22.234238,
+      "longitude": 109.989484,
+      "altitude": null,
+      "precision": 0.0097047533186396,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q28412496",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "博白站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Bobai Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "横州",
+    "wikidataId": "Q139971201",
+    "coordinate": {
+      "latitude": 22.758053,
+      "longitude": 109.369712,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q139971201",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Hengzhou Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "横州站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Hengzhou, Nanning, Guangxi"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "广西壮族自治区南宁市横州市马岭镇清泉村铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "玉林北",
+    "wikidataId": "Q126706685",
+    "coordinate": {
+      "latitude": 22.725572,
+      "longitude": 110.245029,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q126706685",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "玉林北站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Yulin North Railway Station"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "南深高速铁路在玉林市北流市新圩镇平安山村所设车站"
+      },
+      "en": {
+        "language": "en",
+        "value": "railway station in Beiliu, Yulin, Guangxi"
+      }
+    },
+    "instanceOf": [
+      "Q11606300",
+      "Q55488"
+    ]
+  },
+  {
+    "name": "凭祥东",
+    "wikidataId": "Q137213177",
+    "coordinate": {
+      "latitude": 22.10632222222222,
+      "longitude": 106.78930833333334,
+      "altitude": null,
+      "precision": 2.777777777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q137213177",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "凭祥东站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Pingxiang East railway station"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "广西壮族自治区崇左市凭祥市铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "凭祥",
+    "wikidataId": "Q10896373",
+    "coordinate": {
+      "latitude": 22.08277777777778,
+      "longitude": 106.73916666666666,
+      "altitude": null,
+      "precision": 0.0002777777777777778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q10896373",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "凭祥站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Pingxiang Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Guangxi"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "广西壮族自治区崇左市凭祥市铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488",
+      "Q1402443"
+    ]
+  },
+  {
+    "name": "宁明东",
+    "wikidataId": "Q137213146",
+    "coordinate": {
+      "latitude": 22.308888888888887,
+      "longitude": 107.19972222222222,
+      "altitude": null,
+      "precision": 0.0002777777777777778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q137213146",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "宁明东站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Ningming East railway station"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "广西壮族自治区崇左市宁明县铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "崇左",
+    "wikidataId": "Q11052879",
+    "coordinate": {
+      "latitude": 22.406388888888888,
+      "longitude": 107.35408333333334,
+      "altitude": null,
+      "precision": 2.777777777777778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q11052879",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "崇左站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Chongzuo Railway Station"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "广西壮族自治区崇左市江州区铁路车站"
+      },
+      "en": {
+        "language": "en",
+        "value": "railway station in Chongzuo, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "遵义南",
+    "wikidataId": "Q41518327",
+    "coordinate": {
+      "latitude": 27.449705,
+      "longitude": 106.836993,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q41518327",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "乌江寨站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Wujiangzhai Railway Station"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "贵州省遵义市播州区铁路车站"
+      },
+      "en": {
+        "language": "en",
+        "value": "railway station in Goujiang, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ]
+  },
+  {
+    "name": "万象",
+    "wikidataId": "Q108525865",
+    "coordinate": {
+      "latitude": 18.0464455,
+      "longitude": 102.69060011111111,
+      "altitude": null,
+      "precision": 0.000277778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q108525865",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "万象站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Vientiane Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Xaythany District, Laos"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "老挝铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q819"
+    ]
+  },
+  {
+    "name": "个旧",
+    "wikidataId": "Q800969",
+    "coordinate": {
+      "latitude": 23.5167719,
+      "longitude": 103.2120272,
+      "altitude": null,
+      "precision": 1e-07,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q800969",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "个旧站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Gejiu Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "个旧站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "云南省红河州个旧市铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "临沧",
+    "wikidataId": "Q110512750",
+    "coordinate": {
+      "latitude": 23.93345,
+      "longitude": 100.11149,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q110512750",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Lincang Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "临沧站"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "临沧站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Linxiang, Lincang, Yunnan, People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "云南省临沧市临翔区忙畔街道铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "云县",
+    "wikidataId": "Q130146361",
+    "coordinate": {
+      "latitude": 24.40169343967635,
+      "longitude": 100.12656785565385,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q130146361",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "云县站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Yunxian Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "云县站"
+      }
+    },
+    "descriptions": {},
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "化念",
+    "wikidataId": "Q109018404",
+    "coordinate": {
+      "latitude": 24.04554942445304,
+      "longitude": 102.23124312619593,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q109018404",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "化念站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Huanian Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "化念站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "孟赛",
+    "wikidataId": "Q109020806",
+    "coordinate": {
+      "latitude": 20.681313055555556,
+      "longitude": 101.96926111111111,
+      "altitude": null,
+      "precision": 0.000277778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q109020806",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Muang Xai railway station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "孟赛站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Muang Xay, Laos"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q819"
+    ]
+  },
+  {
+    "name": "宁洱",
+    "wikidataId": "Q109018389",
+    "coordinate": {
+      "latitude": 23.051145,
+      "longitude": 101.062956,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q109018389",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "宁洱站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Ning'er Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "宁洱站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "小湾东",
+    "wikidataId": "Q109439915",
+    "coordinate": {
+      "latitude": 24.7140021,
+      "longitude": 100.1440483,
+      "altitude": null,
+      "precision": 1e-07,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q109439915",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "小湾东站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Xiaowandong Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "小湾东站"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "大临铁路的一个车站，以站台一半在桥上一半在隧道中为特色。"
+      },
+      "en": {
+        "language": "en",
+        "value": "railway station in Xiaowandong, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "屏边",
+    "wikidataId": "Q28008434",
+    "coordinate": {
+      "latitude": 23.01679845114783,
+      "longitude": 103.63573242632506,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q28008434",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "屏边站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Pingbian Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "屏边站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Pingbian Miao Autonomous County, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "峨山",
+    "wikidataId": "Q109018405",
+    "coordinate": {
+      "latitude": 24.191351349393468,
+      "longitude": 102.38825037995055,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q109018405",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "峨山站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Eshan Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "峨山站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "巍山",
+    "wikidataId": "Q135981479",
+    "coordinate": {
+      "latitude": 25.2324,
+      "longitude": 100.29316,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q135981479",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Weishan Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "巍山站"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "巍山站"
+      }
+    },
+    "descriptions": {},
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "开远南",
+    "wikidataId": "Q112182453",
+    "coordinate": {
+      "latitude": 23.683058333333335,
+      "longitude": 103.28328055555555,
+      "altitude": null,
+      "precision": 2.777777777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q112182453",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Kaiyuan South railway station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "开远南站"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "开远南站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Yunnan"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "朋普",
+    "wikidataId": "Q140288108",
+    "coordinate": {
+      "latitude": 23.9772685,
+      "longitude": 103.3413371,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q140288108",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Pengpu Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "朋普站"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "朋普站"
+      }
+    },
+    "descriptions": {},
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "橄榄坝",
+    "wikidataId": "Q109018378",
+    "coordinate": {
+      "latitude": 21.87293,
+      "longitude": 100.945415,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q109018378",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "橄榄坝站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Ganlanba Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "橄榄坝站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "永平县",
+    "wikidataId": "Q130146404",
+    "coordinate": {
+      "latitude": 25.407733095476374,
+      "longitude": 99.5385229376422,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q130146404",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "永平县站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Yongpingxian Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "永平县站"
+      }
+    },
+    "descriptions": {},
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "河口北",
+    "wikidataId": "Q27943291",
+    "coordinate": {
+      "latitude": 22.532236,
+      "longitude": 103.973868,
+      "altitude": null,
+      "precision": 0.0097255626181238,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q27943291",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "河口北站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Hekou North Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "河口北站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Hekou Yao Autonomous County, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "漾濞",
+    "wikidataId": "Q130146402",
+    "coordinate": {
+      "latitude": 25.66284926425201,
+      "longitude": 99.9623543747157,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q130146402",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "漾濞站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Yangbi Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "漾濞站"
+      }
+    },
+    "descriptions": {},
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "琅勃拉邦",
+    "wikidataId": "Q108939459",
+    "coordinate": {
+      "latitude": 19.8674998,
+      "longitude": 102.2139819,
+      "altitude": null,
+      "precision": 0.000277778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q108939459",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "琅勃拉邦站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Luang Prabang Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Luang Prabang District, Laos"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q819"
+    ]
+  },
+  {
+    "name": "磨丁",
+    "wikidataId": "Q109020800",
+    "coordinate": {
+      "latitude": 21.1548776,
+      "longitude": 101.6716872,
+      "altitude": null,
+      "precision": 0.000277778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q109020800",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Boten railway station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "磨丁站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Laos"
+      }
+    },
+    "instanceOf": [
+      "Q55488",
+      "Q1402443"
+    ],
+    "countryIds": [
+      "Q819"
+    ]
+  },
+  {
+    "name": "红河",
+    "wikidataId": "Q115921256",
+    "coordinate": {
+      "latitude": 23.45281,
+      "longitude": 103.35221,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q115921256",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Honghe Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "红河站"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "红河站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Mengzi, Honghe, Yunnan, China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "云南省红河哈尼族彝族自治州蒙自市铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "蒙自",
+    "wikidataId": "Q17034725",
+    "coordinate": {
+      "latitude": 23.376291,
+      "longitude": 103.42945,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17034725",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "蒙自站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Mengzi Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "蒙自站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Mengzi, Honghe, Yunnan"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "云南省红河州蒙自市铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "蒲缥",
+    "wikidataId": "Q139386627",
+    "coordinate": {
+      "latitude": 25.027183333333333,
+      "longitude": 99.00070555555556,
+      "altitude": null,
+      "precision": 2.777777777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q139386627",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "蒲缥站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Pupiao railway station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "蒲缥站"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "云南省保山市隆阳区铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "野象谷",
+    "wikidataId": "Q109018382",
+    "coordinate": {
+      "latitude": 22.114231944444445,
+      "longitude": 100.85430805555555,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q109018382",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "野象谷站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Yexianggu Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "六枝",
+    "wikidataId": "Q10893315",
+    "coordinate": {
+      "latitude": 26.2257629,
+      "longitude": 105.4647609,
+      "altitude": null,
+      "precision": 0.00027777777777778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q10893315",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "六枝站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Liu zhi Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Jiulong Subdistrict, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "关寨",
+    "wikidataId": "Q10893905",
+    "coordinate": {
+      "latitude": 26.285527554851882,
+      "longitude": 105.22248725796646,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q10893905",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "关寨站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Guanzhai Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Liuzhi, Liupanshui, Guizhou, People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "贵州省六盘水市六枝特区关寨镇关寨村铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "南江",
+    "wikidataId": "Q28409435",
+    "coordinate": {
+      "latitude": 26.89743056,
+      "longitude": 106.96938889,
+      "altitude": null,
+      "precision": 0.01007285642604,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q28409435",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "南江站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Nanjiang Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Guiyang, Guizhou"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "宝老山",
+    "wikidataId": "Q135915085",
+    "coordinate": {
+      "latitude": 26.815984600045574,
+      "longitude": 108.04042968554354,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q135915085",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Baolaoshan Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "宝老山站"
+      }
+    },
+    "descriptions": {},
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "李子沟",
+    "wikidataId": "Q108198173",
+    "coordinate": {
+      "latitude": 26.97424,
+      "longitude": 104.04672,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q108198173",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Lizigou Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "李子沟站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Weining Yi, Hui, and Miao Autonomous County, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "洛湾三江",
+    "wikidataId": "Q28418352",
+    "coordinate": {
+      "latitude": 26.685725,
+      "longitude": 106.82290833,
+      "altitude": null,
+      "precision": 0.010054080222492767,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q28418352",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "洛湾三江站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Luowansanjiang Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Dongfeng, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "滥坝",
+    "wikidataId": "Q17032389",
+    "coordinate": {
+      "latitude": 26.543957885350576,
+      "longitude": 105.03138765177914,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17032389",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "滥坝站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Lanba Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "百宜",
+    "wikidataId": "Q28418354",
+    "coordinate": {
+      "latitude": 26.82596389,
+      "longitude": 106.92919444,
+      "altitude": null,
+      "precision": 0.010066494828586,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q28418354",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "百宜站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Baiyi Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "花溪南",
+    "wikidataId": "Q123730211",
+    "coordinate": {
+      "latitude": 26.40138,
+      "longitude": 106.67833,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q123730211",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Huaxinan railway station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "花溪南站"
+      }
+    },
+    "descriptions": {},
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "茅草坪",
+    "wikidataId": "Q123929798",
+    "coordinate": {
+      "latitude": 26.21694905290553,
+      "longitude": 104.71422234092535,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q123929798",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "茅草坪站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Maocaoping Railway Station"
+      }
+    },
+    "descriptions": {},
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "茨冲",
+    "wikidataId": "Q17031199",
+    "coordinate": {
+      "latitude": 26.496465551209997,
+      "longitude": 105.10464138956532,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17031199",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "茨冲站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Cichong Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "保山",
+    "wikidataId": "Q108168203",
+    "coordinate": {
+      "latitude": 25.15367,
+      "longitude": 99.17817,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q108168203",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Baoshan Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "保山站"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "保山站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Baoshan, Yunnan"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "云南省保山市隆阳区铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "三阳川",
+    "wikidataId": "Q10867091",
+    "coordinate": {
+      "latitude": 34.6657003,
+      "longitude": 105.7055803,
+      "altitude": null,
+      "precision": 1e-07,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q10867091",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "三阳川站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Sanyangchuan Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Tianshui, People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "甘肃天水境内的铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "中川机场",
+    "wikidataId": "Q22079790",
+    "coordinate": {
+      "latitude": 36.50782222,
+      "longitude": 103.61364722,
+      "altitude": null,
+      "precision": 0.011176194361793,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q22079790",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Zhongchuan Airport railway station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "中川机场站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Gaolan, Lanzhou, People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "兰州市皋兰县铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488",
+      "Q1335652"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "南河川",
+    "wikidataId": "Q10908329",
+    "coordinate": {
+      "latitude": 34.6244608,
+      "longitude": 105.762542,
+      "altitude": null,
+      "precision": 1e-07,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q10908329",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "南河川站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Nanhechuan Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Gansu, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "干塘",
+    "wikidataId": "Q11060573",
+    "coordinate": {
+      "latitude": 37.4548,
+      "longitude": 104.5213,
+      "altitude": null,
+      "precision": 0.0001,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q11060573",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "干塘站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Gantang Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Zhongwei of Ningxia, China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "张家川",
+    "wikidataId": "Q48061785",
+    "coordinate": {
+      "latitude": 34.967004,
+      "longitude": 106.338696,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q48061785",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "张家川站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Zhangjiachuan Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Zhangjiachuan, Tianshui, Gansu, People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "甘肃省天水市张家川回族自治县恭门镇付川村铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "新李",
+    "wikidataId": "Q11082916",
+    "coordinate": {
+      "latitude": 35.60344,
+      "longitude": 106.59044,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q11082916",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "新李站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Xinli Railway Station"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "甘肃省的一个铁路车站"
+      },
+      "en": {
+        "language": "en",
+        "value": "railway station in Pingliang, Gansu, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "河东里",
+    "wikidataId": "Q62561059",
+    "coordinate": {
+      "latitude": 40.41291667,
+      "longitude": 99.76111111,
+      "altitude": null,
+      "precision": 0.011798325635395,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q62561059",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "河东里站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Hedongli railway station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "甘肃省酒泉市金塔县铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "洛门",
+    "wikidataId": "Q11146186",
+    "coordinate": {
+      "latitude": 34.75420555555556,
+      "longitude": 105.02064166666666,
+      "altitude": null,
+      "precision": 2.777777777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q11146186",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "洛门站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Luomen Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Gansu, People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "甘肃省天水市武山县铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "清水县",
+    "wikidataId": "Q28092274",
+    "coordinate": {
+      "latitude": 34.752175,
+      "longitude": 106.102507,
+      "altitude": null,
+      "precision": 0.010933393657533,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q28092274",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "清水县站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Qingshuixian Railway Station"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "清水县站"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "甘肃省天水市清水县铁路车站"
+      },
+      "en": {
+        "language": "en",
+        "value": "railway station in Qingshui County, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "渭南镇",
+    "wikidataId": "Q17030241",
+    "coordinate": {
+      "latitude": 34.6897716,
+      "longitude": 105.633803,
+      "altitude": null,
+      "precision": 1e-07,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17030241",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "渭南镇站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Weinanzhen Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Gansu, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "磐安镇",
+    "wikidataId": "Q17039963",
+    "coordinate": {
+      "latitude": 34.760615,
+      "longitude": 105.118275,
+      "altitude": null,
+      "precision": 0.010934511260744,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17039963",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "磐安镇站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Pan'an Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Gangu County, Gansu, China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "福利区",
+    "wikidataId": "Q65050877",
+    "coordinate": {
+      "latitude": 36.095882,
+      "longitude": 103.627418,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q65050877",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Fuliqu railway station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "福利区站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Xigu District, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "肃州",
+    "wikidataId": "Q130146364",
+    "coordinate": {
+      "latitude": 39.7452926,
+      "longitude": 98.6492443,
+      "altitude": null,
+      "precision": 0.01168320805000563,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q130146364",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "肃州站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Suzhou Railway Station"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "甘肃省酒泉市肃州区铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "西固",
+    "wikidataId": "Q94489496",
+    "coordinate": {
+      "latitude": 36.10483555555555,
+      "longitude": 103.60162416666667,
+      "altitude": null,
+      "precision": 2.7777777777777776e-07,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q94489496",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "西固站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Xigu District, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "金塔",
+    "wikidataId": "Q130146366",
+    "coordinate": {
+      "latitude": 39.91162222222222,
+      "longitude": 98.87280833333334,
+      "altitude": null,
+      "precision": 2.777777777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q130146366",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "金塔站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Jinta railway station"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "甘肃省酒泉市金塔县铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "长征",
+    "wikidataId": "Q86725870",
+    "coordinate": {
+      "latitude": 36.72383919883255,
+      "longitude": 104.84501006736622,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q86725870",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "长征站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Changzheng railway station"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "甘肃省白银市平川区铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "三关口",
+    "wikidataId": "Q10865371",
+    "coordinate": {
+      "latitude": 35.6648,
+      "longitude": 106.39188,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q10865371",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "三关口站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Sanguankou Railway Station"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "宁夏回族自治区的一个五等站"
+      },
+      "en": {
+        "language": "en",
+        "value": "railway station in Jingyuan, Guyuan, Ningxia, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "中宁南",
+    "wikidataId": "Q10875150",
+    "coordinate": {
+      "latitude": 37.33479,
+      "longitude": 105.61264,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q10875150",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "中宁南站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Zhongning South Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Zhongning, Zhongwei, Ningxia, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "六盘山",
+    "wikidataId": "Q10893374",
+    "coordinate": {
+      "latitude": 35.70716,
+      "longitude": 106.28841,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q10893374",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "六盘山站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Liupanshan Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Guyuan, Ningxia, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "大坝",
+    "wikidataId": "Q10934425",
+    "coordinate": {
+      "latitude": 38.024057,
+      "longitude": 105.929938,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q10934425",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "大坝站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Daba Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Qingtongxia, Ningxia, China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "宁夏青铜峡境内的铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "大战场",
+    "wikidataId": "Q10935492",
+    "coordinate": {
+      "latitude": 37.42271,
+      "longitude": 105.54192,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q10935492",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "大战场站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Dazhanchang Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Zhongning, Zhongwei, Ningxia, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "大武口",
+    "wikidataId": "Q105640047",
+    "coordinate": {
+      "latitude": 39.026336111111114,
+      "longitude": 106.38642777777778,
+      "altitude": null,
+      "precision": 2.777777777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q105640047",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Dawukou Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "大武口站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Dawukou, Shizuishan, Ningxia, People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "平汝铁路在宁夏石嘴山市大武口区所设车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "宣和",
+    "wikidataId": "Q10949879",
+    "coordinate": {
+      "latitude": 37.47806,
+      "longitude": 105.43774,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q10949879",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "宣和站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Xuanhe Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Zhongwei, Ningxia, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "平罗",
+    "wikidataId": "Q17025059",
+    "coordinate": {
+      "latitude": 38.959866,
+      "longitude": 106.46102,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17025059",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "平罗站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Pingluo Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Pingluo County, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "暖泉",
+    "wikidataId": "Q11090331",
+    "coordinate": {
+      "latitude": 38.73948,
+      "longitude": 106.269724,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q11090331",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "暖泉站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Nuanquan Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "汝箕沟",
+    "wikidataId": "Q47753254",
+    "coordinate": {
+      "latitude": 39.068972,
+      "longitude": 106.113979,
+      "altitude": null,
+      "precision": 0.011570445201613,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q47753254",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "汝箕沟站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Rujigou Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Baijigou Subdistrict, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "沙坡头",
+    "wikidataId": "Q11139705",
+    "coordinate": {
+      "latitude": 37.46561,
+      "longitude": 104.99654,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q11139705",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "沙坡头站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Shapotou Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Shapotou District, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "王团庄",
+    "wikidataId": "Q16690590",
+    "coordinate": {
+      "latitude": 36.902409,
+      "longitude": 105.980853,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q16690590",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "王团庄站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Wangtuanzhuang Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "石坝",
+    "wikidataId": "Q17038276",
+    "coordinate": {
+      "latitude": 37.0675006,
+      "longitude": 105.8438329,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17038276",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "石坝站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Shiba Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "韩府湾",
+    "wikidataId": "Q17030172",
+    "coordinate": {
+      "latitude": 36.575176,
+      "longitude": 106.149047,
+      "altitude": null,
+      "precision": 0.011185935038794654,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17030172",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "韩府湾站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "不冻泉",
+    "wikidataId": "Q4985157",
+    "coordinate": {
+      "latitude": 35.536429,
+      "longitude": 93.93134,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q4985157",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Budongquan railway station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "不冻泉站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "呼鲁斯太",
+    "wikidataId": "Q10921289",
+    "coordinate": {
+      "latitude": 39.2409202,
+      "longitude": 106.2392273,
+      "altitude": null,
+      "precision": 0.011598754272834,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q10921289",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "呼鲁斯太站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Hulusitai Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Zongbieli Town, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "天峻",
+    "wikidataId": "Q7800237",
+    "coordinate": {
+      "latitude": 37.191758,
+      "longitude": 99.192358,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q7800237",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Tianjun railway station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "天峻站"
+      }
+    },
+    "descriptions": {
+      "zh": {
+        "language": "zh",
+        "value": "青海省海西蒙古族藏族自治州天峻县天棚村铁路车站"
+      },
+      "en": {
+        "language": "en",
+        "value": "railway station in Tianjun County, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "沱沱河",
+    "wikidataId": "Q7853460",
+    "coordinate": {
+      "latitude": 34.2331,
+      "longitude": 92.4458,
+      "altitude": null,
+      "precision": 0.010865546666926,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q7853460",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Tuotuohe railway station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "沱沱河站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Tanggulashan, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "碱柜",
+    "wikidataId": "Q17039836",
+    "coordinate": {
+      "latitude": 39.930867944444444,
+      "longitude": 106.75933358333333,
+      "altitude": null,
+      "precision": 1e-07,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17039836",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "碱柜站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Jiangui Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Inner Mongolia, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "西大滩",
+    "wikidataId": "Q17066827",
+    "coordinate": {
+      "latitude": 38.860858,
+      "longitude": 106.36705,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17066827",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "西大滩站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Xidatan Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "雁石坪",
+    "wikidataId": "Q17035390",
+    "coordinate": {
+      "latitude": 33.58077,
+      "longitude": 92.07129,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q17035390",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "雁石坪站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Yanshiping Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Amdo County, Nagqu, Tibet, China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "乌苏",
+    "wikidataId": "Q10878178",
+    "coordinate": {
+      "latitude": 44.40765544,
+      "longitude": 84.71534191,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q10878178",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "乌苏站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Wusu Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Wusu, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "克拉玛依",
+    "wikidataId": "Q24835935",
+    "coordinate": {
+      "latitude": 45.52724,
+      "longitude": 84.89253,
+      "altitude": null,
+      "precision": 0.012822632623916997,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q24835935",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "克拉玛依站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Karamay Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Karamay District, People's Republic of China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "位于新疆维吾尔自治区克拉玛依市克拉玛依区的客运火车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "准东",
+    "wikidataId": "Q65613215",
+    "coordinate": {
+      "latitude": 44.735513,
+      "longitude": 89.110354,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q65613215",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "准东站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Zhundong Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Jimsar County, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "博乐",
+    "wikidataId": "Q85876900",
+    "coordinate": {
+      "latitude": 44.901573,
+      "longitude": 82.110848,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q85876900",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "博乐站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Bole Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Bole, Bortala, Xinjiang, China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "双河市",
+    "wikidataId": "Q85876940",
+    "coordinate": {
+      "latitude": 44.90215,
+      "longitude": 82.41252,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q85876940",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "双河市站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Shuangheshi Railway Station"
+      }
+    },
+    "descriptions": {},
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "富蕴",
+    "wikidataId": "Q110706184",
+    "coordinate": {
+      "latitude": 46.93374,
+      "longitude": 89.50326,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q110706184",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Fuyun Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "富蕴站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Fuyun, Altay"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "沙湾市",
+    "wikidataId": "Q11140423",
+    "coordinate": {
+      "latitude": 44.32104461,
+      "longitude": 85.60604519,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q11140423",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "沙湾市站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Shawanshi Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Shawan City, Xinjiang, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "玛纳斯",
+    "wikidataId": "Q15920124",
+    "coordinate": {
+      "latitude": 44.24805061,
+      "longitude": 86.1934981,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q15920124",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "玛纳斯站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Manasi Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Manasi, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "精河",
+    "wikidataId": "Q16690802",
+    "coordinate": {
+      "latitude": 44.635,
+      "longitude": 83.0225,
+      "altitude": null,
+      "precision": 0.00027777777777778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q16690802",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "精河站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Jinghe Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Bortala Mongol Autonomous Prefecture, Xinjiang, China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "新疆博尔塔拉州铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "阿克陶",
+    "wikidataId": "Q28757304",
+    "coordinate": {
+      "latitude": 39.167381,
+      "longitude": 75.974136,
+      "altitude": null,
+      "precision": 0.01158661727581,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q28757304",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "阿克陶站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Aketao Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Akto County, People's Republic of China"
+      },
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "中国铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "阿勒泰",
+    "wikidataId": "Q32327556",
+    "coordinate": {
+      "latitude": 47.7175,
+      "longitude": 88.08722222222222,
+      "altitude": null,
+      "precision": 0.0002777777777777778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q32327556",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "阿勒泰站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Aletai Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Altay City, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "阿拉尔",
+    "wikidataId": "Q108203878",
+    "coordinate": {
+      "latitude": 40.553575,
+      "longitude": 81.210528,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q108203878",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Aral Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "阿拉尔站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Aral, Xinjiang"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "阿拉山口",
+    "wikidataId": "Q2385382",
+    "coordinate": {
+      "latitude": 45.17027778,
+      "longitude": 82.57027778,
+      "altitude": null,
+      "precision": 0.00027777777777778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q2385382",
+    "labels": {
+      "zh-hans": {
+        "language": "zh-hans",
+        "value": "阿拉山口站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Alashankou railway station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "阿拉山口站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in China"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "新疆维吾尔自治区博尔塔拉蒙古自治州阿拉山口市铁路车站"
+      }
+    },
+    "instanceOf": [
+      "Q55488",
+      "Q1402443",
+      "Q114782406"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "阿瓦提",
+    "wikidataId": "Q110706187",
+    "coordinate": {
+      "latitude": 40.67736111111111,
+      "longitude": 80.36854166666667,
+      "altitude": null,
+      "precision": 2.777777777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q110706187",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Awati Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "阿瓦提站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "霍尔果斯",
+    "wikidataId": "Q24835703",
+    "coordinate": {
+      "latitude": 44.15537,
+      "longitude": 80.454545,
+      "altitude": null,
+      "precision": 0.012520886147961,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q24835703",
+    "labels": {
+      "zh": {
+        "language": "zh",
+        "value": "霍尔果斯站"
+      },
+      "en": {
+        "language": "en",
+        "value": "Huo'erguosi Railway Station"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in Khorgas, People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488",
+      "Q1402443",
+      "Q114782406"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
+  },
+  {
+    "name": "鱼儿沟",
+    "wikidataId": "Q76458588",
+    "coordinate": {
+      "latitude": 42.835228,
+      "longitude": 87.885908,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+    },
+    "sourceUrl": "https://www.wikidata.org/wiki/Q76458588",
+    "labels": {
+      "en": {
+        "language": "en",
+        "value": "Yu'ergou Railway Station"
+      },
+      "zh": {
+        "language": "zh",
+        "value": "鱼儿沟站"
+      }
+    },
+    "descriptions": {
+      "en": {
+        "language": "en",
+        "value": "railway station in People's Republic of China"
+      }
+    },
+    "instanceOf": [
+      "Q55488"
+    ],
+    "countryIds": [
+      "Q148"
+    ]
   }
 ]

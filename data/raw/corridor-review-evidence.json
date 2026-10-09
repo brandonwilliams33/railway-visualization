@@ -118,6 +118,80 @@
         "T270"
       ],
       "note": "仅对这条经逐项核验的高普联络线开放绘图筛选；其他联络线、货运网仍排除。不改变独立车站及完整停站直达判定。"
+    },
+    {
+      "names": [
+        "大瑞线"
+      ],
+      "evidenceUrl": "https://www.baoshan.gov.cn/info/7711/10357594.htm",
+      "serviceEvidence": [
+        "C331",
+        "C332",
+        "C339",
+        "C342"
+      ],
+      "note": "2026-04-15保蒲段启用客运，旧货运信息不作为当前客运证据。仅筛选OSM已建rail几何。"
+    },
+    {
+      "names": [
+        "内六铁路",
+        "沪昆铁路/内六铁路"
+      ],
+      "evidenceUrls": [
+        "https://www.nra.gov.cn/zzjg/jgj/cdgl/ggcd/202006/P020220829515888297950.pdf",
+        "https://news.cnr.cn/native/city/20170824/t20170824_523917394.shtml"
+      ],
+      "serviceEvidence": [
+        "5645",
+        "5646",
+        "5647",
+        "5648"
+      ],
+      "note": "铁路局线路身份资料及六盘水车务段客运营销科提供的站点乘降资料；只为显示选择客运走廊，直达仍由完整停站表决定。"
+    },
+    {
+      "names": [
+        "酒额线"
+      ],
+      "evidenceUrl": "https://www.ndrc.gov.cn/fggz/zcssfz/dffz/202202/t20220228_1317862.html",
+      "serviceEvidence": [
+        "7565",
+        "7566",
+        "7567",
+        "7568"
+      ],
+      "note": "发改委公布酒泉至东风南客货运输线路及金塔、河东里等站；只筛选已建rail，不纳入嘉策运煤专用线。"
+    },
+    {
+      "names": [
+        "天平铁路",
+        "天华线"
+      ],
+      "evidenceUrls": [
+        "https://www.gsshgz.gov.cn/system/2025/10/11/031259625.shtml",
+        "https://gansu.gscn.com.cn/system/2018/07/29/011989268.shtml"
+      ],
+      "serviceEvidence": [
+        "K625",
+        "K626",
+        "K627",
+        "K628"
+      ],
+      "note": "既有天平客运线路及完整张家川—天水停站事实；不引入在建天陇段、上行疏解线或煤矿专用线。 OSM现名天华线，为天平铁路天水—华亭已建段。"
+    },
+    {
+      "names": [
+        "平汝线",
+        "平汝铁路"
+      ],
+      "evidenceUrl": "https://www.ctnews.com.cn/paper/att/202206/28/70b3f45d-3946-45f6-9148-2c44a0c970da.pdf",
+      "serviceEvidence": [
+        "7523",
+        "7524",
+        "7525",
+        "7526"
+      ],
+      "note": "原始采访报道确认包兰铁路平汝支线普通客运；完整停站源支持白芨沟—大武口。仅具名既有线，不接入煤矿专用线。"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "昆明",
+  "stationCount": 18,
+  "candidateServices": 1090,
+  "acquiredAdditionalServices": 653,
+  "failedPages": [
+    {
+      "trainNumber": "C324",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "Y26",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "Y770",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

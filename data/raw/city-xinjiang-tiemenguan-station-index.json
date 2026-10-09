@@ -1,0 +1,56 @@
+[
+  {
+    "name": "铁门关",
+    "city": "铁门关",
+    "cityId": "xinjiang-tiemenguan",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "sourceUrl": "https://www.crecc.com/xinjiang/tiemenguan/tiemenguan.html",
+    "candidateTrainNumbers": [
+      "7555",
+      "7556",
+      "7557",
+      "7558",
+      "K451",
+      "K452",
+      "K453",
+      "K454",
+      "K9717",
+      "K9720",
+      "K9772",
+      "K9773",
+      "T59",
+      "T60",
+      "T61",
+      "T62"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cd462287ce3a96d6fe7f650e63e8b4704b6bccaf66c76d37e4b20758b743d22b",
+    "retrievedAt": "2026-10-09"
+  },
+  {
+    "name": "米兰",
+    "city": "铁门关",
+    "cityId": "xinjiang-tiemenguan",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "sourceUrl": "https://www.crecc.com/xinjiang/tiemenguan/milan.html",
+    "candidateTrainNumbers": [
+      "K315",
+      "K316",
+      "K317",
+      "K318",
+      "K6765",
+      "K6766",
+      "K6767",
+      "K6768",
+      "K9755",
+      "K9756",
+      "K9757",
+      "K9758"
+    ],
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "1994ec385c47dc72146b4a57f6b20325605cbda1a35b43eca28bcd5ad94d2aa8",
+    "retrievedAt": "2026-10-09"
+  }
+]

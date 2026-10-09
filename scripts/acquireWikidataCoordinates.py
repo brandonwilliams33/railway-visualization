@@ -26,7 +26,7 @@ titles={overrides.get(n,n+'站'):n for n in names}
 ids={}
 for offset in range(0,len(titles),40):
  j=fetch('https://zh.wikipedia.org/w/api.php',{'action':'query','titles':'|'.join(list(titles)[offset:offset+40]),'prop':'pageprops','format':'json'})
- ids.update({p['pageprops']['wikibase_item']:titles[p['title']] for p in j['query']['pages'].values() if p.get('pageprops',{}).get('wikibase_item')})
+ ids.update({p['pageprops']['wikibase_item']:titles[p['title']] for p in j['query']['pages'].values() if p.get('pageprops',{}).get('wikibase_item') and 'disambiguation' not in p.get('pageprops',{})})
 for name in set(names)-set(ids.values()):
  search=fetch('https://www.wikidata.org/w/api.php',{'action':'wbsearchentities','search':name+'站','language':'zh','format':'json','limit':5})
  matches=[v for v in search.get('search',[]) if v.get('label','').removesuffix('站')==name and any(word in v.get('description','').lower() for word in ('railway','铁路','鐵路'))]
@@ -48,9 +48,9 @@ for sid,entity in e['entities'].items():
  print(ids[sid],sid,descriptions,coords,flush=True)
  railway_identity='Q55488' in instances or any(any(word in d.lower() for word in ('railway','铁路','鐵路','高铁','高鐵')) for d in descriptions)
  if railway_identity:
-  identities.append({'name':ids[sid],'wikidataId':sid,'sourceUrl':'https://www.wikidata.org/wiki/'+sid,'labels':entity.get('labels',{}),'descriptions':entity.get('descriptions',{}),'instanceOf':instances})
+  identities.append({'name':ids[sid],'wikidataId':sid,'sourceUrl':'https://www.wikidata.org/wiki/'+sid,'labels':entity.get('labels',{}),'descriptions':entity.get('descriptions',{}),'instanceOf':instances,'countryIds':[c['mainsnak'].get('datavalue',{}).get('value',{}).get('id') for c in entity.get('claims',{}).get('P17',[])]})
  if len(coords)==1 and railway_identity:
-  facts.append({'name':ids[sid],'wikidataId':sid,'coordinate':coords[0],'sourceUrl':'https://www.wikidata.org/wiki/'+sid,'labels':entity.get('labels',{}),'descriptions':entity.get('descriptions',{}),'instanceOf':instances})
+  facts.append({'name':ids[sid],'wikidataId':sid,'coordinate':coords[0],'sourceUrl':'https://www.wikidata.org/wiki/'+sid,'labels':entity.get('labels',{}),'descriptions':entity.get('descriptions',{}),'instanceOf':instances,'countryIds':[c['mainsnak'].get('datavalue',{}).get('value',{}).get('id') for c in entity.get('claims',{}).get('P17',[])]})
 from acquireJiangsu import save
 save(previous,list({f['name']:f for f in facts}.values()))
 

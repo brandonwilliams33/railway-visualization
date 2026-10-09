@@ -1,0 +1,362 @@
+[
+  {
+    "trainNumber": "7591",
+    "category": "OTHER",
+    "stopNames": [
+      "西宁",
+      "海晏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7591.html",
+    "sourceUpdatedAt": "2026-05-28",
+    "sourceSha256": "f38e25a378ecb988c986d387314c2795fdde1f95e90239eecbf6ac9b03575404",
+    "elapsedMinutes": [
+      0,
+      70
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7592",
+    "category": "OTHER",
+    "stopNames": [
+      "海晏",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7592.html",
+    "sourceUpdatedAt": "2026-05-28",
+    "sourceSha256": "08b3f4f2ccaa4327feb880413b6e547e01e2d83b072b14e438580160e357709d",
+    "elapsedMinutes": [
+      0,
+      58
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7593",
+    "category": "OTHER",
+    "stopNames": [
+      "海晏",
+      "德令哈"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7593.html",
+    "sourceUpdatedAt": "2026-05-08",
+    "sourceSha256": "ac9e3062e96164770175f40fe6dc621683597ccbd192884bb67f17e221cd1756",
+    "elapsedMinutes": [
+      0,
+      255
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7594",
+    "category": "OTHER",
+    "stopNames": [
+      "德令哈",
+      "海晏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7594.html",
+    "sourceUpdatedAt": "2026-05-08",
+    "sourceSha256": "c2afe3d836cc9f36b413f89648dc771435d406aa4f70cf605dcf9f8e048522ca",
+    "elapsedMinutes": [
+      0,
+      249
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4377",
+    "category": "C",
+    "stopNames": [
+      "西宁",
+      "海晏",
+      "乌兰",
+      "德令哈"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4377.html",
+    "sourceUpdatedAt": "2026-08-17",
+    "sourceSha256": "8f2264ae9c1df861b4463d040eea9cfe334e21805b8912a4c6172d0ffe3e7230",
+    "elapsedMinutes": [
+      0,
+      45,
+      161,
+      212
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4378",
+    "category": "C",
+    "stopNames": [
+      "德令哈",
+      "乌兰",
+      "海晏",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4378.html",
+    "sourceUpdatedAt": "2026-08-17",
+    "sourceSha256": "ea75fc021ddc3230e3b5377506b68e527fcd0415ce14ba43cc604a70be427108",
+    "elapsedMinutes": [
+      0,
+      48,
+      164,
+      217
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C892",
+    "category": "C",
+    "stopNames": [
+      "格尔木",
+      "德令哈",
+      "海晏",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c892.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "beca179ef2978ac192682b135834ca099cecc14d2d3a5cf71557e5a490eaf790",
+    "elapsedMinutes": [
+      0,
+      123,
+      302,
+      356
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C895",
+    "category": "C",
+    "stopNames": [
+      "西宁",
+      "海晏",
+      "乌兰",
+      "德令哈"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c895.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c300e26c6a1218a7b1a90e99ad1e4617e7a0b526da115d28093f0ddc3e2e481e",
+    "elapsedMinutes": [
+      0,
+      45,
+      180,
+      236
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C896",
+    "category": "C",
+    "stopNames": [
+      "德令哈",
+      "乌兰",
+      "海晏",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c896.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "debfd4e3e73b4730fc2296ab8d5951dd1f3c009606bdcfe7b5608a8336052916",
+    "elapsedMinutes": [
+      0,
+      48,
+      183,
+      236
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9904",
+    "category": "D",
+    "stopNames": [
+      "门源",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9904.html",
+    "sourceUpdatedAt": "2026-03-30",
+    "sourceSha256": "8951d84adc94061cc4ecb4b4f923b903a8b6cd4c8bb8966eeb81bcaebf4c8c01",
+    "elapsedMinutes": [
+      0,
+      37
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9907",
+    "category": "D",
+    "stopNames": [
+      "西宁",
+      "门源"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9907.html",
+    "sourceUpdatedAt": "2026-08-02",
+    "sourceSha256": "cc530a72bbbcd8f4391f54ee8d73fbe532cf5ba067b7a879e75c4e23a6e6c0a3",
+    "elapsedMinutes": [
+      0,
+      37
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9908",
+    "category": "D",
+    "stopNames": [
+      "门源",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9908.html",
+    "sourceUpdatedAt": "2026-08-02",
+    "sourceSha256": "cce9714fea1a92597f3d2645e0d203249a9cfafb196c7b159824c968ccbee67f",
+    "elapsedMinutes": [
+      0,
+      36
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9909",
+    "category": "D",
+    "stopNames": [
+      "西宁",
+      "门源"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9909.html",
+    "sourceUpdatedAt": "2026-08-02",
+    "sourceSha256": "0afbd89e499f903c57cd27aaee7905ff25b7cd2b95365e63f8973a86faea940a",
+    "elapsedMinutes": [
+      0,
+      37
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9910",
+    "category": "D",
+    "stopNames": [
+      "门源",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9910.html",
+    "sourceUpdatedAt": "2026-08-02",
+    "sourceSha256": "4f082abbf9e3e36709b8967c9e0a83fa375389a3facd095ac2928097ec2931be",
+    "elapsedMinutes": [
+      0,
+      36
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9915",
+    "category": "D",
+    "stopNames": [
+      "西宁",
+      "门源"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9915.html",
+    "sourceUpdatedAt": "2026-01-02",
+    "sourceSha256": "46361826ed2f49136ca5b04d024dde146b52f58cedff6305f3795a710bcdacb6",
+    "elapsedMinutes": [
+      0,
+      45
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6805",
+    "category": "K",
+    "stopNames": [
+      "西宁",
+      "海晏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6805.html",
+    "sourceUpdatedAt": "2026-04-02",
+    "sourceSha256": "a3d54eaa0d6bfed1c4b9f82b0847d60f35e84f25195ffd7a1b85dfa7a8aed2ac",
+    "elapsedMinutes": [
+      0,
+      56
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6806",
+    "category": "K",
+    "stopNames": [
+      "海晏",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6806.html",
+    "sourceUpdatedAt": "2026-04-02",
+    "sourceSha256": "2c1e2a1e2eb08cf7a7f27cea4b0b16b222766b6b6122ca28a03b9463ac799ff7",
+    "elapsedMinutes": [
+      0,
+      58
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

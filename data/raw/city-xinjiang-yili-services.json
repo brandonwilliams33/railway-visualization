@@ -1,0 +1,504 @@
+[
+  {
+    "trainNumber": "K6715",
+    "category": "K",
+    "stopNames": [
+      "伊宁",
+      "霍尔果斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6715.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7eff80787ba25964fcbc3d260f8cde4dfb0c2d4073f95d8163da83c01dd84e35",
+    "elapsedMinutes": [
+      0,
+      55
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6716",
+    "category": "K",
+    "stopNames": [
+      "霍尔果斯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6716.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6cafff0459d45ac48625d540bc2600791c5d0134c09837599cc9ebd25958d9c5",
+    "elapsedMinutes": [
+      0,
+      55
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y462",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "尼勒克"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y462.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "b534dc73c760e562bfaac540f628af55bff75ac2d024b7e4fa838dd971999a14",
+    "elapsedMinutes": [
+      0,
+      76
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y604",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "奎屯",
+      "伊宁",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y604.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "17a8b7a99e3db8b5de69c10c1493ebfaa1098f615bba5a5f967694a87d720fdb",
+    "elapsedMinutes": [
+      0,
+      361,
+      361,
+      780,
+      780
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y605",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "奎屯",
+      "伊宁",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y605.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "632f3f67cd83882387cf701801c48b04becb65d2e2888422f7558a56c9031358",
+    "elapsedMinutes": [
+      0,
+      361,
+      361,
+      780,
+      780
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y613",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "尼勒克",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y613.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "375398a216387ebec180ebf712aedbf5adc25a55db18b850a2bad484308d4467",
+    "elapsedMinutes": [
+      0,
+      416,
+      660,
+      802
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y616",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "尼勒克",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y616.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "52ba14649751344d807a6e4cd2972fbd8c49b572bc99ad84d679004fca14b6ee",
+    "elapsedMinutes": [
+      0,
+      416,
+      660,
+      802
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y634",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "北屯市",
+      "奎屯",
+      "北屯市"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y634.html",
+    "sourceUpdatedAt": "2026-09-08",
+    "sourceSha256": "a2ce73b5707f887f132fd79ec4b1ce377d8d145d2e978d5cbd680abbd0649236",
+    "elapsedMinutes": [
+      0,
+      835,
+      305,
+      688
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y635",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "北屯市",
+      "奎屯",
+      "北屯市"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y635.html",
+    "sourceUpdatedAt": "2026-09-08",
+    "sourceSha256": "db81e6b15f82bb85b5dd889d48822f64d46a2fc74179ecd2e43ff42624e1d104",
+    "elapsedMinutes": [
+      0,
+      835,
+      305,
+      688
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y704",
+    "category": "OTHER",
+    "stopNames": [
+      "敦化",
+      "奎屯",
+      "吉林",
+      "伊宁",
+      "长春",
+      "沈阳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y704.html",
+    "sourceUpdatedAt": "2026-07-15",
+    "sourceSha256": "0ec3b82b8dffdfef194c8d0c4f6c4d735b6f05db124043a545a107ba927ca79f",
+    "elapsedMinutes": [
+      0,
+      361,
+      217,
+      780,
+      397,
+      649
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y705",
+    "category": "OTHER",
+    "stopNames": [
+      "敦化",
+      "奎屯",
+      "吉林",
+      "伊宁",
+      "长春",
+      "沈阳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y705.html",
+    "sourceUpdatedAt": "2026-07-15",
+    "sourceSha256": "dce5d58e3a02bfda069773ab5cd76cdda5e33d71dfea87e06128d88c7d0c333a",
+    "elapsedMinutes": [
+      0,
+      361,
+      217,
+      780,
+      397,
+      649
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y734",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "北屯市"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y734.html",
+    "sourceUpdatedAt": "2026-08-02",
+    "sourceSha256": "7e5f30dd0d4754b88b7e54b9258614bec646082bdde4a5c3cbc9af4cdf689d2f",
+    "elapsedMinutes": [
+      0,
+      700
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y860",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "奎屯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y860.html",
+    "sourceUpdatedAt": "2026-05-31",
+    "sourceSha256": "64abe16e2d71c2a294d7ff1d7e3b46a1ba30a72504c66ee4ebde58d44a18a2b2",
+    "elapsedMinutes": [
+      0,
+      370
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y894",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "奎屯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y894.html",
+    "sourceUpdatedAt": "2026-08-27",
+    "sourceSha256": "d6ba7754e833de4ffb8f5df935da4aed5b0bafa000d0598d04e3fba148c7f3f6",
+    "elapsedMinutes": [
+      0,
+      370
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y911",
+    "category": "OTHER",
+    "stopNames": [
+      "哈密",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y911.html",
+    "sourceUpdatedAt": "2026-08-19",
+    "sourceSha256": "df86298447838688480a8e93f91cd8e7e0724acadaec1c38eb314e11059fa168",
+    "elapsedMinutes": [
+      0,
+      1075
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y932",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y932.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "0ba3ff7485f5f3a84ccfe711b555be40ade2cb421df5c8c87031843e1ce7b72f",
+    "elapsedMinutes": [
+      0,
+      456,
+      762
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y933",
+    "category": "OTHER",
+    "stopNames": [
+      "北屯市",
+      "奎屯",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y933.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "0bfb9d6d260a900b22685c7a76b33b992ea46adcc4368fe2025f90bf0c0aaa44",
+    "elapsedMinutes": [
+      0,
+      456,
+      762
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y952",
+    "category": "OTHER",
+    "stopNames": [
+      "阿勒泰",
+      "北屯市",
+      "奎屯",
+      "北屯市",
+      "阿勒泰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y952.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "25f593a1ed204bba10081ddf38116cff476dd14f280de6c88d34c783670cb511",
+    "elapsedMinutes": [
+      0,
+      61,
+      290,
+      770,
+      850
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y953",
+    "category": "OTHER",
+    "stopNames": [
+      "阿勒泰",
+      "北屯市",
+      "奎屯",
+      "北屯市",
+      "阿勒泰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y953.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f89d43f5af654a6dc09518a15a68c6623f8abae932999fefb369f4816e8e8cbc",
+    "elapsedMinutes": [
+      0,
+      61,
+      290,
+      770,
+      850
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y962",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "奎屯",
+      "奎屯",
+      "北屯市"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y962.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "701e73f39897bae14a708130ce16060768e8eb03a22a1559d5af94d273795ef0",
+    "elapsedMinutes": [
+      0,
+      370,
+      305,
+      682
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3
+      ]
+    }
+  },
+  {
+    "trainNumber": "Y963",
+    "category": "OTHER",
+    "stopNames": [
+      "伊宁",
+      "奎屯",
+      "奎屯",
+      "北屯市"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y963.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9d3cf9910d63df0cfa2b906f0854c4266a80cc03e732c3f3d0d0e406f4b3fd81",
+    "elapsedMinutes": [
+      0,
+      370,
+      305,
+      682
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3
+      ]
+    }
+  }
+]

@@ -1,0 +1,476 @@
+[
+  {
+    "trainNumber": "K6733",
+    "category": "K",
+    "stopNames": [
+      "阿克苏",
+      "图木舒克"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6733.html",
+    "sourceUpdatedAt": "2026-05-30",
+    "sourceSha256": "8e3719819703104813f0d34871fe3fbb171b8e44708b36c2e0c777e1a8f1cbeb",
+    "elapsedMinutes": [
+      0,
+      138
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6734",
+    "category": "K",
+    "stopNames": [
+      "图木舒克",
+      "阿克苏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6734.html",
+    "sourceUpdatedAt": "2026-05-30",
+    "sourceSha256": "6aa6c637ce1ef87ee3ce4fde2010593010b48ca9235d0d3c7aa1aace5420eab5",
+    "elapsedMinutes": [
+      0,
+      155
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6749",
+    "category": "K",
+    "stopNames": [
+      "阿克苏",
+      "阿瓦提",
+      "阿拉尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6749.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "f00e00fbbd4b9fa7687acfbf8424b3a0983fce823feefc69d547b09a694731a3",
+    "elapsedMinutes": [
+      0,
+      58,
+      125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6750",
+    "category": "K",
+    "stopNames": [
+      "阿拉尔",
+      "阿瓦提",
+      "阿克苏"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6750.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "fc434edad136c254e7e7507e1838751455ef9f35f7f17dc7f07c31cccd0a557b",
+    "elapsedMinutes": [
+      0,
+      65,
+      175
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y541",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "和田"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y541.html",
+    "sourceUpdatedAt": "2026-09-08",
+    "sourceSha256": "2c94d27af9eaa5c49c08258db3892fc6b401d31785b5c6a1a9875c4b161ed975",
+    "elapsedMinutes": [
+      0,
+      1069
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y542",
+    "category": "OTHER",
+    "stopNames": [
+      "喀什",
+      "阿克苏",
+      "库车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y542.html",
+    "sourceUpdatedAt": "2026-07-06",
+    "sourceSha256": "f6b6b71d947e4a3f68a0790ba7478c52f510fb72fa2b3290fd9c2bd6a8c592a9",
+    "elapsedMinutes": [
+      0,
+      443,
+      660
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y593",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "阿克苏",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y593.html",
+    "sourceUpdatedAt": "2026-04-28",
+    "sourceSha256": "a2def8583f212d24a49152910dfa93bf6678d5cceda9f556bde7dcf5e3c6307c",
+    "elapsedMinutes": [
+      0,
+      200,
+      556
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y640",
+    "category": "OTHER",
+    "stopNames": [
+      "喀什",
+      "库车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y640.html",
+    "sourceUpdatedAt": "2026-09-03",
+    "sourceSha256": "b9ff92a80e0ff7296d68109bb01f86153069ef61a2d18cff8aad1b302b9b2a55",
+    "elapsedMinutes": [
+      0,
+      740
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y642",
+    "category": "OTHER",
+    "stopNames": [
+      "喀什",
+      "阿克苏",
+      "库车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y642.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "2bd4b82919fa0dd9535a0674b697f07b5d2ef09456b5080ad8e8544d8f687687",
+    "elapsedMinutes": [
+      0,
+      476,
+      670
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y732",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y732.html",
+    "sourceUpdatedAt": "2026-06-05",
+    "sourceSha256": "5c1b709aef299c38c0952234efee7174f530b0f901778d8ac64f4e1def0e4058",
+    "elapsedMinutes": [
+      0,
+      1054
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y781",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "阿克苏",
+      "阿图什",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y781.html",
+    "sourceUpdatedAt": "2026-07-02",
+    "sourceSha256": "607efe5e93d29f8f16d2a77d6d6a5341a8519dbbfd59b0d16479cd5410c21a09",
+    "elapsedMinutes": [
+      0,
+      133,
+      521,
+      689
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y809",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "阿克苏",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y809.html",
+    "sourceUpdatedAt": "2026-07-07",
+    "sourceSha256": "a74a40308aa411b4b32681212cf9ef71def431110e0f077f607800dabeedb45d",
+    "elapsedMinutes": [
+      0,
+      180,
+      560
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y813",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "阿克苏",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y813.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "e0ae2615d654925e229d91d1178f72d8d466b6cfe830d86a974f35db644b84bf",
+    "elapsedMinutes": [
+      0,
+      180,
+      560
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y815",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "阿克苏",
+      "阿图什",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y815.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "7d4128a5f8921d210f91666bb93193eace5732b37883ce3773e2d765a30e9804",
+    "elapsedMinutes": [
+      0,
+      181,
+      525,
+      703
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y839",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "阿克苏",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y839.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2c31b8d67f867ff16cf76c9b1564190a54157cf83c3406a9ddee9b7b85b9c591",
+    "elapsedMinutes": [
+      0,
+      180,
+      560
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y896",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y896.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "1db974a65cf4683d724db8da4b2a8fe31ceab0cba766541be40ce1657b1c24c6",
+    "elapsedMinutes": [
+      0,
+      1054
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y897",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "伊宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y897.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "4208144d1df54dd6f9ae40482e571b097f5ca6b91fa4413defdf2fc213b6c9e6",
+    "elapsedMinutes": [
+      0,
+      1054
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y914",
+    "category": "OTHER",
+    "stopNames": [
+      "喀什",
+      "阿克苏",
+      "库车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y914.html",
+    "sourceUpdatedAt": "2026-05-28",
+    "sourceSha256": "fbbaac40f93d43ed975687f54d0ac93091a7c165503f92a603bfbf4aa20fb43d",
+    "elapsedMinutes": [
+      0,
+      424,
+      595
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y948",
+    "category": "OTHER",
+    "stopNames": [
+      "喀什",
+      "阿克苏",
+      "库车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y948.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ce604da8fbe9edf87cd7b4f3c99c8a6ca632932c46fceec9c8b19d92b9b8a43a",
+    "elapsedMinutes": [
+      0,
+      359,
+      551
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y957",
+    "category": "OTHER",
+    "stopNames": [
+      "库车",
+      "阿克苏",
+      "喀什"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y957.html",
+    "sourceUpdatedAt": "2026-09-03",
+    "sourceSha256": "aafee5dd883e86ff0a88df56dcdde5d1535cb5ef34802b3ac614407dd7c7719a",
+    "elapsedMinutes": [
+      0,
+      310,
+      690
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y964",
+    "category": "OTHER",
+    "stopNames": [
+      "喀什",
+      "阿克苏",
+      "库车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y964.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "b948d23949eda73c3752829471d3e9159626212fe4b4e99beaca229d3d41ed01",
+    "elapsedMinutes": [
+      0,
+      310,
+      590
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y974",
+    "category": "OTHER",
+    "stopNames": [
+      "喀什",
+      "阿克苏",
+      "库车"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y974.html",
+    "sourceUpdatedAt": "2026-07-19",
+    "sourceSha256": "ce6e2e3c88f0224375c204dc1393e865c3245cc634e554dde5838c142968d55e",
+    "elapsedMinutes": [
+      0,
+      368,
+      570
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

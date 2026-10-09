@@ -51,6 +51,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-4500244352",
+    "name": "七营",
+    "city": "固原",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.1400983,
+    "latitude": 36.5017084,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/4500244352"
+  },
+  {
     "id": "st-source-379956647211d9be",
     "name": "七龙星",
     "city": "重庆",
@@ -170,6 +182,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/7781469281"
   },
   {
+    "id": "st-wikidata-q10865371",
+    "name": "三关口",
+    "city": "固原",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.39188,
+    "latitude": 35.6648,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10865371"
+  },
+  {
     "id": "st-source-a14fa5c71c3d24d2",
     "name": "三原",
     "city": "咸阳",
@@ -192,6 +216,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-osm-node-2323960864",
+    "name": "三家寨",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.7245624,
+    "latitude": 26.1592155,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/2323960864"
   },
   {
     "id": "st-source-ba63f6ff93e4d8b6",
@@ -310,7 +346,7 @@
   {
     "id": "st-wikidata-q19851594",
     "name": "三江南",
-    "city": "城市待核验",
+    "city": "柳州",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 109.57150556,
@@ -383,6 +419,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-1783909034",
+    "name": "三营",
+    "city": "固原",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.1444969,
+    "latitude": 36.2906333,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/1783909034"
+  },
+  {
     "id": "st-wikidata-q7415986",
     "name": "三道营",
     "city": "城市待核验",
@@ -397,7 +445,7 @@
   {
     "id": "st-osm-node-3676339900",
     "name": "三都县",
-    "city": "城市待核验",
+    "city": "黔南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 107.8130854,
@@ -492,6 +540,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/5728132767",
     "coordinateKey": "node/5728132767",
     "timetableStationUrl": "https://www.crecc.com/anhui/huangshan/sanyang.html"
+  },
+  {
+    "id": "st-wikidata-q10867091",
+    "name": "三阳川",
+    "city": "天水",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 105.7055803,
+    "latitude": 34.6657003,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10867091"
   },
   {
     "id": "st-source-5e0aea7e112b0322",
@@ -636,6 +696,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/7169128140",
     "coordinateKey": "node/7169128140",
     "timetableStationUrl": "https://www.crecc.com/shanghai/shanghaixi.html"
+  },
+  {
+    "id": "st-source-67b9845e46399d3e",
+    "name": "上腰墩",
+    "city": "武威",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 102.831047,
+    "latitude": 37.77315,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-zhejiang-shangyu",
@@ -788,9 +860,21 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q8044091"
   },
   {
+    "id": "st-wikidata-q4985157",
+    "name": "不冻泉",
+    "city": "城市待核验",
+    "province": "青海",
+    "provinceId": "qinghai",
+    "longitude": 93.93134,
+    "latitude": 35.536429,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q4985157"
+  },
+  {
     "id": "st-osm-node-8204071013",
     "name": "且末",
-    "city": "城市待核验",
+    "city": "巴州",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 85.4897529,
@@ -853,7 +937,7 @@
   {
     "id": "st-wikidata-q140068374",
     "name": "东兴市",
-    "city": "城市待核验",
+    "city": "防城港",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 108.01335555555555,
@@ -907,7 +991,7 @@
   {
     "id": "st-wikidata-q5295836",
     "name": "东岔",
-    "city": "城市待核验",
+    "city": "天水",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 106.534746,
@@ -915,6 +999,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q5295836"
+  },
+  {
+    "id": "st-osm-node-1984410965",
+    "name": "东庄",
+    "city": "忻州",
+    "province": "山西",
+    "provinceId": "shanxi",
+    "longitude": 113.82369,
+    "latitude": 39.26527,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/1984410965"
   },
   {
     "id": "st-wikidata-q24837752",
@@ -968,6 +1064,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/1984410964"
   },
   {
+    "id": "st-source-48bcb9334812ab66",
+    "name": "东湾",
+    "city": "白银",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.742464,
+    "latitude": 36.651359,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-wikidata-q126116219",
     "name": "东环",
     "city": "广州",
@@ -978,6 +1086,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q126116219"
+  },
+  {
+    "id": "st-osm-node-5169885348",
+    "name": "东胜东",
+    "city": "城市待核验",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "longitude": 110.0997196,
+    "latitude": 39.7529711,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/5169885348"
   },
   {
     "id": "st-neimenggu-dongshengxi",
@@ -1073,6 +1193,20 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q86728380"
   },
   {
+    "id": "st-osm-node-7056577695",
+    "name": "东莞西",
+    "city": "东莞",
+    "province": "广东",
+    "provinceId": "guangdong",
+    "longitude": 113.6207538,
+    "latitude": 23.0115755,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/7056577695",
+    "identitySource": "https://www.dg.gov.cn/hongmei/gk/index.html",
+    "coordinateNote": "精确中文铁路车站节点；官方地方政府车站身份补足 Natural Earth 粗略沿海行政面未覆盖的点位。"
+  },
+  {
     "id": "st-source-e21ca186ca08e7ce",
     "name": "东营",
     "city": "东营",
@@ -1133,6 +1267,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q800969",
+    "name": "个旧",
+    "city": "红河",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 103.2120272,
+    "latitude": 23.5167719,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q800969"
+  },
+  {
     "id": "st-wikidata-q24067017",
     "name": "中仓",
     "city": "城市待核验",
@@ -1162,7 +1308,7 @@
   {
     "id": "st-osm-node-7095681950",
     "name": "中卫南",
-    "city": "城市待核验",
+    "city": "中卫",
     "province": "宁夏",
     "provinceId": "ningxia",
     "longitude": 105.175193,
@@ -1213,7 +1359,7 @@
   {
     "id": "st-wikidata-q28653026",
     "name": "中宁东",
-    "city": "城市待核验",
+    "city": "中卫",
     "province": "宁夏",
     "provinceId": "ningxia",
     "longitude": 105.698186,
@@ -1221,6 +1367,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q28653026"
+  },
+  {
+    "id": "st-wikidata-q10875150",
+    "name": "中宁南",
+    "city": "中卫",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 105.61264,
+    "latitude": 37.33479,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10875150"
   },
   {
     "id": "st-source-3d2e3d364985760d",
@@ -1259,9 +1417,21 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-3744898244",
+    "name": "中川机场",
+    "city": "兰州",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 103.6138024,
+    "latitude": 36.5044994,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/3744898244"
+  },
+  {
     "id": "st-wikidata-q133816408",
     "name": "中川机场东",
-    "city": "城市待核验",
+    "city": "兰州",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 103.634725,
@@ -1299,6 +1469,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/2940767972",
     "coordinateKey": "node/2940767972",
     "timetableStationUrl": "https://www.crecc.com/jiangxi/yichun/fengchengdong.html"
+  },
+  {
+    "id": "st-source-8af6fab7e295480d",
+    "name": "丰水村",
+    "city": "兰州",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 103.98336,
+    "latitude": 36.46026,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-source-0041f1cb2d4683d3",
@@ -1484,6 +1666,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q110512750",
+    "name": "临沧",
+    "city": "临沧",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 100.11149,
+    "latitude": 23.93345,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q110512750"
   },
   {
     "id": "st-osm-node-8905032006",
@@ -1765,6 +1959,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q17041079",
+    "name": "乃托",
+    "city": "凉山",
+    "province": "四川",
+    "provinceId": "sichuan",
+    "longitude": 102.602362,
+    "latitude": 28.73954,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q17041079"
+  },
+  {
     "id": "st-zhejiang-yiwu",
     "name": "义乌",
     "city": "金华",
@@ -1808,6 +2014,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/3006173671",
     "coordinateKey": "node/3006173671",
     "timetableStationUrl": "https://www.crecc.com/henan/sanmenxia/yima.html"
+  },
+  {
+    "id": "st-source-0bed87391d8d3267",
+    "name": "乌兰",
+    "city": "海西",
+    "province": "青海",
+    "provinceId": "qinghai",
+    "longitude": 98.473238,
+    "latitude": 36.959641,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-neimenggu-wulanchabu",
@@ -1919,6 +2137,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q10878140"
+  },
+  {
+    "id": "st-wikidata-q10878178",
+    "name": "乌苏",
+    "city": "伊犁",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 84.71534191,
+    "latitude": 44.40765544,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10878178"
   },
   {
     "id": "st-xinjiang-wulumuqi",
@@ -2249,6 +2479,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/3003935031"
   },
   {
+    "id": "st-osm-node-1783909009",
+    "name": "二营",
+    "city": "固原",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.2440467,
+    "latitude": 36.1842275,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/1783909009"
+  },
+  {
     "id": "st-wikidata-q5964925",
     "name": "二连",
     "city": "城市待核验",
@@ -2287,7 +2529,7 @@
   {
     "id": "st-osm-node-8200737578",
     "name": "于田",
-    "city": "城市待核验",
+    "city": "和田",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 81.6459232,
@@ -2335,7 +2577,7 @@
   {
     "id": "st-wikidata-q124324245",
     "name": "云南驿",
-    "city": "城市待核验",
+    "city": "大理",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 100.70305555555555,
@@ -2343,6 +2585,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q124324245"
+  },
+  {
+    "id": "st-wikidata-q130146361",
+    "name": "云县",
+    "city": "临沧",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 100.12656785565385,
+    "latitude": 24.40169343967635,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q130146361"
   },
   {
     "id": "st-source-e2e993beda01d07f",
@@ -2873,6 +3127,18 @@
     "timetableStationUrl": "https://www.crecc.com/hubei/xiantao/xiantaoxi.html"
   },
   {
+    "id": "st-osm-node-1964642719",
+    "name": "仙水",
+    "city": "毕节",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 103.8340919,
+    "latitude": 27.1664363,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/1964642719"
+  },
+  {
     "id": "st-osm-node-3365981115",
     "name": "仙游",
     "city": "莆田",
@@ -2911,7 +3177,7 @@
   {
     "id": "st-osm-node-10108687173",
     "name": "以勒",
-    "city": "城市待核验",
+    "city": "昭通",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 105.1187718,
@@ -2965,7 +3231,7 @@
   {
     "id": "st-osm-node-583119960",
     "name": "伊宁",
-    "city": "伊犁哈萨克自治州",
+    "city": "伊犁",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 81.2752649,
@@ -3009,6 +3275,30 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-3b792c28d3529e0a",
+    "name": "低窝铺",
+    "city": "酒泉",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 97.242961,
+    "latitude": 40.141345,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q10886155",
+    "name": "何寨",
+    "city": "城市待核验",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 109.3201306,
+    "latitude": 34.4970114,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10886155"
   },
   {
     "id": "st-zhejiang-yuyao",
@@ -3230,6 +3520,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q108168203",
+    "name": "保山",
+    "city": "保山",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 99.17817,
+    "latitude": 25.15367,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q108168203"
+  },
+  {
     "id": "st-osm-node-2892566733",
     "name": "保康",
     "city": "通辽",
@@ -3259,7 +3561,7 @@
   {
     "id": "st-osm-node-13123179966",
     "name": "保田",
-    "city": "城市待核验",
+    "city": "六盘水",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 104.7005468,
@@ -3354,7 +3656,7 @@
   {
     "id": "st-wikidata-q47455072",
     "name": "修文县",
-    "city": "城市待核验",
+    "city": "贵阳",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 106.748362,
@@ -3418,6 +3720,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q109018399",
+    "name": "元江",
+    "city": "玉溪",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 102.00661305555556,
+    "latitude": 23.701446944444445,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q109018399"
+  },
+  {
     "id": "st-source-d653829d9fbcb23e",
     "name": "元田坝",
     "city": "遵义",
@@ -3432,7 +3746,7 @@
   {
     "id": "st-wikidata-q70515942",
     "name": "元谋西",
-    "city": "城市待核验",
+    "city": "楚雄",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 101.83916666666667,
@@ -3452,6 +3766,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-osm-node-3410058501",
+    "name": "先锋",
+    "city": "城市待核验",
+    "province": "湖南",
+    "provinceId": "hunan",
+    "longitude": 112.9857426,
+    "latitude": 28.0768862,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/3410058501"
   },
   {
     "id": "st-henan-guangshan",
@@ -3517,6 +3843,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-9094856520",
+    "name": "克拉玛依",
+    "city": "克拉玛依",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 84.8931223,
+    "latitude": 45.5271559,
+    "isHub": false,
+    "major": true,
+    "coordinateSource": "https://www.openstreetmap.org/node/9094856520"
+  },
+  {
     "id": "st-wikidata-q10891068",
     "name": "免渡河",
     "city": "城市待核验",
@@ -3554,6 +3892,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/8452913704",
     "coordinateKey": "node/8452913704",
     "timetableStationUrl": "https://www.crecc.com/shandong/jining/yanzhou.html"
+  },
+  {
+    "id": "st-osm-node-7625151869",
+    "name": "党武",
+    "city": "贵阳",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.6045816,
+    "latitude": 26.4071551,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/7625151869"
   },
   {
     "id": "st-guangxi-quanzhounan",
@@ -3673,6 +4023,18 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q5581749"
   },
   {
+    "id": "st-source-465d29727b83ba5e",
+    "name": "六个鸡",
+    "city": "黔东南",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 107.780266,
+    "latitude": 26.574719,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-anhui-luan",
     "name": "六安",
     "city": "六安",
@@ -3688,9 +4050,21 @@
     "timetableStationUrl": "https://www.crecc.com/anhui/luan/luan.html"
   },
   {
+    "id": "st-wikidata-q10893315",
+    "name": "六枝",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 105.4647609,
+    "latitude": 26.2257629,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10893315"
+  },
+  {
     "id": "st-osm-node-7704451132",
     "name": "六枝南",
-    "city": "城市待核验",
+    "city": "六盘水",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 105.434879,
@@ -3698,6 +4072,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/7704451132"
+  },
+  {
+    "id": "st-wikidata-q10893374",
+    "name": "六盘山",
+    "city": "固原",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.28841,
+    "latitude": 35.70716,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10893374"
   },
   {
     "id": "st-guizhou-liupanshui",
@@ -3717,7 +4103,7 @@
   {
     "id": "st-osm-node-7704451130",
     "name": "六盘水东",
-    "city": "城市待核验",
+    "city": "六盘水",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 105.0315768,
@@ -3752,6 +4138,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/269826006",
     "coordinateKey": "node/269826006",
     "timetableStationUrl": "https://www.crecc.com/gansu/lanzhou/lanzhou.html"
+  },
+  {
+    "id": "st-wikidata-q22079690",
+    "name": "兰州新区",
+    "city": "兰州",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 103.616338,
+    "latitude": 36.46957,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q22079690"
   },
   {
     "id": "st-gansu-lanzhouxi",
@@ -3865,9 +4263,21 @@
     "timetableStationUrl": "https://www.crecc.com/jiangxi/jiujiang/gongqingcheng.html"
   },
   {
+    "id": "st-wikidata-q10893905",
+    "name": "关寨",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 105.22248725796646,
+    "latitude": 26.285527554851882,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10893905"
+  },
+  {
     "id": "st-osm-node-3328325801",
     "name": "关岭",
-    "city": "城市待核验",
+    "city": "安顺",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 105.5249234,
@@ -3913,9 +4323,21 @@
     "coordinateSource": "https://www.openstreetmap.org/node/1692209509"
   },
   {
+    "id": "st-wikidata-q139971195",
+    "name": "兴业南",
+    "city": "玉林",
+    "province": "广西",
+    "provinceId": "guangxi",
+    "longitude": 109.875532,
+    "latitude": 22.716005,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q139971195"
+  },
+  {
     "id": "st-osm-node-4353564606",
     "name": "兴义",
-    "city": "黔西南布依族苗族自治州",
+    "city": "黔西南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 104.9845617,
@@ -3927,7 +4349,7 @@
   {
     "id": "st-osm-node-10724756176",
     "name": "兴义南",
-    "city": "城市待核验",
+    "city": "黔西南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 104.9543312,
@@ -4096,6 +4518,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/10108678013"
   },
   {
+    "id": "st-source-9657a28750f65763",
+    "name": "兴泉堡",
+    "city": "白银",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.004575,
+    "latitude": 37.114171,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-source-bb46413f8750ccff",
     "name": "兴隆县",
     "city": "承德",
@@ -4215,7 +4649,7 @@
   {
     "id": "st-source-6000e2c9e908e999",
     "name": "册亨",
-    "city": "黔西南布依族苗族自治州",
+    "city": "黔西南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 105.79311,
@@ -4314,7 +4748,7 @@
   {
     "id": "st-osm-node-8212315728",
     "name": "冷坝",
-    "city": "城市待核验",
+    "city": "六盘水",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 105.1701904,
@@ -4334,6 +4768,30 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q65613215",
+    "name": "准东",
+    "city": "城市待核验",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 89.110354,
+    "latitude": 44.735513,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q65613215"
+  },
+  {
+    "id": "st-osm-node-1964642696",
+    "name": "凉水井",
+    "city": "铜仁",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.5036655,
+    "latitude": 26.7916591,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/1964642696"
   },
   {
     "id": "st-source-f88e8878f7078fbf",
@@ -4447,6 +4905,30 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q10896373",
+    "name": "凭祥",
+    "city": "崇左",
+    "province": "广西",
+    "provinceId": "guangxi",
+    "longitude": 106.73916666666666,
+    "latitude": 22.08277777777778,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10896373"
+  },
+  {
+    "id": "st-wikidata-q137213177",
+    "name": "凭祥东",
+    "city": "崇左",
+    "province": "广西",
+    "provinceId": "guangxi",
+    "longitude": 106.78930833333334,
+    "latitude": 22.10632222222222,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q137213177"
   },
   {
     "id": "st-guizhou-kaili",
@@ -4606,6 +5088,18 @@
     "coordinateKey": "node/9527263757"
   },
   {
+    "id": "st-source-e8061f548f587e24",
+    "name": "加劳",
+    "city": "黔东南",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 108.005358,
+    "latitude": 26.734583,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-wikidata-q10900832",
     "name": "加格达奇",
     "city": "城市待核验",
@@ -4643,6 +5137,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/3024659063",
     "coordinateKey": "node/3024659063",
     "timetableStationUrl": "https://www.crecc.com/shaanxi/hanzhong/mianxian.html"
+  },
+  {
+    "id": "st-wikidata-q109018363",
+    "name": "勐腊",
+    "city": "西双版纳",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 101.5870139,
+    "latitude": 21.4280616,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q109018363"
   },
   {
     "id": "st-neimenggu-baotou",
@@ -4697,6 +5203,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/843276763"
+  },
+  {
+    "id": "st-wikidata-q109018404",
+    "name": "化念",
+    "city": "玉溪",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 102.23124312619593,
+    "latitude": 24.04554942445304,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q109018404"
   },
   {
     "id": "st-wikidata-q124542958",
@@ -4869,7 +5387,7 @@
   {
     "id": "st-osm-node-6308214105",
     "name": "北屯市",
-    "city": "阿勒泰",
+    "city": "北屯",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 87.7565199,
@@ -4944,7 +5462,7 @@
   {
     "id": "st-wikidata-q130146462",
     "name": "北滩",
-    "city": "城市待核验",
+    "city": "白银",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 104.865146,
@@ -5231,7 +5749,7 @@
   {
     "id": "st-wikidata-q28409900",
     "name": "南丹",
-    "city": "城市待核验",
+    "city": "河池",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 107.5543111111111,
@@ -5327,7 +5845,7 @@
   {
     "id": "st-source-15a8da6542d000dc",
     "name": "南华",
-    "city": "楚雄彝族自治州",
+    "city": "楚雄",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 101.288214,
@@ -5454,7 +5972,7 @@
   {
     "id": "st-osm-node-8813693941",
     "name": "南宁北",
-    "city": "城市待核验",
+    "city": "南宁",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 108.2330668,
@@ -5466,7 +5984,7 @@
   {
     "id": "st-wikidata-q24837071",
     "name": "南宁西",
-    "city": "城市待核验",
+    "city": "南宁",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 107.970905,
@@ -5502,7 +6020,7 @@
   {
     "id": "st-osm-node-8204092217",
     "name": "南屯",
-    "city": "城市待核验",
+    "city": "巴州",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 84.1455102,
@@ -5656,6 +6174,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-3740824337",
+    "name": "南江",
+    "city": "贵阳",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.9693101,
+    "latitude": 26.8974601,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/3740824337"
+  },
+  {
     "id": "st-osm-node-4346644640",
     "name": "南江口",
     "city": "云浮",
@@ -5681,6 +6211,18 @@
     "formerNames": [
       "庆盛"
     ]
+  },
+  {
+    "id": "st-wikidata-q10908329",
+    "name": "南河川",
+    "city": "天水",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 105.762542,
+    "latitude": 34.6244608,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10908329"
   },
   {
     "id": "st-osm-node-3377844348",
@@ -5908,6 +6450,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q85876900",
+    "name": "博乐",
+    "city": "博州",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 82.110848,
+    "latitude": 44.901573,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q85876900"
+  },
+  {
     "id": "st-osm-node-2662698151",
     "name": "博克图",
     "city": "呼伦贝尔",
@@ -5930,6 +6484,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-osm-node-7969766722",
+    "name": "博白",
+    "city": "玉林",
+    "province": "广西",
+    "provinceId": "guangxi",
+    "longitude": 109.989447,
+    "latitude": 22.2342429,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/7969766722"
   },
   {
     "id": "st-osm-node-10271063788",
@@ -6198,6 +6764,18 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q56118204"
   },
   {
+    "id": "st-wikidata-q85876940",
+    "name": "双河市",
+    "city": "城市待核验",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 82.41252,
+    "latitude": 44.90215,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q85876940"
+  },
+  {
     "id": "st-osm-node-7237831724",
     "name": "双洋",
     "city": "龙岩",
@@ -6270,6 +6848,30 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q97179413"
   },
   {
+    "id": "st-osm-node-3740822501",
+    "name": "双龙南",
+    "city": "贵阳",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.7846509,
+    "latitude": 26.4841956,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/3740822501"
+  },
+  {
+    "id": "st-osm-node-2323960863",
+    "name": "发耳",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.8025449,
+    "latitude": 26.3153349,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/2323960863"
+  },
+  {
     "id": "st-osm-node-10107977688",
     "name": "叙永北",
     "city": "泸州",
@@ -6330,6 +6932,20 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q47500632"
   },
   {
+    "id": "st-osm-node-7805039069",
+    "name": "古北口",
+    "city": "北京",
+    "province": "北京",
+    "provinceId": "beijing",
+    "longitude": 117.1352823,
+    "latitude": 40.6905789,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/7805039069",
+    "identitySource": "https://fgw.beijing.gov.cn/gzdt/fgzs/gzdt/202004/t20200417_1815259.htm",
+    "coordinateNote": "精确中文铁路车站节点；依据政府地点/行政归属资料补足粗略省界面不准确的点位。"
+  },
+  {
     "id": "st-osm-node-8417601180",
     "name": "古城东",
     "city": "亳州",
@@ -6383,7 +6999,7 @@
   {
     "id": "st-osm-node-11822437402",
     "name": "古浪北",
-    "city": "城市待核验",
+    "city": "武威",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 102.9056418,
@@ -6627,7 +7243,7 @@
   {
     "id": "st-wikidata-q17499591",
     "name": "合浦",
-    "city": "城市待核验",
+    "city": "北海",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 109.18347222,
@@ -6952,7 +7568,7 @@
   {
     "id": "st-wikidata-q114876867",
     "name": "吴圩机场",
-    "city": "城市待核验",
+    "city": "南宁",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 108.18352777777778,
@@ -6974,6 +7590,30 @@
     "coordinateSource": "HOTOSM / OSM 2026-05-10",
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/3508395507",
     "coordinateKey": "node/3508395507"
+  },
+  {
+    "id": "st-source-66026a47caeb7fa6",
+    "name": "吴官田",
+    "city": "曲靖",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 103.532457,
+    "latitude": 25.487887,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-39dd848a3db50c2f",
+    "name": "吴家川",
+    "city": "白银",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.531913,
+    "latitude": 36.656646,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-osm-node-8513056250",
@@ -7099,6 +7739,18 @@
     "timetableStationUrl": "https://www.crecc.com/neimenggu/huhehaote/huhehaotedong.html"
   },
   {
+    "id": "st-osm-node-9299765144",
+    "name": "呼鲁斯太",
+    "city": "城市待核验",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "longitude": 106.2350678,
+    "latitude": 39.2402182,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/9299765144"
+  },
+  {
     "id": "st-osm-node-12741513019",
     "name": "和平北",
     "city": "河源",
@@ -7121,6 +7773,18 @@
     "isHub": false,
     "major": true,
     "coordinateSource": "https://www.openstreetmap.org/node/9085688393"
+  },
+  {
+    "id": "st-wikidata-q47004219",
+    "name": "和硕",
+    "city": "巴州",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 86.874316,
+    "latitude": 42.302322,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q47004219"
   },
   {
     "id": "st-osm-node-7747896002",
@@ -7249,6 +7913,18 @@
     "timetableStationUrl": "https://www.crecc.com/xinjiang/hami/hami.html"
   },
   {
+    "id": "st-wikidata-q135911540",
+    "name": "哈密东",
+    "city": "城市待核验",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 93.5918536254321,
+    "latitude": 42.74175210695068,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q135911540"
+  },
+  {
     "id": "st-heilongjiang-haerbin",
     "name": "哈尔滨",
     "city": "哈尔滨",
@@ -7306,9 +7982,21 @@
     "timetableStationUrl": "https://www.crecc.com/heilongjiang/haerbin/haerbinxi.html"
   },
   {
+    "id": "st-source-b856f4a13b224f24",
+    "name": "哈尔盖",
+    "city": "海北",
+    "province": "青海",
+    "provinceId": "qinghai",
+    "longitude": 100.41723,
+    "latitude": 37.222,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-osm-node-13058397777",
     "name": "哈达铺",
-    "city": "城市待核验",
+    "city": "陇南",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 104.2318895,
@@ -7554,7 +8242,7 @@
   {
     "id": "st-wikidata-q800996",
     "name": "喀什",
-    "city": "城市待核验",
+    "city": "喀什",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 76.04611111,
@@ -7789,6 +8477,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/2348136437"
   },
   {
+    "id": "st-source-6594b402c9ffe2bc",
+    "name": "园墩",
+    "city": "武威",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 102.972216,
+    "latitude": 37.720602,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-ningxia-guyuan",
     "name": "固原",
     "city": "固原",
@@ -7882,6 +8582,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-1783909049",
+    "name": "土桥子",
+    "city": "中卫",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.0237613,
+    "latitude": 36.7967558,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/1783909049"
+  },
+  {
     "id": "st-source-d20d339cd96dd391",
     "name": "土溪",
     "city": "达州",
@@ -7904,6 +8616,30 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q10927881"
+  },
+  {
+    "id": "st-source-49bb5a8a8dfadcfa",
+    "name": "土门子",
+    "city": "武威",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 103.075672,
+    "latitude": 37.656982,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-0768371f6bf2061d",
+    "name": "坡底下",
+    "city": "兰州",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 103.512849,
+    "latitude": 36.137453,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-osm-node-1687160578",
@@ -8113,6 +8849,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/11222481080"
   },
   {
+    "id": "st-osm-node-6924642420",
+    "name": "墨江",
+    "city": "普洱",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 101.739133,
+    "latitude": 23.4370795,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/6924642420"
+  },
+  {
     "id": "st-osm-node-7365811213",
     "name": "墨玉",
     "city": "和田",
@@ -8159,6 +8907,18 @@
     "provinceId": "chongqing",
     "longitude": 106.508685,
     "latitude": 29.075806,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-8ba9abc0a425835d",
+    "name": "夏官营",
+    "city": "兰州",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.176813,
+    "latitude": 35.953235,
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
@@ -8253,6 +9013,20 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-6817368517",
+    "name": "大兴机场",
+    "city": "廊坊",
+    "province": "河北",
+    "provinceId": "hebei",
+    "longitude": 116.4105556,
+    "latitude": 39.5133607,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/6817368517",
+    "identitySource": "https://map.beijing.gov.cn/map-web/balloon/60cd97f1057f7e605391d4fe",
+    "coordinateNote": "精确中文铁路车站节点；依据政府地点/行政归属资料补足粗略省界面不准确的点位。"
+  },
+  {
     "id": "st-source-e617da85a427900f",
     "name": "大冶北",
     "city": "黄石",
@@ -8331,6 +9105,18 @@
     "timetableStationUrl": "https://www.crecc.com/shanxi/datong/datongnan.html"
   },
   {
+    "id": "st-wikidata-q10934425",
+    "name": "大坝",
+    "city": "吴忠",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 105.929938,
+    "latitude": 38.024057,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10934425"
+  },
+  {
     "id": "st-source-aff66b3bb0d88807",
     "name": "大堡",
     "city": "丹东",
@@ -8394,6 +9180,18 @@
     "timetableStationUrl": "https://www.crecc.com/heilongjiang/daqing/daqingxi.html"
   },
   {
+    "id": "st-wikidata-q10935492",
+    "name": "大战场",
+    "city": "中卫",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 105.54192,
+    "latitude": 37.42271,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10935492"
+  },
+  {
     "id": "st-osm-node-1252233951",
     "name": "大扬气",
     "city": "呼伦贝尔",
@@ -8408,7 +9206,7 @@
   {
     "id": "st-wikidata-q78330518",
     "name": "大方",
-    "city": "城市待核验",
+    "city": "毕节",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 105.592153,
@@ -8416,6 +9214,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q78330518"
+  },
+  {
+    "id": "st-wikidata-q28070834",
+    "name": "大方南",
+    "city": "毕节",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 105.56497777777778,
+    "latitude": 27.120586111111113,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q28070834"
   },
   {
     "id": "st-osm-node-6169134982",
@@ -8491,6 +9301,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q10935765"
+  },
+  {
+    "id": "st-wikidata-q105640047",
+    "name": "大武口",
+    "city": "石嘴山",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.38642777777778,
+    "latitude": 39.026336111111114,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q105640047"
   },
   {
     "id": "st-source-92d4ad31a6d0692f",
@@ -8570,7 +9392,7 @@
   {
     "id": "st-source-86b1c01e198c1e21",
     "name": "大理",
-    "city": "大理白族自治州",
+    "city": "大理",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 100.248691,
@@ -8774,7 +9596,7 @@
   {
     "id": "st-wikidata-q19852271",
     "name": "大通西",
-    "city": "城市待核验",
+    "city": "西宁",
     "province": "青海",
     "provinceId": "qinghai",
     "longitude": 101.67180833,
@@ -8832,6 +9654,18 @@
     "coordinateSource": "HOTOSM / OSM 2026-05-10",
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/8786286703",
     "coordinateKey": "node/8786286703"
+  },
+  {
+    "id": "st-wikidata-q7800237",
+    "name": "天峻",
+    "city": "城市待核验",
+    "province": "青海",
+    "provinceId": "qinghai",
+    "longitude": 99.192358,
+    "latitude": 37.191758,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q7800237"
   },
   {
     "id": "st-wikidata-q110109785",
@@ -8927,6 +9761,18 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q126960451"
   },
   {
+    "id": "st-osm-node-3740822572",
+    "name": "天河潭",
+    "city": "贵阳",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.5675876,
+    "latitude": 26.42602,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/3740822572"
+  },
+  {
     "id": "st-tianjin-tianjin",
     "name": "天津",
     "city": "天津",
@@ -8986,7 +9832,7 @@
   {
     "id": "st-osm-node-840181646",
     "name": "天祝",
-    "city": "城市待核验",
+    "city": "武威",
     "province": "甘肃",
     "provinceId": "gansu",
     "latitude": 36.9801528,
@@ -9000,7 +9846,7 @@
   {
     "id": "st-osm-node-10941424948",
     "name": "天祝西",
-    "city": "城市待核验",
+    "city": "武威",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 103.1130972,
@@ -9273,6 +10119,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-4071848331",
+    "name": "太阳山",
+    "city": "吴忠",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.5636616,
+    "latitude": 37.4512557,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/4071848331"
+  },
+  {
     "id": "st-source-948585542cd0ad3b",
     "name": "太阳沟",
     "city": "大兴安岭地区",
@@ -9352,7 +10210,7 @@
   {
     "id": "st-osm-node-7368652199",
     "name": "奎屯",
-    "city": "伊犁哈萨克自治州",
+    "city": "伊犁",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 84.8981863,
@@ -9440,6 +10298,18 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q10943185"
   },
   {
+    "id": "st-osm-node-3500351613",
+    "name": "姚渡",
+    "city": "广元",
+    "province": "四川",
+    "provinceId": "sichuan",
+    "longitude": 105.4936838,
+    "latitude": 32.8057943,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/3500351613"
+  },
+  {
     "id": "st-jiangsu-jiangyan",
     "name": "姜堰",
     "city": "泰州",
@@ -9457,7 +10327,7 @@
   {
     "id": "st-wikidata-q78331236",
     "name": "威信",
-    "city": "城市待核验",
+    "city": "昭通",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 105.055854,
@@ -9522,7 +10392,7 @@
   {
     "id": "st-source-cb30cde32d430541",
     "name": "威舍",
-    "city": "黔西南布依族苗族自治州",
+    "city": "黔西南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 104.747016,
@@ -9558,7 +10428,7 @@
   {
     "id": "st-osm-node-3695336868",
     "name": "娄山关南",
-    "city": "城市待核验",
+    "city": "遵义",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 106.9250578,
@@ -9763,6 +10633,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/2328374341"
   },
   {
+    "id": "st-osm-node-3740822485",
+    "name": "孟关",
+    "city": "贵阳",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.7350459,
+    "latitude": 26.421664,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/3740822485"
+  },
+  {
     "id": "st-shaanxi-mengyuan",
     "name": "孟塬",
     "city": "渭南",
@@ -9816,7 +10698,7 @@
   {
     "id": "st-source-e533873a96623fcc",
     "name": "学庄",
-    "city": "黔西南布依族苗族自治州",
+    "city": "黔南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 107.56146,
@@ -9828,7 +10710,7 @@
   {
     "id": "st-osm-node-8039455367",
     "name": "宁东",
-    "city": "城市待核验",
+    "city": "银川",
     "province": "宁夏",
     "provinceId": "ningxia",
     "latitude": 38.1459651,
@@ -9920,6 +10802,18 @@
     "coordinateKey": "node/9179735870"
   },
   {
+    "id": "st-wikidata-q10945904",
+    "name": "宁强",
+    "city": "汉中",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 106.31753,
+    "latitude": 33.06363,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10945904"
+  },
+  {
     "id": "st-shaanxi-ningqiangnan",
     "name": "宁强南",
     "city": "汉中",
@@ -9950,6 +10844,18 @@
     "timetableStationUrl": "https://www.crecc.com/fujian/ningde/ningde.html"
   },
   {
+    "id": "st-wikidata-q137213146",
+    "name": "宁明东",
+    "city": "崇左",
+    "province": "广西",
+    "provinceId": "guangxi",
+    "longitude": 107.19972222222222,
+    "latitude": 22.308888888888887,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q137213146"
+  },
+  {
     "id": "st-source-e70327659337809b",
     "name": "宁武",
     "city": "忻州",
@@ -9975,6 +10881,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/7714110161",
     "coordinateKey": "node/7714110161",
     "timetableStationUrl": "https://www.crecc.com/zhejiang/ningbo/ningbo.html"
+  },
+  {
+    "id": "st-wikidata-q109018389",
+    "name": "宁洱",
+    "city": "普洱",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 101.062956,
+    "latitude": 23.051145,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q109018389"
   },
   {
     "id": "st-zhejiang-ninghai",
@@ -10169,6 +11087,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-osm-node-10574674380",
+    "name": "安州",
+    "city": "绵阳",
+    "province": "四川",
+    "provinceId": "sichuan",
+    "longitude": 104.2339996,
+    "latitude": 31.4652016,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/10574674380"
   },
   {
     "id": "st-anhui-anqing",
@@ -10371,7 +11301,7 @@
   {
     "id": "st-osm-node-2874016753",
     "name": "安顺西",
-    "city": "城市待核验",
+    "city": "安顺",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 105.8723451,
@@ -10848,6 +11778,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q135915085",
+    "name": "宝老山",
+    "city": "黔东南",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 108.04042968554354,
+    "latitude": 26.815984600045574,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q135915085"
+  },
+  {
     "id": "st-shaanxi-baoji",
     "name": "宝鸡",
     "city": "宝鸡",
@@ -10915,6 +11857,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q8045186"
+  },
+  {
+    "id": "st-wikidata-q10949879",
+    "name": "宣和",
+    "city": "中卫",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 105.43774,
+    "latitude": 37.47806,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10949879"
   },
   {
     "id": "st-anhui-xuancheng",
@@ -10997,7 +11951,7 @@
   {
     "id": "st-osm-node-4804713181",
     "name": "宾阳",
-    "city": "城市待核验",
+    "city": "南宁",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 109.0879476,
@@ -11139,6 +12093,18 @@
     "timetableStationUrl": "https://www.crecc.com/shaanxi/yanan/fuxianbei.html"
   },
   {
+    "id": "st-osm-node-4039923101",
+    "name": "富宁",
+    "city": "文山",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 105.5818028,
+    "latitude": 23.6772685,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/4039923101"
+  },
+  {
     "id": "st-osm-node-5072511977",
     "name": "富川",
     "city": "贺州",
@@ -11149,6 +12115,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/5072511977"
+  },
+  {
+    "id": "st-osm-node-2758430367",
+    "name": "富平",
+    "city": "渭南",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 109.1692405,
+    "latitude": 34.7446812,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/2758430367"
   },
   {
     "id": "st-shaanxi-fupingnan",
@@ -11204,7 +12182,7 @@
   {
     "id": "st-osm-node-3328330803",
     "name": "富源北",
-    "city": "城市待核验",
+    "city": "曲靖",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 104.2685524,
@@ -11212,6 +12190,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/3328330803"
+  },
+  {
+    "id": "st-wikidata-q110706184",
+    "name": "富蕴",
+    "city": "阿勒泰",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 89.50326,
+    "latitude": 46.93374,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q110706184"
   },
   {
     "id": "st-source-f97d0d5a4c90c407",
@@ -11268,6 +12258,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/9059413685",
     "coordinateKey": "node/9059413685",
     "timetableStationUrl": "https://www.crecc.com/sichuan/zigong/fushun.html"
+  },
+  {
+    "id": "st-source-2af93b2cd4630c4f",
+    "name": "察尔汗",
+    "city": "海西",
+    "province": "青海",
+    "provinceId": "qinghai",
+    "longitude": 95.303745,
+    "latitude": 36.809665,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-neimenggu-chasuqi",
@@ -11336,6 +12338,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q136091100",
+    "name": "小中甸",
+    "city": "迪庆",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 99.81346,
+    "latitude": 27.56238,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q136091100"
+  },
+  {
     "id": "st-source-5ed342d96cdaffad",
     "name": "小儿坪",
     "city": "昭通",
@@ -11355,6 +12369,18 @@
     "provinceId": "yunnan",
     "longitude": 103.969157,
     "latitude": 27.983895,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-5373f65c1acb9f04",
+    "name": "小哨",
+    "city": "昆明",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 102.990588,
+    "latitude": 25.165717,
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
@@ -11394,6 +12420,42 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/1725778036"
+  },
+  {
+    "id": "st-source-4b15bc5ebe46fd32",
+    "name": "小新街",
+    "city": "昆明",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 103.222094,
+    "latitude": 25.311929,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-26d16119b95df361",
+    "name": "小月旧",
+    "city": "楚雄",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 101.832067,
+    "latitude": 25.595436,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-da99736d9f3242b4",
+    "name": "小村",
+    "city": "楚雄",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 101.845513,
+    "latitude": 25.486845,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-osm-node-5895931044",
@@ -11445,6 +12507,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/1585549999",
     "coordinateKey": "node/1585549999",
     "timetableStationUrl": "https://www.crecc.com/shaanxi/ankang/xiaohezhen.html"
+  },
+  {
+    "id": "st-wikidata-q109439915",
+    "name": "小湾东",
+    "city": "大理",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 100.1440483,
+    "latitude": 24.7140021,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q109439915"
   },
   {
     "id": "st-source-15aed52f8df151ad",
@@ -11546,9 +12620,21 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-source-2855de2f1924741d",
+    "name": "尹地",
+    "city": "楚雄",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 101.828637,
+    "latitude": 25.639759,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-osm-node-7368822657",
     "name": "尼勒克",
-    "city": "伊犁哈萨克自治州",
+    "city": "伊犁",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 82.0457804,
@@ -11606,6 +12692,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/5507309248"
   },
   {
+    "id": "st-wikidata-q28008434",
+    "name": "屏边",
+    "city": "红河",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 103.63573242632506,
+    "latitude": 23.01679845114783,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q28008434"
+  },
+  {
     "id": "st-gansu-shandan",
     "name": "山丹",
     "city": "张掖",
@@ -11623,7 +12721,7 @@
   {
     "id": "st-wikidata-q19851912",
     "name": "山丹马场",
-    "city": "城市待核验",
+    "city": "张掖",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 101.20409795,
@@ -11897,7 +12995,7 @@
   {
     "id": "st-osm-node-3500351614",
     "name": "岷县",
-    "city": "城市待核验",
+    "city": "定西",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 104.0675936,
@@ -11917,6 +13015,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q109018405",
+    "name": "峨山",
+    "city": "玉溪",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 102.38825037995055,
+    "latitude": 24.191351349393468,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q109018405"
   },
   {
     "id": "st-osm-node-1588514347",
@@ -11967,6 +13077,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/5230065211"
   },
   {
+    "id": "st-osm-node-7694882110",
+    "name": "峰洞",
+    "city": "黔南",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 107.5226125,
+    "latitude": 25.5416938,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/7694882110"
+  },
+  {
     "id": "st-source-d6d23c830a0d4e68",
     "name": "峰高铺",
     "city": "重庆",
@@ -12003,9 +13125,21 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q60213890"
   },
   {
+    "id": "st-wikidata-q11052879",
+    "name": "崇左",
+    "city": "崇左",
+    "province": "广西",
+    "provinceId": "guangxi",
+    "longitude": 107.35408333333334,
+    "latitude": 22.406388888888888,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q11052879"
+  },
+  {
     "id": "st-wikidata-q124628233",
     "name": "崇左南",
-    "city": "城市待核验",
+    "city": "崇左",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 107.39103055555556,
@@ -12067,7 +13201,7 @@
   {
     "id": "st-wikidata-q28059559",
     "name": "嵩明",
-    "city": "城市待核验",
+    "city": "昆明",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 103.13556,
@@ -12087,6 +13221,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q11054638"
+  },
+  {
+    "id": "st-wikidata-q135981479",
+    "name": "巍山",
+    "city": "大理",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 100.29316,
+    "latitude": 25.2324,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q135981479"
   },
   {
     "id": "st-anhui-chaohu",
@@ -12506,6 +13652,30 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q130528619"
   },
   {
+    "id": "st-wikidata-q11060573",
+    "name": "干塘",
+    "city": "中卫",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 104.5213,
+    "latitude": 37.4548,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q11060573"
+  },
+  {
+    "id": "st-source-d835ea7fd4bbe46d",
+    "name": "平关",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.345674,
+    "latitude": 25.655083,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-gansu-pingliang",
     "name": "平凉",
     "city": "平凉",
@@ -12575,9 +13745,21 @@
     "timetableStationUrl": "https://www.crecc.com/shandong/dezhou/pingyuandong.html"
   },
   {
+    "id": "st-source-438e2c421189dbf3",
+    "name": "平原堡",
+    "city": "张掖",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 100.367018,
+    "latitude": 39.077435,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-osm-node-3328318453",
     "name": "平坝南",
-    "city": "城市待核验",
+    "city": "安顺",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 106.2534225,
@@ -12637,7 +13819,7 @@
   {
     "id": "st-wikidata-q130146463",
     "name": "平川西",
-    "city": "城市待核验",
+    "city": "白银",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 104.72709,
@@ -12725,6 +13907,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/2666736648"
   },
   {
+    "id": "st-source-a98a327fc262b8bd",
+    "name": "平河口",
+    "city": "曲靖",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 103.926666,
+    "latitude": 25.672649,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-source-7f768b68edd2c6ab",
     "name": "平泉",
     "city": "承德",
@@ -12788,6 +13982,18 @@
     "timetableStationUrl": "https://www.crecc.com/fujian/fuzhou/pingtan.html"
   },
   {
+    "id": "st-osm-node-2323529390",
+    "name": "平田",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.50385,
+    "latitude": 25.83856,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/2323529390"
+  },
+  {
     "id": "st-source-1580a6367ba2c40a",
     "name": "平社",
     "city": "忻州",
@@ -12810,6 +14016,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q17025059",
+    "name": "平罗",
+    "city": "石嘴山",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.46102,
+    "latitude": 38.959866,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q17025059"
   },
   {
     "id": "st-osm-node-2372888814",
@@ -12916,7 +14134,7 @@
   {
     "id": "st-wikidata-q28067278",
     "name": "广南县",
-    "city": "城市待核验",
+    "city": "文山",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 105.049584,
@@ -13165,7 +14383,7 @@
   {
     "id": "st-source-247295105b7dafab",
     "name": "广通北",
-    "city": "楚雄彝族自治州",
+    "city": "楚雄",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 101.755912,
@@ -13223,6 +14441,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q11062670",
+    "name": "庄里",
+    "city": "渭南",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 109.06543,
+    "latitude": 34.82529,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q11062670"
+  },
+  {
     "id": "st-osm-node-7935632138",
     "name": "庆元",
     "city": "丽水",
@@ -13237,7 +14467,7 @@
   {
     "id": "st-gansu-qingcheng",
     "name": "庆城",
-    "city": "城市待核验",
+    "city": "庆阳",
     "province": "甘肃",
     "provinceId": "gansu",
     "latitude": 36.0772814,
@@ -13324,7 +14554,7 @@
   {
     "id": "st-osm-node-7319308250",
     "name": "库尔勒",
-    "city": "巴音郭楞蒙古自治州",
+    "city": "巴州",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 86.1926553,
@@ -13336,7 +14566,7 @@
   {
     "id": "st-wikidata-q32593089",
     "name": "库车",
-    "city": "城市待核验",
+    "city": "阿克苏",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 83.013816,
@@ -13433,6 +14663,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q135920994",
+    "name": "府谷",
+    "city": "榆林",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 111.03944444444444,
+    "latitude": 39.050555555555555,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q135920994"
   },
   {
     "id": "st-source-075f65d69a0c67cd",
@@ -13656,6 +14898,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/13061379940"
   },
   {
+    "id": "st-source-f2e3a2062f7f80a5",
+    "name": "建水",
+    "city": "红河",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 102.871409,
+    "latitude": 23.660792,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-jiangsu-jianhu",
     "name": "建湖",
     "city": "盐城",
@@ -13841,6 +15095,30 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q47001579"
   },
   {
+    "id": "st-wikidata-q112182453",
+    "name": "开远南",
+    "city": "红河",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 103.28328055555555,
+    "latitude": 23.683058333333335,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q112182453"
+  },
+  {
+    "id": "st-osm-node-3060364298",
+    "name": "开阳",
+    "city": "贵阳",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.9700697,
+    "latitude": 27.0446857,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/3060364298"
+  },
+  {
     "id": "st-wikidata-q11065850",
     "name": "开鲁",
     "city": "城市待核验",
@@ -13896,6 +15174,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/843052502",
     "coordinateKey": "node/843052502",
     "timetableStationUrl": "https://www.crecc.com/hebei/zhangjiakou/zhangjiakou.html"
+  },
+  {
+    "id": "st-wikidata-q48061785",
+    "name": "张家川",
+    "city": "天水",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 106.338696,
+    "latitude": 34.967004,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q48061785"
   },
   {
     "id": "st-jiangsu-zhangjiagang",
@@ -13954,7 +15244,7 @@
   {
     "id": "st-osm-node-2987122176",
     "name": "张掖西",
-    "city": "城市待核验",
+    "city": "张掖",
     "province": "甘肃",
     "provinceId": "gansu",
     "latitude": 38.9225017,
@@ -14016,7 +15306,7 @@
   {
     "id": "st-osm-node-3695433676",
     "name": "弥勒",
-    "city": "城市待核验",
+    "city": "红河",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 103.4080445,
@@ -14024,6 +15314,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/3695433676"
+  },
+  {
+    "id": "st-wikidata-q11067887",
+    "name": "弯坵",
+    "city": "攀枝花",
+    "province": "四川",
+    "provinceId": "sichuan",
+    "longitude": 102.195584,
+    "latitude": 27.085989,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q11067887"
   },
   {
     "id": "st-osm-node-2987518504",
@@ -14072,6 +15374,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q24835642",
+    "name": "彬州",
+    "city": "咸阳",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 108.099624,
+    "latitude": 35.046259,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q24835642"
   },
   {
     "id": "st-shaanxi-binzhoudong",
@@ -14125,6 +15439,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q12348905",
+    "name": "彭州南",
+    "city": "成都",
+    "province": "四川",
+    "provinceId": "sichuan",
+    "longitude": 103.93833611111,
+    "latitude": 30.943322222222,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q12348905"
+  },
+  {
     "id": "st-osm-node-5549317613",
     "name": "彭水",
     "city": "重庆",
@@ -14162,6 +15488,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/2381264577",
     "coordinateKey": "node/2381264577",
     "timetableStationUrl": "https://www.crecc.com/jiangxi/jiujiang/pengze.html"
+  },
+  {
+    "id": "st-osm-node-1783909029",
+    "name": "彭阳",
+    "city": "固原",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.2831108,
+    "latitude": 35.8120843,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/1783909029"
   },
   {
     "id": "st-liaoning-zhangwu",
@@ -14274,7 +15612,7 @@
   {
     "id": "st-source-5a4b9db07f5ed740",
     "name": "德令哈",
-    "city": "海西蒙古族藏族自治州",
+    "city": "海西",
     "province": "青海",
     "provinceId": "qinghai",
     "longitude": 97.382908,
@@ -14286,7 +15624,7 @@
   {
     "id": "st-wikidata-q28749155",
     "name": "德保",
-    "city": "城市待核验",
+    "city": "百色",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 106.6245,
@@ -14694,7 +16032,7 @@
   {
     "id": "st-wikidata-q19852581",
     "name": "恭城",
-    "city": "城市待核验",
+    "city": "桂林",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 110.86555556,
@@ -14769,7 +16107,7 @@
   {
     "id": "st-wikidata-q11073339",
     "name": "惠农",
-    "city": "城市待核验",
+    "city": "石嘴山",
     "province": "宁夏",
     "provinceId": "ningxia",
     "longitude": 106.7276012,
@@ -14781,7 +16119,7 @@
   {
     "id": "st-wikidata-q131598319",
     "name": "惠农南",
-    "city": "城市待核验",
+    "city": "石嘴山",
     "province": "宁夏",
     "provinceId": "ningxia",
     "longitude": 106.70265833333333,
@@ -14805,7 +16143,7 @@
   {
     "id": "st-wikidata-q140308826",
     "name": "惠安堡",
-    "city": "城市待核验",
+    "city": "吴忠",
     "province": "宁夏",
     "provinceId": "ningxia",
     "longitude": 106.67225833333333,
@@ -15015,9 +16353,21 @@
     "coordinateSource": "https://www.openstreetmap.org/node/9160197906"
   },
   {
+    "id": "st-source-551421a6550fdea2",
+    "name": "打柴沟",
+    "city": "武威",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 102.996868,
+    "latitude": 37.089876,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-source-bc4f5349d21b903b",
     "name": "打羊",
-    "city": "黔西南布依族苗族自治州",
+    "city": "黔南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 107.569194,
@@ -15101,7 +16451,7 @@
   {
     "id": "st-osm-node-10241499957",
     "name": "扶绥南",
-    "city": "城市待核验",
+    "city": "崇左",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 107.9044497,
@@ -15671,6 +17021,18 @@
     "timetableStationUrl": "https://www.crecc.com/henan/xinyang/xinxian.html"
   },
   {
+    "id": "st-osm-node-7365718251",
+    "name": "新和",
+    "city": "阿克苏",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 82.6174477,
+    "latitude": 41.5739118,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/7365718251"
+  },
+  {
     "id": "st-source-1ec52e34a1eb5504",
     "name": "新固镇",
     "city": "邯郸",
@@ -15697,7 +17059,7 @@
   {
     "id": "st-source-d3b562c670a034f6",
     "name": "新坪田",
-    "city": "黔西南布依族苗族自治州",
+    "city": "黔西南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 104.684943,
@@ -15858,6 +17220,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/2953805433",
     "coordinateKey": "node/2953805433",
     "timetableStationUrl": "https://www.crecc.com/hunan/huaihua/xinhuangxi.html"
+  },
+  {
+    "id": "st-wikidata-q11082916",
+    "name": "新李",
+    "city": "平凉",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 106.59044,
+    "latitude": 35.60344,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q11082916"
   },
   {
     "id": "st-source-3f3708e3b0d3366b",
@@ -16046,6 +17420,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/4765197373"
+  },
+  {
+    "id": "st-source-81f0e6a6dcc87508",
+    "name": "新阳镇",
+    "city": "天水",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 105.52367,
+    "latitude": 34.69395,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-osm-node-12712348629",
@@ -16328,7 +17714,7 @@
   {
     "id": "st-osm-node-2865839196",
     "name": "昆明南",
-    "city": "城市待核验",
+    "city": "昆明",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 102.8603804,
@@ -16340,7 +17726,7 @@
   {
     "id": "st-osm-node-7365811214",
     "name": "昆玉",
-    "city": "城市待核验",
+    "city": "昆玉",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 79.2747574,
@@ -16348,6 +17734,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/7365811214"
+  },
+  {
+    "id": "st-source-4ca356de4cac98cc",
+    "name": "昆阳",
+    "city": "昆明",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 102.607233,
+    "latitude": 24.666179,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-shandong-changle",
@@ -16541,7 +17939,7 @@
   {
     "id": "st-source-16b8b41a40fe56d7",
     "name": "星朗",
-    "city": "黔西南布依族苗族自治州",
+    "city": "黔南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 107.489545,
@@ -16606,6 +18004,18 @@
     "provinceId": "yunnan",
     "longitude": 104.240585,
     "latitude": 28.081072,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-ba4c4a552172f2ad",
+    "name": "昭通南",
+    "city": "昭通",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 103.961104,
+    "latitude": 27.55556,
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
@@ -16729,7 +18139,7 @@
   {
     "id": "st-osm-node-3328330804",
     "name": "普安县",
-    "city": "城市待核验",
+    "city": "黔西南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 104.8674326,
@@ -16751,6 +18161,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/8308145831"
   },
   {
+    "id": "st-wikidata-q109018386",
+    "name": "普洱",
+    "city": "普洱",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 100.94044,
+    "latitude": 22.77839388888889,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q109018386"
+  },
+  {
     "id": "st-source-d8a73fe98f7706c5",
     "name": "普洱渡",
     "city": "昭通",
@@ -16765,7 +18187,7 @@
   {
     "id": "st-wikidata-q28067228",
     "name": "普者黑",
-    "city": "城市待核验",
+    "city": "文山",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 104.17725,
@@ -16837,6 +18259,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q11090331",
+    "name": "暖泉",
+    "city": "银川",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.269724,
+    "latitude": 38.73948,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q11090331"
   },
   {
     "id": "st-osm-node-3410043449",
@@ -16923,7 +18357,7 @@
   {
     "id": "st-osm-node-7704087889",
     "name": "曲靖北",
-    "city": "城市待核验",
+    "city": "曲靖",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 103.7812611,
@@ -16957,6 +18391,20 @@
     "coordinateSource": "https://www.openstreetmap.org/node/5112069633"
   },
   {
+    "id": "st-osm-node-7783459218",
+    "name": "曹妃甸港",
+    "city": "唐山",
+    "province": "河北",
+    "provinceId": "hebei",
+    "longitude": 118.4608701,
+    "latitude": 39.0729599,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/7783459218",
+    "identitySource": "https://www.beijing.gov.cn/ywdt/zwzt/jjjyth/jtxx/201905/t20190524_1820033.html",
+    "coordinateNote": "精确中文客运车站节点；政府唐曹客运铁路站序确认身份，补足粗略沿海行政面未覆盖的点位。"
+  },
+  {
     "id": "st-source-3e5b02be4f2d2d25",
     "name": "曹子里",
     "city": "武清区",
@@ -16967,6 +18415,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-osm-node-2323529396",
+    "name": "月亮田",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.4966106,
+    "latitude": 25.9285397,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/2323529396"
   },
   {
     "id": "st-source-4d4fe090796addfc",
@@ -16991,6 +18451,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q140288108",
+    "name": "朋普",
+    "city": "红河",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 103.3413371,
+    "latitude": 23.9772685,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q140288108"
   },
   {
     "id": "st-source-0e34e1fad2f29555",
@@ -17060,6 +18532,18 @@
     "coordinateKey": "node/7332499345"
   },
   {
+    "id": "st-osm-node-1532826986",
+    "name": "朝天南",
+    "city": "广元",
+    "province": "四川",
+    "provinceId": "sichuan",
+    "longitude": 105.8750232,
+    "latitude": 32.6403574,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/1532826986"
+  },
+  {
     "id": "st-osm-node-4585401968",
     "name": "朝阳湖",
     "city": "成都",
@@ -17126,6 +18610,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-source-99f89cadc59540fe",
+    "name": "朱家窑",
+    "city": "兰州",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 103.996181,
+    "latitude": 36.49637,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-wikidata-q11094167",
     "name": "朱日和",
     "city": "城市待核验",
@@ -17152,7 +18648,7 @@
   {
     "id": "st-source-9ef6ad32fdb12a32",
     "name": "朱石寨",
-    "city": "黔西南布依族苗族自治州",
+    "city": "黔南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 107.469708,
@@ -17164,7 +18660,7 @@
   {
     "id": "st-osm-node-5184005947",
     "name": "朱砂古镇",
-    "city": "城市待核验",
+    "city": "铜仁",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 109.1333449,
@@ -17172,6 +18668,30 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/5184005947"
+  },
+  {
+    "id": "st-wikidata-q108198173",
+    "name": "李子沟",
+    "city": "毕节",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.04672,
+    "latitude": 26.97424,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q108198173"
+  },
+  {
+    "id": "st-source-77255a1fb41ee98f",
+    "name": "李家坪",
+    "city": "定西",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.470738,
+    "latitude": 35.709992,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-source-4c7bbe2912a0d53a",
@@ -17184,6 +18704,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-osm-node-1783909025",
+    "name": "李旺",
+    "city": "中卫",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.075374,
+    "latitude": 36.7002724,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/1783909025"
   },
   {
     "id": "st-osm-node-2173106148",
@@ -17249,6 +18781,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q8048557"
+  },
+  {
+    "id": "st-source-e20a1c5c4d31e181",
+    "name": "杨林",
+    "city": "昆明",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 103.084182,
+    "latitude": 25.239402,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-tianjin-yangliuqing",
@@ -17452,6 +18996,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-2323529393",
+    "name": "松河",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.621223,
+    "latitude": 26.0360405,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/2323529393"
+  },
+  {
     "id": "st-wikidata-q110528038",
     "name": "松溪",
     "city": "南平",
@@ -17598,7 +19154,7 @@
   {
     "id": "st-osm-node-10108687083",
     "name": "果珠",
-    "city": "城市待核验",
+    "city": "昭通",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 104.9782436,
@@ -17751,6 +19307,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-2323529333",
+    "name": "柏果",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.5040661,
+    "latitude": 26.0088284,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/2323529333"
+  },
+  {
     "id": "st-osm-node-9242148037",
     "name": "柘皋",
     "city": "合肥",
@@ -17787,6 +19355,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/843319811"
   },
   {
+    "id": "st-source-d91f8401bad60e54",
+    "name": "柯柯",
+    "city": "海西",
+    "province": "青海",
+    "provinceId": "qinghai",
+    "longitude": 98.255264,
+    "latitude": 36.984384,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-source-e43a69d10842f309",
     "name": "柳园",
     "city": "酒泉",
@@ -17812,6 +19392,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/2987130068",
     "coordinateKey": "node/2987130068",
     "timetableStationUrl": "https://www.crecc.com/gansu/jiuquan/liuyuannan.html"
+  },
+  {
+    "id": "st-wikidata-q11109598",
+    "name": "柳家庄",
+    "city": "中卫",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 105.3908,
+    "latitude": 37.51684,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q11109598"
   },
   {
     "id": "st-guangxi-liuzhou",
@@ -17974,7 +19566,7 @@
   {
     "id": "st-qinghai-geermu",
     "name": "格尔木",
-    "city": "海西蒙古族藏族自治州",
+    "city": "海西",
     "province": "青海",
     "provinceId": "qinghai",
     "latitude": 36.3829415,
@@ -18199,6 +19791,18 @@
     "coordinateKey": "node/9302063144"
   },
   {
+    "id": "st-source-ddce856cda2e5249",
+    "name": "桐木寨",
+    "city": "黔东南",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 107.993323,
+    "latitude": 26.685497,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-source-c625b337346dff45",
     "name": "桐柏",
     "city": "南阳",
@@ -18225,7 +19829,7 @@
   {
     "id": "st-osm-node-7620009556",
     "name": "桐梓东",
-    "city": "城市待核验",
+    "city": "遵义",
     "province": "贵州",
     "provinceId": "guizhou",
     "latitude": 28.1186769,
@@ -18295,6 +19899,30 @@
     "provinceId": "liaoning",
     "longitude": 125.417927,
     "latitude": 41.252017,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-7d90ba186acac947",
+    "name": "桥湾",
+    "city": "酒泉",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 96.641707,
+    "latitude": 40.565023,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-77ff1a432dfef8f9",
+    "name": "桥西",
+    "city": "嘉峪关",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 98.16597,
+    "latitude": 39.738699,
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
@@ -18417,6 +20045,18 @@
     "timetableStationUrl": "https://www.crecc.com/jilin/tonghua/meihekou.html"
   },
   {
+    "id": "st-source-a52fec77e340818c",
+    "name": "梅花山",
+    "city": "毕节",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.667677,
+    "latitude": 26.703241,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-osm-node-5097780534",
     "name": "梧州",
     "city": "梧州",
@@ -18455,7 +20095,7 @@
   {
     "id": "st-source-a659aa1c6f9f8531",
     "name": "楚雄",
-    "city": "楚雄彝族自治州",
+    "city": "楚雄",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 101.543211,
@@ -18479,7 +20119,7 @@
   {
     "id": "st-wikidata-q8062252",
     "name": "榆中",
-    "city": "城市待核验",
+    "city": "兰州",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 104.168886,
@@ -18566,7 +20206,7 @@
   {
     "id": "st-osm-node-9527375841",
     "name": "榕江",
-    "city": "城市待核验",
+    "city": "黔东南",
     "province": "贵州",
     "provinceId": "guizhou",
     "latitude": 25.9917177,
@@ -18642,6 +20282,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/2458071811"
+  },
+  {
+    "id": "st-wikidata-q139971201",
+    "name": "横州",
+    "city": "南宁",
+    "province": "广西",
+    "provinceId": "guangxi",
+    "longitude": 109.369712,
+    "latitude": 22.758053,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q139971201"
   },
   {
     "id": "st-osm-node-11337806452",
@@ -18721,6 +20373,18 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q60674909"
   },
   {
+    "id": "st-wikidata-q109018378",
+    "name": "橄榄坝",
+    "city": "西双版纳",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 100.945415,
+    "latitude": 21.87293,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q109018378"
+  },
+  {
     "id": "st-source-86ad2be7fc980efe",
     "name": "歙县",
     "city": "黄山",
@@ -18782,6 +20446,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q28746101"
+  },
+  {
+    "id": "st-osm-node-7951474429",
+    "name": "步行街",
+    "city": "成都",
+    "province": "四川",
+    "provinceId": "sichuan",
+    "longitude": 103.9381327,
+    "latitude": 30.9613561,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/7951474429"
   },
   {
     "id": "st-osm-node-7702364128",
@@ -18900,7 +20576,7 @@
   {
     "id": "st-wikidata-q126894394",
     "name": "武威东",
-    "city": "城市待核验",
+    "city": "武威",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 102.69583333333334,
@@ -19121,7 +20797,7 @@
   {
     "id": "st-osm-node-4631868962",
     "name": "毕节",
-    "city": "城市待核验",
+    "city": "毕节",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 105.4157004,
@@ -19169,7 +20845,7 @@
   {
     "id": "st-osm-node-8204063700",
     "name": "民丰",
-    "city": "城市待核验",
+    "city": "和田",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 82.7216775,
@@ -19193,7 +20869,7 @@
   {
     "id": "st-osm-node-2987084180",
     "name": "民和南",
-    "city": "城市待核验",
+    "city": "海东",
     "province": "青海",
     "provinceId": "qinghai",
     "longitude": 102.8482275,
@@ -19320,6 +20996,30 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q11130167"
   },
   {
+    "id": "st-source-a798912419a60dd0",
+    "name": "水源",
+    "city": "兰州",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 103.877468,
+    "latitude": 36.140719,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-a79443734fa1a6b8",
+    "name": "水花",
+    "city": "黔东南",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 108.273214,
+    "latitude": 27.000103,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-osm-node-7780322122",
     "name": "水茜",
     "city": "三明",
@@ -19342,6 +21042,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q97348430",
+    "name": "永仁",
+    "city": "楚雄",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 101.70941666666667,
+    "latitude": 26.052005555555557,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q97348430"
   },
   {
     "id": "st-jiangxi-yongxiu",
@@ -19436,6 +21148,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-3003935017",
+    "name": "永寿",
+    "city": "咸阳",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 108.1470704,
+    "latitude": 34.7071573,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/3003935017"
+  },
+  {
     "id": "st-shaanxi-yongshouxi",
     "name": "永寿西",
     "city": "咸阳",
@@ -19503,6 +21227,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/4359529805",
     "coordinateKey": "node/4359529805",
     "timetableStationUrl": "https://www.crecc.com/hunan/yongzhou/yongzhou.html"
+  },
+  {
+    "id": "st-wikidata-q130146404",
+    "name": "永平县",
+    "city": "大理",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 99.5385229376422,
+    "latitude": 25.407733095476374,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q130146404"
   },
   {
     "id": "st-zhejiang-yongkangnan",
@@ -19600,7 +21336,7 @@
   {
     "id": "st-osm-node-9399825561",
     "name": "永登北",
-    "city": "城市待核验",
+    "city": "兰州",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 103.2431375,
@@ -19811,6 +21547,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/1577895132",
     "coordinateKey": "node/1577895132",
     "timetableStationUrl": "https://www.crecc.com/henan/pingdingshan/ruzhou.html"
+  },
+  {
+    "id": "st-osm-node-2800387801",
+    "name": "汝箕沟",
+    "city": "石嘴山",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.1142404,
+    "latitude": 39.0691444,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/2800387801"
   },
   {
     "id": "st-wikidata-q116247920",
@@ -20248,6 +21996,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/8465326533"
   },
   {
+    "id": "st-osm-node-4499882017",
+    "name": "沈家河",
+    "city": "固原",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.2810544,
+    "latitude": 36.0942739,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/4499882017"
+  },
+  {
     "id": "st-liaoning-shenyang",
     "name": "沈阳",
     "city": "沈阳",
@@ -20305,6 +22065,18 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q79447558"
   },
   {
+    "id": "st-wikidata-q11139705",
+    "name": "沙坡头",
+    "city": "中卫",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 104.99654,
+    "latitude": 37.46561,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q11139705"
+  },
+  {
     "id": "st-chongqing-shapingba",
     "name": "沙坪坝",
     "city": "重庆",
@@ -20347,6 +22119,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-4663110023",
+    "name": "沙沱",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.4410402,
+    "latitude": 25.7233787,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/4663110023"
+  },
+  {
     "id": "st-osm-node-8015997051",
     "name": "沙河市",
     "city": "邢台",
@@ -20373,7 +22157,7 @@
   {
     "id": "st-osm-node-10908191212",
     "name": "沙湖",
-    "city": "城市待核验",
+    "city": "银川",
     "province": "宁夏",
     "provinceId": "ningxia",
     "longitude": 106.3023987,
@@ -20405,6 +22189,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/10284226399"
+  },
+  {
+    "id": "st-wikidata-q11140423",
+    "name": "沙湾市",
+    "city": "塔城",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 85.60604519,
+    "latitude": 44.32104461,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q11140423"
   },
   {
     "id": "st-source-e34457db92b00b35",
@@ -20491,9 +22287,21 @@
     "timetableStationUrl": "https://www.crecc.com/jiangsu/suqian/shuyang.html"
   },
   {
+    "id": "st-osm-node-2637980508",
+    "name": "沱沱河",
+    "city": "城市待核验",
+    "province": "青海",
+    "provinceId": "qinghai",
+    "longitude": 92.4457308,
+    "latitude": 34.2331802,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/2637980508"
+  },
+  {
     "id": "st-osm-node-9307694650",
     "name": "河东机场",
-    "city": "城市待核验",
+    "city": "银川",
     "province": "宁夏",
     "provinceId": "ningxia",
     "longitude": 106.3818651,
@@ -20501,6 +22309,42 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/9307694650"
+  },
+  {
+    "id": "st-osm-node-9076173200",
+    "name": "河东里",
+    "city": "酒泉",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 99.7594203,
+    "latitude": 40.411696,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/9076173200"
+  },
+  {
+    "id": "st-osm-node-3684728552",
+    "name": "河口北",
+    "city": "红河",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 103.9739698,
+    "latitude": 22.532224,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/3684728552"
+  },
+  {
+    "id": "st-source-28b7ab767d38caca",
+    "name": "河口南",
+    "city": "兰州",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 103.453812,
+    "latitude": 36.163764,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-source-92515f10604026c4",
@@ -20517,7 +22361,7 @@
   {
     "id": "st-osm-node-10925993082",
     "name": "河池西",
-    "city": "城市待核验",
+    "city": "河池",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 108.1723535,
@@ -20616,6 +22460,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/1720956554"
+  },
+  {
+    "id": "st-osm-node-3024685469",
+    "name": "治江",
+    "city": "汉中",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 107.1988475,
+    "latitude": 33.1190347,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/3024685469"
   },
   {
     "id": "st-osm-node-5278999839",
@@ -20777,6 +22633,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/3483861809",
     "coordinateKey": "node/3483861809",
     "timetableStationUrl": "https://www.crecc.com/jiangsu/suqian/siyang.html"
+  },
+  {
+    "id": "st-source-c94ce9e76fb563fb",
+    "name": "泡子",
+    "city": "阜新",
+    "province": "辽宁",
+    "provinceId": "liaoning",
+    "longitude": 122.322998,
+    "latitude": 42.205157,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-wikidata-q60177187",
@@ -21004,7 +22872,7 @@
   {
     "id": "st-osm-node-8200685040",
     "name": "洛浦",
-    "city": "城市待核验",
+    "city": "和田",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 80.2138525,
@@ -21012,6 +22880,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/8200685040"
+  },
+  {
+    "id": "st-osm-node-5603764275",
+    "name": "洛湾三江",
+    "city": "贵阳",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.8230806,
+    "latitude": 26.6855789,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/5603764275"
   },
   {
     "id": "st-osm-node-5549291108",
@@ -21024,6 +22904,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/5549291108"
+  },
+  {
+    "id": "st-wikidata-q11146186",
+    "name": "洛门",
+    "city": "天水",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 105.02064166666666,
+    "latitude": 34.75420555555556,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q11146186"
   },
   {
     "id": "st-henan-luoyang",
@@ -21090,6 +22982,20 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-osm-node-7063140880",
+    "name": "洪梅",
+    "city": "东莞",
+    "province": "广东",
+    "provinceId": "guangdong",
+    "longitude": 113.6126862,
+    "latitude": 22.9831774,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/7063140880",
+    "identitySource": "https://www.dg.gov.cn/hongmei/gk/index.html",
+    "coordinateNote": "精确中文铁路车站节点；官方地方政府车站身份补足 Natural Earth 粗略沿海行政面未覆盖的点位。"
   },
   {
     "id": "st-source-4d05bdfeb731219e",
@@ -21357,7 +23263,7 @@
   {
     "id": "st-osm-node-2987101482",
     "name": "海东",
-    "city": "城市待核验",
+    "city": "海东",
     "province": "青海",
     "provinceId": "qinghai",
     "longitude": 102.3894952,
@@ -21369,7 +23275,7 @@
   {
     "id": "st-osm-node-3481030916",
     "name": "海东西",
-    "city": "城市待核验",
+    "city": "海东",
     "province": "青海",
     "provinceId": "qinghai",
     "longitude": 102.0535164,
@@ -21500,6 +23406,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q11150806"
+  },
+  {
+    "id": "st-source-4bef306fd42caedc",
+    "name": "海晏",
+    "city": "海北",
+    "province": "青海",
+    "provinceId": "qinghai",
+    "longitude": 100.979124,
+    "latitude": 36.872855,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-heilongjiang-hailin",
@@ -22024,7 +23942,7 @@
   {
     "id": "st-osm-node-2987124106",
     "name": "清水北",
-    "city": "城市待核验",
+    "city": "酒泉",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 99.0965415,
@@ -22032,6 +23950,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/2987124106"
+  },
+  {
+    "id": "st-osm-node-3652362095",
+    "name": "清水县",
+    "city": "天水",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 106.1024983,
+    "latitude": 34.7522542,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/3652362095"
   },
   {
     "id": "st-source-a0d7f3291547935f",
@@ -22116,7 +24046,7 @@
   {
     "id": "st-wikidata-q78333272",
     "name": "清镇西",
-    "city": "城市待核验",
+    "city": "贵阳",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 106.376885,
@@ -22306,9 +24236,21 @@
     "coordinateSource": "https://www.openstreetmap.org/node/2928746355"
   },
   {
+    "id": "st-wikidata-q17030241",
+    "name": "渭南镇",
+    "city": "天水",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 105.633803,
+    "latitude": 34.6897716,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q17030241"
+  },
+  {
     "id": "st-wikidata-q41381767",
     "name": "渭源",
-    "city": "城市待核验",
+    "city": "定西",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 104.225584,
@@ -22371,6 +24313,18 @@
     "coordinateSource": "HOTOSM / OSM 2026-05-10",
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/9509731910",
     "coordinateKey": "node/9509731910"
+  },
+  {
+    "id": "st-osm-node-7625091629",
+    "name": "湖潮东",
+    "city": "贵阳",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.5098824,
+    "latitude": 26.4356023,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/7625091629"
   },
   {
     "id": "st-hunan-xiangxiang",
@@ -22464,6 +24418,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/7285032809"
+  },
+  {
+    "id": "st-source-95b1cca30d08e635",
+    "name": "湟源",
+    "city": "西宁",
+    "province": "青海",
+    "provinceId": "qinghai",
+    "longitude": 101.165165,
+    "latitude": 36.748212,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-osm-node-2936895093",
@@ -22679,6 +24645,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q9040791"
+  },
+  {
+    "id": "st-wikidata-q17032389",
+    "name": "滥坝",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 105.03138765177914,
+    "latitude": 26.543957885350576,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q17032389"
   },
   {
     "id": "st-hebei-luanxian",
@@ -22899,7 +24877,7 @@
   {
     "id": "st-osm-node-8087439266",
     "name": "漳县",
-    "city": "城市待核验",
+    "city": "定西",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 104.1556001,
@@ -22949,6 +24927,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q130146402",
+    "name": "漾濞",
+    "city": "大理",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 99.9623543747157,
+    "latitude": 25.66284926425201,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q130146402"
   },
   {
     "id": "st-shandong-weifang",
@@ -23278,7 +25268,7 @@
   {
     "id": "st-osm-node-9307694649",
     "name": "灵武北",
-    "city": "城市待核验",
+    "city": "银川",
     "province": "宁夏",
     "provinceId": "ningxia",
     "latitude": 38.1344131,
@@ -23382,7 +25372,7 @@
   {
     "id": "st-wikidata-q24836373",
     "name": "焉耆",
-    "city": "城市待核验",
+    "city": "巴州",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 86.54633206,
@@ -23417,6 +25407,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/8061296290"
+  },
+  {
+    "id": "st-source-a38ab5328b6daec5",
+    "name": "照福铺",
+    "city": "曲靖",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 103.366189,
+    "latitude": 25.414561,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-liaoning-xiongyuecheng",
@@ -23595,7 +25597,7 @@
   {
     "id": "st-source-99f77a33f57b0632",
     "name": "独山",
-    "city": "黔西南布依族苗族自治州",
+    "city": "黔南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 107.543616,
@@ -23607,7 +25609,7 @@
   {
     "id": "st-wikidata-q122142312",
     "name": "独山东",
-    "city": "城市待核验",
+    "city": "黔南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 107.573642,
@@ -23651,6 +25653,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/8166487690"
+  },
+  {
+    "id": "st-source-b0318d91f4537966",
+    "name": "狼尾山",
+    "city": "张掖",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 98.037596,
+    "latitude": 39.621803,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-source-7a4e0e44cf5899ef",
@@ -23719,6 +25733,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/1541942455"
   },
   {
+    "id": "st-wikidata-q126706685",
+    "name": "玉林北",
+    "city": "玉林",
+    "province": "广西",
+    "provinceId": "guangxi",
+    "longitude": 110.245029,
+    "latitude": 22.725572,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q126706685"
+  },
+  {
     "id": "st-heilongjiang-yuquan",
     "name": "玉泉",
     "city": "哈尔滨",
@@ -23736,7 +25762,7 @@
   {
     "id": "st-osm-node-8200737579",
     "name": "玉泉镇",
-    "city": "城市待核验",
+    "city": "和田",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 81.2985852,
@@ -23794,6 +25820,30 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-source-1ab5ba5132b33682",
+    "name": "玉石",
+    "city": "金昌",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 101.889865,
+    "latitude": 38.470616,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-osm-node-3192432224",
+    "name": "玉舍",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.8096744,
+    "latitude": 26.4727137,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/3192432224"
+  },
+  {
     "id": "st-gansu-yumen",
     "name": "玉门",
     "city": "酒泉",
@@ -23807,6 +25857,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/1600348026",
     "coordinateKey": "node/1600348026",
     "timetableStationUrl": "https://www.crecc.com/gansu/jiuquan/yumen.html"
+  },
+  {
+    "id": "st-wikidata-q16690590",
+    "name": "王团庄",
+    "city": "吴忠",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 105.980853,
+    "latitude": 36.902409,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q16690590"
   },
   {
     "id": "st-source-64143362b5a75e32",
@@ -23833,6 +25895,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q15920124",
+    "name": "玛纳斯",
+    "city": "昌吉",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 86.1934981,
+    "latitude": 44.24805061,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q15920124"
+  },
+  {
     "id": "st-gansu-huanxian",
     "name": "环县",
     "city": "庆阳",
@@ -23851,7 +25925,7 @@
   {
     "id": "st-osm-node-10925578497",
     "name": "环江",
-    "city": "城市待核验",
+    "city": "河池",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 108.168048,
@@ -23952,7 +26026,7 @@
   {
     "id": "st-osm-node-5208598915",
     "name": "珠琳",
-    "city": "城市待核验",
+    "city": "文山",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 104.6253776,
@@ -24129,7 +26203,7 @@
   {
     "id": "st-osm-node-8204071009",
     "name": "瓦石峡",
-    "city": "城市待核验",
+    "city": "巴州",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 87.3819098,
@@ -24217,6 +26291,18 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q110109738"
   },
   {
+    "id": "st-source-cb235f5a83b0311d",
+    "name": "甘草店",
+    "city": "兰州",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.287974,
+    "latitude": 35.794171,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-gansu-gangu",
     "name": "甘谷",
     "city": "天水",
@@ -24232,9 +26318,21 @@
     "timetableStationUrl": "https://www.crecc.com/gansu/tianshui/gangu.html"
   },
   {
+    "id": "st-osm-node-8575228362",
+    "name": "甜水堡",
+    "city": "庆阳",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 106.8092,
+    "latitude": 37.1361623,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/8575228362"
+  },
+  {
     "id": "st-wikidata-q24837067",
     "name": "田东北",
-    "city": "城市待核验",
+    "city": "百色",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 107.1412891,
@@ -24258,7 +26356,7 @@
   {
     "id": "st-wikidata-q28079683",
     "name": "田林",
-    "city": "城市待核验",
+    "city": "百色",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 106.230927,
@@ -24304,6 +26402,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-8307828067",
+    "name": "甲猫",
+    "city": "黔南",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 107.5075086,
+    "latitude": 25.9554294,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/8307828067"
+  },
+  {
     "id": "st-wikidata-q53835891",
     "name": "电白",
     "city": "茂名",
@@ -24314,6 +26424,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q53835891"
+  },
+  {
+    "id": "st-source-8787872f82af748a",
+    "name": "甸心",
+    "city": "楚雄",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 101.718567,
+    "latitude": 25.319251,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-osm-node-12739050370",
@@ -24393,7 +26515,7 @@
   {
     "id": "st-osm-node-3060364299",
     "name": "白云北",
-    "city": "城市待核验",
+    "city": "贵阳",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 106.6591383,
@@ -24449,6 +26571,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q134622460"
+  },
+  {
+    "id": "st-osm-node-9414290759",
+    "name": "白云西",
+    "city": "贵阳",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.6093969,
+    "latitude": 26.7039158,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/9414290759"
   },
   {
     "id": "st-jilin-baicheng",
@@ -24550,6 +26684,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-source-7cfa8a071c64e5ef",
+    "name": "白水镇",
+    "city": "曲靖",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 104.013999,
+    "latitude": 25.662792,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-source-487d9550d074dc75",
     "name": "白沙",
     "city": "重庆",
@@ -24557,6 +26703,18 @@
     "provinceId": "chongqing",
     "longitude": 106.122368,
     "latitude": 29.072808,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-1b6daec746aefa68",
+    "name": "白沙坡",
+    "city": "曲靖",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 103.866043,
+    "latitude": 25.660591,
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
@@ -24664,9 +26822,21 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-2662698053",
+    "name": "白芨沟",
+    "city": "石嘴山",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.13656,
+    "latitude": 39.11819,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/2662698053"
+  },
+  {
     "id": "st-wikidata-q126894400",
     "name": "白银南",
-    "city": "城市待核验",
+    "city": "白银",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 104.1804,
@@ -24674,6 +26844,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q126894400"
+  },
+  {
+    "id": "st-source-a091c85914912e1a",
+    "name": "白银市",
+    "city": "白银",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.167234,
+    "latitude": 36.556775,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-source-a473406c7d3d6e36",
@@ -24698,6 +26880,30 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q110611455"
+  },
+  {
+    "id": "st-osm-node-2323960862",
+    "name": "白鸡坡",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.7468982,
+    "latitude": 26.4304417,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/2323960862"
+  },
+  {
+    "id": "st-osm-node-3740824339",
+    "name": "百宜",
+    "city": "贵阳",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.929348,
+    "latitude": 26.8261814,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/3740824339"
   },
   {
     "id": "st-osm-node-7775792085",
@@ -24880,9 +27086,21 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-2323529378",
+    "name": "盘关",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.4995286,
+    "latitude": 25.8925639,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/2323529378"
+  },
+  {
     "id": "st-osm-node-3328330805",
     "name": "盘州",
-    "city": "城市待核验",
+    "city": "六盘水",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 104.5657163,
@@ -24936,6 +27154,18 @@
     "coordinateKey": "node/11672638199"
   },
   {
+    "id": "st-wikidata-q11060284",
+    "name": "眉县东",
+    "city": "宝鸡",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 107.83316,
+    "latitude": 34.27252,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q11060284"
+  },
+  {
     "id": "st-osm-node-1588514451",
     "name": "眉山",
     "city": "眉山",
@@ -24978,7 +27208,7 @@
   {
     "id": "st-wikidata-q130146659",
     "name": "石嘴山",
-    "city": "城市待核验",
+    "city": "石嘴山",
     "province": "宁夏",
     "provinceId": "ningxia",
     "longitude": 106.37701388888888,
@@ -24998,6 +27228,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q16690712"
+  },
+  {
+    "id": "st-wikidata-q17038276",
+    "name": "石坝",
+    "city": "吴忠",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 105.8438329,
+    "latitude": 37.0675006,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q17038276"
   },
   {
     "id": "st-source-1a7cdb226636cd6d",
@@ -25080,7 +27322,7 @@
   {
     "id": "st-osm-node-3695429386",
     "name": "石林西",
-    "city": "城市待核验",
+    "city": "昆明",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 103.2410111,
@@ -25128,7 +27370,7 @@
   {
     "id": "st-wikidata-q15907712",
     "name": "石河子",
-    "city": "城市待核验",
+    "city": "石河子",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 86.05805,
@@ -25230,6 +27472,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q17039836",
+    "name": "碱柜",
+    "city": "城市待核验",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "longitude": 106.75933358333333,
+    "latitude": 39.930867944444444,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q17039836"
+  },
+  {
     "id": "st-source-d0e774694f2ed546",
     "name": "碾子山",
     "city": "齐齐哈尔",
@@ -25295,6 +27549,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/8526666001"
   },
   {
+    "id": "st-source-a1f8f2c50cf764e4",
+    "name": "磐安镇",
+    "city": "天水",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 105.111642,
+    "latitude": 34.763664,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-jilin-panshi",
     "name": "磐石",
     "city": "吉林",
@@ -25308,6 +27574,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/1548856828",
     "coordinateKey": "node/1548856828",
     "timetableStationUrl": "https://www.crecc.com/jilin/jilin/panshi.html"
+  },
+  {
+    "id": "st-wikidata-q108417976",
+    "name": "磨憨",
+    "city": "西双版纳",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 101.71769111111111,
+    "latitude": 21.2526695,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q108417976"
   },
   {
     "id": "st-wikidata-q135921025",
@@ -25332,6 +27610,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/1759460640"
+  },
+  {
+    "id": "st-osm-node-2941777341",
+    "name": "礼泉",
+    "city": "咸阳",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 108.4142839,
+    "latitude": 34.4325404,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/2941777341"
   },
   {
     "id": "st-shaanxi-liquannan",
@@ -25480,6 +27770,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q16691630",
+    "name": "神木北",
+    "city": "榆林",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 110.44008333,
+    "latitude": 39.03911111,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q16691630"
+  },
+  {
     "id": "st-shaanxi-shenmuxi",
     "name": "神木西",
     "city": "榆林",
@@ -25509,7 +27811,7 @@
   {
     "id": "st-source-ea7ccc978d77c684",
     "name": "祥云",
-    "city": "大理白族自治州",
+    "city": "大理",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 100.544771,
@@ -25521,7 +27823,7 @@
   {
     "id": "st-source-cc8f90bc8173b641",
     "name": "禄丰南",
-    "city": "楚雄彝族自治州",
+    "city": "楚雄",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 102.062328,
@@ -25541,6 +27843,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q65050877",
+    "name": "福利区",
+    "city": "兰州",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 103.627418,
+    "latitude": 36.095882,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q65050877"
   },
   {
     "id": "st-source-438d2d8987809769",
@@ -25611,7 +27925,7 @@
   {
     "id": "st-guizhou-fuquan",
     "name": "福泉",
-    "city": "黔西南布依族苗族自治州",
+    "city": "黔南",
     "province": "贵州",
     "provinceId": "guizhou",
     "latitude": 26.6283551,
@@ -25824,7 +28138,7 @@
   {
     "id": "st-wikidata-q123929800",
     "name": "秦王川",
-    "city": "城市待核验",
+    "city": "兰州",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 103.7671,
@@ -25936,6 +28250,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/5652369240"
   },
   {
+    "id": "st-osm-node-8168457079",
+    "name": "竹园",
+    "city": "红河",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 103.3962596,
+    "latitude": 24.1142159,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/8168457079"
+  },
+  {
     "id": "st-osm-node-12712348633",
     "name": "竹料",
     "city": "广州",
@@ -25950,7 +28276,7 @@
   {
     "id": "st-osm-node-8200722743",
     "name": "策勒",
-    "city": "城市待核验",
+    "city": "和田",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 80.831877,
@@ -25974,7 +28300,7 @@
   {
     "id": "st-osm-node-7319259959",
     "name": "米兰",
-    "city": "城市待核验",
+    "city": "铁门关",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 88.8791478,
@@ -26023,9 +28349,21 @@
     "timetableStationUrl": "https://www.crecc.com/shaanxi/yulin/mizhi.html"
   },
   {
+    "id": "st-wikidata-q16690802",
+    "name": "精河",
+    "city": "博州",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 83.0225,
+    "latitude": 44.635,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q16690802"
+  },
+  {
     "id": "st-wikidata-q124295203",
     "name": "精河南",
-    "city": "城市待核验",
+    "city": "博州",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 82.9183801064064,
@@ -26139,9 +28477,21 @@
     "timetableStationUrl": "https://www.crecc.com/hubei/huanggang/honganxi.html"
   },
   {
+    "id": "st-osm-node-11757094632",
+    "name": "红寺堡",
+    "city": "吴忠",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.0605189,
+    "latitude": 37.4482052,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/11757094632"
+  },
+  {
     "id": "st-wikidata-q97351465",
     "name": "红寺堡北",
-    "city": "城市待核验",
+    "city": "吴忠",
     "province": "宁夏",
     "provinceId": "ningxia",
     "longitude": 106.05884,
@@ -26149,6 +28499,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q97351465"
+  },
+  {
+    "id": "st-source-3c792000210dc930",
+    "name": "红岘台",
+    "city": "白银",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.097604,
+    "latitude": 36.805674,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-shandong-hongdao",
@@ -26202,6 +28564,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q115921256",
+    "name": "红河",
+    "city": "红河",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 103.35221,
+    "latitude": 23.45281,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q115921256"
+  },
+  {
     "id": "st-osm-node-1694262013",
     "name": "红砂坝",
     "city": "乌兰察布",
@@ -26212,6 +28586,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/1694262013"
+  },
+  {
+    "id": "st-source-8edcbad36a10e89c",
+    "name": "红砂岘",
+    "city": "白银",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.061172,
+    "latitude": 36.607782,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-source-d1daf0a65f8dc240",
@@ -26236,6 +28622,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-osm-node-9329260397",
+    "name": "纳雍",
+    "city": "毕节",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 105.3716156,
+    "latitude": 26.7593723,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/9329260397"
   },
   {
     "id": "st-source-3a86a8d0378e2431",
@@ -26507,6 +28905,18 @@
     "timetableStationUrl": "https://www.crecc.com/sichuan/mianyang/mianyang.html"
   },
   {
+    "id": "st-source-b11c5a332ba57607",
+    "name": "绿化",
+    "city": "嘉峪关",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 98.2499,
+    "latitude": 39.800765,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-wikidata-q19853317",
     "name": "绿博园",
     "city": "郑州",
@@ -26550,7 +28960,7 @@
   {
     "id": "st-wikidata-q28786436",
     "name": "罗城",
-    "city": "城市待核验",
+    "city": "河池",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 109.121736,
@@ -26626,6 +29036,30 @@
     "timetableStationUrl": "https://www.crecc.com/fujian/fuzhou/luoyuan.html"
   },
   {
+    "id": "st-source-3b219bde241add26",
+    "name": "羊坪",
+    "city": "黔东南",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 108.827211,
+    "latitude": 27.182481,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-15eaf198a31042e2",
+    "name": "羊尾哨",
+    "city": "曲靖",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 104.23349,
+    "latitude": 25.692981,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-osm-node-3500351615",
     "name": "羊木",
     "city": "城市待核验",
@@ -26645,6 +29079,18 @@
     "provinceId": "yunnan",
     "longitude": 104.272834,
     "latitude": 24.848675,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-38e3db81e3038f75",
+    "name": "羊臼河",
+    "city": "楚雄",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 101.831401,
+    "latitude": 25.500384,
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
@@ -26686,6 +29132,18 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q22101429"
   },
   {
+    "id": "st-wikidata-q17277877",
+    "name": "翠屏",
+    "city": "宜宾",
+    "province": "四川",
+    "provinceId": "sichuan",
+    "longitude": 104.59916667,
+    "latitude": 28.75472222,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q17277877"
+  },
+  {
     "id": "st-source-1e60d6fd8ccaec7c",
     "name": "翠岗",
     "city": "大兴安岭地区",
@@ -26708,6 +29166,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/1252233939"
+  },
+  {
+    "id": "st-wikidata-q17026400",
+    "name": "耀州",
+    "city": "铜川",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 108.983335,
+    "latitude": 34.909856,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q17026400"
   },
   {
     "id": "st-hunan-leiyang",
@@ -26803,6 +29273,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/2351141710"
+  },
+  {
+    "id": "st-osm-node-9265488875",
+    "name": "肃州",
+    "city": "城市待核验",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 98.6492443,
+    "latitude": 39.7452926,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/9265488875"
   },
   {
     "id": "st-heilongjiang-zhaodong",
@@ -26928,6 +29410,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/8599259653",
     "coordinateKey": "node/8599259653",
     "timetableStationUrl": "https://www.crecc.com/sichuan/zigong/zigong.html"
+  },
+  {
+    "id": "st-osm-node-8869317179",
+    "name": "自贡北",
+    "city": "自贡",
+    "province": "四川",
+    "provinceId": "sichuan",
+    "longitude": 104.7885224,
+    "latitude": 29.3587919,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/8869317179"
   },
   {
     "id": "st-source-5c8e50e2a748292a",
@@ -27079,6 +29573,18 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q15911878"
   },
   {
+    "id": "st-osm-node-7625091630",
+    "name": "芦官",
+    "city": "贵阳",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.489136,
+    "latitude": 26.4275282,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/7625091630"
+  },
+  {
     "id": "st-osm-node-9524178595",
     "name": "芦庙",
     "city": "亳州",
@@ -27103,6 +29609,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-source-b584d8fee860fbdf",
+    "name": "芨岭",
+    "city": "金昌",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 101.786317,
+    "latitude": 38.530525,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-source-430c863fec45dd17",
     "name": "花园",
     "city": "孝感",
@@ -27110,6 +29628,18 @@
     "provinceId": "hubei",
     "longitude": 113.977369,
     "latitude": 31.252858,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-8028825de4a55396",
+    "name": "花土坡",
+    "city": "毕节",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 103.839858,
+    "latitude": 27.263904,
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
@@ -27125,6 +29655,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q103819152"
+  },
+  {
+    "id": "st-osm-node-9182286755",
+    "name": "花家庄",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.4804043,
+    "latitude": 25.7880409,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/9182286755"
   },
   {
     "id": "st-wikidata-q104653280",
@@ -27161,6 +29703,42 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q123730211",
+    "name": "花溪南",
+    "city": "贵阳",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.67833,
+    "latitude": 26.40138,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q123730211"
+  },
+  {
+    "id": "st-osm-node-7625151870",
+    "name": "花溪大学城",
+    "city": "贵阳",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.6223698,
+    "latitude": 26.3977398,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/7625151870"
+  },
+  {
+    "id": "st-osm-node-7625091631",
+    "name": "花溪西",
+    "city": "贵阳",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.5146077,
+    "latitude": 26.5243864,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/7625091631"
   },
   {
     "id": "st-wikidata-q102645309",
@@ -27360,7 +29938,7 @@
   {
     "id": "st-osm-node-7319259957",
     "name": "若羌",
-    "city": "城市待核验",
+    "city": "巴州",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 88.2497299,
@@ -27478,6 +30056,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q123929798",
+    "name": "茅草坪",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.71422234092535,
+    "latitude": 26.21694905290553,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q123929798"
+  },
+  {
     "id": "st-wikidata-q28777619",
     "name": "茌平",
     "city": "聊城",
@@ -27502,6 +30092,18 @@
     "coordinateSource": "HOTOSM / OSM 2026-05-10",
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/10650882521",
     "coordinateKey": "node/10650882521"
+  },
+  {
+    "id": "st-wikidata-q17031199",
+    "name": "茨冲",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 105.10464138956532,
+    "latitude": 26.496465551209997,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q17031199"
   },
   {
     "id": "st-source-9ae71946260941aa",
@@ -27602,7 +30204,7 @@
   {
     "id": "st-osm-node-10925544050",
     "name": "荔波",
-    "city": "城市待核验",
+    "city": "黔南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 107.818764,
@@ -27953,6 +30555,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-4663101942",
+    "name": "营街",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.7345274,
+    "latitude": 26.2640643,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/4663101942"
+  },
+  {
     "id": "st-anhui-xiaoxian",
     "name": "萧县",
     "city": "宿州",
@@ -28102,6 +30716,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q17034725",
+    "name": "蒙自",
+    "city": "红河",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 103.42945,
+    "latitude": 23.376291,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q17034725"
+  },
+  {
     "id": "st-wikidata-q135920959",
     "name": "蒲县",
     "city": "临汾",
@@ -28138,6 +30764,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q17034828",
+    "name": "蒲城",
+    "city": "渭南",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 109.554439,
+    "latitude": 34.935779,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q17034828"
+  },
+  {
     "id": "st-shaanxi-puchengdong",
     "name": "蒲城东",
     "city": "渭南",
@@ -28151,6 +30789,42 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/3087121590",
     "coordinateKey": "node/3087121590",
     "timetableStationUrl": "https://www.crecc.com/shaanxi/weinan/puchengdong.html"
+  },
+  {
+    "id": "st-wikidata-q60213476",
+    "name": "蒲江",
+    "city": "成都",
+    "province": "四川",
+    "provinceId": "sichuan",
+    "longitude": 103.494493,
+    "latitude": 30.194703,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q60213476"
+  },
+  {
+    "id": "st-wikidata-q17034912",
+    "name": "蒲石",
+    "city": "渭南",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 109.705937,
+    "latitude": 34.887112,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q17034912"
+  },
+  {
+    "id": "st-wikidata-q139386627",
+    "name": "蒲缥",
+    "city": "保山",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 99.00070555555556,
+    "latitude": 25.027183333333333,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q139386627"
   },
   {
     "id": "st-shandong-lancun",
@@ -28301,6 +30975,18 @@
     "provinceId": "shandong",
     "longitude": 117.563266,
     "latitude": 36.246255,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-bc754c46cb415962",
+    "name": "蕉溪",
+    "city": "黔东南",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 108.54802,
+    "latitude": 27.082672,
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
@@ -28497,7 +31183,7 @@
   {
     "id": "st-wikidata-q17060655",
     "name": "融安",
-    "city": "城市待核验",
+    "city": "柳州",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 109.407649,
@@ -28791,6 +31477,42 @@
     "coordinateSource": "https://www.openstreetmap.org/node/8465329837"
   },
   {
+    "id": "st-wikidata-q108417971",
+    "name": "西双版纳",
+    "city": "西双版纳",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 100.771864,
+    "latitude": 21.986119,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q108417971"
+  },
+  {
+    "id": "st-wikidata-q94489496",
+    "name": "西固",
+    "city": "兰州",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 103.60162416666667,
+    "latitude": 36.10483555555555,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q94489496"
+  },
+  {
+    "id": "st-source-2174d2b3f0784484",
+    "name": "西固城",
+    "city": "兰州",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 103.595092,
+    "latitude": 36.1086,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-source-e20ff0ff6dde3eb4",
     "name": "西大庙",
     "city": "承德",
@@ -28801,6 +31523,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q17066827",
+    "name": "西大滩",
+    "city": "城市待核验",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.36705,
+    "latitude": 38.860858,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q17066827"
   },
   {
     "id": "st-qinghai-xining",
@@ -29098,6 +31832,30 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-source-22871702d6553fba",
+    "name": "许三湾",
+    "city": "张掖",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 99.408911,
+    "latitude": 39.315735,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-6b984cce291d4ac4",
+    "name": "许家台",
+    "city": "兰州",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.208853,
+    "latitude": 35.907419,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-henan-xuchang",
     "name": "许昌",
     "city": "许昌",
@@ -29259,7 +32017,7 @@
   {
     "id": "st-osm-node-7159959458",
     "name": "贵安",
-    "city": "城市待核验",
+    "city": "贵阳",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 106.4805919,
@@ -29271,7 +32029,7 @@
   {
     "id": "st-guizhou-guiding",
     "name": "贵定",
-    "city": "黔南布依族苗族自治州",
+    "city": "黔南",
     "province": "贵州",
     "provinceId": "guizhou",
     "latitude": 26.5844563,
@@ -29286,7 +32044,7 @@
   {
     "id": "st-osm-node-2874016882",
     "name": "贵定北",
-    "city": "城市待核验",
+    "city": "黔南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 107.2286611,
@@ -29298,7 +32056,7 @@
   {
     "id": "st-wikidata-q19853745",
     "name": "贵定县",
-    "city": "城市待核验",
+    "city": "黔南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 107.18740556,
@@ -29399,6 +32157,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q130146432"
+  },
+  {
+    "id": "st-source-6a1b700582923762",
+    "name": "贺家店",
+    "city": "天水",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.831563,
+    "latitude": 34.755412,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-osm-node-3060261931",
@@ -29692,6 +32462,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/7171343532"
   },
   {
+    "id": "st-source-21c9ae6c998b7011",
+    "name": "车转湾",
+    "city": "曲靖",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 104.150309,
+    "latitude": 25.69537,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-source-42d40f404f6d4ebb",
     "name": "轩岗",
     "city": "忻州",
@@ -29702,6 +32484,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q28749212",
+    "name": "轮台",
+    "city": "巴州",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 84.096148,
+    "latitude": 41.849056,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q28749212"
   },
   {
     "id": "st-source-90114de7a7a8ddd1",
@@ -29840,6 +32634,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/1586077379",
     "coordinateKey": "node/1586077379",
     "timetableStationUrl": "https://www.crecc.com/sichuan/dazhou/dazhou.html"
+  },
+  {
+    "id": "st-source-ab72585029f06d40",
+    "name": "达布逊",
+    "city": "海西",
+    "province": "青海",
+    "provinceId": "qinghai",
+    "longitude": 95.362416,
+    "latitude": 36.920165,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-neimenggu-dalatexi",
@@ -30028,6 +32834,18 @@
     "timetableStationUrl": "https://www.crecc.com/fujian/fuzhou/lianjiang.html"
   },
   {
+    "id": "st-source-77112dc923ad3a13",
+    "name": "迤那",
+    "city": "毕节",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 103.884947,
+    "latitude": 27.084899,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-source-cb8c9f21704f1d3e",
     "name": "通化",
     "city": "通化",
@@ -30064,6 +32882,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-source-8d9c080c97c63ad8",
+    "name": "通安驿",
+    "city": "定西",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.684522,
+    "latitude": 35.297681,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-source-9c5ac101c9f72339",
     "name": "通州西",
     "city": "北京",
@@ -30089,6 +32919,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/12627525339",
     "coordinateKey": "node/12627525339",
     "timetableStationUrl": "https://www.crecc.com/jilin/baicheng/tongyu.html"
+  },
+  {
+    "id": "st-source-cfaff228f79c08b1",
+    "name": "通海",
+    "city": "玉溪",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 102.667598,
+    "latitude": 24.119608,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-gansu-tongwei",
@@ -30233,6 +33075,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/3695331090",
     "coordinateKey": "node/3695331090",
     "timetableStationUrl": "https://www.crecc.com/guizhou/zunyi/zunyi.html"
+  },
+  {
+    "id": "st-wikidata-q41518327",
+    "name": "遵义南",
+    "city": "遵义",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.836993,
+    "latitude": 27.449705,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q41518327"
   },
   {
     "id": "st-source-000a7c95b9159f93",
@@ -30384,6 +33238,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/5559277115",
     "coordinateKey": "node/5559277115",
     "timetableStationUrl": "https://www.crecc.com/hunan/shaoyang/shaodong.html"
+  },
+  {
+    "id": "st-source-f56944288491ed2d",
+    "name": "邵家堂",
+    "city": "兰州",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 103.865101,
+    "latitude": 36.175247,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-source-12851a0a4031882c",
@@ -30689,7 +33555,7 @@
   {
     "id": "st-source-97e4aabc2a38f196",
     "name": "都匀",
-    "city": "黔西南布依族苗族自治州",
+    "city": "黔南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 107.51111,
@@ -30701,7 +33567,7 @@
   {
     "id": "st-guizhou-duyundong",
     "name": "都匀东",
-    "city": "黔西南布依族苗族自治州",
+    "city": "黔南",
     "province": "贵州",
     "provinceId": "guizhou",
     "latitude": 26.1704167,
@@ -30716,7 +33582,7 @@
   {
     "id": "st-wikidata-q122142317",
     "name": "都安",
-    "city": "城市待核验",
+    "city": "河池",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 108.109977,
@@ -30736,6 +33602,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/2988923788"
+  },
+  {
+    "id": "st-osm-node-4663095293",
+    "name": "都格",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.7516722,
+    "latitude": 26.368713,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/4663095293"
   },
   {
     "id": "st-source-a2676632186d49a9",
@@ -30986,6 +33864,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q109018382",
+    "name": "野象谷",
+    "city": "西双版纳",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 100.85430805555555,
+    "latitude": 22.114231944444445,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q109018382"
+  },
+  {
     "id": "st-source-db95776b443fc193",
     "name": "金刚沱",
     "city": "重庆",
@@ -31026,6 +33916,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/13595801224",
     "coordinateKey": "node/13595801224",
     "timetableStationUrl": "https://www.crecc.com/zhejiang/jinhua/jinhuanan.html"
+  },
+  {
+    "id": "st-osm-node-3740820636",
+    "name": "金华镇",
+    "city": "贵阳",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.5485737,
+    "latitude": 26.5581987,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/3740820636"
   },
   {
     "id": "st-source-96670b8485c2f357",
@@ -31074,6 +33976,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/1612747503"
+  },
+  {
+    "id": "st-wikidata-q130146366",
+    "name": "金塔",
+    "city": "酒泉",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 98.87280833333334,
+    "latitude": 39.91162222222222,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q130146366"
   },
   {
     "id": "st-anhui-jinzhai",
@@ -31184,9 +34098,21 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-8320567065",
+    "name": "金钟",
+    "city": "毕节",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.4029645,
+    "latitude": 26.7828615,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/8320567065"
+  },
+  {
     "id": "st-wikidata-q130146423",
     "name": "金阳",
-    "city": "城市待核验",
+    "city": "贵阳",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 106.58446,
@@ -31194,6 +34120,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q130146423"
+  },
+  {
+    "id": "st-osm-node-7625091612",
+    "name": "金阳南",
+    "city": "贵阳",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 106.5823891,
+    "latitude": 26.6063144,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/7625091612"
   },
   {
     "id": "st-source-51c3088826461c44",
@@ -31210,7 +34148,7 @@
   {
     "id": "st-wikidata-q19853899",
     "name": "钟山西",
-    "city": "城市待核验",
+    "city": "贺州",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 111.32675,
@@ -31351,6 +34289,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q136438907",
+    "name": "铁门关",
+    "city": "铁门关",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 85.695744,
+    "latitude": 41.873501,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q136438907"
+  },
+  {
     "id": "st-source-c30fd47943793f55",
     "name": "铜仁",
     "city": "铜仁",
@@ -31392,6 +34342,18 @@
     "coordinateKey": "node/12513878306",
     "timetableStationUrl": "https://www.crecc.com/shaanxi/tongchuan/tongchuan.html",
     "citySourceUrl": "https://www.crecc.com/shaanxi/tongchuan/tongchuan.html"
+  },
+  {
+    "id": "st-wikidata-q17028736",
+    "name": "铜川东",
+    "city": "铜川",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 109.090103,
+    "latitude": 35.07891,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q17028736"
   },
   {
     "id": "st-wikidata-q138847730",
@@ -31499,6 +34461,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/10313622592"
   },
   {
+    "id": "st-source-5dc69ed4788e09fb",
+    "name": "锡铁山",
+    "city": "海西",
+    "province": "青海",
+    "provinceId": "qinghai",
+    "longitude": 95.639336,
+    "latitude": 37.369324,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-source-dd17e5b416abc9df",
     "name": "锦和",
     "city": "怀化",
@@ -31550,6 +34524,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/8431451881",
     "coordinateKey": "node/8431451881",
     "timetableStationUrl": "https://www.crecc.com/liaoning/jinzhou/jinzhounan.html"
+  },
+  {
+    "id": "st-osm-node-1606443982",
+    "name": "锦界",
+    "city": "榆林",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 110.149294,
+    "latitude": 38.721632,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/1606443982"
   },
   {
     "id": "st-shaanxi-zhenan",
@@ -31653,7 +34639,7 @@
   {
     "id": "st-osm-node-8745183065",
     "name": "镇雄",
-    "city": "城市待核验",
+    "city": "昭通",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 105.1221179,
@@ -31673,6 +34659,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/12712348628"
+  },
+  {
+    "id": "st-source-8cf25b9f902cee7f",
+    "name": "镜铁山",
+    "city": "张掖",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 97.949035,
+    "latitude": 39.318235,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-source-9d21bf0cafab5b2c",
@@ -31756,6 +34754,18 @@
     "timetableStationUrl": "https://www.crecc.com/zhejiang/huzhou/changxingnan.html"
   },
   {
+    "id": "st-osm-node-840033510",
+    "name": "长农",
+    "city": "中卫",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 105.6971225,
+    "latitude": 37.2501425,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/840033510"
+  },
+  {
     "id": "st-source-1d729490ce3aaaba",
     "name": "长坡岭",
     "city": "曲靖",
@@ -31763,6 +34773,18 @@
     "provinceId": "yunnan",
     "longitude": 103.943358,
     "latitude": 24.840976,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-c9917b939d6974de",
+    "name": "长城",
+    "city": "白银",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.109523,
+    "latitude": 37.289703,
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
@@ -31843,6 +34865,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/3500369577"
   },
   {
+    "id": "st-wikidata-q86725870",
+    "name": "长征",
+    "city": "白银",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.84501006736622,
+    "latitude": 36.72383919883255,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q86725870"
+  },
+  {
     "id": "st-jilin-changchun",
     "name": "长春",
     "city": "长春",
@@ -31871,6 +34905,18 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/6520538355",
     "coordinateKey": "node/6520538355",
     "timetableStationUrl": "https://www.crecc.com/jilin/changchun/changchunxi.html"
+  },
+  {
+    "id": "st-osm-node-8100859938",
+    "name": "长武",
+    "city": "咸阳",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 107.8178377,
+    "latitude": 35.2728522,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/8100859938"
   },
   {
     "id": "st-osm-node-2925675933",
@@ -32015,7 +35061,7 @@
   {
     "id": "st-osm-node-7704451131",
     "name": "长箐",
-    "city": "城市待核验",
+    "city": "六盘水",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 105.271149,
@@ -32053,7 +35099,7 @@
   {
     "id": "st-wikidata-q19853945",
     "name": "门源",
-    "city": "城市待核验",
+    "city": "海北",
     "province": "青海",
     "provinceId": "qinghai",
     "longitude": 101.52617222,
@@ -32290,7 +35336,7 @@
   {
     "id": "st-wikidata-q28032052",
     "name": "阳宗",
-    "city": "城市待核验",
+    "city": "玉溪",
     "province": "云南",
     "provinceId": "yunnan",
     "longitude": 102.97843,
@@ -32561,7 +35607,7 @@
   {
     "id": "st-wikidata-q28413770",
     "name": "阿克苏",
-    "city": "城市待核验",
+    "city": "阿克苏",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 80.3073677,
@@ -32571,9 +35617,45 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q28413770"
   },
   {
+    "id": "st-osm-node-9182286778",
+    "name": "阿克陶",
+    "city": "克州",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 75.9742422,
+    "latitude": 39.1674549,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/9182286778"
+  },
+  {
+    "id": "st-wikidata-q32327556",
+    "name": "阿勒泰",
+    "city": "阿勒泰",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 88.08722222222222,
+    "latitude": 47.7175,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q32327556"
+  },
+  {
+    "id": "st-source-20f03c1e4146c227",
+    "name": "阿南庄",
+    "city": "楚雄",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 101.821945,
+    "latitude": 25.450888,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-osm-node-2662698034",
     "name": "阿图什",
-    "city": "克孜勒苏柯尔克孜自治州",
+    "city": "克州",
     "province": "新疆",
     "provinceId": "xinjiang",
     "longitude": 76.219679,
@@ -32634,6 +35716,18 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q17062122"
   },
   {
+    "id": "st-wikidata-q108203878",
+    "name": "阿拉尔",
+    "city": "阿拉尔",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 81.210528,
+    "latitude": 40.553575,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q108203878"
+  },
+  {
     "id": "st-source-8d846cd17cfee1c0",
     "name": "阿木尔",
     "city": "大兴安岭地区",
@@ -32644,6 +35738,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q110706187",
+    "name": "阿瓦提",
+    "city": "阿克苏",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 80.36854166666667,
+    "latitude": 40.67736111111111,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q110706187"
   },
   {
     "id": "st-source-4866ff846fb7bc73",
@@ -32668,6 +35774,20 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q130146521"
+  },
+  {
+    "id": "st-osm-node-10554312405",
+    "name": "陆丰南",
+    "city": "汕尾",
+    "province": "广东",
+    "provinceId": "guangdong",
+    "longitude": 115.6565069,
+    "latitude": 22.8953748,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/10554312405",
+    "identitySource": "https://www.shanwei.gov.cn/attachment/0/57/57779/1014326.pdf",
+    "coordinateNote": "精确中文铁路车站节点；官方地方政府车站身份补足 Natural Earth 粗略沿海行政面未覆盖的点位。"
   },
   {
     "id": "st-osm-node-1541942454",
@@ -32696,7 +35816,7 @@
   {
     "id": "st-osm-node-9546662163",
     "name": "陇南",
-    "city": "城市待核验",
+    "city": "陇南",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 104.9569401,
@@ -32734,6 +35854,30 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/4438875617",
     "coordinateKey": "node/4438875617",
     "timetableStationUrl": "https://www.crecc.com/gansu/dingxi/longxi.html"
+  },
+  {
+    "id": "st-source-836337e3ada48680",
+    "name": "陈官营",
+    "city": "兰州",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 103.651915,
+    "latitude": 36.091128,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-wikidata-q17062263",
+    "name": "陈庄",
+    "city": "城市待核验",
+    "province": "陕西",
+    "provinceId": "shaanxi",
+    "longitude": 109.59254,
+    "latitude": 34.855631,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q17062263"
   },
   {
     "id": "st-osm-node-11932116431",
@@ -32822,7 +35966,7 @@
   {
     "id": "st-osm-node-4039439588",
     "name": "隆安东",
-    "city": "城市待核验",
+    "city": "南宁",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 107.7020126,
@@ -32933,6 +36077,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/7237831723"
   },
   {
+    "id": "st-wikidata-q17035390",
+    "name": "雁石坪",
+    "city": "城市待核验",
+    "province": "青海",
+    "provinceId": "qinghai",
+    "longitude": 92.07129,
+    "latitude": 33.58077,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q17035390"
+  },
+  {
     "id": "st-zhejiang-yandangshan",
     "name": "雁荡山",
     "city": "温州",
@@ -33011,6 +36167,18 @@
     "timetableStationUrl": "https://www.crecc.com/neimenggu/wulanchabu/jiningnan.html"
   },
   {
+    "id": "st-osm-node-4593965704",
+    "name": "雨格",
+    "city": "六盘水",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 104.665321,
+    "latitude": 26.1024006,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/4593965704"
+  },
+  {
     "id": "st-osm-node-10282066317",
     "name": "雪野",
     "city": "济南",
@@ -33045,6 +36213,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/1692280663"
+  },
+  {
+    "id": "st-osm-node-6316474613",
+    "name": "霍尔果斯",
+    "city": "伊犁",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 80.454297,
+    "latitude": 44.1561927,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/6316474613"
   },
   {
     "id": "st-source-7db67a291cef4156",
@@ -33274,6 +36454,18 @@
     "coordinateSource": "https://www.openstreetmap.org/node/5322560852"
   },
   {
+    "id": "st-source-3a027441f073ebf0",
+    "name": "青溪",
+    "city": "黔东南",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 108.730564,
+    "latitude": 27.123906,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-zhejiang-qingtian",
     "name": "青田",
     "city": "丽水",
@@ -33371,7 +36563,7 @@
   {
     "id": "st-wikidata-q24835571",
     "name": "靖西",
-    "city": "城市待核验",
+    "city": "百色",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 106.38750833333333,
@@ -33396,9 +36588,21 @@
     "timetableStationUrl": "https://www.crecc.com/shaanxi/yulin/jingbian.html"
   },
   {
+    "id": "st-source-77dc922aac77375d",
+    "name": "靖远",
+    "city": "白银",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.649912,
+    "latitude": 36.560557,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-wikidata-q130146465",
     "name": "靖远北",
-    "city": "城市待核验",
+    "city": "白银",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 104.6601,
@@ -33406,6 +36610,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q130146465"
+  },
+  {
+    "id": "st-source-dc0eff22a5a0940f",
+    "name": "靖远西",
+    "city": "白银",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.729274,
+    "latitude": 36.749039,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-tianjin-jinghai",
@@ -33425,7 +36641,7 @@
   {
     "id": "st-source-fb016e0cc30b74c1",
     "name": "革居",
-    "city": "黔西南布依族苗族自治州",
+    "city": "黔西南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 104.696756,
@@ -33487,6 +36703,18 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-osm-node-1783909022",
+    "name": "韩府湾",
+    "city": "中卫",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.1251267,
+    "latitude": 36.6062003,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/1783909022"
   },
   {
     "id": "st-guangdong-shaoguan",
@@ -33683,6 +36911,18 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q131574438"
   },
   {
+    "id": "st-source-6c498513e1cb6214",
+    "name": "饮马峡",
+    "city": "海西",
+    "province": "青海",
+    "provinceId": "qinghai",
+    "longitude": 95.87234,
+    "latitude": 37.323149,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-source-c0f641af23419cc8",
     "name": "饶平",
     "city": "潮州",
@@ -33722,6 +36962,18 @@
     "timetableStationUrl": "https://www.crecc.com/heilongjiang/jiamusi/xianglan.html"
   },
   {
+    "id": "st-wikidata-q122870779",
+    "name": "香格里拉",
+    "city": "迪庆",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 99.68859,
+    "latitude": 27.8134,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q122870779"
+  },
+  {
     "id": "st-osm-node-3410044783",
     "name": "香樟路",
     "city": "长沙",
@@ -33758,9 +37010,21 @@
     "coordinateSource": "https://www.openstreetmap.org/node/7919700008"
   },
   {
+    "id": "st-wikidata-q47004221",
+    "name": "马兰",
+    "city": "巴州",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 87.377664,
+    "latitude": 42.233549,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q47004221"
+  },
+  {
     "id": "st-osm-node-10926262897",
     "name": "马山县",
-    "city": "城市待核验",
+    "city": "南宁",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 108.1680841,
@@ -33836,6 +37100,18 @@
     "timetableStationUrl": "https://www.crecc.com/anhui/maanshan/maanshandong.html"
   },
   {
+    "id": "st-source-38468be9cf59d236",
+    "name": "马龙",
+    "city": "曲靖",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 103.62077,
+    "latitude": 25.48861,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-henan-zhumadian",
     "name": "驻马店",
     "city": "驻马店",
@@ -33895,7 +37171,7 @@
   {
     "id": "st-osm-node-2987122989",
     "name": "高台南",
-    "city": "城市待核验",
+    "city": "张掖",
     "province": "甘肃",
     "provinceId": "gansu",
     "longitude": 99.7676842,
@@ -34170,6 +37446,18 @@
     "timetableStationUrl": "https://www.crecc.com/shaanxi/xian/gaoling.html"
   },
   {
+    "id": "st-wikidata-q76458588",
+    "name": "鱼儿沟",
+    "city": "吐鲁番",
+    "province": "新疆",
+    "provinceId": "xinjiang",
+    "longitude": 87.885908,
+    "latitude": 42.835228,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q76458588"
+  },
+  {
     "id": "st-source-3df27cc8b80fcd11",
     "name": "鱼泉",
     "city": "重庆",
@@ -34260,6 +37548,18 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q119724956"
   },
   {
+    "id": "st-source-b62a854e1f55a425",
+    "name": "鸳鸯镇",
+    "city": "天水",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 104.778429,
+    "latitude": 34.800689,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-source-51af1ee9964477a9",
     "name": "鹤北",
     "city": "鹤岗",
@@ -34314,6 +37614,18 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-source-f24c5f9a651169b4",
+    "name": "鹤庆",
+    "city": "大理",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 100.21513,
+    "latitude": 26.559531,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-source-1a2a260618c671dc",
     "name": "鹰手营子",
     "city": "承德",
@@ -34356,7 +37668,7 @@
   {
     "id": "st-osm-node-4419754645",
     "name": "鹿寨北",
-    "city": "城市待核验",
+    "city": "柳州",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 109.6498986,
@@ -34410,7 +37722,7 @@
   {
     "id": "st-source-4d67e919b3c446f8",
     "name": "麻尾",
-    "city": "黔西南布依族苗族自治州",
+    "city": "黔南",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 107.464996,
@@ -34575,9 +37887,21 @@
     "timetableStationUrl": "https://www.crecc.com/hubei/huanggang/huangzhou.html"
   },
   {
+    "id": "st-source-d1014e7bf90284e1",
+    "name": "黄平",
+    "city": "黔东南",
+    "province": "贵州",
+    "provinceId": "guizhou",
+    "longitude": 108.095975,
+    "latitude": 26.870371,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-osm-node-7704451133",
     "name": "黄桶北",
-    "city": "城市待核验",
+    "city": "安顺",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 105.6879776,
@@ -34677,6 +38001,42 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-wikidata-q11178189",
+    "name": "黄羊湾",
+    "city": "中卫",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 105.5200147729071,
+    "latitude": 37.51137107973733,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.wikidata.org/wiki/Q11178189"
+  },
+  {
+    "id": "st-osm-node-9118892107",
+    "name": "黄羊滩",
+    "city": "银川",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.0145903,
+    "latitude": 38.2593918,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/9118892107"
+  },
+  {
+    "id": "st-source-02ca45c968695a4a",
+    "name": "黄羊镇",
+    "city": "武威",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 102.854242,
+    "latitude": 37.672389,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-osm-node-9147757648",
     "name": "黄胜关",
     "city": "阿坝",
@@ -34742,7 +38102,7 @@
   {
     "id": "st-wikidata-q11178723",
     "name": "黎塘",
-    "city": "城市待核验",
+    "city": "南宁",
     "province": "广西",
     "provinceId": "guangxi",
     "longitude": 109.1289,
@@ -34750,6 +38110,30 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.wikidata.org/wiki/Q11178723"
+  },
+  {
+    "id": "st-source-031fdc89f90d07df",
+    "name": "黑井",
+    "city": "楚雄",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 101.740553,
+    "latitude": 25.350828,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-f23b5e8b9018295d",
+    "name": "黑冲滩",
+    "city": "武威",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 103.340068,
+    "latitude": 37.641864,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
     "id": "st-wikidata-q61376980",
@@ -34838,7 +38222,7 @@
   {
     "id": "st-osm-node-3740915261",
     "name": "黔西",
-    "city": "城市待核验",
+    "city": "毕节",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 106.043688,
@@ -34991,6 +38375,18 @@
     "coordinateSource": "https://www.wikidata.org/wiki/Q47500679"
   },
   {
+    "id": "st-source-fe76002b582a9ace",
+    "name": "龙塘坝",
+    "city": "普洱",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 101.698569,
+    "latitude": 25.250458,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-osm-node-9198249302",
     "name": "龙塘镇",
     "city": "清远",
@@ -35071,6 +38467,18 @@
     "coordinateKey": "node/9053630464"
   },
   {
+    "id": "st-osm-node-11278698812",
+    "name": "龙州",
+    "city": "崇左",
+    "province": "广西",
+    "provinceId": "guangxi",
+    "longitude": 106.8740455,
+    "latitude": 22.3146162,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/11278698812"
+  },
+  {
     "id": "st-source-50f902612dd5eed3",
     "name": "龙市",
     "city": "吉安",
@@ -35119,6 +38527,30 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-source-f2bf2a56a48a702f",
+    "name": "龙沟",
+    "city": "武威",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 102.905526,
+    "latitude": 37.32392,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-847384269f1bdcb6",
+    "name": "龙泉寺",
+    "city": "兰州",
+    "province": "甘肃",
+    "provinceId": "gansu",
+    "longitude": 103.38566,
+    "latitude": 36.484949,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
     "id": "st-osm-node-7935632105",
     "name": "龙泉市",
     "city": "丽水",
@@ -35145,7 +38577,7 @@
   {
     "id": "st-osm-node-3739089059",
     "name": "龙洞堡",
-    "city": "城市待核验",
+    "city": "贵阳",
     "province": "贵州",
     "provinceId": "guizhou",
     "longitude": 106.7957002,
@@ -35196,7 +38628,7 @@
   {
     "id": "st-guizhou-longlibei",
     "name": "龙里北",
-    "city": "黔西南布依族苗族自治州",
+    "city": "黔南",
     "province": "贵州",
     "provinceId": "guizhou",
     "latitude": 26.4717745,
@@ -35216,6 +38648,18 @@
     "provinceId": "heilongjiang",
     "longitude": 126.710735,
     "latitude": 48.68427,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
+  },
+  {
+    "id": "st-source-e474874e2138146d",
+    "name": "龙骨甸",
+    "city": "楚雄",
+    "province": "云南",
+    "provinceId": "yunnan",
+    "longitude": 101.775401,
+    "latitude": 25.413176,
     "isHub": false,
     "major": false,
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"

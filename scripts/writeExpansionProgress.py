@@ -18,6 +18,8 @@ def write_progress():
         lines.extend(['尚未定位的全国目的站：'+'、'.join(audit['unlocatedStations'])+'。保留原始停站事实；地图暂不显示这些站。',''])
     else:
         lines.extend(['已接受服务中的全部停站均已定位。',''])
+    if audit.get('outOfScopeStations'):
+        lines.extend(['完整国际车次事实中保留以下海外站，本轮地图暂不收录：'+'、'.join(audit['outOfScopeStations'])+'。它们与国内坐标待核验分开记录。',''])
     if audit['pendingOrigins']:
         lines.extend(['尚未开放的目录站点：','', '| 车站 | 待核验原因 |','| --- | --- |'])
         reasons={'station identity conflicts with catalogue':'目录归属与独立车站身份矛盾，待核验','coordinate missing':'独立车站坐标待核验','no validated regular passenger service':'本轮未取得可核验的正常客运记录'}
@@ -33,11 +35,16 @@ def write_progress():
     if correction_path.exists():
         for item in json.loads(correction_path.read_text()):
             lines.extend([f"{item['name']}：依据[所在地证据]({item['identitySource']})纠正为 {item['province']} {item['city']}，保留独立站点身份。",''])
-    lines.extend(['上海目录的16站之外，依据完整服务停站表补充上海松江、莘庄2个独立入口。黄渡独立登记保留；仅有未核验普通售票的旅游候选，本轮暂不开放出发入口。未将车站合并。','',
-        '客运服务来自第三方公开时刻快照，源日期不代表保证当天开行。线路只用于阅读，不作为逐车次实际径路。','',
-        '## 后续续传','',
-        '广东、重庆、四川、陕西目录采集已完成；下一批从广西继续，先阅读 `HANDOFF.md`。未完成 acquisition 的城市不会开放入口。每市独立保存 `city-*-station-index.json`、`city-*-services.json` 与采集审计；已完成城市复用服务事实。城市间顺序采集，失败站点可续传补查。完整停站区间以共用路径索引保存，加载时还原服务自己的区间，不改变站点身份或直达判定。','',
-        '```sh','python3 scripts/expandProvinces.py guangxi:广西','python3 scripts/writeExpansionProgress.py','```',''])
+    lines.extend(['上海松江、莘庄等独立车站保持自己的身份；目录记录与本站直达关系分别核验。','',
+        '客运服务来自第三方公开时刻快照，源日期不保证当天开行。线路只用于阅读，不作为逐车次实际径路。','',
+        '## 已完成源目录采集','',
+        '| 省份代码 | 已完成目录城市数 | 失败城市数 |','| --- | --- | --- |'])
+    for path in sorted((ROOT/'data/raw').glob('province-*-acquisition.json')):
+        record=json.loads(path.read_text())
+        lines.append(f"| {path.name.removeprefix('province-').removesuffix('-acquisition.json')} | {len(record['completedCities'])} | {len(record['failedCities'])} |")
+    lines.extend(['','## 后续续传','',
+        '每市独立保存目录、完整服务事实及采集审计。只有已生成城市采集审计的入口才参与生成；中途暂停从已保存的事实续传，不重新从零抓取。具体下一批及验收步骤见 HANDOFF.md。','',
+        '完整停站区间以共用路径索引保存，加载时还原各服务自己的区间，不改变不同站点身份及直达判定。官方更名的同一车站可搜索曾用名；新塘南与广州新塘仍独立。',''])
     (ROOT/'docs/EXPANSION-PROGRESS.md').write_text('\n'.join(lines))
 
 if __name__=='__main__':

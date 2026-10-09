@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "南宁",
+  "stationCount": 10,
+  "candidateServices": 1002,
+  "acquiredAdditionalServices": 514,
+  "failedPages": [
+    {
+      "trainNumber": "K9307",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    }
+  ],
+  "stationIssues": []
+}

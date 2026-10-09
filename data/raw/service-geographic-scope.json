@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "trainNumbers": [
+        "D83",
+        "D84",
+        "D85",
+        "D86",
+        "D87",
+        "D88"
+      ],
+      "sourceUpdatedAt": "2026-09-11",
+      "requiredStops": [
+        "磨憨",
+        "万象"
+      ],
+      "outsideStationNames": [
+        "磨丁",
+        "孟赛",
+        "琅勃拉邦",
+        "万荣",
+        "万象"
+      ],
+      "country": "老挝",
+      "identitySource": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/zhonglao/international-buyTicketsRules/international-buyTicketsRules.html",
+      "note": "仅匹配这些源日期及完整国际停站事实。海外站保留在完整序列，地图仅收录中国境内部分；不能把国内同名站当作海外停站。"
+    }
+  ]
+}

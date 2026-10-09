@@ -1,0 +1,100 @@
+[
+  {
+    "trainNumber": "C9527",
+    "category": "C",
+    "stopNames": [
+      "大理",
+      "小湾东",
+      "云县",
+      "临沧"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c9527.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "39564f1306e4ebec345e92e2c668f38c9853bbca96166c51c8eb72ae85af7005",
+    "elapsedMinutes": [
+      0,
+      62,
+      86,
+      130
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C9528",
+    "category": "C",
+    "stopNames": [
+      "临沧",
+      "云县",
+      "小湾东",
+      "巍山",
+      "大理"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c9528.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "365b7feb8040c86715a73d8076e32efdcd7b06763343c4aa5595c7a4d1099de3",
+    "elapsedMinutes": [
+      0,
+      26,
+      50,
+      93,
+      144
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C9529",
+    "category": "C",
+    "stopNames": [
+      "大理",
+      "巍山",
+      "云县",
+      "临沧"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c9529.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8b35bc60fc0c51865f03ef3d3c3e6bd11dfeb855a4b2c89de740df06427e5ba9",
+    "elapsedMinutes": [
+      0,
+      22,
+      89,
+      121
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C9530",
+    "category": "C",
+    "stopNames": [
+      "临沧",
+      "云县",
+      "巍山",
+      "大理"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c9530.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "34cabe03e977f380923758acb60a3467240ccafa1b0f547931996c30fd7b73d1",
+    "elapsedMinutes": [
+      0,
+      26,
+      91,
+      118
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

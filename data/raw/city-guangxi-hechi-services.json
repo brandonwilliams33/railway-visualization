@@ -1,0 +1,24 @@
+[
+  {
+    "trainNumber": "K9320",
+    "category": "K",
+    "stopNames": [
+      "金城江",
+      "宜州",
+      "柳州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9320.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "0ff00ecab1def22f0911344d28a3fa53a4ce54cc11d819ff33edb064598959e8",
+    "elapsedMinutes": [
+      0,
+      46,
+      149
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "completedCities": [
+    "lanzhou",
+    "jiayuguan",
+    "jinchang",
+    "baiyin",
+    "tianshui",
+    "wuwei",
+    "zhangye",
+    "pingliang",
+    "jiuquan",
+    "qingyang",
+    "dingxi",
+    "longnan"
+  ],
+  "failedCities": []
+}

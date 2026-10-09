@@ -1,0 +1,1000 @@
+[
+  {
+    "trainNumber": "7507",
+    "category": "OTHER",
+    "stopNames": [
+      "武威",
+      "金昌",
+      "玉石",
+      "芨岭",
+      "山丹",
+      "张掖",
+      "平原堡",
+      "临泽",
+      "高台",
+      "许三湾",
+      "清水",
+      "酒泉",
+      "嘉峪关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7507.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2f9bad7b140238033c70993ad864e2c06ca30309b556bc535ae8a438caefa81b",
+    "elapsedMinutes": [
+      0,
+      68,
+      93,
+      109,
+      178,
+      238,
+      257,
+      272,
+      303,
+      338,
+      371,
+      435,
+      458
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7508",
+    "category": "OTHER",
+    "stopNames": [
+      "嘉峪关",
+      "酒泉",
+      "清水",
+      "许三湾",
+      "高台",
+      "临泽",
+      "平原堡",
+      "张掖",
+      "山丹",
+      "芨岭",
+      "玉石",
+      "金昌",
+      "武威"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7508.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1f2495d4eae4c99100f6e9327395a525db0414af4857b7b7fd8e12c5ebe2e43d",
+    "elapsedMinutes": [
+      0,
+      20,
+      71,
+      101,
+      132,
+      167,
+      185,
+      205,
+      259,
+      349,
+      382,
+      428,
+      515
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7529",
+    "category": "OTHER",
+    "stopNames": [
+      "嘉峪关",
+      "绿化",
+      "镜铁山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7529.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "886fa7b2b5f8825ea2b985c3b604a187289844d6cb9e1f2fd7dec7d6cb1145ce",
+    "elapsedMinutes": [
+      0,
+      11,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7530",
+    "category": "OTHER",
+    "stopNames": [
+      "镜铁山",
+      "绿化",
+      "嘉峪关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7530.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b16ca1eaabd7459c8dbaef831be50daf7f4b24575b4be565f645e8cfe5f7375e",
+    "elapsedMinutes": [
+      0,
+      108,
+      149
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7535",
+    "category": "OTHER",
+    "stopNames": [
+      "嘉峪关",
+      "低窝铺",
+      "玉门",
+      "疏勒河",
+      "桥湾",
+      "柳沟",
+      "瓜州",
+      "敦煌"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7535.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "47a50de81bab84691bfcff40f9f64e3be00f7826f93ce76cd1a33361f3234f45",
+    "elapsedMinutes": [
+      0,
+      88,
+      108,
+      137,
+      160,
+      179,
+      243,
+      355
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7536",
+    "category": "OTHER",
+    "stopNames": [
+      "敦煌",
+      "瓜州",
+      "柳沟",
+      "桥湾",
+      "疏勒河",
+      "玉门",
+      "低窝铺",
+      "嘉峪关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7536.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fbd2f91844163cc232d0ef3fa6f7fab265ebcec99ffb24e7ec1eb192476ec369",
+    "elapsedMinutes": [
+      0,
+      97,
+      171,
+      188,
+      207,
+      232,
+      253,
+      367
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7537",
+    "category": "OTHER",
+    "stopNames": [
+      "敦煌",
+      "瓜州",
+      "柳沟",
+      "桥湾",
+      "疏勒河",
+      "玉门",
+      "低窝铺",
+      "嘉峪关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7537.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fa433ff90394e4b573c0cb4bb4207240b702d6d5239081234a15fce2510d3613",
+    "elapsedMinutes": [
+      0,
+      97,
+      171,
+      188,
+      207,
+      232,
+      253,
+      367
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7538",
+    "category": "OTHER",
+    "stopNames": [
+      "嘉峪关",
+      "低窝铺",
+      "玉门",
+      "疏勒河",
+      "桥湾",
+      "柳沟",
+      "瓜州",
+      "敦煌"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7538.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e2882a83d29a2f6587cbe434c89b72e881e970fb7a669128266555d870f48215",
+    "elapsedMinutes": [
+      0,
+      88,
+      108,
+      137,
+      160,
+      179,
+      243,
+      355
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7565",
+    "category": "OTHER",
+    "stopNames": [
+      "嘉峪关",
+      "酒泉",
+      "肃州",
+      "金塔",
+      "河东里",
+      "东风南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7565.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a49fca9bdff567a4e39a9c1fa0c1ce4f2853bbddbddbb386ef0d54ed3fd8d752",
+    "elapsedMinutes": [
+      0,
+      20,
+      58,
+      80,
+      149,
+      206
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7566",
+    "category": "OTHER",
+    "stopNames": [
+      "东风南",
+      "河东里",
+      "金塔",
+      "肃州",
+      "酒泉",
+      "嘉峪关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7566.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "261fc43dca7bf0975836062eb424afd9bebe979e4909abc18c15bfcd5dd89f91",
+    "elapsedMinutes": [
+      0,
+      54,
+      119,
+      142,
+      182,
+      209
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7567",
+    "category": "OTHER",
+    "stopNames": [
+      "东风南",
+      "河东里",
+      "金塔",
+      "肃州",
+      "酒泉",
+      "嘉峪关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7567.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bbfce08d0e1cdee656502f3715cfeb586fe6a8b8d30d9fc06d49ab58a2e2bedd",
+    "elapsedMinutes": [
+      0,
+      54,
+      119,
+      142,
+      182,
+      209
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7568",
+    "category": "OTHER",
+    "stopNames": [
+      "嘉峪关",
+      "酒泉",
+      "肃州",
+      "金塔",
+      "河东里",
+      "东风南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7568.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6926927cc2d709429ca404170f4e3fc42bb26cb408e963471797f56bf7165976",
+    "elapsedMinutes": [
+      0,
+      20,
+      58,
+      80,
+      149,
+      206
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4013",
+    "category": "D",
+    "stopNames": [
+      "西宁",
+      "山丹马场",
+      "张掖西",
+      "酒泉南",
+      "嘉峪关南",
+      "玉门",
+      "哈密",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4013.html",
+    "sourceUpdatedAt": "2026-08-21",
+    "sourceSha256": "5ffecd32222cb738e1d7b0c21d5d6ec0463653935ce5b771bb91aa9f9e841312",
+    "elapsedMinutes": [
+      0,
+      64,
+      108,
+      175,
+      188,
+      239,
+      395,
+      594
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4014",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐",
+      "哈密",
+      "嘉峪关南",
+      "酒泉南",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4014.html",
+    "sourceUpdatedAt": "2026-08-26",
+    "sourceSha256": "44b5f3aaddbac25d74e2815d1f82fb2b328f705480262f6d515675c737aadab5",
+    "elapsedMinutes": [
+      0,
+      166,
+      359,
+      383,
+      561
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4258",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐",
+      "哈密",
+      "嘉峪关南",
+      "酒泉南",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4258.html",
+    "sourceUpdatedAt": "2026-03-10",
+    "sourceSha256": "36d7762a577f09b61a7a8ddf261acf725e9cdbe011e59349e8957437cc3b7401",
+    "elapsedMinutes": [
+      0,
+      164,
+      355,
+      379,
+      557
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4292",
+    "category": "D",
+    "stopNames": [
+      "乌鲁木齐",
+      "哈密",
+      "嘉峪关南",
+      "酒泉南",
+      "西宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4292.html",
+    "sourceUpdatedAt": "2026-05-31",
+    "sourceSha256": "20e5436b5d502a18a7c14bfd62a37628f31d05be205791966ff761a97c65c33d",
+    "elapsedMinutes": [
+      0,
+      165,
+      356,
+      380,
+      558
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T301",
+    "category": "T",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北",
+      "哈密",
+      "嘉峪关",
+      "张掖",
+      "金昌",
+      "武威",
+      "中卫",
+      "青铜峡",
+      "银川",
+      "石嘴山南",
+      "惠农",
+      "乌海",
+      "巴彦高勒",
+      "巴彦淖尔",
+      "刘召",
+      "乌拉山西",
+      "包头",
+      "呼和浩特东",
+      "卓资东",
+      "集宁南",
+      "正镶白旗",
+      "桑根达来",
+      "大板",
+      "通辽",
+      "彰武",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t301.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "834183f622a51991b453dd5e9ecebcbc42111441efdfb900a7c8c4239526c873",
+    "elapsedMinutes": [
+      0,
+      115,
+      320,
+      691,
+      830,
+      933,
+      984,
+      1189,
+      1283,
+      1350,
+      1406,
+      1447,
+      1498,
+      1565,
+      1606,
+      1651,
+      1690,
+      1762,
+      1894,
+      1967,
+      2004,
+      2205,
+      2273,
+      2443,
+      2676,
+      2791,
+      2919
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T302",
+    "category": "T",
+    "stopNames": [
+      "沈阳",
+      "彰武",
+      "通辽",
+      "开鲁",
+      "查布嘎",
+      "大板",
+      "经棚",
+      "桑根达来",
+      "正镶白旗",
+      "集宁南",
+      "呼和浩特东",
+      "察素齐",
+      "包头",
+      "乌拉山西",
+      "刘召",
+      "巴彦淖尔",
+      "巴彦高勒",
+      "乌海",
+      "乌海西",
+      "惠农",
+      "石嘴山南",
+      "银川",
+      "青铜峡",
+      "中卫",
+      "武威",
+      "金昌",
+      "张掖",
+      "嘉峪关",
+      "哈密",
+      "吐鲁番北",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t302.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "dd2baa0210d5765d70e84761cb0166d8b19698d6197c8128e8c391e42bd63806",
+    "elapsedMinutes": [
+      0,
+      113,
+      220,
+      305,
+      378,
+      484,
+      569,
+      671,
+      737,
+      918,
+      1016,
+      1083,
+      1183,
+      1262,
+      1302,
+      1347,
+      1396,
+      1451,
+      1496,
+      1521,
+      1558,
+      1601,
+      1676,
+      1783,
+      2006,
+      2055,
+      2165,
+      2298,
+      2653,
+      2873,
+      3011
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T303",
+    "category": "T",
+    "stopNames": [
+      "沈阳",
+      "彰武",
+      "通辽",
+      "开鲁",
+      "查布嘎",
+      "大板",
+      "经棚",
+      "桑根达来",
+      "正镶白旗",
+      "集宁南",
+      "呼和浩特东",
+      "察素齐",
+      "包头",
+      "乌拉山西",
+      "刘召",
+      "巴彦淖尔",
+      "巴彦高勒",
+      "乌海",
+      "乌海西",
+      "惠农",
+      "石嘴山南",
+      "银川",
+      "青铜峡",
+      "中卫",
+      "武威",
+      "金昌",
+      "张掖",
+      "嘉峪关",
+      "哈密",
+      "吐鲁番北",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t303.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6a0115deb5f71da9198c2de4bde2352553fcba90af1fc759218a82488d872287",
+    "elapsedMinutes": [
+      0,
+      113,
+      220,
+      305,
+      378,
+      484,
+      569,
+      671,
+      737,
+      918,
+      1016,
+      1083,
+      1183,
+      1262,
+      1302,
+      1347,
+      1396,
+      1451,
+      1496,
+      1521,
+      1558,
+      1601,
+      1676,
+      1783,
+      2006,
+      2055,
+      2165,
+      2298,
+      2653,
+      2873,
+      3011
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T304",
+    "category": "T",
+    "stopNames": [
+      "乌鲁木齐",
+      "吐鲁番北",
+      "哈密",
+      "嘉峪关",
+      "张掖",
+      "金昌",
+      "武威",
+      "中卫",
+      "青铜峡",
+      "银川",
+      "石嘴山南",
+      "惠农",
+      "乌海",
+      "巴彦高勒",
+      "巴彦淖尔",
+      "刘召",
+      "乌拉山西",
+      "包头",
+      "呼和浩特东",
+      "卓资东",
+      "集宁南",
+      "正镶白旗",
+      "桑根达来",
+      "大板",
+      "通辽",
+      "彰武",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t304.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "62fc5575a30dd943a038a11ab8cac60add3e533aeb7edca48e9f3384fdc43ce2",
+    "elapsedMinutes": [
+      0,
+      115,
+      320,
+      691,
+      830,
+      933,
+      984,
+      1189,
+      1283,
+      1350,
+      1406,
+      1447,
+      1498,
+      1565,
+      1606,
+      1651,
+      1690,
+      1762,
+      1894,
+      1967,
+      2004,
+      2205,
+      2273,
+      2443,
+      2676,
+      2791,
+      2919
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T4563",
+    "category": "T",
+    "stopNames": [
+      "嘉峪关",
+      "嘉峪关南",
+      "玉门",
+      "瓜州",
+      "敦煌"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t4563.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "5834613747f9e402eeec37a18471a9cdfa51e48522043d01daaa816537abab3d",
+    "elapsedMinutes": [
+      0,
+      16,
+      101,
+      186,
+      250
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T4564",
+    "category": "T",
+    "stopNames": [
+      "敦煌",
+      "瓜州",
+      "玉门",
+      "嘉峪关南",
+      "嘉峪关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t4564.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "2140fa947aa6754fdaa7a81726b73bfd1e2368b0c6e5c24c661a6bb966c83fd1",
+    "elapsedMinutes": [
+      0,
+      53,
+      130,
+      240,
+      281
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T4565",
+    "category": "T",
+    "stopNames": [
+      "敦煌",
+      "瓜州",
+      "玉门",
+      "嘉峪关南",
+      "嘉峪关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t4565.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "24eb7df28925d5e6d2ef5515054a8f260921c0a8a69428d3ba35b4a82ed6b3ba",
+    "elapsedMinutes": [
+      0,
+      53,
+      130,
+      240,
+      281
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T4566",
+    "category": "T",
+    "stopNames": [
+      "嘉峪关",
+      "嘉峪关南",
+      "玉门",
+      "瓜州",
+      "敦煌"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t4566.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "1991a640d2cbccffdddf80da45b07bdad6eec97b4ba9be0978955ecb670dd0b6",
+    "elapsedMinutes": [
+      0,
+      16,
+      101,
+      186,
+      250
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y211",
+    "category": "OTHER",
+    "stopNames": [
+      "银川",
+      "中卫",
+      "金昌",
+      "张掖",
+      "嘉峪关",
+      "疏勒河",
+      "柳园",
+      "哈密",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y211.html",
+    "sourceUpdatedAt": "2026-07-12",
+    "sourceSha256": "c8d8cd50cc7a873e1c07793fa85603055416421f9411a58e6fc82af597f559da",
+    "elapsedMinutes": [
+      0,
+      335,
+      632,
+      759,
+      918,
+      1023,
+      1129,
+      1345,
+      1620,
+      1741
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y36",
+    "category": "OTHER",
+    "stopNames": [
+      "哈密",
+      "柳园",
+      "嘉峪关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y36.html",
+    "sourceUpdatedAt": "2026-07-10",
+    "sourceSha256": "458248158cd9f74b5b14c440bf9176050d78cbbc4cdb3424f23365e15170ff75",
+    "elapsedMinutes": [
+      0,
+      298,
+      521
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y411",
+    "category": "OTHER",
+    "stopNames": [
+      "银川",
+      "中卫",
+      "金昌",
+      "张掖",
+      "嘉峪关",
+      "疏勒河",
+      "柳园",
+      "哈密",
+      "吐鲁番",
+      "乌鲁木齐"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y411.html",
+    "sourceUpdatedAt": "2026-08-22",
+    "sourceSha256": "129a41586a00e58792cb0fc226d00e88c320deb82ff2d569f33e86319563431a",
+    "elapsedMinutes": [
+      0,
+      335,
+      632,
+      759,
+      918,
+      1023,
+      1129,
+      1345,
+      1620,
+      1741
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y438",
+    "category": "OTHER",
+    "stopNames": [
+      "哈密",
+      "哈密东",
+      "柳园",
+      "疏勒河",
+      "嘉峪关"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y438.html",
+    "sourceUpdatedAt": "2026-05-20",
+    "sourceSha256": "48b10f8d41592016d98b7aceec80f1e41a9e1eac961a191e75693298bbbd5787",
+    "elapsedMinutes": [
+      0,
+      20,
+      298,
+      400,
+      521
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

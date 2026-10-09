@@ -1,0 +1,12 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "毕节",
+  "stationCount": 13,
+  "candidateServices": 272,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "仙水",
+    "金钟"
+  ]
+}

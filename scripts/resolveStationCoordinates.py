@@ -20,6 +20,21 @@ def in_geometry(point,geometry):
     polygons=geometry['coordinates'] if geometry['type']=='MultiPolygon' else [geometry['coordinates']]
     return any(inside_ring(point,p[0]) and not any(inside_ring(point,h) for h in p[1:]) for p in polygons)
 
+def group_osm_candidates(elements,province_at,origins):
+    from stationNames import canonical
+    candidates=defaultdict(list)
+    for element in elements:
+        tags=element.get('tags',{})
+        name=canonical(normalize(tags.get('name:zh-Hans',tags.get('name:zh',tags.get('name','')))))
+        point=element.get('center',element)
+        if 'lon' not in point or 'lat' not in point:continue
+        coord=[point['lon'],point['lat']];province=province_at(coord)
+        # Chinese aliases of foreign stations can match an exact-name query.
+        # Filter geography before judging whether same-name objects conflict.
+        if not province or (name in origins and province!=origins[name]['province']):continue
+        candidates[name].append((element,coord))
+    return candidates
+
 def resolve(csv_path,admin_path,osm_path,fetch_osm=False):
     from stationNames import canonical,former_names
     registry=read(RAW/'stations.json')
@@ -77,10 +92,7 @@ def resolve(csv_path,admin_path,osm_path,fetch_osm=False):
                 write(osm_path,payload);print('OSM source objects',len(payload.get('elements',[])),flush=True);break
             except Exception as error:print('OSM acquisition failed',host,str(error),flush=True)
     if osm_path.exists():
-        for element in read(osm_path).get('elements',[]):
-            tag=element.get('tags',{});name=canonical(normalize(tag.get('name:zh-Hans',tag.get('name:zh',tag.get('name','')))))
-            coord=element.get('center',element)
-            if 'lon' in coord and 'lat' in coord:osm_candidates[name].append((element,[coord['lon'],coord['lat']]))
+        osm_candidates=group_osm_candidates(read(osm_path).get('elements',[]),province_at,js)
     ambiguous=[]
     for name in missing:
         candidates=osm_candidates.get(name,[])
