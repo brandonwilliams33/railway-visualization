@@ -17,7 +17,7 @@ export function getNetwork(hub:HubId,filters:Filters){
  const availableIds=new Set(services.flatMap(s=>s.stations));availableIds.delete(hubStation.id);
  const availableStations=data.stations.filter(s=>availableIds.has(s.id));
  const query=filters.search.trim().toLocaleLowerCase();
- const destinations=availableStations.filter(s=>(!filters.province||s.provinceId===filters.province)&&(!query||`${s.name} ${s.city} ${s.province}`.toLocaleLowerCase().includes(query)));
+ const destinations=availableStations.filter(s=>(!filters.province||s.provinceId===filters.province)&&(!query||`${s.name} ${s.formerNames?.join(' ')||''} ${s.city} ${s.province}`.toLocaleLowerCase().includes(query)));
  const destinationIds=new Set(destinations.map(s=>s.id));
  // Retain only each service's path from the hub to a matching stop. This
  // cannot create reachability by transferring between unrelated services.

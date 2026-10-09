@@ -1,0 +1,2154 @@
+[
+  {
+    "trainNumber": "S3821",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3821.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a299509d232845afcd76988a883205c0f0d4a6926bef9dac91ed2ab059a8564c",
+    "elapsedMinutes": [
+      0,
+      13,
+      21,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3822",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3822.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2fd0fa40fa2ac1ef17b24703e8e4d4db37c07a931d2a8e28b8b119986e1e253f",
+    "elapsedMinutes": [
+      0,
+      14,
+      20,
+      35
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3823",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3823.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "031f578b328e6bd9ca727ed332d17e375f4dbfa868ce968911cb8ad312855a02",
+    "elapsedMinutes": [
+      0,
+      12,
+      19,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3824",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3824.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "17b6c019e179ae4c05fd8b6e206a60cd4d382b28ac1d11878169328899fcd665",
+    "elapsedMinutes": [
+      0,
+      14,
+      20,
+      35
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3825",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3825.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8cb85b63ed2373f43707531ca069a8798928c60bb2e6b0cefbcba94de20cd45e",
+    "elapsedMinutes": [
+      0,
+      12,
+      19,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3826",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3826.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a2eca2dc483f440da0887d7d77e1e06a29d88a204b23b9b5e5b0439302eafd19",
+    "elapsedMinutes": [
+      0,
+      14,
+      20,
+      28,
+      39
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3827",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3827.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5d1ae095ec45239b4d6c40a3d02d0b8edd2148819b0237bce164857938397553",
+    "elapsedMinutes": [
+      0,
+      13,
+      21,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3829",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3829.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1d84c04f1447f533f8a34a92a973b932def9baad4ecc920c4527ac09cb2d1691",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3830",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3830.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "680646c2987b82f9e95546eab6d1b12698999ab3e71882badb27ebb0ce14812f",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      25,
+      33,
+      39,
+      48
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3831",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3831.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0fd39f1241743bcdeace3b1dda2909bdb45ab502e196f4fa272d15d98cb7ed42",
+    "elapsedMinutes": [
+      0,
+      13,
+      21,
+      39
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3832",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3832.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "11b1d2c70fdad57a14c5dc88d429872456d79958343b1107e3e1833ca2128874",
+    "elapsedMinutes": [
+      0,
+      14,
+      20,
+      35
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3833",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3833.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "be0810539b87233499e69fe226747ee5ceb97c137ff8a94560391d2d359a24c6",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3834",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3834.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3613f4191d178b2cc07be53af57f2d7ff3202676d6abcf42bf4b342fadca2b29",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      25,
+      33,
+      39,
+      48
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3835",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3835.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "af1fb2421562940e21e84fc701516c9f1369c1b76ae5f7aff7a2b06bfc3578f6",
+    "elapsedMinutes": [
+      0,
+      12,
+      19,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3836",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3836.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cd1fe49b9cd27f63b0e8c08d86891ff87bff8a6b4c85eb3e6b52426eb5875205",
+    "elapsedMinutes": [
+      0,
+      5,
+      18,
+      25,
+      33,
+      39,
+      47
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3837",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3837.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fd9471e0869782208b659ebea77533a0eb9f1215cdeaa29a40d826636e922b56",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3838",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3838.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fdbcd5c80bd50f5b7dc0916515a88602c1a4dfd35b53def5ac9cc269ec89ada9",
+    "elapsedMinutes": [
+      0,
+      14,
+      20,
+      35
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3839",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3839.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9daaa739a2205c53d7e9fc2d74cae264394117bd686bf6a4f12481da16569712",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3840",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3840.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cf2d522c567e1eab8b72f41b8b818a7195d76570ff45b35d1fad2bc3e8a9b83a",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      25,
+      33,
+      39,
+      48
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3841",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3841.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b7b53254b20670b6734290715c56d3053ad739e71afe65e6dc11c71485aaceed",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      46
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3842",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3842.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cd0391168a8791c0a350dab9785812a055c1afbb0792e1d5ee56403531438fd4",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      25,
+      33,
+      39,
+      48
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3843",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3843.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2564b0589e1b10f4781552394e7e350adca82ad8de13d6d0436a65f63232ed9d",
+    "elapsedMinutes": [
+      0,
+      12,
+      19,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3844",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3844.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0713141b6b7ef63307ebcd1cba88d12e8d2eaf78667605f886e9c6f35574e4ad",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      25,
+      33,
+      39,
+      48
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3845",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3845.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0f4d5f9e6581b274115fd2df38eef345d48ce520620b6baae89f6c9060571887",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3846",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3846.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d7b3f5304ace6fd9bb113f5a8486c1886c2b58798b27f69709161e2968a6377b",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      25,
+      33,
+      39,
+      48
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3847",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3847.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ce5092d4aa0ae4e79879621755fd2abb3c2e0f05795e3c142eaedcc301638455",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3848",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3848.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8abb98821c7dacf59818025b11e3dd48f27566eedd272dbcf02f1099378f90c4",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      25,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3849",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3849.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2879e91e2e8a2dfe397192fd47514bf8e8e11fba9ec921f8d1cc2c1bd501aeff",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3850",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3850.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "33cdff570759fe2fcf669d8147e62aa5e14f79158da194b2edaaadd4006edfb5",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      26,
+      35,
+      41,
+      52
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3851",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3851.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4f69591501e5fddfc9566f6de5bede9eb008b3764263a27915fb36de6a17a073",
+    "elapsedMinutes": [
+      0,
+      12,
+      19,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3852",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3852.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c7fb7dde650cf0f0645f2b3d7c80b6477f5b6bf4b5fd3169f19b9dcfcbc5d5d9",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      25,
+      33,
+      39,
+      48
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3853",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3853.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6e45417eb7ef3e8ad950da8b0856dfe3bf5b2f9e783c118b98f885f4193a2327",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3854",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3854.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ed9051b4489c658073623f0e21dc477e516fb6c948a164988c5c8a1b25675d53",
+    "elapsedMinutes": [
+      0,
+      5,
+      18,
+      25,
+      33,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3855",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3855.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "67ac53dc7ba8b17c2b215a07e5d50aa2d885220f9b3a9794e3c4d958738f53e2",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3856",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3856.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "48209697bd4517dee577d81d982a280bb6a57d10a68f3091e3e8edfcacf38180",
+    "elapsedMinutes": [
+      0,
+      14,
+      20,
+      35
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3857",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3857.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ff85d921409e88fd7c47f0bfa901cd48fb8d11eb69693348d2b7604d63a5a5f0",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3858",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3858.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f8c917ff51894bd413af42e18098a3f7dc7719234231b7bcbc2bf2a90fdde115",
+    "elapsedMinutes": [
+      0,
+      14,
+      20,
+      28,
+      34,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3859",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3859.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "59539d6882dced3255616576724244866c3ae1e73504bef109dc0403411453af",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3860",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3860.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c3ba77d18864864f727ea6f50e95410882a5221ab6c53ab2ad9dc7c19e40229d",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      25,
+      33,
+      39,
+      48
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3861",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3861.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "dfafc801f0e33564d3818e3f0fed26ed056ad33d1ab45f968276e1d235ba31ed",
+    "elapsedMinutes": [
+      0,
+      12,
+      19,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3862",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3862.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "feeff06a6d45cc6258da1f401886088b8877da7ae9f916caabd9530413920632",
+    "elapsedMinutes": [
+      0,
+      14,
+      21,
+      31,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3863",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3863.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8ab1c1cb32f257f1824a14565dbd0037353ddd904a8394422ae07fff3f24ee8b",
+    "elapsedMinutes": [
+      0,
+      7,
+      15,
+      23,
+      37,
+      45
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3864",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3864.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "959b3ba4898b8c84472c0a2c659554f8db17560383a3e6e9d1e014b367d1af68",
+    "elapsedMinutes": [
+      0,
+      14,
+      20,
+      35
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3865",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3865.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c120f24f46f21e049ddfeea83ab749d4164ac9604f841b77ec7f4c9e2999490b",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3866",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3866.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8cc8b9259584495dba11efa81ee5eb7559c862716aabf588b972279d2f25af88",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      25,
+      35,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3867",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3867.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "73ac02a238a7657ed1a4af5e6a0adfd7a7288f6be65126793ed198b788369d99",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      20,
+      27,
+      42,
+      51
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3868",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3868.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a843774bb9c06480b1e19e8660a5f796f2d8de99f31c9b0b5fea6f7bd3fc9bf8",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      25,
+      33,
+      39,
+      48
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3869",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3869.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "32306852cdfa44a4d54475efcc7cae2c9cc81a4e3870fa96b1a956002bb5d091",
+    "elapsedMinutes": [
+      0,
+      12,
+      19,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3870",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3870.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "155ed075b44293fa19f2b79a574fad325be824be77bfeaef99560e69a522ab48",
+    "elapsedMinutes": [
+      0,
+      5,
+      18,
+      25,
+      33,
+      39,
+      47
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3871",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3871.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "65b431a2125ec648a4fd03af88ced51865debfac1994cbefbef4b71524754f6f",
+    "elapsedMinutes": [
+      0,
+      12,
+      19,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3872",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3872.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1e2a82187554b4b58cc5f8e27dfcf9108f497a39bdc90c254a45ed08a39a410c",
+    "elapsedMinutes": [
+      0,
+      14,
+      20,
+      35
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3873",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3873.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f846fef703c8b735da47f843e527fe1f239d19aaf35acc49a3d743d2831d57bc",
+    "elapsedMinutes": [
+      0,
+      5,
+      16,
+      23,
+      38,
+      46
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3874",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3874.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fdeb2ea2f9d4b9506620a214e6c168de61a4f39cc953ee2bf417002eca8be9fc",
+    "elapsedMinutes": [
+      0,
+      14,
+      20,
+      35
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3876",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3876.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0f8e96dfe3c939f9415a4c03ef8fd94922dca783974046959e1b02da60f1bb7a",
+    "elapsedMinutes": [
+      0,
+      14,
+      20,
+      35
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3877",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3877.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "022fd94c4da0a47af450babc81ffa92435632cdddca198532d2eb2e50dc19ed4",
+    "elapsedMinutes": [
+      0,
+      12,
+      19,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3878",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3878.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "34f90394ce7b5e73266b0549ceb8bc2ec7cffbf57e26f4c0ee465f413c3cdbfb",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      25,
+      33,
+      39,
+      48
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3879",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3879.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fc8a1c97646fab1dee44ad8fc7be7cfc3dba72e797f31b24d80c97ffad7a2859",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3880",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3880.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "88b585204791188a69ccf5148618c82784b552c0d10107c100274b81c5bc7451",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      25,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3881",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3881.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "10781b7433e4ef15a7848a2e641efd644fabecbd763492a83ad086246adb155a",
+    "elapsedMinutes": [
+      0,
+      12,
+      19,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3883",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3883.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "90dbeeaf153b7b97d27469e44397d7fb14b997bb2ef108ad45e83ec933dcc41e",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3884",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "湾仔北",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3884.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4a7212f56381adfcd46063216df5e9c54d4c28f2734ff01a94bb46f91ad1509e",
+    "elapsedMinutes": [
+      0,
+      14,
+      20,
+      28,
+      34,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3885",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3885.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "672cc21903b90c9a16af8b12b750df8ba0452e67941335341b75e9afe7973f24",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3886",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3886.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "97908ca221e0357f0b9f853f9ebbc26d7c74d770547b93f1bcecc0221420e09b",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      25,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3887",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3887.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a05bbc5cb5a29c299ac3bcdedf0b472197c2ae996987f5e3f50cbe6607ebbe6c",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3888",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3888.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1c957bb7e50bfbd18c6f98a989366d2d0775e2fae55f3c8d90114edda426ddda",
+    "elapsedMinutes": [
+      0,
+      5,
+      18,
+      24,
+      39
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3890",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3890.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "dba81efe8847eb0b307d10f2628470a005bbd5270b1d86a338628ca639f65106",
+    "elapsedMinutes": [
+      0,
+      14,
+      20,
+      35
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3891",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "湾仔北",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "三灶东",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3891.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9886355deb4be356f364311f026468ddc0bf7956faf3e625a0e94d703c1ec9fe",
+    "elapsedMinutes": [
+      0,
+      5,
+      11,
+      19,
+      27,
+      41,
+      49
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3892",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "十字门",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3892.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e07c889b71de7bdd097cdf2e861908910055c856daab73ab58491ce44532e42e",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      25,
+      33,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3893",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3893.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7649c10cfd897ea6724b5061003b5fb4a3113f4dc6208c000e9b77ca9b903bf3",
+    "elapsedMinutes": [
+      0,
+      12,
+      20,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3894",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "三灶东",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3894.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bfbdbcbe2ada7a77124fe579680ce1bd57d1be5a9f95ba36bba0321fd680c826",
+    "elapsedMinutes": [
+      0,
+      5,
+      19,
+      25,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3895",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "十字门",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3895.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d0ca4311d69c1881d05fbb3944ff74a1934962ed82b0e7c4e4986e28bc06e3a9",
+    "elapsedMinutes": [
+      0,
+      7,
+      16,
+      23,
+      42
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3897",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3897.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "729bc8e714bb1e7f9b8ccd7a5ad7c40c71263d4a4f5dae2687b113e120ac0391",
+    "elapsedMinutes": [
+      0,
+      12,
+      19,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3898",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3898.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0d1621aaa6f5b6e113682563c720b24f8fa14934ce7ceee62a5f7c1070e51c3f",
+    "elapsedMinutes": [
+      0,
+      14,
+      20,
+      35
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3899",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3899.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7727a770340d0ab13fbca5b04d626e7e623463697c22f73b5c4e5a0c2aae8fa3",
+    "elapsedMinutes": [
+      0,
+      12,
+      19,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3900",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3900.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "39cdac829eeb4e654b5bbdfe69404abb4d0cc54b64ae3c027295fe0de24225cc",
+    "elapsedMinutes": [
+      0,
+      14,
+      21,
+      39
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3902",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3902.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0426037828a096897f6128eb6fa345616e61e7740431d17f19f1ad95f9c14313",
+    "elapsedMinutes": [
+      0,
+      14,
+      21
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3903",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3903.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "689fcfb7071506c0f51ee7e06b3bd9e56cc071e39124baa0c6900124a9e1eab0",
+    "elapsedMinutes": [
+      0,
+      12,
+      20,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3904",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3904.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f86be984fdf909ddc10e833744c33dba6effe6fcd0dab24b84254732b6315774",
+    "elapsedMinutes": [
+      0,
+      14,
+      20,
+      36
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3905",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海",
+      "横琴",
+      "珠海长隆",
+      "珠海机场"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3905.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b7be62fb259b5e339fe8a1797bbeec601d656c5ea372bbd228e10b820235d587",
+    "elapsedMinutes": [
+      0,
+      12,
+      19,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S3906",
+    "category": "OTHER",
+    "stopNames": [
+      "珠海机场",
+      "珠海长隆",
+      "横琴",
+      "珠海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s3906.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b7d927012be199c8e28b70f2589f600c5733d601eecd43d7705fc4b3ab1a8e45",
+    "elapsedMinutes": [
+      0,
+      14,
+      20,
+      35
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

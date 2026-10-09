@@ -1,0 +1,12 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "梅州",
+  "stationCount": 8,
+  "candidateServices": 232,
+  "acquiredAdditionalServices": 5,
+  "failedPages": [],
+  "stationIssues": [
+    "梅州",
+    "兴宁"
+  ]
+}

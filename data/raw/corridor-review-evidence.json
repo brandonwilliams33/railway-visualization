@@ -90,6 +90,34 @@
         "G1238",
         "G1239"
       ]
+    },
+    {
+      "names": [
+        "广大铁路",
+        "楚大线",
+        "滇藏线"
+      ],
+      "evidenceUrls": [
+        "https://www.12306.cn/mormhweb/zxdtzz/201806/t20180628_421953.html",
+        "https://mzzj.yn.gov.cn/html/2022/difangdongtai_0317/42324.html",
+        "https://wap.sasac.gov.cn/n2588025/n2588124/c29442228/content.html"
+      ],
+      "serviceEvidence": [
+        "D239",
+        "D240"
+      ],
+      "note": "楚大线、大丽及丽香段公开客运运营证据；仅纳入 OSM 已有 rail 对象，不纳入规划段。"
+    },
+    {
+      "names": [
+        "大河沿联络线"
+      ],
+      "evidenceUrl": "https://www.xinjiang.gov.cn/xinjiang/jhgh/201708/227b862fdee34ba29fc0d98f80705180.shtml",
+      "serviceEvidence": [
+        "T269",
+        "T270"
+      ],
+      "note": "仅对这条经逐项核验的高普联络线开放绘图筛选；其他联络线、货运网仍排除。不改变独立车站及完整停站直达判定。"
     }
   ]
 }

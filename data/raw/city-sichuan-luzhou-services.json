@@ -1,0 +1,258 @@
+[
+  {
+    "trainNumber": "K9355",
+    "category": "K",
+    "stopNames": [
+      "贵阳",
+      "安顺",
+      "织金",
+      "大方南",
+      "毕节",
+      "以勒",
+      "果珠",
+      "威信",
+      "兴文南",
+      "叙永北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9355.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "20e5c87b65b4342e34f929bb58aad75fae5c0331076e445d46ea0dcb4a64551f",
+    "elapsedMinutes": [
+      0,
+      73,
+      164,
+      226,
+      256,
+      297,
+      317,
+      343,
+      386,
+      409
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9358",
+    "category": "K",
+    "stopNames": [
+      "贵阳",
+      "安顺",
+      "织金",
+      "大方南",
+      "毕节",
+      "以勒",
+      "果珠",
+      "威信",
+      "兴文南",
+      "叙永北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9358.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "397f49b10dc50ca619caf50c18cb8321be973ca9df6000a9608ad8c99c137626",
+    "elapsedMinutes": [
+      0,
+      73,
+      164,
+      226,
+      256,
+      297,
+      317,
+      343,
+      386,
+      409
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9365",
+    "category": "K",
+    "stopNames": [
+      "贵阳",
+      "安顺",
+      "普定",
+      "织金",
+      "大方南",
+      "毕节",
+      "以勒",
+      "果珠",
+      "兴文南",
+      "叙永北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9365.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "267bd6310551a122a688f65e21d2735aecc2aef9fec5d5d0e04b2efe5443c9f3",
+    "elapsedMinutes": [
+      0,
+      73,
+      116,
+      196,
+      261,
+      294,
+      341,
+      361,
+      443,
+      473
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9366",
+    "category": "K",
+    "stopNames": [
+      "叙永北",
+      "兴文南",
+      "威信",
+      "果珠",
+      "以勒",
+      "毕节",
+      "大方南",
+      "织金",
+      "普定",
+      "安顺",
+      "贵阳",
+      "都匀",
+      "甲猫",
+      "独山",
+      "学庄",
+      "打羊",
+      "峰洞",
+      "星朗",
+      "朱石寨",
+      "麻尾"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9366.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "192ad4d39062fe22446d6b4bbd6d851c59e42c3af314ff0cb41062c5be7a5578",
+    "elapsedMinutes": [
+      0,
+      26,
+      84,
+      112,
+      132,
+      180,
+      213,
+      272,
+      335,
+      376,
+      468,
+      598,
+      631,
+      644,
+      666,
+      678,
+      692,
+      705,
+      718,
+      733
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9367",
+    "category": "K",
+    "stopNames": [
+      "叙永北",
+      "兴文南",
+      "威信",
+      "果珠",
+      "以勒",
+      "毕节",
+      "大方南",
+      "织金",
+      "普定",
+      "安顺",
+      "贵阳",
+      "都匀",
+      "甲猫",
+      "独山",
+      "学庄",
+      "打羊",
+      "峰洞",
+      "星朗",
+      "朱石寨",
+      "麻尾"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9367.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "353630e16a4c05106db94a0d0fe785c566ca689d63c19d54a171f40a6b57d0f5",
+    "elapsedMinutes": [
+      0,
+      26,
+      84,
+      112,
+      132,
+      180,
+      213,
+      272,
+      335,
+      376,
+      468,
+      598,
+      631,
+      644,
+      666,
+      678,
+      692,
+      705,
+      718,
+      733
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9368",
+    "category": "K",
+    "stopNames": [
+      "贵阳",
+      "安顺",
+      "普定",
+      "织金",
+      "大方南",
+      "毕节",
+      "以勒",
+      "果珠",
+      "兴文南",
+      "叙永北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9368.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d26a9900cc6379ec90c64378046f6fb2629ff654ed7054111f21b2989cd14f07",
+    "elapsedMinutes": [
+      0,
+      73,
+      116,
+      196,
+      261,
+      294,
+      341,
+      361,
+      443,
+      473
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

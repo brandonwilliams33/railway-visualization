@@ -1,12 +1,14 @@
 {
-  "pausedCityIds": [
-    "guangdong-guangzhou"
-  ],
-  "reason": "User requested pause; Guangzhou catalogue is checkpointed but acquisition is incomplete. Preserve facts and resume explicitly before releasing origins.",
+  "pausedCityIds": [],
+  "reason": "Guangzhou resumed and acquired all available complete source records. K6510 empty stop-table snapshot quarantined with source hash; missing coordinates/services remain pending.",
   "checkpoint": {
     "city": "广州",
     "catalogueStations": 43,
     "savedServiceFacts": 760,
     "candidateServices": 2814
-  }
+  },
+  "completedCityIds": [
+    "guangdong-guangzhou"
+  ],
+  "completedAt": "2026-10-09"
 }

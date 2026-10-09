@@ -1,0 +1,1228 @@
+[
+  {
+    "trainNumber": "5537",
+    "category": "OTHER",
+    "stopNames": [
+      "南丹",
+      "金城江",
+      "宜州",
+      "柳州",
+      "来宾",
+      "贵港",
+      "兴业",
+      "玉林",
+      "陆川",
+      "文地",
+      "河唇",
+      "廉江",
+      "遂溪",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5537.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "862dcc6edc76b9864bab2bb195aec35a9ca694e71009bad9fa978be34c83f3ec",
+    "elapsedMinutes": [
+      0,
+      50,
+      104,
+      214,
+      292,
+      390,
+      434,
+      466,
+      503,
+      539,
+      570,
+      584,
+      614,
+      647
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5538",
+    "category": "OTHER",
+    "stopNames": [
+      "湛江",
+      "遂溪",
+      "廉江",
+      "文地",
+      "陆川",
+      "玉林",
+      "贵港",
+      "来宾",
+      "柳州",
+      "宜州",
+      "金城江",
+      "南丹"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5538.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3cbe8969be3983a6d6f00e9daa200609df6976f024d3447ab27a45fbd2148714",
+    "elapsedMinutes": [
+      0,
+      21,
+      43,
+      79,
+      113,
+      149,
+      235,
+      331,
+      390,
+      508,
+      563,
+      620
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5539",
+    "category": "OTHER",
+    "stopNames": [
+      "湛江",
+      "遂溪",
+      "廉江",
+      "文地",
+      "陆川",
+      "玉林",
+      "贵港",
+      "来宾",
+      "柳州",
+      "宜州",
+      "金城江",
+      "南丹"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5539.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "52e62719e4cf36191d8f3380bcb623c075d2e34f08c49f0deee8c3dfc97cdc3d",
+    "elapsedMinutes": [
+      0,
+      21,
+      43,
+      79,
+      113,
+      149,
+      235,
+      331,
+      390,
+      508,
+      563,
+      620
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "5540",
+    "category": "OTHER",
+    "stopNames": [
+      "南丹",
+      "金城江",
+      "宜州",
+      "柳州",
+      "来宾",
+      "贵港",
+      "兴业",
+      "玉林",
+      "陆川",
+      "文地",
+      "河唇",
+      "廉江",
+      "遂溪",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/5540.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2e74246c10d5d3573525780a74e41e64ed2026e2ebc274de729934f2b4af2a24",
+    "elapsedMinutes": [
+      0,
+      50,
+      104,
+      214,
+      292,
+      390,
+      434,
+      466,
+      503,
+      539,
+      570,
+      584,
+      614,
+      647
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G5262",
+    "category": "G",
+    "stopNames": [
+      "湛江北",
+      "吴川",
+      "茂名南",
+      "阳江北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g5262.html",
+    "sourceUpdatedAt": "2026-04-05",
+    "sourceSha256": "a33e7bbb83f9110324101a866a43c12380b8bed7447b723995eb59b1cfd0e85a",
+    "elapsedMinutes": [
+      0,
+      17,
+      29,
+      55
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5901",
+    "category": "K",
+    "stopNames": [
+      "柳州",
+      "来宾",
+      "贵港",
+      "兴业",
+      "玉林",
+      "陆川",
+      "文地",
+      "河唇",
+      "廉江",
+      "遂溪",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5901.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8b2287a200bdae4510706a71c0730a501683c11c31847b40b64da66f58caffdb",
+    "elapsedMinutes": [
+      0,
+      52,
+      154,
+      198,
+      229,
+      266,
+      300,
+      332,
+      346,
+      371,
+      398
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5902",
+    "category": "K",
+    "stopNames": [
+      "湛江",
+      "遂溪",
+      "廉江",
+      "河唇",
+      "文地",
+      "陆川",
+      "玉林",
+      "贵港",
+      "来宾",
+      "柳州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5902.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bea3e1d82cad0903e8a16be2dd7498b63b4d3ecf5ed54a4dc8485f58d4f39aad",
+    "elapsedMinutes": [
+      0,
+      21,
+      43,
+      56,
+      84,
+      118,
+      151,
+      218,
+      314,
+      377
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5904",
+    "category": "K",
+    "stopNames": [
+      "湛江",
+      "遂溪",
+      "廉江",
+      "河唇",
+      "文地",
+      "陆川",
+      "玉林",
+      "贵港",
+      "来宾",
+      "柳州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5904.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e2fa5b134999a3f8def426cc6b2a7342ddf2b35a79d49f33dbc95cea05b8c353",
+    "elapsedMinutes": [
+      0,
+      21,
+      43,
+      57,
+      85,
+      119,
+      154,
+      238,
+      336,
+      395
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5905",
+    "category": "K",
+    "stopNames": [
+      "柳州",
+      "来宾",
+      "贵港",
+      "兴业",
+      "玉林",
+      "陆川",
+      "文地",
+      "河唇",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5905.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "942906755efb8efd7254145a8b356029e885dfa2e2ad4cbfc2dfcc8eda8bf8e1",
+    "elapsedMinutes": [
+      0,
+      57,
+      156,
+      199,
+      231,
+      268,
+      304,
+      335,
+      388
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5911",
+    "category": "K",
+    "stopNames": [
+      "湛江",
+      "遂溪",
+      "廉江",
+      "河唇",
+      "陆川",
+      "玉林",
+      "贵港",
+      "南宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5911.html",
+    "sourceUpdatedAt": "2026-04-19",
+    "sourceSha256": "52abca4a5f94e1edbade531868acaaed79a3f79d624f065da5b63dd466f03ebc",
+    "elapsedMinutes": [
+      0,
+      21,
+      43,
+      57,
+      114,
+      150,
+      221,
+      387
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5912",
+    "category": "K",
+    "stopNames": [
+      "南宁",
+      "黎塘",
+      "贵港",
+      "玉林",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5912.html",
+    "sourceUpdatedAt": "2026-04-19",
+    "sourceSha256": "586a1c4b90b312ba918ee93b1a4d2630ee57133932774d7e3fb5a8048529c74a",
+    "elapsedMinutes": [
+      0,
+      103,
+      150,
+      219,
+      350
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5913",
+    "category": "K",
+    "stopNames": [
+      "南宁",
+      "黎塘",
+      "贵港",
+      "玉林",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5913.html",
+    "sourceUpdatedAt": "2026-04-19",
+    "sourceSha256": "2a8f6bb03fe4de3f0f4234cb7e7d3673e68e8421ea14187815445dd19caec2c1",
+    "elapsedMinutes": [
+      0,
+      103,
+      150,
+      219,
+      350
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5914",
+    "category": "K",
+    "stopNames": [
+      "湛江",
+      "遂溪",
+      "廉江",
+      "河唇",
+      "陆川",
+      "玉林",
+      "贵港",
+      "南宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5914.html",
+    "sourceUpdatedAt": "2026-04-19",
+    "sourceSha256": "d716b217e0ffe65e1e91fef8a7413be9bef5d31aa42cb9c3d2bd4e06de3c653a",
+    "elapsedMinutes": [
+      0,
+      21,
+      43,
+      57,
+      114,
+      150,
+      221,
+      387
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9311",
+    "category": "K",
+    "stopNames": [
+      "湛江",
+      "遂溪",
+      "廉江",
+      "河唇",
+      "文地",
+      "陆川",
+      "玉林",
+      "贵港",
+      "黎塘",
+      "南宁东",
+      "南宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9311.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1b861d33d1886a7fbd25081055b3639ace70c79ddd23df2dfdae23105ca8b06f",
+    "elapsedMinutes": [
+      0,
+      22,
+      45,
+      61,
+      91,
+      126,
+      161,
+      230,
+      280,
+      389,
+      410
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9312",
+    "category": "K",
+    "stopNames": [
+      "南宁",
+      "南宁东",
+      "黎塘",
+      "贵港",
+      "玉林",
+      "陆川",
+      "文地",
+      "河唇",
+      "廉江",
+      "遂溪",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9312.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3183a19007bddcdfd3fa7ab102459ae951cd6f6a15f409a6249699107b46c396",
+    "elapsedMinutes": [
+      0,
+      14,
+      109,
+      156,
+      225,
+      262,
+      296,
+      327,
+      341,
+      366,
+      393
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9313",
+    "category": "K",
+    "stopNames": [
+      "南宁",
+      "南宁东",
+      "黎塘",
+      "贵港",
+      "玉林",
+      "陆川",
+      "文地",
+      "河唇",
+      "廉江",
+      "遂溪",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9313.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7d419d3748a473a355ff9650c8aed00151200a12d7a91cbaa7f22e699654cd21",
+    "elapsedMinutes": [
+      0,
+      14,
+      109,
+      156,
+      225,
+      262,
+      296,
+      327,
+      341,
+      366,
+      393
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9314",
+    "category": "K",
+    "stopNames": [
+      "湛江",
+      "遂溪",
+      "廉江",
+      "河唇",
+      "文地",
+      "陆川",
+      "玉林",
+      "贵港",
+      "黎塘",
+      "南宁东",
+      "南宁"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9314.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5d2d8ac593e576cb8f076542502ba6c2a30cecc6b444e07266c77f9e1ff9f149",
+    "elapsedMinutes": [
+      0,
+      22,
+      45,
+      61,
+      91,
+      126,
+      161,
+      230,
+      280,
+      389,
+      410
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9316",
+    "category": "K",
+    "stopNames": [
+      "湛江",
+      "陆川",
+      "玉林",
+      "贵港",
+      "来宾",
+      "柳州",
+      "宜州",
+      "金城江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9316.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "113d0aa51fe0119cf28524934db6a6d393ea893a62eadbca81c9b433144dba42",
+    "elapsedMinutes": [
+      0,
+      101,
+      136,
+      210,
+      304,
+      365,
+      454,
+      520
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9317",
+    "category": "K",
+    "stopNames": [
+      "湛江",
+      "陆川",
+      "玉林",
+      "贵港",
+      "来宾",
+      "柳州",
+      "宜州",
+      "金城江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9317.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "622b0e0f6b5ed6650873f0cd6127f0595961177df760d1779e3a4133912ba115",
+    "elapsedMinutes": [
+      0,
+      101,
+      136,
+      210,
+      304,
+      365,
+      454,
+      520
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9327",
+    "category": "K",
+    "stopNames": [
+      "融安",
+      "融水",
+      "罗城",
+      "柳州",
+      "来宾",
+      "贵港",
+      "兴业",
+      "玉林",
+      "陆川",
+      "河唇",
+      "廉江",
+      "遂溪",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9327.html",
+    "sourceUpdatedAt": "2026-05-06",
+    "sourceSha256": "23ec13c247cfdbd9b953cd8aeb33503be4f8a11ef866898cd9b2e65776d58c65",
+    "elapsedMinutes": [
+      0,
+      20,
+      49,
+      130,
+      194,
+      298,
+      342,
+      374,
+      411,
+      469,
+      482,
+      507,
+      534
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T871",
+    "category": "T",
+    "stopNames": [
+      "成都西",
+      "重庆西",
+      "遵义",
+      "贵阳",
+      "都匀",
+      "金城江",
+      "柳州",
+      "贵港",
+      "玉林",
+      "陆川",
+      "河唇",
+      "廉江",
+      "遂溪",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t871.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "94430283cb3ead9a763cf7e3c681ea19e62f90577e14c0274843ca0364e124f5",
+    "elapsedMinutes": [
+      0,
+      203,
+      341,
+      456,
+      569,
+      759,
+      907,
+      1060,
+      1124,
+      1162,
+      1220,
+      1234,
+      1261,
+      1294
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T872",
+    "category": "T",
+    "stopNames": [
+      "湛江",
+      "遂溪",
+      "廉江",
+      "河唇",
+      "文地",
+      "陆川",
+      "玉林",
+      "贵港",
+      "柳州",
+      "宜州",
+      "金城江",
+      "南丹",
+      "贵阳",
+      "遵义",
+      "重庆西",
+      "合川",
+      "潼南",
+      "成都西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t872.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "faf9ff49bf4749d5cd4c0e143fef7ee23ad1c6f4485884a3e4967da48c962e40",
+    "elapsedMinutes": [
+      0,
+      21,
+      43,
+      56,
+      84,
+      118,
+      152,
+      216,
+      367,
+      450,
+      496,
+      547,
+      756,
+      867,
+      997,
+      1071,
+      1105,
+      1253
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T8722",
+    "category": "T",
+    "stopNames": [
+      "湛江",
+      "遂溪",
+      "廉江",
+      "陆川",
+      "玉林",
+      "贵港"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t8722.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "2070ed6ef357ab5bbd6d2c3ef198fe438e4abc64f000fa1d82c141e6a5467d7c",
+    "elapsedMinutes": [
+      0,
+      21,
+      43,
+      107,
+      142,
+      209
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T8723",
+    "category": "T",
+    "stopNames": [
+      "贵港",
+      "兴业",
+      "玉林",
+      "陆川",
+      "文地",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t8723.html",
+    "sourceUpdatedAt": "2026-02-13",
+    "sourceSha256": "8c49a2d6afed6087a4894e8076279f164109c1a980ac90415d23766898bf6a09",
+    "elapsedMinutes": [
+      0,
+      39,
+      72,
+      109,
+      143,
+      217
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T8725",
+    "category": "T",
+    "stopNames": [
+      "金城江",
+      "宜州",
+      "柳州",
+      "来宾",
+      "贵港",
+      "玉林",
+      "陆川",
+      "文地",
+      "河唇",
+      "廉江",
+      "遂溪",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t8725.html",
+    "sourceUpdatedAt": "2026-06-08",
+    "sourceSha256": "107f8ee8f6695e254442d36041efaa67d7e3946570dbc92f7c6a8df9899cab5f",
+    "elapsedMinutes": [
+      0,
+      46,
+      131,
+      196,
+      299,
+      368,
+      405,
+      439,
+      470,
+      484,
+      509,
+      537
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T8726",
+    "category": "T",
+    "stopNames": [
+      "湛江",
+      "遂溪",
+      "廉江",
+      "河唇",
+      "文地",
+      "陆川",
+      "玉林",
+      "贵港",
+      "来宾",
+      "柳州",
+      "罗城",
+      "融水",
+      "融安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t8726.html",
+    "sourceUpdatedAt": "2026-06-05",
+    "sourceSha256": "74829209f86598d97339dcae4245e8393696f275ce671c9d09fd4defbf2d0b49",
+    "elapsedMinutes": [
+      0,
+      21,
+      43,
+      56,
+      84,
+      118,
+      151,
+      218,
+      309,
+      364,
+      443,
+      472,
+      498
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T8728",
+    "category": "T",
+    "stopNames": [
+      "金城江",
+      "宜州",
+      "柳州",
+      "来宾",
+      "贵港",
+      "玉林",
+      "陆川",
+      "文地",
+      "河唇",
+      "廉江",
+      "遂溪",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t8728.html",
+    "sourceUpdatedAt": "2026-06-08",
+    "sourceSha256": "7946ccc832951732dd8b244725f06191d78fd98e2ffdc11434f0e59b2a52f095",
+    "elapsedMinutes": [
+      0,
+      46,
+      131,
+      196,
+      299,
+      368,
+      405,
+      439,
+      470,
+      484,
+      509,
+      537
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T873",
+    "category": "T",
+    "stopNames": [
+      "湛江",
+      "遂溪",
+      "廉江",
+      "河唇",
+      "文地",
+      "陆川",
+      "玉林",
+      "贵港",
+      "柳州",
+      "宜州",
+      "金城江",
+      "南丹",
+      "贵阳",
+      "遵义",
+      "重庆西",
+      "合川",
+      "潼南",
+      "成都西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t873.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f1fb98972c86e7e4e84799bdd02865196480c9bbc92107f6daf09e6e05b6016c",
+    "elapsedMinutes": [
+      0,
+      21,
+      43,
+      56,
+      84,
+      118,
+      152,
+      216,
+      367,
+      450,
+      496,
+      547,
+      756,
+      867,
+      997,
+      1071,
+      1105,
+      1253
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T874",
+    "category": "T",
+    "stopNames": [
+      "成都西",
+      "重庆西",
+      "遵义",
+      "贵阳",
+      "都匀",
+      "金城江",
+      "柳州",
+      "贵港",
+      "玉林",
+      "陆川",
+      "河唇",
+      "廉江",
+      "遂溪",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t874.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0e8055394739e425f7992113c1e2be7f0aaf00272dfd8126afeb97098156eeeb",
+    "elapsedMinutes": [
+      0,
+      203,
+      341,
+      456,
+      569,
+      759,
+      907,
+      1060,
+      1124,
+      1162,
+      1220,
+      1234,
+      1261,
+      1294
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y115",
+    "category": "OTHER",
+    "stopNames": [
+      "贵阳",
+      "麻尾",
+      "柳州",
+      "玉林",
+      "河唇",
+      "塘口",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y115.html",
+    "sourceUpdatedAt": "2026-04-09",
+    "sourceSha256": "4a5c749fa7767109f8549f19c69fb599e1b9c15e74f3c5bb5f8ec8629c272cfe",
+    "elapsedMinutes": [
+      0,
+      178,
+      556,
+      845,
+      965,
+      1009,
+      1088
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y118",
+    "category": "OTHER",
+    "stopNames": [
+      "贵阳",
+      "麻尾",
+      "柳州",
+      "玉林",
+      "河唇",
+      "塘口",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y118.html",
+    "sourceUpdatedAt": "2026-04-09",
+    "sourceSha256": "c810ec3fc0096b0e51d30caef7286a87fdb5e43d7ed6f162ff99a5bf5a593ea4",
+    "elapsedMinutes": [
+      0,
+      178,
+      556,
+      845,
+      965,
+      1009,
+      1088
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y872",
+    "category": "OTHER",
+    "stopNames": [
+      "兴义",
+      "百色",
+      "南宁",
+      "玉林",
+      "廉江",
+      "遂溪",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y872.html",
+    "sourceUpdatedAt": "2026-08-09",
+    "sourceSha256": "e6caf9544206bc569b7634879f511c8fa2d512a0a196a2f0d96073d524191393",
+    "elapsedMinutes": [
+      0,
+      255,
+      464,
+      682,
+      819,
+      845,
+      872
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y873",
+    "category": "OTHER",
+    "stopNames": [
+      "兴义",
+      "百色",
+      "南宁",
+      "玉林",
+      "廉江",
+      "遂溪",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y873.html",
+    "sourceUpdatedAt": "2026-08-09",
+    "sourceSha256": "a6521259247a2f7d043afcbd252e7ec6d2cb4c3b24138957794e39ca91c1f9ee",
+    "elapsedMinutes": [
+      0,
+      255,
+      464,
+      682,
+      819,
+      845,
+      872
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y881",
+    "category": "OTHER",
+    "stopNames": [
+      "桂林北",
+      "柳州",
+      "贵港",
+      "玉林",
+      "湛江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y881.html",
+    "sourceUpdatedAt": "2026-03-19",
+    "sourceSha256": "dba8ff72d2c3f6001ef012c1c0830af14c57bd98e89c58a188fb9ec976e0337c",
+    "elapsedMinutes": [
+      0,
+      191,
+      350,
+      435,
+      660
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

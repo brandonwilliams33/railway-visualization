@@ -1,0 +1,210 @@
+[
+  {
+    "trainNumber": "8361",
+    "category": "OTHER",
+    "stopNames": [
+      "汉中",
+      "勉县",
+      "宁强",
+      "阳平关",
+      "阳平关",
+      "略阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/8361.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "216505916edeb550571a33eb57dd8433ca5d5a5c1adcf8cbce8d0e6c2ffe9127",
+    "elapsedMinutes": [
+      0,
+      29,
+      64,
+      95,
+      97,
+      214
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "8362",
+    "category": "OTHER",
+    "stopNames": [
+      "阳平关",
+      "宁强",
+      "勉县",
+      "汉中"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/8362.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "19a51fdbae97b8a23a765b6119d56e342fe54c8ce9a69800213d698cc3996813",
+    "elapsedMinutes": [
+      0,
+      29,
+      69,
+      99
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "8364",
+    "category": "OTHER",
+    "stopNames": [
+      "汉中",
+      "勉县",
+      "宁强",
+      "阳平关",
+      "阳平关",
+      "略阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/8364.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f966e1199bfe303353515efa3791ea23fd273fdf9bf5470f4939b47aa189751f",
+    "elapsedMinutes": [
+      0,
+      29,
+      64,
+      95,
+      97,
+      214
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C216",
+    "category": "C",
+    "stopNames": [
+      "阳平关",
+      "宁强",
+      "勉县",
+      "汉中"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c216.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "51f84edb0548557a2e15365dc0990f74fbb41f79da3125752dadf14f5d7318f4",
+    "elapsedMinutes": [
+      0,
+      22,
+      56,
+      85
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6891",
+    "category": "D",
+    "stopNames": [
+      "汉中",
+      "宁强南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6891.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "60ad43a17e31a4153f09190094e86a9a8633b8bc1a3ceab75dbb75ae47cd3f55",
+    "elapsedMinutes": [
+      0,
+      26
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8221",
+    "category": "K",
+    "stopNames": [
+      "安康",
+      "汉阴",
+      "石泉县",
+      "西乡",
+      "城固",
+      "汉中"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8221.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bed47343bc32ee7edb3eb870a9be969b156542151e55e18f53cf76133392c6ba",
+    "elapsedMinutes": [
+      0,
+      39,
+      83,
+      121,
+      173,
+      202
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8223",
+    "category": "K",
+    "stopNames": [
+      "安康",
+      "汉阴",
+      "石泉县",
+      "西乡",
+      "城固",
+      "汉中"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8223.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "26a75a5decd94c3de1af0a0bc147de1d8b248c5e7c9ad22c9c8d89d5579bcb4c",
+    "elapsedMinutes": [
+      0,
+      42,
+      70,
+      101,
+      134,
+      160
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K8224",
+    "category": "K",
+    "stopNames": [
+      "汉中",
+      "治江",
+      "城固",
+      "西乡",
+      "石泉县",
+      "安康"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8224.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "521f35a7d9629b6fd5afcefd2704b7348030bcedd738e49e1b28e3d67058ff7c",
+    "elapsedMinutes": [
+      0,
+      16,
+      27,
+      75,
+      119,
+      188
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

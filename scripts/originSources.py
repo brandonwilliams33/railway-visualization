@@ -5,7 +5,9 @@ RAW=Path(__file__).resolve().parents[1]/'data/raw'
 def read(path):return json.loads(path.read_text())
 def indexes():
     result=[{**s,'province':'江苏','provinceId':'jiangsu'} for s in read(RAW/'jiangsu-station-index.json')]
-    for path in sorted(RAW.glob('city-*-station-index.json')):result.extend(read(path))
+    for path in sorted(RAW.glob('city-*-station-index.json')):
+        # Never expose a city's interrupted collection as a finished origin.
+        if path.with_name(path.name.replace('-station-index.json','-acquisition.json')).exists():result.extend(read(path))
     release_path=RAW/'expansion-release.json'
     paused=set(read(release_path).get('pausedCityIds',[])) if release_path.exists() else set()
     result=[s for s in result if s['cityId'] not in paused]
@@ -15,6 +17,16 @@ def indexes():
     exclusions_path=RAW/'origin-index-exclusions.json'
     excluded={(s['name'],s['cityId']) for s in read(exclusions_path)} if exclusions_path.exists() else set()
     result=[s for s in result if (s['name'],s['cityId']) not in excluded]
+    from stationNames import canonical
+    normalized={}
+    for station in result:
+        name=canonical(station['name'])
+        entry={**station,'name':name}
+        if name in normalized:
+            assert normalized[name]['cityId']==entry['cityId'],'Conflicting station catalogue identities: '+name
+            if len(entry.get('candidateTrainNumbers',[]))<len(normalized[name].get('candidateTrainNumbers',[])):continue
+        normalized[name]=entry
+    result=list(normalized.values())
     assert len({s['name'] for s in result})==len(result),'Duplicate origin names'
     return result
 def services():

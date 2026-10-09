@@ -38,6 +38,10 @@ def acquire(province,city,province_name,catalog_page=None):
                 result=future.result()
                 if result is not None:index[futures[future]]=result;save(index_path,index)
     codes={c for s in index for c in s.get('candidateTrainNumbers',[])};known=services();missing=sorted(codes-set(known))
+    exclusion_path=RAW/'service-source-exclusions.json'
+    if exclusion_path.exists():
+        quarantine={e['trainNumber']:e for e in json.loads(exclusion_path.read_text())}
+        missing=[c for c in missing if c not in quarantine or not any(c in s.get('candidateTrainNumbers',[]) and s.get('sourceUpdatedAt')==quarantine[c]['sourceUpdatedAt'] for s in index)]
     service_path=RAW/f'city-{key}-services.json';records=json.loads(service_path.read_text()) if service_path.exists() else []
     print(key,'stations',len(index),'new services',len(missing),flush=True);failures=[]
     def read_service(code):return parse_service(code,fetch(BASE+'/huoche/'+code.lower()+'.html'))

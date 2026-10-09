@@ -1,0 +1,74 @@
+[
+  {
+    "trainNumber": "D4575",
+    "category": "D",
+    "stopNames": [
+      "西安北",
+      "汉中",
+      "广元",
+      "绵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4575.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "e4b1d1591fbffee986a370bceeff22a41171e66eb329c704c616b34d8bd5d047",
+    "elapsedMinutes": [
+      0,
+      73,
+      122,
+      176
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4189",
+    "category": "G",
+    "stopNames": [
+      "西安北",
+      "汉中",
+      "广元",
+      "剑门关",
+      "绵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4189.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "c07c6903215360950c17b7394e67bf83dea0aa94174cb1f80ac93074e462f189",
+    "elapsedMinutes": [
+      0,
+      69,
+      117,
+      135,
+      195
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4857",
+    "category": "K",
+    "stopNames": [
+      "广元",
+      "江油",
+      "绵阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4857.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "b77e9c498118daf1b10b742faff1822e6d2210ad108e4cf47cae3e2ada191ebf",
+    "elapsedMinutes": [
+      1873,
+      2054,
+      2099
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

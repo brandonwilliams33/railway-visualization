@@ -1,0 +1,234 @@
+[
+  {
+    "trainNumber": "C8921",
+    "category": "C",
+    "stopNames": [
+      "西安东",
+      "富平南",
+      "铜川",
+      "洛川",
+      "延安",
+      "潮汕",
+      "汕头"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8921.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c52b3bfaa77c8397cd1f8ee836d2ff1faed7fb6674167ef9054a95fab21d24ca",
+    "elapsedMinutes": [
+      0,
+      21,
+      37,
+      68,
+      95,
+      213,
+      241
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8924",
+    "category": "C",
+    "stopNames": [
+      "西安东",
+      "富平南",
+      "铜川",
+      "洛川",
+      "延安",
+      "潮汕",
+      "汕头"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8924.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "45402bc6bdb1c8d97a7e2e8778f703ee99aae2cddab615f8c4446f3eb2ae2558",
+    "elapsedMinutes": [
+      0,
+      21,
+      37,
+      68,
+      95,
+      213,
+      241
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8929",
+    "category": "C",
+    "stopNames": [
+      "西安北",
+      "富平南",
+      "铜川",
+      "梅州西",
+      "揭阳",
+      "潮汕",
+      "汕头"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8929.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f2bfa0144f5426d5ba9b79f05769d99011ec50433119d3600a388ee30f3ffc4c",
+    "elapsedMinutes": [
+      0,
+      22,
+      38,
+      133,
+      166,
+      186,
+      214
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8932",
+    "category": "C",
+    "stopNames": [
+      "西安北",
+      "富平南",
+      "铜川",
+      "梅州西",
+      "揭阳",
+      "潮汕",
+      "汕头"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8932.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c0cfe09c40443e428785f89781849cf0480f764b6df8d32030628cb631671fae",
+    "elapsedMinutes": [
+      0,
+      22,
+      38,
+      133,
+      166,
+      186,
+      214
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7319",
+    "category": "D",
+    "stopNames": [
+      "梅州西",
+      "畲江北",
+      "建桥",
+      "丰顺东",
+      "揭阳",
+      "揭阳机场",
+      "潮汕",
+      "汕头"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7319.html",
+    "sourceUpdatedAt": "2026-08-15",
+    "sourceSha256": "0419af9e1ebe6a0953021b0230aa0671e131b546f5f0f3d0dbb9565f6be64523",
+    "elapsedMinutes": [
+      0,
+      12,
+      24,
+      36,
+      50,
+      64,
+      83,
+      111
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7332",
+    "category": "D",
+    "stopNames": [
+      "汕头",
+      "潮安",
+      "潮汕",
+      "揭阳机场",
+      "揭阳",
+      "丰顺东",
+      "建桥",
+      "梅州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7332.html",
+    "sourceUpdatedAt": "2026-08-15",
+    "sourceSha256": "bfa721ebc798374676dadbc31e4278708c71ebd72377871db416b1300dc86d46",
+    "elapsedMinutes": [
+      0,
+      11,
+      28,
+      43,
+      56,
+      71,
+      82,
+      106
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6261",
+    "category": "G",
+    "stopNames": [
+      "潮汕",
+      "汕头"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6261.html",
+    "sourceUpdatedAt": "2026-09-08",
+    "sourceSha256": "dc0cc5a5d26c55d46b952569ea9a83606fbead0f3f288444b990a6834553e23e",
+    "elapsedMinutes": [
+      114,
+      142
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G6389",
+    "category": "G",
+    "stopNames": [
+      "汕头",
+      "陆丰东",
+      "汕尾",
+      "惠州南",
+      "深圳北",
+      "香港西九龙"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g6389.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8a1435148a06bd7072e5f7b7d9174588e14489e79f5beaedca5f547532f727f0",
+    "elapsedMinutes": [
+      0,
+      29,
+      47,
+      78,
+      123,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

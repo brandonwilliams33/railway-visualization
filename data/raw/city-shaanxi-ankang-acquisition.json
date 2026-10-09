@@ -1,0 +1,18 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "安康",
+  "stationCount": 14,
+  "candidateServices": 293,
+  "acquiredAdditionalServices": 1,
+  "failedPages": [
+    {
+      "trainNumber": "C4134",
+      "error": "No complete passenger stop table"
+    },
+    {
+      "trainNumber": "C8194",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

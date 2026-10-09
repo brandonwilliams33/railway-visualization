@@ -1,0 +1,166 @@
+[
+  {
+    "trainNumber": "D8556",
+    "category": "D",
+    "stopNames": [
+      "从江",
+      "榕江",
+      "都匀东",
+      "龙洞堡",
+      "贵阳东",
+      "毕节",
+      "威信",
+      "长宁",
+      "宜宾西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8556.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "e68c5dd2e459ad8c85ea5cd8aaa9262959aee95024461653b2a95e2b69662c3c",
+    "elapsedMinutes": [
+      0,
+      19,
+      52,
+      86,
+      105,
+      156,
+      183,
+      217,
+      236
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8557",
+    "category": "D",
+    "stopNames": [
+      "宜宾西",
+      "威信",
+      "毕节",
+      "黔西",
+      "贵阳北",
+      "贵阳",
+      "都匀东",
+      "荔波"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8557.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "139620d9ec3d328c1c03e8d282e6026db79375a05e70b4c3fdf9b4ceecdf4971",
+    "elapsedMinutes": [
+      0,
+      44,
+      72,
+      101,
+      138,
+      153,
+      195,
+      228
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8560",
+    "category": "D",
+    "stopNames": [
+      "从江",
+      "榕江",
+      "都匀东",
+      "龙洞堡",
+      "贵阳东",
+      "毕节",
+      "威信",
+      "兴文",
+      "宜宾西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8560.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "43ac5061b0ed3efd8a421c0a3a97a4f0e3e6593848cb9f71923047eafeca3eda",
+    "elapsedMinutes": [
+      0,
+      19,
+      52,
+      87,
+      104,
+      156,
+      183,
+      205,
+      236
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8567",
+    "category": "D",
+    "stopNames": [
+      "宜宾西",
+      "威信",
+      "毕节",
+      "黔西",
+      "贵阳北",
+      "贵阳",
+      "都匀东",
+      "独山东",
+      "荔波"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8567.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "a1780f748f366ef5abe1c2c850886b12c746476fa9a5cc5acbd9ce0b428e4865",
+    "elapsedMinutes": [
+      0,
+      43,
+      71,
+      101,
+      137,
+      153,
+      195,
+      211,
+      234
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8780",
+    "category": "G",
+    "stopNames": [
+      "贵阳北",
+      "黔西",
+      "毕节",
+      "镇雄",
+      "威信",
+      "兴文",
+      "宜宾西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8780.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "a64491b09e84f559faa79b17c9153f27d20b4d8ad1ba9f905f219d57d1c7eaa0",
+    "elapsedMinutes": [
+      0,
+      30,
+      80,
+      100,
+      118,
+      140,
+      167
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

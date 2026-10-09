@@ -11,11 +11,12 @@ def fetch(base,args):
   except urllib.error.HTTPError as error:
    if error.code not in (429,503) or attempt==3:raise
    time.sleep([5,15,30][attempt])
-parser=argparse.ArgumentParser();parser.add_argument('--all-needed',action='store_true');args=parser.parse_args()
+parser=argparse.ArgumentParser();parser.add_argument('--all-needed',action='store_true');parser.add_argument('--names',type=Path,help='Explicit Chinese station names as a JSON array');args=parser.parse_args()
 names=set(json.loads((root/'data/audit.json').read_text())['summary']['unlocatedStations'])
 if args.all_needed:
  resolution=json.loads((root/'data/raw/coordinate-resolution.json').read_text())
  names.update(resolution['unlocatedStations']);names.update(resolution['unlocatedOrigins'])
+if args.names:names=set(json.loads(args.names.read_text()))
 names=sorted(n for n in names if ' ' not in n)
 known={s['name'] for s in json.loads((root/'data/raw/stations.json').read_text())}
 names=[n for n in names if n not in known]
@@ -36,9 +37,9 @@ for offset in range(0,len(ids),40):
  if 'error' in response:raise ValueError('Wikidata: '+response['error'].get('info','API error'))
  e['entities'].update(response['entities'])
 previous=root/'data/raw/wikidata-coordinate-evidence.json'
-facts=[f for f in json.loads(previous.read_text()) if f['name'] not in names] if previous.exists() else []
+facts=json.loads(previous.read_text()) if previous.exists() else []
 identity_path=root/'data/raw/wikidata-station-identities.json'
-identities=[f for f in json.loads(identity_path.read_text()) if f['name'] not in names] if identity_path.exists() else []
+identities=json.loads(identity_path.read_text()) if identity_path.exists() else []
 for sid,entity in e['entities'].items():
  descriptions=[v['value'] for v in entity.get('descriptions',{}).values()]
  instances=[c['mainsnak'].get('datavalue',{}).get('value',{}).get('id') for c in entity.get('claims',{}).get('P31',[])]
@@ -50,6 +51,7 @@ for sid,entity in e['entities'].items():
   identities.append({'name':ids[sid],'wikidataId':sid,'sourceUrl':'https://www.wikidata.org/wiki/'+sid,'labels':entity.get('labels',{}),'descriptions':entity.get('descriptions',{}),'instanceOf':instances})
  if len(coords)==1 and railway_identity:
   facts.append({'name':ids[sid],'wikidataId':sid,'coordinate':coords[0],'sourceUrl':'https://www.wikidata.org/wiki/'+sid,'labels':entity.get('labels',{}),'descriptions':entity.get('descriptions',{}),'instanceOf':instances})
-(root/'data/raw/wikidata-coordinate-evidence.json').write_text(json.dumps(facts,ensure_ascii=False,indent=2)+'\n')
+from acquireJiangsu import save
+save(previous,list({f['name']:f for f in facts}.values()))
 
-identity_path.write_text(json.dumps(identities,ensure_ascii=False,indent=2)+'\n')
+save(identity_path,list({f['name']:f for f in identities}.values()))

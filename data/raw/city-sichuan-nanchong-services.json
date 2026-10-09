@@ -1,0 +1,86 @@
+[
+  {
+    "trainNumber": "C4060",
+    "category": "C",
+    "stopNames": [
+      "阆中",
+      "南部"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4060.html",
+    "sourceUpdatedAt": "2026-06-17",
+    "sourceSha256": "0a09b3c25db7c8192e60326ef79fd0636cd9a6359a53a053ea55f7298ce544ec",
+    "elapsedMinutes": [
+      0,
+      12
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4410",
+    "category": "C",
+    "stopNames": [
+      "营山",
+      "达州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4410.html",
+    "sourceUpdatedAt": "2026-01-02",
+    "sourceSha256": "9b2a9bcb1852680fdf227afcfabcdcbecc6246c6484374e57f64aa2707c91e32",
+    "elapsedMinutes": [
+      0,
+      47
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4188",
+    "category": "K",
+    "stopNames": [
+      "南充",
+      "营山",
+      "达州",
+      "安康"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4188.html",
+    "sourceUpdatedAt": "2026-03-10",
+    "sourceSha256": "dc92109723a8d36fbb75b44005aea19f5fe4aa25219e1d41943a51ac1f1cedf0",
+    "elapsedMinutes": [
+      0,
+      34,
+      114,
+      287
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4617",
+    "category": "K",
+    "stopNames": [
+      "达州",
+      "南充"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4617.html",
+    "sourceUpdatedAt": "2026-03-11",
+    "sourceSha256": "1d94b13ac70d598e23342cf89981b901b82aa0f0b9f314983f6fee08cdc7e8c2",
+    "elapsedMinutes": [
+      1516,
+      1622
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

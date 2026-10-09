@@ -1,0 +1,42 @@
+[
+  {
+    "trainNumber": "C773",
+    "category": "C",
+    "stopNames": [
+      "茂县",
+      "松潘"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c773.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "460cd6c5f98fa5109e880b98d35a2f92bb1f97a6f3448572154081e2d1331414",
+    "elapsedMinutes": [
+      0,
+      52
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C774",
+    "category": "C",
+    "stopNames": [
+      "松潘",
+      "茂县"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c774.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2a8e0af96bde96f7a22a0016dcd8ba2aa61fc48d61b4c03047d339bb8af4256b",
+    "elapsedMinutes": [
+      0,
+      48
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

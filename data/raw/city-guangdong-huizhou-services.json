@@ -1,0 +1,124 @@
+[
+  {
+    "trainNumber": "C4721",
+    "category": "C",
+    "stopNames": [
+      "常平东",
+      "樟木头东",
+      "银瓶",
+      "沥林北",
+      "陈江南",
+      "惠环",
+      "龙丰",
+      "西湖东",
+      "云山",
+      "小金口",
+      "惠州 北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4721.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4d3a723357e53e7c293af80dd1350d1f883c9b42db70afb4082a13a1ae33b782",
+    "elapsedMinutes": [
+      0,
+      6,
+      11,
+      18,
+      27,
+      33,
+      39,
+      43,
+      48,
+      55,
+      65
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9719",
+    "category": "G",
+    "stopNames": [
+      "潮汕",
+      "普宁",
+      "汕尾",
+      "鲘门",
+      "惠阳",
+      "深圳坪山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9719.html",
+    "sourceUpdatedAt": "2026-07-02",
+    "sourceSha256": "51843e8840bc085c48c5ef9ef235a8ed504fbbf7d4cbb19290105c1c582dde7b",
+    "elapsedMinutes": [
+      0,
+      17,
+      48,
+      62,
+      88,
+      99
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4222",
+    "category": "K",
+    "stopNames": [
+      "东莞东",
+      "惠州",
+      "河源",
+      "龙川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4222.html",
+    "sourceUpdatedAt": "2026-02-10",
+    "sourceSha256": "a6f077241dbdef41a9510653b91d924a101d0de13fb37d656e5d969002d043aa",
+    "elapsedMinutes": [
+      0,
+      43,
+      98,
+      156
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S4751",
+    "category": "OTHER",
+    "stopNames": [
+      "东莞西",
+      "西平西",
+      "松山湖北",
+      "常平南",
+      "陈江南",
+      "西湖东",
+      "云山",
+      "小金口"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s4751.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5eb70d475506dd5a52a659500f7d647bf9acc5bcc26e81b1c53c2bc70f608075",
+    "elapsedMinutes": [
+      0,
+      9,
+      21,
+      29,
+      48,
+      60,
+      66,
+      74
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

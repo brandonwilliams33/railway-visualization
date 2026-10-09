@@ -20,13 +20,20 @@ def build():
     from originSources import indexes as origin_indexes, services as source_services
     indexes=origin_indexes()
     origin_names={s['name'] for s in indexes if s['name'] in by_name and by_name[s['name']]['provinceId']==s['provinceId']}
+    from stationNames import canonical,ALIASES
+    for former,current in ALIASES.items():
+        if current in by_name:by_name[former]=by_name[current]
     rows=source_services()
     js_acquisition=load('jiangsu-acquisition.json')
-    acquisition['retrievedAt']=max([js_acquisition['retrievedAt']]+[s.get('retrievedAt','') for s in indexes])
+    city_dates=[json.loads(p.read_text()).get('retrievedAt','') for p in RAW.glob('city-*-acquisition.json')]
+    acquisition['retrievedAt']=max([js_acquisition['retrievedAt'],*city_dates,*[s.get('retrievedAt','') for s in indexes]])
     acquisition['candidates']=len({c for s in indexes for c in s.get('candidateTrainNumbers',[])})
+    source_exclusion_path=RAW/'service-source-exclusions.json'
+    source_exclusions=json.loads(source_exclusion_path.read_text()) if source_exclusion_path.exists() else []
+    quarantined_codes={e['trainNumber'] for e in source_exclusions if any(e['trainNumber'] in s.get('candidateTrainNumbers',[]) and s.get('sourceUpdatedAt')==e['sourceUpdatedAt'] for s in indexes)}
     acquired=set(rows)
     candidate_codes={code for s in indexes for code in s.get('candidateTrainNumbers',[])}
-    acquisition['failedPages']=[f'/huoche/{code.lower()}.html' for code in sorted(candidate_codes-acquired)]
+    acquisition['failedPages']=[f'/huoche/{code.lower()}.html' for code in sorted(candidate_codes-acquired-quarantined_codes)]
     services=[];rejected=[];temporary=[];nonpassenger=[];malformed=[]
     missing=set();invalid_timing=[];impossible_timing={};unverified_ticketability=[]
     ticket_evidence={r['trainNumber']:r for r in load('public-ticket-evidence.json')['services']}
@@ -36,13 +43,14 @@ def build():
             nonpassenger.append(code);continue
         if (code[0] in 'GDK' and len(code[1:])==4 and code[1] in '459') or code.startswith('L'):
             temporary.append(code);continue
-        if not origin_names.intersection(r['stopNames']):
+        if not origin_names.intersection(canonical(n) for n in r['stopNames']):
             rejected.append(code);continue
         if r.get('sourceValidation',{}).get('elapsedTimeMonotonic') is False:
             invalid_timing.append(code);continue
         if any(' ' in n for n in r['stopNames']):
             malformed.append(code);continue
-        names=[n for i,n in enumerate(r['stopNames']) if i==0 or n!=r['stopNames'][i-1]]
+        canonical_stops=[canonical(n) for n in r['stopNames']]
+        names=[n for i,n in enumerate(canonical_stops) if i==0 or n!=canonical_stops[i-1]]
         if len(names)!=len(set(names)):
             malformed.append(code);continue
         impossible=impossible_intervals(r,by_name)
@@ -53,7 +61,7 @@ def build():
         missing.update(n for n in names if n not in by_name)
         known=[by_name[n]['id'] for n in names if n in by_name]
         services.append({'id':'svc-'+code.lower(),'trainNumber':code,'category':r['category'],'stations':known,
-            'completeStopNames':names,'unknownStopNames':[n for n in names if n not in by_name],
+            'completeStopNames':names,**({'sourceStopNames':r['stopNames']} if names!=r['stopNames'] else {}),'unknownStopNames':[n for n in names if n not in by_name],
             'passenger':True,'sourceUrl':r['sourceUrl'],'sourceUpdatedAt':r['sourceUpdatedAt'],'segmentIds':[]})
     # Every departure station is an independent origin. Published stop lists
     # create direct destinations; geometry is built separately afterward.
@@ -111,6 +119,7 @@ def build():
     audit['impossibleTimingDetails']=impossible_timing
     audit['quarantinedOriginEntries']=load('origin-index-exclusions.json')
     audit['correctedOriginEntries']=load('origin-index-corrections.json')
+    audit['quarantinedSourcePages']=source_exclusions
     audit['missingDrawingIntervals']=[{'trainNumber':service['trainNumber'],'from':station_name_by_id[service['stations'][i]],'to':station_name_by_id[service['stations'][i+1]],'sourceUrl':service['sourceUrl']} for service in services for i,leg in enumerate(service['segmentIds']) if not leg]
     (ROOT/'data/audit.json').write_text(json.dumps(audit,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps({'origins':len(origins),'cities':len({s['cityId'] for s in origins}),'stations':len(data['stations']),'segments':len(data['segments']),'services':len(services),'audit':data['audit']},ensure_ascii=False))

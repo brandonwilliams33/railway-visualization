@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "延安",
+  "stationCount": 9,
+  "candidateServices": 274,
+  "acquiredAdditionalServices": 3,
+  "failedPages": [],
+  "stationIssues": [
+    "洛川东"
+  ]
+}

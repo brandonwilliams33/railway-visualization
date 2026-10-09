@@ -1,0 +1,478 @@
+[
+  {
+    "trainNumber": "6063",
+    "category": "OTHER",
+    "stopNames": [
+      "宝鸡",
+      "秦岭",
+      "凤州",
+      "凤县",
+      "宏庆",
+      "两当",
+      "徽县",
+      "白水江",
+      "略阳",
+      "阳平关",
+      "燕子砭",
+      "朝天南",
+      "广元"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6063.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "affaf37ee3b442b439132be3efed70acc003265ae59205b519216f0d3a7912ad",
+    "elapsedMinutes": [
+      0,
+      73,
+      146,
+      174,
+      190,
+      229,
+      259,
+      292,
+      353,
+      447,
+      464,
+      516,
+      570
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6064",
+    "category": "OTHER",
+    "stopNames": [
+      "广元",
+      "朝天南",
+      "燕子砭",
+      "阳平关",
+      "略阳",
+      "白水江",
+      "徽县",
+      "两当",
+      "宏庆",
+      "凤县",
+      "凤州",
+      "秦岭",
+      "宝鸡"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6064.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "73a0b2c69da14b5b77f96771fcf14703fff6cb256ac70c020c0cdeede119dbf8",
+    "elapsedMinutes": [
+      0,
+      40,
+      91,
+      109,
+      215,
+      285,
+      373,
+      418,
+      445,
+      460,
+      488,
+      554,
+      643
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6067",
+    "category": "OTHER",
+    "stopNames": [
+      "广元",
+      "姚渡",
+      "陇南",
+      "哈达铺",
+      "岷县",
+      "漳县",
+      "渭源",
+      "兰州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6067.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ed33a53041a10cd13c11006759fa56b14fea53c820bbd6876b1c27f8f71eb14e",
+    "elapsedMinutes": [
+      0,
+      53,
+      123,
+      217,
+      255,
+      281,
+      312,
+      429
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6068",
+    "category": "OTHER",
+    "stopNames": [
+      "兰州",
+      "渭源",
+      "漳县",
+      "岷县",
+      "哈达铺",
+      "陇南",
+      "姚渡",
+      "广元"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6068.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "09cf09996387b5bf5838f47b4d78c17962aa65b8db0c74b5de17e027ca428cc5",
+    "elapsedMinutes": [
+      0,
+      91,
+      122,
+      158,
+      177,
+      263,
+      334,
+      379
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C249",
+    "category": "C",
+    "stopNames": [
+      "阆中",
+      "苍溪",
+      "广元"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c249.html",
+    "sourceUpdatedAt": "2026-04-13",
+    "sourceSha256": "9de5bf9263a99832891891218d68446683449064fa11813b797983cf0b22d28b",
+    "elapsedMinutes": [
+      0,
+      14,
+      60
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C36",
+    "category": "C",
+    "stopNames": [
+      "广元",
+      "苍溪"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c36.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3fb76788b7d33e73e53536c7557de1a445aafe1b53e95b6052ed05925ebe4ae2",
+    "elapsedMinutes": [
+      0,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C37",
+    "category": "C",
+    "stopNames": [
+      "苍溪",
+      "广元"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c37.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6f8350203dbb1621bc0465be8e9717d6edcc785c275b80c65a85497f0fca27a9",
+    "elapsedMinutes": [
+      0,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C685",
+    "category": "C",
+    "stopNames": [
+      "姚渡",
+      "陇南",
+      "哈达铺",
+      "岷县",
+      "漳县",
+      "渭源",
+      "兰州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c685.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "94c2b231fdd29ac0a1d6dfe31c3f4e7348167ce240c693d5c83f33c7adbbecf3",
+    "elapsedMinutes": [
+      0,
+      41,
+      105,
+      123,
+      146,
+      172,
+      242
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C686",
+    "category": "C",
+    "stopNames": [
+      "兰州",
+      "渭源",
+      "漳县",
+      "岷县",
+      "哈达铺",
+      "陇南",
+      "姚渡"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c686.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "664d6eeeaa3b4bd63fb9b71214b47582a574f01782fc4ce0d8f334789f88c9c1",
+    "elapsedMinutes": [
+      0,
+      68,
+      93,
+      115,
+      133,
+      196,
+      246
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C689",
+    "category": "C",
+    "stopNames": [
+      "姚渡",
+      "陇南",
+      "哈达铺",
+      "岷县",
+      "漳县",
+      "兰州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c689.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ee27d69695f45a2035bec3dbd1c8b40451068db0846dbebaeba491cb75aeda6f",
+    "elapsedMinutes": [
+      0,
+      39,
+      107,
+      125,
+      147,
+      233
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C690",
+    "category": "C",
+    "stopNames": [
+      "兰州西",
+      "兰州",
+      "渭源",
+      "漳县",
+      "岷县",
+      "哈达铺",
+      "陇南",
+      "姚渡"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c690.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b97b8b1bf6003db0ddd7b35e4ce494d156f0cc365d6dc2a3d5f59f10830246ef",
+    "elapsedMinutes": [
+      0,
+      12,
+      94,
+      121,
+      144,
+      161,
+      221,
+      268
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D223",
+    "category": "D",
+    "stopNames": [
+      "阆中",
+      "苍溪",
+      "广元",
+      "姚渡",
+      "陇南",
+      "哈达铺",
+      "岷县",
+      "漳县",
+      "渭源",
+      "兰州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d223.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "63d75e08688e1985b4b2cc7356f18896db10388bf4a39c9da848498c8ac47824",
+    "elapsedMinutes": [
+      0,
+      14,
+      60,
+      99,
+      142,
+      206,
+      224,
+      247,
+      273,
+      343
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D224",
+    "category": "D",
+    "stopNames": [
+      "兰州西",
+      "兰州",
+      "渭源",
+      "漳县",
+      "岷县",
+      "哈达铺",
+      "陇南",
+      "姚渡",
+      "广元",
+      "苍溪",
+      "阆中"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d224.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ec4d51451880f4ce5dd2c7d9b0a362b0af11eaaf140463c2b49c4c02eb66ae9d",
+    "elapsedMinutes": [
+      0,
+      12,
+      85,
+      110,
+      150,
+      169,
+      232,
+      284,
+      316,
+      362,
+      379
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y337",
+    "category": "OTHER",
+    "stopNames": [
+      "银川",
+      "中卫",
+      "兰州",
+      "兰州",
+      "广元"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y337.html",
+    "sourceUpdatedAt": "2026-08-17",
+    "sourceSha256": "58360f46a25ca42cf972c4cc7435a0e371c7a8f9d7c7f18f3abd799157790aaf",
+    "elapsedMinutes": [
+      0,
+      176,
+      551,
+      551,
+      1058
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y340",
+    "category": "OTHER",
+    "stopNames": [
+      "银川",
+      "中卫",
+      "兰州",
+      "兰州",
+      "广元"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y340.html",
+    "sourceUpdatedAt": "2026-08-17",
+    "sourceSha256": "787c8391ab7b0c7db1b0542cf4ecbffc0414ac0816d3e37a6ade45fabf5355f9",
+    "elapsedMinutes": [
+      0,
+      176,
+      551,
+      551,
+      1058
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y394",
+    "category": "OTHER",
+    "stopNames": [
+      "广元",
+      "西安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y394.html",
+    "sourceUpdatedAt": "2026-03-25",
+    "sourceSha256": "aa57b3d466169f9bd79ebbb887f4fe3068c9fa99edab93f7ef0f5a072b5fb385",
+    "elapsedMinutes": [
+      0,
+      596
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

@@ -1,0 +1,368 @@
+[
+  {
+    "trainNumber": "6071",
+    "category": "OTHER",
+    "stopNames": [
+      "平凉",
+      "平凉南",
+      "庙庄",
+      "崇信",
+      "安口窑",
+      "陇县",
+      "千阳",
+      "千河",
+      "宝鸡"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6071.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2087dc8572cc2add26e54c9b8739c2e6f0134ad85446840eade0983ef6d33f03",
+    "elapsedMinutes": [
+      0,
+      15,
+      26,
+      57,
+      74,
+      182,
+      229,
+      284,
+      310
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6072",
+    "category": "OTHER",
+    "stopNames": [
+      "宝鸡",
+      "千河",
+      "千阳",
+      "陇县",
+      "安口窑",
+      "平凉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6072.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "81c8b05219757521153cc4c99c3b494029bfc4e2931134dadc9c8e2fdfc1d0f1",
+    "elapsedMinutes": [
+      0,
+      19,
+      71,
+      113,
+      228,
+      303
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6073",
+    "category": "OTHER",
+    "stopNames": [
+      "宝鸡",
+      "千河",
+      "千阳",
+      "陇县",
+      "安口窑",
+      "平凉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6073.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c2ba2c0a513e29dfa04a5f5bb333f4c1c15259ca4946c56e239a1bc1a51513f4",
+    "elapsedMinutes": [
+      0,
+      19,
+      71,
+      113,
+      228,
+      303
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6074",
+    "category": "OTHER",
+    "stopNames": [
+      "平凉",
+      "平凉南",
+      "庙庄",
+      "崇信",
+      "安口窑",
+      "陇县",
+      "千阳",
+      "千河",
+      "宝鸡"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6074.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "df8313bf739247df48ec4086102a43631fcbbcf226294df0650a2dd887eafafd",
+    "elapsedMinutes": [
+      0,
+      15,
+      26,
+      57,
+      74,
+      182,
+      229,
+      284,
+      310
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "8359",
+    "category": "OTHER",
+    "stopNames": [
+      "宝鸡",
+      "福临堡",
+      "元龙"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/8359.html",
+    "sourceUpdatedAt": "2026-03-11",
+    "sourceSha256": "b6cf7b2bf6489c22db1c22a1d8b75ff273da3c0ab4e62e9448b0b49c2911512a",
+    "elapsedMinutes": [
+      0,
+      10,
+      112
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4279",
+    "category": "D",
+    "stopNames": [
+      "宝鸡南",
+      "天水南",
+      "秦安",
+      "通渭",
+      "定西北",
+      "兰州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4279.html",
+    "sourceUpdatedAt": "2026-02-27",
+    "sourceSha256": "a5cdc7bd6562590b37e4e749e70b861e9be5cb575d99a3103393ac8c3e9ec6ea",
+    "elapsedMinutes": [
+      0,
+      43,
+      60,
+      95,
+      128,
+      160
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4280",
+    "category": "D",
+    "stopNames": [
+      "兰州西",
+      "榆中",
+      "定西北",
+      "天水南",
+      "宝鸡南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4280.html",
+    "sourceUpdatedAt": "2026-02-27",
+    "sourceSha256": "3097a3a76671af89941f02fc35f2e04130d7fccd186575845d55296ae0a0218f",
+    "elapsedMinutes": [
+      0,
+      18,
+      36,
+      87,
+      132
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4281",
+    "category": "D",
+    "stopNames": [
+      "宝鸡南",
+      "天水南",
+      "通渭",
+      "定西北",
+      "兰州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4281.html",
+    "sourceUpdatedAt": "2026-02-27",
+    "sourceSha256": "33e5e10412eaf8e39c4f07525d115d9495259e2dba71ddf5392b58966fea63f6",
+    "elapsedMinutes": [
+      0,
+      42,
+      77,
+      109,
+      141
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4282",
+    "category": "D",
+    "stopNames": [
+      "兰州西",
+      "榆中",
+      "定西北",
+      "通渭",
+      "秦安",
+      "天水南",
+      "宝鸡南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4282.html",
+    "sourceUpdatedAt": "2026-02-27",
+    "sourceSha256": "37286462e5d2888807117bd9332d7627c2d4e97001fa536dfbcf7569241c7e9e",
+    "elapsedMinutes": [
+      0,
+      18,
+      36,
+      62,
+      83,
+      100,
+      144
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4333",
+    "category": "D",
+    "stopNames": [
+      "宝鸡南",
+      "天水南",
+      "秦安",
+      "通渭",
+      "定西北",
+      "兰州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4333.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "37f33c38bb3939c29b5d0e88bcdb7b6fcc8070fc3c7f542890ad098491017bcf",
+    "elapsedMinutes": [
+      0,
+      43,
+      60,
+      95,
+      128,
+      160
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4334",
+    "category": "D",
+    "stopNames": [
+      "兰州西",
+      "榆中",
+      "定西北",
+      "天水南",
+      "宝鸡南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4334.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "92c67bc4a19cc889f10bd1ac23b5f393270cda1dd572e0549457dd5503dca133",
+    "elapsedMinutes": [
+      0,
+      18,
+      36,
+      87,
+      132
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4335",
+    "category": "D",
+    "stopNames": [
+      "宝鸡南",
+      "天水南",
+      "通渭",
+      "定西北",
+      "兰州西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4335.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "47ad8d144048fe569a20e9695b54f835f3e49c7cdf8eb9419a44ca39c156a6af",
+    "elapsedMinutes": [
+      0,
+      42,
+      77,
+      109,
+      141
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4336",
+    "category": "D",
+    "stopNames": [
+      "兰州西",
+      "榆中",
+      "定西北",
+      "通渭",
+      "秦安",
+      "天水南",
+      "宝鸡南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4336.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "6d8d94e30e2db6ad4cb39c274672f808f42f4a1c36adaa24377c00accb6227c3",
+    "elapsedMinutes": [
+      0,
+      18,
+      36,
+      62,
+      83,
+      100,
+      144
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

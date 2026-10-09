@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-09",
+  "city": "乐山",
+  "stationCount": 18,
+  "candidateServices": 387,
+  "acquiredAdditionalServices": 3,
+  "failedPages": [],
+  "stationIssues": [
+    "乐山北"
+  ]
+}

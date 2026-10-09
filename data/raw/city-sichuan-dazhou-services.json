@@ -1,0 +1,500 @@
+[
+  {
+    "trainNumber": "6065",
+    "category": "OTHER",
+    "stopNames": [
+      "安康",
+      "大竹园",
+      "紫阳",
+      "高滩",
+      "毛坝关",
+      "麻柳",
+      "巴山",
+      "万源",
+      "花楼坝",
+      "宣汉",
+      "达州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6065.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "42113b24455aaab99707f30ed6be9f19ffc2e0cfee3257bdc06828ad9b2df032",
+    "elapsedMinutes": [
+      0,
+      28,
+      48,
+      74,
+      89,
+      111,
+      134,
+      154,
+      194,
+      217,
+      261
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6066",
+    "category": "OTHER",
+    "stopNames": [
+      "达州",
+      "宣汉",
+      "毛坝",
+      "万源",
+      "高滩",
+      "紫阳",
+      "大竹园",
+      "安康"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6066.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "94dd149979ebd24d6fd7850b8f6d4b5db0ff5b1c01c880bd49eb9eb3b1609396",
+    "elapsedMinutes": [
+      0,
+      48,
+      61,
+      116,
+      150,
+      170,
+      194,
+      228
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C237",
+    "category": "C",
+    "stopNames": [
+      "万源",
+      "紫阳",
+      "安康",
+      "西安",
+      "旬阳",
+      "西安东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c237.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4dbef234af7abaa09c56c0570a00edd848dda730491aa375011a483320bf1b08",
+    "elapsedMinutes": [
+      0,
+      40,
+      74,
+      197,
+      119,
+      229
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "C238",
+    "category": "C",
+    "stopNames": [
+      "西安",
+      "西安东",
+      "安康",
+      "紫阳",
+      "万源"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c238.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "96b63ec5fa09467f5ccaa49cc74a2dc05d94195797816b4b5c3fe0511845442f",
+    "elapsedMinutes": [
+      0,
+      24,
+      171,
+      217,
+      293
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C239",
+    "category": "C",
+    "stopNames": [
+      "西安",
+      "西安东",
+      "安康",
+      "紫阳",
+      "万源"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c239.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c6b3a03eb8d9f09ebf6c4f551377eb8922fbd77da031dac397b31853bcb77519",
+    "elapsedMinutes": [
+      0,
+      24,
+      171,
+      217,
+      293
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C240",
+    "category": "C",
+    "stopNames": [
+      "万源",
+      "紫阳",
+      "安康",
+      "西安",
+      "旬阳",
+      "西安东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c240.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "34546ffe0f26df36ccea56be35e0f2d92b0efa5851e3f7bd6dd6453cf1bd19c0",
+    "elapsedMinutes": [
+      0,
+      40,
+      74,
+      197,
+      119,
+      229
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "C8968",
+    "category": "C",
+    "stopNames": [
+      "西安",
+      "西安东",
+      "安康",
+      "万源"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8968.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6f56c523f36635fe3ec2c5419e233b549cae9b7c4949837949c5ea5232c3945d",
+    "elapsedMinutes": [
+      0,
+      24,
+      190,
+      331
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8969",
+    "category": "C",
+    "stopNames": [
+      "西安",
+      "西安东",
+      "安康",
+      "万源"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8969.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e8e2e1e442ebc1c81af5a19abdb26adb82af466b2b5939add5cb6d7706301cb6",
+    "elapsedMinutes": [
+      0,
+      24,
+      190,
+      331
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8970",
+    "category": "C",
+    "stopNames": [
+      "万源",
+      "安康"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8970.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "286379c964b2637f795d145340293c3080c080ed45e0f19660902ccd332ff32f",
+    "elapsedMinutes": [
+      0,
+      69
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8971",
+    "category": "C",
+    "stopNames": [
+      "安康",
+      "万源"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8971.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0b3bb15596fbcc6d7d19c5e550abd4095626f49014936117b49169fc285195a7",
+    "elapsedMinutes": [
+      0,
+      119
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8972",
+    "category": "C",
+    "stopNames": [
+      "万源",
+      "安康",
+      "西安东",
+      "西安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8972.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7a56281674187fed106a90c115d6071a9e604d405b287c895df8f7dabb765dcc",
+    "elapsedMinutes": [
+      0,
+      72,
+      175,
+      212
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C8973",
+    "category": "C",
+    "stopNames": [
+      "万源",
+      "安康",
+      "西安东",
+      "西安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c8973.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0eddfa99a7164cbf63663502ea2d14300dc1b4561c4504ec1bc6d9bb0ebb8204",
+    "elapsedMinutes": [
+      0,
+      72,
+      175,
+      212
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5453",
+    "category": "K",
+    "stopNames": [
+      "安康",
+      "宣汉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5453.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "1bb52370c3dac1eb9dc7ce91d20e66ed94d249884304fb2aa4082ba6ba6ee060",
+    "elapsedMinutes": [
+      0,
+      169
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9526",
+    "category": "K",
+    "stopNames": [
+      "开江",
+      "达州",
+      "石梯",
+      "平昌",
+      "巴中"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9526.html",
+    "sourceUpdatedAt": "2026-03-10",
+    "sourceSha256": "6389b0eca8220e3772598094dc376708e93aac763b31ab4a9b14d3d7e9a514ce",
+    "elapsedMinutes": [
+      0,
+      61,
+      110,
+      173,
+      212
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9527",
+    "category": "K",
+    "stopNames": [
+      "开江",
+      "达州",
+      "石梯",
+      "平昌",
+      "巴中"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9527.html",
+    "sourceUpdatedAt": "2026-03-10",
+    "sourceSha256": "25348cb8d6ea1b165f976af2a221ae37830400a478dfc0b0d21f38e1d9026d85",
+    "elapsedMinutes": [
+      0,
+      61,
+      110,
+      173,
+      212
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y522",
+    "category": "OTHER",
+    "stopNames": [
+      "西安",
+      "安康",
+      "万源"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y522.html",
+    "sourceUpdatedAt": "2025-11-06",
+    "sourceSha256": "2e2445af528639aa6aa09cb7db6adc369a7821dbdb508cb7c5889b97e87ca978",
+    "elapsedMinutes": [
+      0,
+      194,
+      332
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y523",
+    "category": "OTHER",
+    "stopNames": [
+      "西安",
+      "安康",
+      "万源"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y523.html",
+    "sourceUpdatedAt": "2025-11-06",
+    "sourceSha256": "1195a4854bb2259545c3bf6c17ed51cc06459238ce32979cdcaeecbbacc67b88",
+    "elapsedMinutes": [
+      0,
+      194,
+      332
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y554",
+    "category": "OTHER",
+    "stopNames": [
+      "万源",
+      "安康"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y554.html",
+    "sourceUpdatedAt": "2026-06-13",
+    "sourceSha256": "8666936c7bb5663245a4a6245f35062f7faeb3e07d60df99465ccbf722cff2c7",
+    "elapsedMinutes": [
+      0,
+      76
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y557",
+    "category": "OTHER",
+    "stopNames": [
+      "万源",
+      "安康",
+      "西安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y557.html",
+    "sourceUpdatedAt": "2026-04-18",
+    "sourceSha256": "a9859c9692b938e667b30b00b237d17864a0ec337e4bdafccffda19fc32e2403",
+    "elapsedMinutes": [
+      0,
+      91,
+      291
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y559",
+    "category": "OTHER",
+    "stopNames": [
+      "万源",
+      "安康",
+      "西安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y559.html",
+    "sourceUpdatedAt": "2026-04-18",
+    "sourceSha256": "b5dcfbecc2d54a873f1c94b6126f4db269491e5e305d3c31e9b1d6874c788224",
+    "elapsedMinutes": [
+      0,
+      91,
+      291
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

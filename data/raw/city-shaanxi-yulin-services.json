@@ -1,0 +1,426 @@
+[
+  {
+    "trainNumber": "7531",
+    "category": "OTHER",
+    "stopNames": [
+      "银川",
+      "灵武",
+      "宁东",
+      "盐池",
+      "定边",
+      "太阳山",
+      "红寺堡",
+      "中宁东",
+      "黄羊湾",
+      "柳家庄",
+      "中卫"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7531.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "eea3e74dbe93e9477ef6225480c2181e168b7cc175b59bb02a34b9533107d0dc",
+    "elapsedMinutes": [
+      0,
+      49,
+      65,
+      145,
+      170,
+      311,
+      364,
+      398,
+      421,
+      447,
+      490
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7532",
+    "category": "OTHER",
+    "stopNames": [
+      "中卫",
+      "柳家庄",
+      "黄羊湾",
+      "中宁东",
+      "红寺堡",
+      "太阳山",
+      "定边",
+      "盐池",
+      "宁东",
+      "灵武",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7532.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a64840cc3ae83cc7fd8c5b4ba9036dc97e5343af0af6c9a71f656621631e656a",
+    "elapsedMinutes": [
+      0,
+      20,
+      43,
+      65,
+      98,
+      151,
+      256,
+      309,
+      408,
+      426,
+      476
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7533",
+    "category": "OTHER",
+    "stopNames": [
+      "中卫",
+      "柳家庄",
+      "黄羊湾",
+      "中宁东",
+      "红寺堡",
+      "太阳山",
+      "定边",
+      "盐池",
+      "宁东",
+      "灵武",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7533.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4457912b4fe0b3498fed24a9d33c227182efd089a54266c28bde39d041de449b",
+    "elapsedMinutes": [
+      0,
+      20,
+      43,
+      65,
+      98,
+      151,
+      256,
+      309,
+      408,
+      426,
+      476
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "7534",
+    "category": "OTHER",
+    "stopNames": [
+      "银川",
+      "灵武",
+      "宁东",
+      "盐池",
+      "定边",
+      "太阳山",
+      "红寺堡",
+      "中宁东",
+      "黄羊湾",
+      "柳家庄",
+      "中卫"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/7534.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e11f5cdf9c8816c5c0e9d21b40d5dc66eaffe83b17e65dbd8f845905fe05de90",
+    "elapsedMinutes": [
+      0,
+      49,
+      65,
+      145,
+      170,
+      311,
+      364,
+      398,
+      421,
+      447,
+      490
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K321",
+    "category": "K",
+    "stopNames": [
+      "大连",
+      "灵武",
+      "金州",
+      "宁东",
+      "瓦房店",
+      "盐池",
+      "熊岳城",
+      "定边",
+      "海城",
+      "靖边",
+      "鞍山",
+      "子洲",
+      "辽阳",
+      "沈阳",
+      "铁岭",
+      "开原",
+      "昌图",
+      "四平",
+      "长春",
+      "哈尔滨",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k321.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7a383f9dec7ce5ce2e4f192552c27f67f8ee111e3015ccdf27cd450564441f57",
+    "elapsedMinutes": [
+      0,
+      38,
+      25,
+      54,
+      80,
+      122,
+      139,
+      147,
+      214,
+      228,
+      243,
+      318,
+      264,
+      317,
+      374,
+      399,
+      424,
+      466,
+      544,
+      719,
+      964
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3,
+        13
+      ]
+    }
+  },
+  {
+    "trainNumber": "K324",
+    "category": "K",
+    "stopNames": [
+      "大连",
+      "灵武",
+      "金州",
+      "宁东",
+      "瓦房店",
+      "盐池",
+      "熊岳城",
+      "定边",
+      "海城",
+      "靖边",
+      "鞍山",
+      "子洲",
+      "辽阳",
+      "沈阳",
+      "铁岭",
+      "开原",
+      "昌图",
+      "四平",
+      "长春",
+      "哈尔滨",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k324.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a9a2725ea4e5cf0e826f5435199b5874ab45f17565e0c9f21d61a7de86e67e3e",
+    "elapsedMinutes": [
+      0,
+      38,
+      25,
+      54,
+      80,
+      122,
+      139,
+      147,
+      214,
+      228,
+      243,
+      318,
+      264,
+      317,
+      374,
+      399,
+      424,
+      466,
+      544,
+      719,
+      964
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3,
+        13
+      ]
+    }
+  },
+  {
+    "trainNumber": "K4935",
+    "category": "K",
+    "stopNames": [
+      "银川",
+      "定边",
+      "靖边",
+      "米脂",
+      "榆林",
+      "松原"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4935.html",
+    "sourceUpdatedAt": "2026-08-19",
+    "sourceSha256": "1c169a0364654096e23ccc61053bbe8d38d85866066e2d640d8e590674b03475",
+    "elapsedMinutes": [
+      0,
+      149,
+      220,
+      389,
+      443,
+      2173
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4936",
+    "category": "K",
+    "stopNames": [
+      "松原",
+      "榆林",
+      "米脂",
+      "靖边",
+      "定边",
+      "盐池",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4936.html",
+    "sourceUpdatedAt": "2026-08-17",
+    "sourceSha256": "73f64c8da5b9f84b0313cb04bff54fa330284769d386a6aab585fe457acbb98c",
+    "elapsedMinutes": [
+      0,
+      1673,
+      1726,
+      1871,
+      1973,
+      2001,
+      2151
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4937",
+    "category": "K",
+    "stopNames": [
+      "松原",
+      "榆林",
+      "米脂",
+      "靖边",
+      "定边",
+      "盐池",
+      "银川"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4937.html",
+    "sourceUpdatedAt": "2026-08-17",
+    "sourceSha256": "4dc5c5ac51258cc27a71f1dfc9000fc7fea2090d342f84a3d07b318057cf8cae",
+    "elapsedMinutes": [
+      0,
+      1673,
+      1726,
+      1871,
+      1973,
+      2001,
+      2151
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4938",
+    "category": "K",
+    "stopNames": [
+      "银川",
+      "定边",
+      "靖边",
+      "米脂",
+      "榆林",
+      "松原"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4938.html",
+    "sourceUpdatedAt": "2026-08-19",
+    "sourceSha256": "e18870e162ca834b35122ebaae6b9eb6a0bfca78f9682041aafc9996c5c5b8a5",
+    "elapsedMinutes": [
+      0,
+      149,
+      220,
+      389,
+      443,
+      2173
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y490",
+    "category": "OTHER",
+    "stopNames": [
+      "乌鲁木齐",
+      "哈密",
+      "嘉峪关南",
+      "西宁",
+      "兰州",
+      "中卫",
+      "定边",
+      "靖边",
+      "绥德"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y490.html",
+    "sourceUpdatedAt": "2026-07-14",
+    "sourceSha256": "4a21465e9793dd26b7c0bd9fcbf13fca1ea658613905cafb4f73effa8c0feeb9",
+    "elapsedMinutes": [
+      0,
+      542,
+      970,
+      1305,
+      1544,
+      1982,
+      2249,
+      2393,
+      2506
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

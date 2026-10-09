@@ -1,0 +1,84 @@
+[
+  {
+    "trainNumber": "K5461",
+    "category": "K",
+    "stopNames": [
+      "神木",
+      "锦界",
+      "榆林",
+      "绥德",
+      "清涧县",
+      "子长",
+      "延安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5461.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "4abc3e0067a2bae2590f3b227895561be32e8315761257b479bc0d648125fdb7",
+    "elapsedMinutes": [
+      0,
+      64,
+      115,
+      184,
+      224,
+      244,
+      301
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5462",
+    "category": "K",
+    "stopNames": [
+      "延安",
+      "子长",
+      "清涧县",
+      "绥德",
+      "米脂",
+      "榆林",
+      "锦界",
+      "神木"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5462.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "af677e96d6edf3af61ec4e1bdf866ba9f41617ff88bb5b591f69bd31b925fffc",
+    "elapsedMinutes": [
+      0,
+      60,
+      79,
+      127,
+      147,
+      199,
+      253,
+      299
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y532",
+    "category": "OTHER",
+    "stopNames": [
+      "汉中",
+      "延安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y532.html",
+    "sourceUpdatedAt": "2025-11-14",
+    "sourceSha256": "76bb3dcf5a2701140875e497c0751763c046935afe5c5f0b627fcbbd589be017",
+    "elapsedMinutes": [
+      0,
+      680
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

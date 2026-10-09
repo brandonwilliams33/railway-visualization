@@ -36,8 +36,8 @@ def write_progress():
     lines.extend(['上海目录的16站之外，依据完整服务停站表补充上海松江、莘庄2个独立入口。黄渡独立登记保留；仅有未核验普通售票的旅游候选，本轮暂不开放出发入口。未将车站合并。','',
         '客运服务来自第三方公开时刻快照，源日期不代表保证当天开行。线路只用于阅读，不作为逐车次实际径路。','',
         '## 后续续传','',
-        '当前暂停在广州；需先按 `HANDOFF.md` 完成续传和解除发布隔离。每市独立保存 `city-*-station-index.json`、`city-*-services.json` 与采集审计；已完成城市复用服务事实。城市间顺序采集，失败站点可续传补查。完整停站区间以共用路径索引保存，加载时还原服务自己的区间，不改变站点身份或直达判定。','',
-        '```sh','python3 scripts/acquireCity.py guangdong guangzhou 广东','python3 scripts/writeExpansionProgress.py','```',''])
+        '广东、重庆、四川、陕西目录采集已完成；下一批从广西继续，先阅读 `HANDOFF.md`。未完成 acquisition 的城市不会开放入口。每市独立保存 `city-*-station-index.json`、`city-*-services.json` 与采集审计；已完成城市复用服务事实。城市间顺序采集，失败站点可续传补查。完整停站区间以共用路径索引保存，加载时还原服务自己的区间，不改变站点身份或直达判定。','',
+        '```sh','python3 scripts/expandProvinces.py guangxi:广西','python3 scripts/writeExpansionProgress.py','```',''])
     (ROOT/'docs/EXPANSION-PROGRESS.md').write_text('\n'.join(lines))
 
 if __name__=='__main__':

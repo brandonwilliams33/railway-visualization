@@ -1,0 +1,30 @@
+[
+  {
+    "trainNumber": "K8222",
+    "category": "K",
+    "stopNames": [
+      "汉中",
+      "城固",
+      "西乡",
+      "石泉县",
+      "汉阴",
+      "安康"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k8222.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "685f94cdfce68cfdf239b2e2c04af2d40726a180665897dce2bab48ca73b100a",
+    "elapsedMinutes": [
+      0,
+      22,
+      80,
+      134,
+      160,
+      208
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]
