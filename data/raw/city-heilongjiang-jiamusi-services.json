@@ -1,0 +1,218 @@
+[
+  {
+    "trainNumber": "4016",
+    "category": "OTHER",
+    "stopNames": [
+      "佳木斯",
+      "长发屯",
+      "孟家岗",
+      "桦南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4016.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a1b83d0a9caf99ff98a3c187e4b3a82fbf361e84bca1cdfb717730de5a07396d",
+    "elapsedMinutes": [
+      0,
+      20,
+      61,
+      85
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4017",
+    "category": "OTHER",
+    "stopNames": [
+      "桦南",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4017.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "039219f17783365ce8673f79bc4e9cfd7cba13732c1ac08c4123191c567634b0",
+    "elapsedMinutes": [
+      0,
+      70
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4018",
+    "category": "OTHER",
+    "stopNames": [
+      "佳木斯",
+      "桦南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4018.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "7a8e7fdd7fab1992711b254384a425f6e915c9767534eb2b3e9404a4716d68e0",
+    "elapsedMinutes": [
+      0,
+      66
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4019",
+    "category": "OTHER",
+    "stopNames": [
+      "桦南",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4019.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ffceb49bfa0e2e61c85dd8f7fb70046a00919baf941a3a97dea29becaf2574a6",
+    "elapsedMinutes": [
+      0,
+      67
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6215",
+    "category": "OTHER",
+    "stopNames": [
+      "桦南",
+      "孟家岗",
+      "申家店",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6215.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3138776685eeaeea9b32d2d69b27edb535fe5003efc1a89af6e5745573d004f1",
+    "elapsedMinutes": [
+      0,
+      21,
+      44,
+      83
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6216",
+    "category": "OTHER",
+    "stopNames": [
+      "佳木斯",
+      "长发屯",
+      "申家店",
+      "孟家岗",
+      "桦南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6216.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fd6d0d885f76cdfee545fc1ed98af89af1a687ef07f5899053f2e4830d457186",
+    "elapsedMinutes": [
+      0,
+      20,
+      41,
+      61,
+      85
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5119",
+    "category": "K",
+    "stopNames": [
+      "桦南",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5119.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8d317c2cf4812f84c8128647236940c36d2d28321b94b13b2978d6c1daf2c455",
+    "elapsedMinutes": [
+      0,
+      68
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5120",
+    "category": "K",
+    "stopNames": [
+      "佳木斯",
+      "桦南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5120.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fbc90c8c3cfe97cfe5f1113d2da3d42393e9b3d179097c452793bef578a65ada",
+    "elapsedMinutes": [
+      0,
+      66
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5168",
+    "category": "K",
+    "stopNames": [
+      "同江",
+      "富锦",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5168.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "bc32ca27a393f780e69beb59a793cebe3b9ab08c9c039a2926e0663307cbf5ea",
+    "elapsedMinutes": [
+      0,
+      52,
+      262
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y802",
+    "category": "OTHER",
+    "stopNames": [
+      "抚远",
+      "绥芬河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y802.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "72defcfe20b07f7d6a6c2bc053fe94318f97df92930fe190836c78414553d496",
+    "elapsedMinutes": [
+      0,
+      880
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

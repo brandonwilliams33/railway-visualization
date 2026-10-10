@@ -1,0 +1,832 @@
+[
+  {
+    "trainNumber": "C4379",
+    "category": "C",
+    "stopNames": [
+      "拉萨",
+      "山南",
+      "加查",
+      "朗县",
+      "米林",
+      "林芝"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4379.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "57d918b616776c3bf0b142dae7d7b559b3c5cb76144d7f3b01d550b1b77fb95c",
+    "elapsedMinutes": [
+      0,
+      64,
+      110,
+      139,
+      199,
+      228
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4380",
+    "category": "C",
+    "stopNames": [
+      "林芝",
+      "米林",
+      "朗县",
+      "加查",
+      "山南",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4380.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "987ea1257ac9b641fd5a0e9363c1a489ee04380fff58f8154c92f6febc41d3b3",
+    "elapsedMinutes": [
+      0,
+      25,
+      85,
+      114,
+      159,
+      229
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4385",
+    "category": "C",
+    "stopNames": [
+      "拉萨",
+      "日喀则"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4385.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "ad596bf12846a9f92b4ba25e521860148f3116e69a7d91563a21fc2005c59d6e",
+    "elapsedMinutes": [
+      0,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4386",
+    "category": "C",
+    "stopNames": [
+      "日喀则",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4386.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "03cad33430ef8b15f8fe3583978791c3a331b76e6e8fccef98b5071e67bd6a80",
+    "elapsedMinutes": [
+      0,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4387",
+    "category": "C",
+    "stopNames": [
+      "拉萨",
+      "日喀则"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4387.html",
+    "sourceUpdatedAt": "2025-12-12",
+    "sourceSha256": "e66380a0a19657bb5d72e216cc7c9d0e30de86e7ef5a9c71c13247e7c61c3f8e",
+    "elapsedMinutes": [
+      0,
+      140
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4388",
+    "category": "C",
+    "stopNames": [
+      "日喀则",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4388.html",
+    "sourceUpdatedAt": "2025-12-12",
+    "sourceSha256": "9b398a2c5a1f6d7f5aca6df2bf340fd0e225239befbde7ccaa29bf094b3df524",
+    "elapsedMinutes": [
+      0,
+      140
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4389",
+    "category": "C",
+    "stopNames": [
+      "拉萨",
+      "山南",
+      "加查",
+      "朗县",
+      "林芝"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4389.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "4ced8e6dc23168cb8c49f53bb092147d590c036c7cccc21b2514f0abc09d07d6",
+    "elapsedMinutes": [
+      0,
+      92,
+      138,
+      167,
+      252
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4390",
+    "category": "C",
+    "stopNames": [
+      "林芝",
+      "朗县",
+      "加查",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4390.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "60eea82a703760e46fc990d3f8493f90dfc35e605b6dedbd37aec46544467d26",
+    "elapsedMinutes": [
+      0,
+      93,
+      122,
+      229
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4391",
+    "category": "C",
+    "stopNames": [
+      "拉萨",
+      "日喀则"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4391.html",
+    "sourceUpdatedAt": "2025-12-26",
+    "sourceSha256": "9dbc720c2cfb0613447b94197c67b96adc56a4d59fda20917b70b46f307c8bb0",
+    "elapsedMinutes": [
+      0,
+      138
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4392",
+    "category": "C",
+    "stopNames": [
+      "日喀则",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4392.html",
+    "sourceUpdatedAt": "2025-12-26",
+    "sourceSha256": "c3c94903030ac0df8af25e2772e852af8be18d60637c3416634cd8666e0394a3",
+    "elapsedMinutes": [
+      0,
+      136
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4393",
+    "category": "C",
+    "stopNames": [
+      "拉萨",
+      "日喀则"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4393.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "49b18e14ad30439bf4008ebe96e3a45bb845365fb12218d768836dc9ad8b7e30",
+    "elapsedMinutes": [
+      0,
+      141
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4394",
+    "category": "C",
+    "stopNames": [
+      "日喀则",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4394.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "b5cdef0ee092839a355e1417950d2fc2466d6b1f1b1b7dd66ce4e57b1e8ecda8",
+    "elapsedMinutes": [
+      0,
+      136
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4395",
+    "category": "C",
+    "stopNames": [
+      "拉萨",
+      "日喀则"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4395.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "565e2a16ba71c5b20797cb3891608d0a435811303a544414d13531f9e1526d78",
+    "elapsedMinutes": [
+      0,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4396",
+    "category": "C",
+    "stopNames": [
+      "日喀则",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4396.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "ed03d2c649f4ce600303c043c3cd100721d2e6b73b69f95f96d2ef261141e5d7",
+    "elapsedMinutes": [
+      0,
+      124
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C881",
+    "category": "C",
+    "stopNames": [
+      "拉萨",
+      "山南",
+      "加查",
+      "朗县",
+      "米林",
+      "林芝"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c881.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "199f5547aec187bf22d1958611b6b168ffab28d364ab14fa4ec15484cc252870",
+    "elapsedMinutes": [
+      0,
+      62,
+      108,
+      137,
+      200,
+      229
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C882",
+    "category": "C",
+    "stopNames": [
+      "林芝",
+      "米林",
+      "朗县",
+      "加查",
+      "山南",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c882.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "35c1e52659b44131a47ddf6369fcd1c3de77b67c62ed7243d4757e369a05790f",
+    "elapsedMinutes": [
+      0,
+      25,
+      85,
+      116,
+      163,
+      233
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C883",
+    "category": "C",
+    "stopNames": [
+      "拉萨",
+      "日喀则"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c883.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b92d2449df9a397abe8980eee4c87fbb44c9ff38bf21fc5ba0142b351fd12008",
+    "elapsedMinutes": [
+      0,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C884",
+    "category": "C",
+    "stopNames": [
+      "日喀则",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c884.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "af778903a4c791e44f31e1773a2092ba185aab77a1b7be5ac2a6494836bd7c89",
+    "elapsedMinutes": [
+      0,
+      124
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C885",
+    "category": "C",
+    "stopNames": [
+      "拉萨",
+      "日喀则"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c885.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f740627ee6cc0dfd20ab37648ec3b0a219fe0c6fb457ccdaabf2d2c9b0f56c21",
+    "elapsedMinutes": [
+      0,
+      124
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C886",
+    "category": "C",
+    "stopNames": [
+      "日喀则",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c886.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "10294c172228701dfe8baaeba82aa83af47bbc997de098a390885db7c8f4f05b",
+    "elapsedMinutes": [
+      0,
+      124
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C887",
+    "category": "C",
+    "stopNames": [
+      "拉萨",
+      "日喀则"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c887.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "74dc4653328da3e122ca0731eb253928d81356c83f7baa13be1a9d2a6ac3af47",
+    "elapsedMinutes": [
+      0,
+      124
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C888",
+    "category": "C",
+    "stopNames": [
+      "日喀则",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c888.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4d39124f2ef67991693279969ced5336737c58c34ca8a0fa593ca8a9a259dfef",
+    "elapsedMinutes": [
+      0,
+      124
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6831",
+    "category": "K",
+    "stopNames": [
+      "拉萨",
+      "贡嘎",
+      "扎囊",
+      "山南",
+      "桑日",
+      "加查",
+      "朗县",
+      "米林",
+      "林芝"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6831.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a05ba7cdfc66331b93b5d2ba5cdb0c685d4e8b89bb6eeaa7083224c9f4072c43",
+    "elapsedMinutes": [
+      0,
+      36,
+      61,
+      93,
+      118,
+      159,
+      195,
+      273,
+      309
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6832",
+    "category": "K",
+    "stopNames": [
+      "林芝",
+      "米林",
+      "朗县",
+      "加查",
+      "桑日",
+      "山南",
+      "扎囊",
+      "贡嘎",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6832.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "93c8d5426fdd9d23525ccf999f8851fb36f5b69cac19778e7d1bf008e31d5590",
+    "elapsedMinutes": [
+      0,
+      28,
+      125,
+      163,
+      206,
+      228,
+      263,
+      288,
+      334
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6833",
+    "category": "K",
+    "stopNames": [
+      "拉萨",
+      "山南",
+      "加查",
+      "朗县",
+      "米林",
+      "林芝"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6833.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "3d3ebab53c8c74d188734add764a0bd5fa4554802b63a8216460b8be662947e9",
+    "elapsedMinutes": [
+      0,
+      76,
+      150,
+      207,
+      285,
+      321
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6834",
+    "category": "K",
+    "stopNames": [
+      "林芝",
+      "米林",
+      "朗县",
+      "加查",
+      "山南",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6834.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "47290d49afaa41c1296cab5bf092c0d8944471feb728d25e403d290ea6bccbd6",
+    "elapsedMinutes": [
+      0,
+      28,
+      103,
+      149,
+      205,
+      292
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6835",
+    "category": "K",
+    "stopNames": [
+      "拉萨",
+      "山南",
+      "加查",
+      "朗县",
+      "米林",
+      "林芝"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6835.html",
+    "sourceUpdatedAt": "2026-04-14",
+    "sourceSha256": "3987308781a5830b233a7418eebe9af8f76f884e0988c67b7b66d2355361438f",
+    "elapsedMinutes": [
+      0,
+      76,
+      148,
+      184,
+      263,
+      299
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K6836",
+    "category": "K",
+    "stopNames": [
+      "林芝",
+      "米林",
+      "朗县",
+      "加查",
+      "山南",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k6836.html",
+    "sourceUpdatedAt": "2026-04-14",
+    "sourceSha256": "f994067d01c5457825c6feaa295a3756549d22d0f1581e27eecea7a55941685c",
+    "elapsedMinutes": [
+      0,
+      28,
+      105,
+      155,
+      211,
+      298
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9801",
+    "category": "K",
+    "stopNames": [
+      "拉萨",
+      "贡嘎",
+      "扎囊",
+      "山南",
+      "桑日",
+      "加查",
+      "朗县",
+      "米林",
+      "林芝"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9801.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "1f847659701384e85d858bfd31f16bd7db71dfef6d0437a0fcb8dab06dcecc0e",
+    "elapsedMinutes": [
+      0,
+      36,
+      61,
+      93,
+      118,
+      159,
+      195,
+      242,
+      320
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K9802",
+    "category": "K",
+    "stopNames": [
+      "林芝",
+      "米林",
+      "朗县",
+      "加查",
+      "桑日",
+      "山南",
+      "扎囊",
+      "贡嘎",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k9802.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "8a94bcf9da91c45b0c902221cea3758c7eba1e9b95e28bdd3b7d866a63823e6d",
+    "elapsedMinutes": [
+      0,
+      28,
+      107,
+      143,
+      184,
+      208,
+      243,
+      270,
+      312
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z8801",
+    "category": "Z",
+    "stopNames": [
+      "拉萨",
+      "日喀则"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z8801.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "713a6834e29799d2c5d2db9bb6b1ff47d9a386115920d3db5848e3acc5437096",
+    "elapsedMinutes": [
+      0,
+      149
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z8802",
+    "category": "Z",
+    "stopNames": [
+      "日喀则",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z8802.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f22df211d8dcb147ee75e89ff5d33876aea3bfe6e1a776754fa349fb06329d3e",
+    "elapsedMinutes": [
+      0,
+      165
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z8803",
+    "category": "Z",
+    "stopNames": [
+      "拉萨",
+      "日喀则"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z8803.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "99d5dd158b5a8a17b4c28ebb0c8d2a9a26eabea39b9023a64f06421fb424dd4a",
+    "elapsedMinutes": [
+      0,
+      186
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z8804",
+    "category": "Z",
+    "stopNames": [
+      "日喀则",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z8804.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3a9d1bce36dfeaaac537d7f2897d9d467bb728a5da65e265fcaf3d340e1422cf",
+    "elapsedMinutes": [
+      0,
+      140
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z9809",
+    "category": "Z",
+    "stopNames": [
+      "拉萨",
+      "林芝"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9809.html",
+    "sourceUpdatedAt": "2026-03-14",
+    "sourceSha256": "7ba00616dde0a33906a3a3d6caa4b01934d8122e8aae9ce68f42a8a193f31a49",
+    "elapsedMinutes": [
+      0,
+      204
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

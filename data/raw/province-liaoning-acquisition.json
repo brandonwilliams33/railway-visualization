@@ -1,0 +1,19 @@
+{
+  "completedCities": [
+    "shenyang",
+    "dalian",
+    "anshan",
+    "fushun",
+    "benxi",
+    "dandong",
+    "jinzhou",
+    "yingkou",
+    "fuxin",
+    "liaoyang",
+    "panjin",
+    "tieling",
+    "chaoyang",
+    "huludao"
+  ],
+  "failedCities": []
+}

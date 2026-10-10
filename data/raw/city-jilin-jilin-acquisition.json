@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "吉林",
+  "stationCount": 11,
+  "candidateServices": 335,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "天岗",
+    "白石山",
+    "蛟河",
+    "黄松甸"
+  ]
+}

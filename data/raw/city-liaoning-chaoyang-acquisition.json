@@ -1,0 +1,15 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "朝阳",
+  "stationCount": 13,
+  "candidateServices": 217,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "三十家",
+    "凌源",
+    "凌源东",
+    "刀尔登",
+    "金杖子"
+  ]
+}

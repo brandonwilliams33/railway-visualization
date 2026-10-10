@@ -1,0 +1,9354 @@
+[
+  {
+    "trainNumber": "4053",
+    "category": "OTHER",
+    "stopNames": [
+      "哈尔滨东",
+      "呼兰",
+      "石人城",
+      "兴隆镇",
+      "万发屯",
+      "绥化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4053.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ad402c7af5f42ae7ed42064f30d1a4eb15b28544e73c3c8f1ea8ad1f0332f13f",
+    "elapsedMinutes": [
+      0,
+      37,
+      70,
+      94,
+      109,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4054",
+    "category": "OTHER",
+    "stopNames": [
+      "绥化",
+      "兴隆镇",
+      "白奎堡",
+      "康金井",
+      "沈家",
+      "呼兰",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4054.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "113c94cf8e85c4fe540b8a8d0f438117d7a7e08dc718f4dbdcede52789b5fcdd",
+    "elapsedMinutes": [
+      0,
+      22,
+      36,
+      63,
+      77,
+      94,
+      138
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C101",
+    "category": "C",
+    "stopNames": [
+      "哈尔滨",
+      "方正",
+      "高楞",
+      "依兰",
+      "佳木斯",
+      "鹤立",
+      "鹤岗"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c101.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9d74ce66dbf0ca046586bb9584b91189cfef5fd792ed2d2cdd41007018316c65",
+    "elapsedMinutes": [
+      0,
+      76,
+      98,
+      121,
+      165,
+      210,
+      238
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C102",
+    "category": "C",
+    "stopNames": [
+      "鹤岗",
+      "佳木斯",
+      "依兰",
+      "胜利镇",
+      "宾州",
+      "宾西北",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c102.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0c96c76515bd491314d6f1bad47154e709599825e06ad0b15dba7449582a839d",
+    "elapsedMinutes": [
+      0,
+      46,
+      104,
+      180,
+      223,
+      255,
+      283
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C103",
+    "category": "C",
+    "stopNames": [
+      "哈尔滨",
+      "宾州",
+      "胜利镇",
+      "方正",
+      "高楞",
+      "依兰",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c103.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "83936a56f100f572fca1ad859cdaf18b72e6cfce4a74e0f1976ef8877137338b",
+    "elapsedMinutes": [
+      0,
+      34,
+      59,
+      91,
+      114,
+      138,
+      183
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C104",
+    "category": "C",
+    "stopNames": [
+      "佳木斯",
+      "方正",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c104.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "50145a4c99fa090d5c62e63f57ba50cbca2d81bc43c1f33756678f7d255c5ee1",
+    "elapsedMinutes": [
+      0,
+      74,
+      154
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C105",
+    "category": "C",
+    "stopNames": [
+      "哈尔滨",
+      "佳木斯",
+      "鹤立",
+      "鹤岗"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c105.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "46a2de488e07f7eb47e5aa89c767d0ff14c93dd2378d4ed43c89fe7d51eafffe",
+    "elapsedMinutes": [
+      0,
+      147,
+      205,
+      240
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C106",
+    "category": "C",
+    "stopNames": [
+      "鹤岗",
+      "佳木斯",
+      "依兰",
+      "高楞",
+      "方正",
+      "宾州",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c106.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "17fa2b7edbafe81d7eb125f53c81b54862da950e8baa7026ad17bc7ad873fe84",
+    "elapsedMinutes": [
+      0,
+      46,
+      107,
+      130,
+      161,
+      210,
+      247
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C107",
+    "category": "C",
+    "stopNames": [
+      "哈尔滨",
+      "宾州",
+      "方正",
+      "依兰",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c107.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "bc86c8dee0ebfbbfe8a9b06c7ac93d327a155bb3c6603db525cf6ad6371e2456",
+    "elapsedMinutes": [
+      0,
+      34,
+      82,
+      121,
+      165
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C108",
+    "category": "C",
+    "stopNames": [
+      "佳木斯",
+      "依兰",
+      "达连河",
+      "方正",
+      "胜利镇",
+      "宾州",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c108.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "22a881054850fb52a9187e6b910d494e0130f225d179102519b182db51b5248c",
+    "elapsedMinutes": [
+      0,
+      42,
+      67,
+      98,
+      130,
+      152,
+      190
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C109",
+    "category": "C",
+    "stopNames": [
+      "哈尔滨",
+      "方正",
+      "高楞",
+      "依兰",
+      "佳木斯",
+      "鹤岗"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c109.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "975a1d28b02e1c8aeba287a3cd7a54d18e9dac28e139da6733a62c74e22be7d6",
+    "elapsedMinutes": [
+      0,
+      76,
+      98,
+      121,
+      166,
+      233
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C110",
+    "category": "C",
+    "stopNames": [
+      "鹤岗",
+      "佳木斯",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c110.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e07d6ab19a86bda762ee723202e1bc4d208e5334dae7b04ea88ff8a8763a56c5",
+    "elapsedMinutes": [
+      0,
+      46,
+      214
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C111",
+    "category": "C",
+    "stopNames": [
+      "哈尔滨",
+      "宾州",
+      "方正",
+      "依兰",
+      "佳木斯",
+      "鹤岗"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c111.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "cf31fdb4a7ef248d0096ec882e7a38656970772f7c308c91dc10caa1f576c1d7",
+    "elapsedMinutes": [
+      0,
+      34,
+      82,
+      121,
+      166,
+      233
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C869",
+    "category": "C",
+    "stopNames": [
+      "哈尔滨",
+      "佳木斯",
+      "鹤岗"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c869.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "1d5f09f48aef0dc91ffc452b04f6037b63d93f4b2d7f04aceb976d0c0269a722",
+    "elapsedMinutes": [
+      0,
+      147,
+      220
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C870",
+    "category": "C",
+    "stopNames": [
+      "鹤岗",
+      "佳木斯",
+      "方正",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c870.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "10e25a45b0167bd728e48f63746a6704adada6df551405844b3421361bc70690",
+    "elapsedMinutes": [
+      0,
+      46,
+      143,
+      241
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C942",
+    "category": "C",
+    "stopNames": [
+      "鹤岗",
+      "鹤立",
+      "佳木斯",
+      "依兰",
+      "方正",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c942.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8f89b60b07c12309bbb13a50249902e4f748d10f337dd1b3634adf4d6c8f8c0c",
+    "elapsedMinutes": [
+      0,
+      25,
+      53,
+      115,
+      153,
+      232
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C943",
+    "category": "C",
+    "stopNames": [
+      "哈尔滨",
+      "依兰",
+      "佳木斯",
+      "鹤立",
+      "鹤岗"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c943.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "48dae29fde552595be63afc029f4ba8ef5623ef02c53dd7021dbf555e7daec94",
+    "elapsedMinutes": [
+      0,
+      109,
+      153,
+      198,
+      233
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C946",
+    "category": "C",
+    "stopNames": [
+      "鹤岗",
+      "佳木斯",
+      "高楞",
+      "胜利镇",
+      "宾州",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c946.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a8533143f6afdc26f32d93f90a016efb46c8acc6e9c63e27a253b575c053a9e1",
+    "elapsedMinutes": [
+      0,
+      46,
+      131,
+      180,
+      217,
+      254
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C947",
+    "category": "C",
+    "stopNames": [
+      "哈尔滨",
+      "方正",
+      "佳木斯",
+      "鹤立",
+      "鹤岗"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c947.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a4852e885b2b61f700623aac49facc42c00dc27088bd66310fac3d47cce15dbb",
+    "elapsedMinutes": [
+      0,
+      76,
+      153,
+      195,
+      224
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C948",
+    "category": "C",
+    "stopNames": [
+      "鹤岗",
+      "佳木斯",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c948.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e90090369a8f311d59e138acff4aa8adbfa77f832c9f94a017767ea4efb1dd92",
+    "elapsedMinutes": [
+      0,
+      46,
+      211
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C949",
+    "category": "C",
+    "stopNames": [
+      "哈尔滨",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c949.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "07ccfc63f9d2acc70a6458e3f2fa2f939881c4b95939136e7e1a5ae50f00d499",
+    "elapsedMinutes": [
+      0,
+      147
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C950",
+    "category": "C",
+    "stopNames": [
+      "鹤岗",
+      "佳木斯",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c950.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "8e760700e8b10811ba54e3575bab5f59ef72bc2f0ea5f7dafc0cc96b98050386",
+    "elapsedMinutes": [
+      0,
+      46,
+      211
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6901",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "肇东",
+      "安达",
+      "大庆东",
+      "大庆西",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6901.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7d2e59496e824cc111d64803fa15807d513ca0a7376e52e3c9006128bc5b22b4",
+    "elapsedMinutes": [
+      0,
+      23,
+      45,
+      58,
+      71,
+      112
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6902",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔",
+      "大庆东",
+      "安达",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6902.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d0d032fd086a28bd71d7dc2a251b8dc8ce62ff9b35b0da5206205d8c1cc2c76e",
+    "elapsedMinutes": [
+      0,
+      43,
+      55,
+      95
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6912",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔",
+      "大庆西",
+      "安达",
+      "哈尔滨北",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6912.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "158f11dc5301ca089f315bd5072653151c29ecb554a4b952744e648936371561",
+    "elapsedMinutes": [
+      0,
+      36,
+      55,
+      90,
+      101
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6913",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "哈尔滨北",
+      "大庆东",
+      "大庆西",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6913.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "92443d7dccb8ba8a9ebdc443abf212ff2b773b9bfec144f48c47000b900b819b",
+    "elapsedMinutes": [
+      0,
+      10,
+      51,
+      63,
+      103
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6915",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "哈尔滨北",
+      "安达",
+      "大庆东",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6915.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4daee0d2ef5426a0ad9b6f7b0a1f346c83b4dcdc2e41c1df24dd4a64b65d5bee",
+    "elapsedMinutes": [
+      0,
+      10,
+      46,
+      58,
+      99
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6916",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔",
+      "杜尔伯特",
+      "大庆西",
+      "安达",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6916.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "17cb71c148162bdccf1d9cb023cbf0a6fcec00c3483a4a2398ef953e05c8b12e",
+    "elapsedMinutes": [
+      0,
+      26,
+      42,
+      62,
+      103
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6917",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "肇东",
+      "大庆东",
+      "大庆西",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6917.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d7c58392ac60d7fa980bbf0363b6debfae674f90c248f00fd82629255ac9d90d",
+    "elapsedMinutes": [
+      0,
+      10,
+      37,
+      65,
+      77,
+      112
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6918",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆西",
+      "肇东",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6918.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9013832b9ee3f3210e7c825b7c129c964dad5dcae8ca1ac7dc8347a972ff9d88",
+    "elapsedMinutes": [
+      0,
+      31,
+      67,
+      91
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6919",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "哈尔滨北",
+      "肇东",
+      "大庆西",
+      "杜尔伯特",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6919.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5eb180db52c32a07477a0810d6d8092385c814500e4755adcd7c383780775e3d",
+    "elapsedMinutes": [
+      0,
+      10,
+      30,
+      65,
+      84,
+      113
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6920",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "杜尔伯特",
+      "大庆东",
+      "哈尔滨北",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6920.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "308f244be383f74ead42cbe28e32e3ca5af390a5863a3500a32d57e6367a4edd",
+    "elapsedMinutes": [
+      0,
+      21,
+      44,
+      85,
+      96
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6921",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "哈尔滨北",
+      "肇东",
+      "大庆西",
+      "杜尔伯特",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6921.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c153c087643a051fe4d5fd57b20c6080fba836adc814e4eee2c8c9f6aa9f3dae",
+    "elapsedMinutes": [
+      0,
+      10,
+      30,
+      64,
+      83,
+      106
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6922",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔",
+      "杜尔伯特",
+      "大庆西",
+      "大庆东",
+      "肇东",
+      "哈尔滨北",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6922.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e71a1ad5a854ec86044e7b4c9437d5c6d4129df39e4ecce106e553771d0a6110",
+    "elapsedMinutes": [
+      0,
+      26,
+      42,
+      56,
+      85,
+      105,
+      117
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6923",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "肇东",
+      "大庆东",
+      "大庆西",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6923.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c3c38a18e263ee1f66c58bb0f99797ece39f5c902ea67944f3cbc7201cd80cbc",
+    "elapsedMinutes": [
+      0,
+      23,
+      51,
+      63,
+      103
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6924",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔",
+      "大庆东",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6924.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b43a0f91e34cc98b6500827bf441571a4100efb49bfeca63a6c6c0fc01fdcd26",
+    "elapsedMinutes": [
+      0,
+      43,
+      90
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6925",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "肇东",
+      "大庆东",
+      "杜尔伯特",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6925.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7f5a3a735c9481738974f3b075e6fd96b18657a8c15fe95eabf6b8351188c6af",
+    "elapsedMinutes": [
+      0,
+      23,
+      51,
+      75,
+      99
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6926",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆西",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6926.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f1bff0d9d43648f2c6774c491b4341a84546b0e367e6df21c2ecae9677f5b326",
+    "elapsedMinutes": [
+      0,
+      31,
+      84
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6927",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "哈尔滨北",
+      "肇东",
+      "大庆东",
+      "大庆西",
+      "杜尔伯特",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6927.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "253f05977aec041de980b2443aa2f595990ea4a4588368b73d84fa2df5ae1041",
+    "elapsedMinutes": [
+      0,
+      10,
+      29,
+      57,
+      69,
+      87,
+      110
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6928",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆西",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6928.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "53a76aab5dfe86d5a520e622274495232976a808deaedf955e37767e6ee059e2",
+    "elapsedMinutes": [
+      0,
+      31,
+      84
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6929",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "哈尔滨北",
+      "肇东",
+      "安达",
+      "大庆西",
+      "杜尔伯特",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6929.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "47f317f8477790d461d57867f70201ef304b225a1027086efc46c534f06f6180",
+    "elapsedMinutes": [
+      0,
+      10,
+      29,
+      51,
+      69,
+      87,
+      115
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6930",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "杜尔伯特",
+      "大庆西",
+      "肇东",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6930.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1304bf1dd3a79b695ce3a8db0013fa82718977ff8eacb2b11398cf9dd93dca04",
+    "elapsedMinutes": [
+      0,
+      21,
+      37,
+      73,
+      97
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6931",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "安达",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6931.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2c30141a3cd159295f7eaee8b7d4fce6055a55aa3a3c2a31217284965b990f71",
+    "elapsedMinutes": [
+      0,
+      39,
+      86
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6932",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔",
+      "大庆西",
+      "大庆东",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6932.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8c774342cfaef35cf7b272d136a2eb8aafcf0b656f315772ce4ccacfbf72029b",
+    "elapsedMinutes": [
+      0,
+      36,
+      50,
+      96
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6933",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "大庆西",
+      "杜尔伯特",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6933.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c4d5ce103449a7cd5e4ac8c7d05916f88482195a95023eeb99827197d22b79c5",
+    "elapsedMinutes": [
+      0,
+      51,
+      69,
+      97
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6935",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "哈尔滨北",
+      "安达",
+      "大庆东",
+      "大庆西",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6935.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d913fa215d795f8631ffe414899688c0f3b6067c94cbe9691f146f7e463354ca",
+    "elapsedMinutes": [
+      0,
+      10,
+      45,
+      57,
+      69,
+      109
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6936",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔",
+      "杜尔伯特",
+      "大庆西",
+      "大庆东",
+      "安达",
+      "肇东",
+      "哈尔滨北",
+      "哈尔滨",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6936.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "048297067416037863c12e51909eb05f12b93edf7a95d5aef1bc2a75c0f0df25",
+    "elapsedMinutes": [
+      0,
+      26,
+      42,
+      55,
+      67,
+      89,
+      108,
+      119,
+      135
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6937",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "哈尔滨北",
+      "安达",
+      "大庆西",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6937.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4c32a09f2b933fc66e4a44655c0342834394c2cf237ab996e3207ac6ceaa0898",
+    "elapsedMinutes": [
+      0,
+      10,
+      45,
+      63,
+      103
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6938",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "杜尔伯特",
+      "大庆西",
+      "安达",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6938.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "008f1465e96b947e877ac9d1eb25068ba4ce614795e01c88ffed56e95e693618",
+    "elapsedMinutes": [
+      0,
+      21,
+      37,
+      56,
+      97
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6939",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "安达",
+      "齐齐哈尔南",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6939.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ccd58937a8a18f43a8fc460e7c00574d286cf5d5448b55506cd22255b699c495",
+    "elapsedMinutes": [
+      0,
+      39,
+      88,
+      101
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6940",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔",
+      "大庆东",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6940.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5abe841bdac5c9f5c5910752ef6d9bdecb928cd8bcc301d5107b5d2d8e349eda",
+    "elapsedMinutes": [
+      0,
+      43,
+      89
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6942",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔",
+      "齐齐哈尔南",
+      "大庆西",
+      "哈尔滨",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6942.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "46638d6d71711eb51858e90ff7abaec41047a4cdb904df6c9bdf5247faee4547",
+    "elapsedMinutes": [
+      0,
+      9,
+      43,
+      96,
+      110
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6947",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "大庆东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6947.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2f16e231521873cde01155d593d65624b6ef297845d3cc9ab3cb1dab102990e0",
+    "elapsedMinutes": [
+      0,
+      51
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6948",
+    "category": "D",
+    "stopNames": [
+      "大庆东",
+      "哈尔滨",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6948.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4cf35895aca2e9ea2652a68cc3b2b83671a9383882b0ee298c5d17bceaf83ec0",
+    "elapsedMinutes": [
+      0,
+      44,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6949",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "安达",
+      "大庆东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6949.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b776cbea703dfa0058a92987f53273afef729ae5065603e62667b5a48791892d",
+    "elapsedMinutes": [
+      0,
+      45,
+      58
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6950",
+    "category": "D",
+    "stopNames": [
+      "大庆东",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6950.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "83766c9f54eb90b4d9f7aed121980128f96881c243b6a80ab540bf5f6d2d238d",
+    "elapsedMinutes": [
+      0,
+      50
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6951",
+    "category": "D",
+    "stopNames": [
+      "绥芬河",
+      "绥阳",
+      "穆棱",
+      "牡丹江",
+      "横道河子东",
+      "一面坡北",
+      "尚志南",
+      "阿城北",
+      "哈尔滨",
+      "大庆西",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6951.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "c4e3cc41afcdff692ce1ff181a8a1dfe2919289e0c2e90ef268ba32ddf25ed33",
+    "elapsedMinutes": [
+      0,
+      13,
+      40,
+      73,
+      97,
+      126,
+      137,
+      167,
+      194,
+      267,
+      301
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6952",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "杜尔伯特",
+      "大庆西",
+      "安达",
+      "哈尔滨",
+      "牡丹江",
+      "穆棱",
+      "绥阳",
+      "绥芬河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6952.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "d710d7497d16a9e945a135381ca428fdd84bd8b6fe1d1efe6cb3383c6360c569",
+    "elapsedMinutes": [
+      0,
+      21,
+      37,
+      56,
+      97,
+      216,
+      250,
+      276,
+      291
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6953",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "杜尔伯特",
+      "大庆西",
+      "安达",
+      "哈尔滨",
+      "牡丹江",
+      "穆棱",
+      "绥阳",
+      "绥芬河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6953.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "d5da1c5ebd11dbf1d8bb66361c2910dc9abfbbce04277e7e0be9cb14d8160844",
+    "elapsedMinutes": [
+      0,
+      21,
+      37,
+      56,
+      97,
+      216,
+      250,
+      276,
+      291
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6954",
+    "category": "D",
+    "stopNames": [
+      "绥芬河",
+      "绥阳",
+      "穆棱",
+      "牡丹江",
+      "横道河子东",
+      "一面坡北",
+      "尚志南",
+      "阿城北",
+      "哈尔滨",
+      "大庆西",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6954.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "1f4be5f39df4acd9e79514a4fbc1c18a289197cae225d5ad7f84043b9a767a1f",
+    "elapsedMinutes": [
+      0,
+      13,
+      40,
+      73,
+      97,
+      126,
+      137,
+      167,
+      194,
+      267,
+      301
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6981",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "安达",
+      "大庆西",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6981.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "90b014ab32833243f13d14fccb0bf2136abbe0c1bbaace520fe77d0ec0f38a65",
+    "elapsedMinutes": [
+      0,
+      10,
+      52,
+      70,
+      105
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6982",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆东",
+      "肇东",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6982.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "adcfcc3e09cf2dcb024f29136aa844f5102ea15b029cbd5d53b05bf143bcecbd",
+    "elapsedMinutes": [
+      0,
+      38,
+      66,
+      90
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6983",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "安达",
+      "大庆东",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6983.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "525f23e47e1ba385b39cd0324f34d86bea90c1095aa8299241dbd3db13d913e6",
+    "elapsedMinutes": [
+      0,
+      39,
+      51,
+      92
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6984",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "杜尔伯特",
+      "大庆西",
+      "大庆东",
+      "安达",
+      "肇东",
+      "哈尔滨北",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6984.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "698219ee189bc81a49b45041cd5913efad3788835059a08bcfc4f5002b8bb425",
+    "elapsedMinutes": [
+      0,
+      21,
+      37,
+      50,
+      63,
+      85,
+      105,
+      116
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6985",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "哈尔滨北",
+      "肇东",
+      "大庆东",
+      "杜尔伯特",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6985.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bcd7314fc9fdbcd81de46ab9b4dca8c713e064907ac72968bbdc9a7d1c03bd5f",
+    "elapsedMinutes": [
+      0,
+      10,
+      30,
+      58,
+      83,
+      106
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6988",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆东",
+      "安达",
+      "哈尔滨北",
+      "哈尔滨",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6988.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "39acec1e71290ce7038dcfc8d6d67d053f36a095763bfba5a5d0b50891603216",
+    "elapsedMinutes": [
+      0,
+      38,
+      51,
+      87,
+      99,
+      118
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6993",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "肇东",
+      "安达",
+      "大庆西",
+      "杜尔伯特",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6993.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c42698ecc600e93770e05da70f44b96aba6103b9b31879e63d46079686650f87",
+    "elapsedMinutes": [
+      0,
+      29,
+      51,
+      69,
+      87,
+      110
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6994",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆西",
+      "肇东",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6994.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ed19c6c310cadcb96f02ac881fa64800fc9cb0de972a954776ab07f1de4fde5d",
+    "elapsedMinutes": [
+      0,
+      31,
+      67,
+      92
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6995",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "大庆西",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6995.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d116764cb43756f8b03a1c0d729e4bd2be27298dd05eb97eb1f8cf852905a522",
+    "elapsedMinutes": [
+      0,
+      51,
+      86
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6998",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "杜尔伯特",
+      "大庆西",
+      "大庆东",
+      "安达",
+      "肇东",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6998.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f01e36416a290b97a04b1b38dd17073565dd9ae95e23f5f8ddf01a5803c4115b",
+    "elapsedMinutes": [
+      0,
+      21,
+      37,
+      50,
+      62,
+      84,
+      109
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7801",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "方正",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7801.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "df499966ad396cfdd031aeba208fd5aeb71ee220d03e81604dcd85472e50c8ac",
+    "elapsedMinutes": [
+      0,
+      62,
+      124
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7802",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7802.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d5bc30196dcb6d76278222b7b966fd072a8fda354e4ee89134ae7c27142a1ce3",
+    "elapsedMinutes": [
+      0,
+      118
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7811",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "方正",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7811.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "59a8250167c626cd113b324230ea4095c0fd6693336ae160827ddcdad3b12b33",
+    "elapsedMinutes": [
+      0,
+      10,
+      75,
+      138
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7812",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "依兰",
+      "方正",
+      "胜利镇",
+      "宾州",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7812.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "26d16438ec46ac2159b9af5433f9c49f723d09b597f9614e12555c2601b40470",
+    "elapsedMinutes": [
+      0,
+      33,
+      66,
+      92,
+      111,
+      144
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7813",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "方正",
+      "依兰",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7813.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0052f0c2c14589d0bd210584978f88637ad2ea812d7f16712b98674f9ec9afc3",
+    "elapsedMinutes": [
+      0,
+      62,
+      94,
+      130
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7814",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "依兰",
+      "高楞",
+      "得莫利",
+      "胜利镇",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7814.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "41f8c0bdb2c8e849c7499d4757c74d2d7d80bc422713a48f220b58543e332005",
+    "elapsedMinutes": [
+      0,
+      33,
+      52,
+      66,
+      99,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7815",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "宾州",
+      "胜利镇",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7815.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ec12eecdaaf53c15afff15040fca4e1840f8162dc1d4b3e45306e32677b452c1",
+    "elapsedMinutes": [
+      0,
+      29,
+      49,
+      131
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7816",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "宾州",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7816.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "319b11bba08605a3047b7129d98e81e3a41397f8866f517039dbfac46acd28c5",
+    "elapsedMinutes": [
+      0,
+      98,
+      131
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7817",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "宾西北",
+      "高楞",
+      "依兰",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7817.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f4f642b20ce03eab2d4b6297d4ca4cb1c3b70fc0bb1b2d0faa4c92008f823d5a",
+    "elapsedMinutes": [
+      0,
+      22,
+      81,
+      100,
+      136
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7818",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "宾州",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7818.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "27cd6ea7fcc89d40e658e2c3f3871298b991ffb481eddecb45ffe069ef8c6f74",
+    "elapsedMinutes": [
+      0,
+      92,
+      125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7820",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "胜利镇",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7820.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5462783c9b887e9916ba9a9c1df4d37d963986d16a8c8d84f817b4c892d953fb",
+    "elapsedMinutes": [
+      0,
+      79,
+      125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7821",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "宾州",
+      "胜利镇",
+      "方正",
+      "高楞",
+      "宏克力",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7821.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4c01f1d1beea4629e59a31ca6095f7c141f64abe0a16a8f7c2287230f74f443f",
+    "elapsedMinutes": [
+      0,
+      29,
+      48,
+      74,
+      93,
+      122,
+      148
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7822",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "依兰",
+      "高楞",
+      "方正",
+      "宾州",
+      "哈尔滨",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7822.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "39bbfdbeb3cfd6a673b05dde9dd1c9a3f4ee537dff1cda4217f718b8dc25414c",
+    "elapsedMinutes": [
+      0,
+      33,
+      53,
+      72,
+      111,
+      143,
+      165
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7823",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "宾州",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7823.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "42bb053cc384492a0a07dbfc9a920e7e89143fdcaa875d244d78626ff9f12316",
+    "elapsedMinutes": [
+      0,
+      35,
+      130
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7824",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "依兰",
+      "宾州",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7824.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "709f4ea9a67b21f81fa3afc223c3e574693e247f65e7ef793b9392f67a5d22e2",
+    "elapsedMinutes": [
+      0,
+      33,
+      98,
+      130
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7825",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "方正",
+      "高楞",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7825.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c23dcad52287407300c1ff0d0008502d01e27a9af1082194f45b20e3ce1de90d",
+    "elapsedMinutes": [
+      0,
+      62,
+      81,
+      130
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7826",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "高楞",
+      "方正",
+      "宾州",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7826.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "13b47ebf42a35daa9add7df4ccf659045acad586cbfdabc96be929bab2f8386c",
+    "elapsedMinutes": [
+      0,
+      46,
+      66,
+      105,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7827",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "胜利镇",
+      "方正",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7827.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ad813cab957fbcda6939493e3eb1514958e6e6ab1daa087212c18fb55c7ddfac",
+    "elapsedMinutes": [
+      0,
+      42,
+      68,
+      130
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7828",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "依兰",
+      "达连河",
+      "方正",
+      "宾州",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7828.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f95017db5f2576976d617da1aaca05dba296040dea7c706cb167dff11d31914f",
+    "elapsedMinutes": [
+      0,
+      33,
+      45,
+      72,
+      112,
+      144
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7829",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "宾州",
+      "方正",
+      "达连河",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7829.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2090f71c3b866c6b89632b669fc262e564f91a11ee0a472bfe1df6b1cb02a673",
+    "elapsedMinutes": [
+      0,
+      29,
+      68,
+      95,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7831",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "宾州",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7831.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ca9271c330cac9e656684dc892798bcb9ba68f8ac1ebf099cab3e80ed6201fec",
+    "elapsedMinutes": [
+      0,
+      29,
+      125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7833",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "方正",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7833.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3bfbbde2cc8b905fcbd9207899decd2264cc3be82b0017bb432724ceba8c8143",
+    "elapsedMinutes": [
+      0,
+      62,
+      125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7834",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "宏克力",
+      "方正",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7834.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b818a2132f10afe20ef9cf389f7e030642f5ec77c92005d8f1c729f8ae83892b",
+    "elapsedMinutes": [
+      0,
+      23,
+      65,
+      130
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7835",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "方正",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7835.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "af903ec9c2921dcd09ee4fcd63de04b472d45f0ed46aa70c8120ae2ecf5ad376",
+    "elapsedMinutes": [
+      0,
+      62,
+      125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7838",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "依兰",
+      "哈尔滨",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7838.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d9d225ea350c177c5fdaf46ab5b9dc8d76022df9391da35361dbcba0fd09c0ea",
+    "elapsedMinutes": [
+      0,
+      33,
+      125,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7905",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "宾州",
+      "佳木斯",
+      "桦南东",
+      "七台河西",
+      "鸡西西",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7905.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c9bd9c975ca26f48035e88b06a133b26817441004fe321370b0f90eb0c20ddde",
+    "elapsedMinutes": [
+      0,
+      29,
+      125,
+      177,
+      199,
+      221,
+      266
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7908",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "宾州",
+      "佳木斯",
+      "桦南东",
+      "七台河西",
+      "鸡西西",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7908.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "72dbe30747094423f285531b87bbca030537e694f253e36e320066ff82680b1e",
+    "elapsedMinutes": [
+      0,
+      29,
+      125,
+      177,
+      199,
+      221,
+      266
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7915",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "依兰",
+      "佳木斯",
+      "双鸭山西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7915.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "583733f29032fa64188758b64f3c724595978652897a291f7462670175c25926",
+    "elapsedMinutes": [
+      0,
+      10,
+      101,
+      137,
+      167
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7916",
+    "category": "D",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "依兰",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7916.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "95c9b38d756ad8923ad2773724055ec53c391176545818aea3949074943ef7cf",
+    "elapsedMinutes": [
+      0,
+      25,
+      64,
+      155
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7917",
+    "category": "D",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "依兰",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7917.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5d0b06a1c6a88a418eb85c5a645ea854484e01320985cfd21519a89acf07e4ea",
+    "elapsedMinutes": [
+      0,
+      25,
+      64,
+      155
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7918",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "依兰",
+      "佳木斯",
+      "双鸭山西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7918.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "50e5f4bd3bec53c5f4656cd4ecf4350f840de0f913cb4c1019219f7e5e908589",
+    "elapsedMinutes": [
+      0,
+      10,
+      101,
+      137,
+      167
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7921",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "宾州",
+      "胜利镇",
+      "方正",
+      "高楞",
+      "依兰",
+      "佳木斯",
+      "桦南东",
+      "七台河西",
+      "鸡西西",
+      "林口南",
+      "牡丹江",
+      "苇河西",
+      "哈 尔 滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7921.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7d49d1ce6e06812cd224a99ecb62bf89bf09ac26c81545b41f8f1bcf15a8cfbb",
+    "elapsedMinutes": [
+      0,
+      10,
+      42,
+      61,
+      87,
+      106,
+      125,
+      161,
+      210,
+      232,
+      254,
+      272,
+      307,
+      346,
+      410
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7922",
+    "category": "D",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "依兰",
+      "高楞",
+      "方正",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7922.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b23ac1698265bccb5525d87e5ded633c3f92882efe72905009725bb314e092ba",
+    "elapsedMinutes": [
+      0,
+      25,
+      64,
+      83,
+      102,
+      169
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7923",
+    "category": "D",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "依兰",
+      "高楞",
+      "方正",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7923.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d7f448125141fa1b94c4131392ee603d56a063c9d8570f8721b40b5712eb395a",
+    "elapsedMinutes": [
+      0,
+      25,
+      64,
+      83,
+      102,
+      169
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7924",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "宾州",
+      "胜利镇",
+      "方正",
+      "高楞",
+      "依兰",
+      "佳木斯",
+      "桦南东",
+      "七台河西",
+      "鸡西西",
+      "林口南",
+      "牡丹江",
+      "苇河西",
+      "哈 尔 滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7924.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a1901c7c9a8e0502f7b0d350a796cffae1ddb990ec96a311cbc119da07ed3869",
+    "elapsedMinutes": [
+      0,
+      10,
+      42,
+      61,
+      87,
+      106,
+      125,
+      161,
+      210,
+      232,
+      254,
+      272,
+      307,
+      346,
+      410
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7925",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "宾州",
+      "胜利镇",
+      "方正",
+      "高楞",
+      "依兰",
+      "佳木斯",
+      "双鸭山西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7925.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d406ec9d847666dc4fa00c5d7a84201b5cee1655936931533634b638b98685a1",
+    "elapsedMinutes": [
+      0,
+      10,
+      43,
+      62,
+      88,
+      107,
+      126,
+      162,
+      192
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7926",
+    "category": "D",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "得莫利",
+      "方正",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7926.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cc90fafec572c96df46f43c6116b95f9f730377201ed182bd4bed82ed3d2a117",
+    "elapsedMinutes": [
+      0,
+      25,
+      87,
+      99,
+      164
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7927",
+    "category": "D",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "得莫利",
+      "方正",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7927.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b27c59905d5998be1855bc27df76a555a7cec3ef97269cf5b479311cac48ffe4",
+    "elapsedMinutes": [
+      0,
+      25,
+      87,
+      99,
+      164
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7928",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "宾州",
+      "胜利镇",
+      "方正",
+      "高楞",
+      "依兰",
+      "佳木斯",
+      "双鸭山西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7928.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "479ae5344b57a0a475b5b44d347c7dc14b6571f415b2cf39e0fc8de95c6a788c",
+    "elapsedMinutes": [
+      0,
+      10,
+      43,
+      62,
+      88,
+      107,
+      126,
+      162,
+      192
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7929",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "尚志南",
+      "亚布力西",
+      "牡丹江",
+      "鸡西西",
+      "七台河西",
+      "桦南东",
+      "双鸭山西",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7929.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d7c425c0a5897dd7fdaa6563a482f00ab73c3df05ff45517c086facc43840ecf",
+    "elapsedMinutes": [
+      0,
+      48,
+      70,
+      102,
+      149,
+      170,
+      192,
+      217,
+      245
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7930",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "双鸭山西",
+      "鸡西西",
+      "牡丹江",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7930.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cfc3e2851ef2198e951b53c624424753a53685d2411c11f98546bbf3d48ba5e2",
+    "elapsedMinutes": [
+      0,
+      25,
+      82,
+      126,
+      221
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7931",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "胜利镇",
+      "得莫利",
+      "佳木斯",
+      "双鸭山西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7931.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3769c08c50006265ab88f4b07d7d662e89a94f708d0894be404ee88eafae4333",
+    "elapsedMinutes": [
+      0,
+      42,
+      74,
+      130,
+      160
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7932",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "帽儿山西",
+      "尚志南",
+      "苇河西",
+      "海林北",
+      "牡丹江",
+      "林口南",
+      "鸡西西",
+      "七台河西",
+      "桦南东",
+      "双鸭山西",
+      "佳木斯",
+      "依兰",
+      "方正",
+      "胜利镇",
+      "宾州",
+      "哈 尔 滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7932.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "18896a8e5b55f705c9770dd9ce60164d7dfa9748587952371fd4137b00631aa0",
+    "elapsedMinutes": [
+      0,
+      38,
+      54,
+      72,
+      101,
+      114,
+      149,
+      166,
+      187,
+      209,
+      234,
+      262,
+      301,
+      333,
+      359,
+      379,
+      412
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7933",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "帽儿山西",
+      "尚志南",
+      "苇河西",
+      "海林北",
+      "牡丹江",
+      "林口南",
+      "鸡西西",
+      "七台河西",
+      "桦南东",
+      "双鸭山西",
+      "佳木斯",
+      "依兰",
+      "方正",
+      "胜利镇",
+      "宾州",
+      "哈 尔 滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7933.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d4b7ae6831488260c889d99bba63007013b63e497e4d3b7d1074d6de67b8ca23",
+    "elapsedMinutes": [
+      0,
+      38,
+      54,
+      72,
+      101,
+      114,
+      149,
+      166,
+      187,
+      209,
+      234,
+      262,
+      301,
+      333,
+      359,
+      379,
+      412
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7934",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "胜利镇",
+      "得莫利",
+      "佳木斯",
+      "双鸭山西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7934.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "203d779557e34a224676d8e6e94afc918d3adb73a0d740c70bd95e024c5a00ed",
+    "elapsedMinutes": [
+      0,
+      42,
+      74,
+      130,
+      160
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7935",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "方正",
+      "依兰",
+      "佳木斯",
+      "双鸭山西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7935.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cb2625c0de718bfc08d3169c8b8e88c6a1246eca793ec221c7775d633009e056",
+    "elapsedMinutes": [
+      0,
+      68,
+      100,
+      136,
+      167
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7936",
+    "category": "D",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "依兰",
+      "高楞",
+      "方正",
+      "宾州",
+      "哈尔滨",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7936.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f7442f926b172f0a87005f385f9f20cceb45f181e193144dfd3bda582ef93c08",
+    "elapsedMinutes": [
+      0,
+      25,
+      67,
+      86,
+      104,
+      144,
+      177,
+      191
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7937",
+    "category": "D",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "依兰",
+      "高楞",
+      "方正",
+      "宾州",
+      "哈尔滨",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7937.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f70beffade2f3fda0f95346b3faa9c34cb408f68aa69963bf745b46b945ec8e4",
+    "elapsedMinutes": [
+      0,
+      25,
+      67,
+      86,
+      104,
+      144,
+      177,
+      191
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7938",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "方正",
+      "依兰",
+      "佳木斯",
+      "双鸭山西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7938.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c568e60b1a16dec391015dbcab22f489f3d2874159f409d5e073a515fe8dfa8c",
+    "elapsedMinutes": [
+      0,
+      68,
+      100,
+      136,
+      167
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7945",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "依兰",
+      "佳木斯",
+      "双鸭山西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7945.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "835fde9088c6a69ea259c9d262660b3e5ceb6540b1f4ce4c6410140d99fbae4b",
+    "elapsedMinutes": [
+      0,
+      88,
+      124,
+      156
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7946",
+    "category": "D",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7946.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "664ac8916858bfb362c3f090469747a773b5929bc7f1b907ba6c455ca9a5eb1c",
+    "elapsedMinutes": [
+      0,
+      25,
+      147
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7947",
+    "category": "D",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7947.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d511a4aafaebe673e79830feac6f9b82c4f78039498daccb106fdb0b8c9b4f30",
+    "elapsedMinutes": [
+      0,
+      25,
+      147
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7948",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "依兰",
+      "佳木斯",
+      "双鸭山西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7948.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4631169ee1cd392fb0338a7e190e48451148828dcbd50dad239761095451edcd",
+    "elapsedMinutes": [
+      0,
+      88,
+      124,
+      156
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7951",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "尚志南",
+      "一面坡北",
+      "海林北",
+      "牡丹江",
+      "林口南",
+      "鸡西西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7951.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "08abf3072571a05655e5400f669aae50dc1eb9273b35697927f4f51a7e7c77f8",
+    "elapsedMinutes": [
+      0,
+      48,
+      59,
+      95,
+      108,
+      144,
+      161
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7957",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "牡丹江",
+      "林口南",
+      "鸡西西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7957.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6979edd7c0eed8d63336d01677ef3091f7b89d72ddd793fe4e98a26aee61590d",
+    "elapsedMinutes": [
+      0,
+      10,
+      103,
+      138,
+      155
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7958",
+    "category": "D",
+    "stopNames": [
+      "七台河西",
+      "鸡西西",
+      "牡丹江",
+      "海林北",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7958.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0191f8f1de88c890c1ac4ddc8a60f9bc3d0dd11d0c65d10bbcbb504117e5a973",
+    "elapsedMinutes": [
+      0,
+      19,
+      63,
+      79,
+      171
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7959",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "宾州",
+      "方正",
+      "依兰",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7959.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f44cdc92c2ffe12974b1add4f5c55739f79bcc55d25fe8c4e07d9b0712e73516",
+    "elapsedMinutes": [
+      0,
+      29,
+      69,
+      102,
+      138
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7960",
+    "category": "D",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "方正",
+      "胜利镇",
+      "宾州",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7960.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6a9a367ce14fc8b0edfaef2c10a0f25c734b0aa7035fba6649c18e10aadc0483",
+    "elapsedMinutes": [
+      0,
+      25,
+      91,
+      117,
+      136,
+      168
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7961",
+    "category": "D",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "方正",
+      "胜利镇",
+      "宾州",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7961.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "02e1b50fb129967e857ea2b7517207b9bf4d1bb9ca3ecd477580bcb3d74d9011",
+    "elapsedMinutes": [
+      0,
+      25,
+      91,
+      117,
+      136,
+      168
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7963",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "阿城北",
+      "亚布力西",
+      "海林北",
+      "牡丹江",
+      "林口南",
+      "鸡西西",
+      "七台河西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7963.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "82aaffce53be65ef9f562a9443b6b7d0525d8d538d88cbe92b20276be849b3b0",
+    "elapsedMinutes": [
+      0,
+      10,
+      38,
+      84,
+      109,
+      122,
+      158,
+      175,
+      197
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7964",
+    "category": "D",
+    "stopNames": [
+      "七台河西",
+      "鸡西西",
+      "林口南",
+      "牡丹江",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7964.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ffbbf042d2274e4bf94e60861d19de406ebb9211f627b6fba3bbd27d949be692",
+    "elapsedMinutes": [
+      0,
+      19,
+      37,
+      71,
+      166
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7966",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "双鸭山西",
+      "七台河西",
+      "鸡西西",
+      "牡丹江",
+      "海林北",
+      "亚布力西",
+      "尚志南",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7966.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9cec705fc2926b579f7677ececfc2ef986a6d09558560a8ccc47243711721276",
+    "elapsedMinutes": [
+      0,
+      25,
+      67,
+      88,
+      133,
+      150,
+      175,
+      197,
+      248
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7967",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "阿城北",
+      "尚志南",
+      "苇河西",
+      "亚布力西",
+      "横道河子东",
+      "牡丹江",
+      "鸡西西",
+      "七台河西",
+      "双鸭山西",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7967.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e00c5c03e40fadfcf1cc396c31c1c54a054717176ea8f54aaf5499a5620be010",
+    "elapsedMinutes": [
+      0,
+      10,
+      39,
+      70,
+      89,
+      100,
+      118,
+      140,
+      186,
+      208,
+      250,
+      279
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7968",
+    "category": "D",
+    "stopNames": [
+      "七台河西",
+      "鸡西西",
+      "林口南",
+      "牡丹江",
+      "苇河西",
+      "一面坡北",
+      "哈尔滨",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7968.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a9c8c97091cef4ecb3cf2f2387bfc2e5fcaca32dc4ffcd12f32fa4cd7c0c495a",
+    "elapsedMinutes": [
+      0,
+      19,
+      38,
+      71,
+      110,
+      123,
+      180,
+      199
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7969",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "牡丹江",
+      "七台河西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7969.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "af32695629bbc9b7d6f9ad34393ca56ebbb1f4d85bdbfd43a96755216c49870e",
+    "elapsedMinutes": [
+      0,
+      90,
+      151
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7971",
+    "category": "D",
+    "stopNames": [
+      "七台河西",
+      "鸡西西",
+      "林口南",
+      "牡丹江",
+      "一面坡北",
+      "尚志南",
+      "哈尔滨",
+      "哈尔滨",
+      "安达",
+      "大庆西",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7971.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7dd9562862ccc7042ef5882ba348310974c1f1b21482a85a0260f7b06c71de15",
+    "elapsedMinutes": [
+      0,
+      19,
+      37,
+      70,
+      116,
+      127,
+      175,
+      178,
+      232,
+      250,
+      284
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7973",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "牡丹江",
+      "鸡西西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7973.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fd584bb016038cbc2434542f805252a526f85364a70fe99e291c55a04a126c29",
+    "elapsedMinutes": [
+      0,
+      90,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7974",
+    "category": "D",
+    "stopNames": [
+      "七台河西",
+      "鸡西西",
+      "林口南",
+      "牡丹江",
+      "一面坡北",
+      "尚志南",
+      "哈尔滨",
+      "哈尔滨",
+      "安达",
+      "大庆西",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7974.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "80b0873a42f542b2f5e0f551834c48d98023ebf5faa42e41f178084b4e5926ae",
+    "elapsedMinutes": [
+      0,
+      19,
+      37,
+      70,
+      116,
+      127,
+      175,
+      178,
+      232,
+      250,
+      284
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7975",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "尚志南",
+      "牡丹江",
+      "林口南",
+      "鸡西西",
+      "七台河西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7975.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "512ab633de362096ebaa5de9020d9101b2a6b738fdd19ae226ba364753d91c26",
+    "elapsedMinutes": [
+      0,
+      54,
+      102,
+      138,
+      155,
+      176
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7976",
+    "category": "D",
+    "stopNames": [
+      "七台河西",
+      "鸡西西",
+      "林口南",
+      "牡丹江",
+      "横道河子东",
+      "亚布力西",
+      "苇河西",
+      "尚志南",
+      "阿城北",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7976.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fe5977135693198a3fa1bc46b8ce8dd30a49706fe2f53e6a8221ffc6f801223e",
+    "elapsedMinutes": [
+      0,
+      19,
+      37,
+      71,
+      95,
+      112,
+      122,
+      140,
+      172,
+      197
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7977",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "阿城北",
+      "亚布力西",
+      "牡丹江",
+      "林口南",
+      "鸡西西",
+      "七台河西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7977.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bb430705cdee75657620b24cffd4813df0eb02c6214bae633f384dc8e6b461aa",
+    "elapsedMinutes": [
+      0,
+      24,
+      70,
+      102,
+      138,
+      155,
+      176
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7978",
+    "category": "D",
+    "stopNames": [
+      "七台河西",
+      "鸡西西",
+      "牡丹江",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7978.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ce76763a11b3ed0226a1d3ed3652ad568e3af0e94ad743f046e0e755e06115ea",
+    "elapsedMinutes": [
+      0,
+      19,
+      64,
+      163
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7979",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔",
+      "大庆西",
+      "哈尔滨北",
+      "哈尔滨",
+      "宾州",
+      "方正",
+      "依兰",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7979.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0c61a716ab1b85e607dd0efe629282038273348f59ba7643ca4db0c4a35f3a04",
+    "elapsedMinutes": [
+      0,
+      36,
+      84,
+      95,
+      144,
+      183,
+      216,
+      252
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7980",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "鸡西西",
+      "七台河西",
+      "桦南东",
+      "双鸭山西",
+      "佳木斯",
+      "依兰",
+      "方正",
+      "胜利镇",
+      "哈尔滨",
+      "大庆西",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7980.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d8f0f4f4254c6592a2e020aa2cd60b9de3e996d9c852f5323ac7c09b466bded3",
+    "elapsedMinutes": [
+      0,
+      42,
+      63,
+      85,
+      110,
+      137,
+      178,
+      211,
+      238,
+      284,
+      361,
+      401
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7981",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "鸡西西",
+      "七台河西",
+      "桦南东",
+      "双鸭山西",
+      "佳木斯",
+      "依兰",
+      "方正",
+      "胜利镇",
+      "哈尔滨",
+      "大庆西",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7981.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ec12b350057a94bb3b97c81b65f4ae03c2cf870aaf01bbdf41ed469071474ed6",
+    "elapsedMinutes": [
+      0,
+      42,
+      63,
+      85,
+      110,
+      137,
+      178,
+      211,
+      238,
+      284,
+      361,
+      401
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7982",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔",
+      "大庆西",
+      "哈尔滨北",
+      "哈尔滨",
+      "宾州",
+      "方正",
+      "依兰",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7982.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "138a40406d26e8e85abaf0b8a938c560812384099860525eb7d098b48d6ee69b",
+    "elapsedMinutes": [
+      0,
+      36,
+      84,
+      95,
+      144,
+      183,
+      216,
+      252
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7983",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "阿城北",
+      "牡丹江",
+      "林口南",
+      "鸡西西",
+      "七台河西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7983.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5bef91c55f20134d58ff4fc22edbb10ce71e7d8a9d71669c35c21ad4647cb05a",
+    "elapsedMinutes": [
+      0,
+      24,
+      96,
+      131,
+      148,
+      170
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7984",
+    "category": "D",
+    "stopNames": [
+      "七台河西",
+      "牡丹江",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7984.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9985904b3208f8c1942da72f333351374d4fe2b31f1110172694843dd01697bc",
+    "elapsedMinutes": [
+      0,
+      57,
+      153
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7986",
+    "category": "D",
+    "stopNames": [
+      "鸡西西",
+      "林口南",
+      "牡丹江",
+      "亚布力西",
+      "尚志南",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7986.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8e383511b1046950444d5c28eaf2e1965c16dd01060191b8ad6685179e68968d",
+    "elapsedMinutes": [
+      0,
+      15,
+      48,
+      83,
+      105,
+      156
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7987",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "亚布力西",
+      "牡丹江",
+      "林口南",
+      "鸡西西",
+      "七台河西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7987.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3b4055d8819e0fc76f1843cf586793f1ad5b3cd45534a187f6ac8c2257b144e7",
+    "elapsedMinutes": [
+      0,
+      64,
+      96,
+      132,
+      149,
+      171
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7988",
+    "category": "D",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7988.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "01d432f0e53ec98eb208ef56e3285bf890f517f5455462d41a7033b3cbe5613b",
+    "elapsedMinutes": [
+      0,
+      25,
+      152
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7989",
+    "category": "D",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7989.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c4aaf25cc8e94ca7b4a2d6f370a54a66aa63e6f96b3ac78d19ac0e92606287df",
+    "elapsedMinutes": [
+      0,
+      25,
+      152
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7990",
+    "category": "D",
+    "stopNames": [
+      "鸡西西",
+      "牡丹江",
+      "亚布力西",
+      "哈尔滨",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7990.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "357460d3dd84f49ca1e45cb6345dd75d5b12f30c5c13224289031ea0332d1b3b",
+    "elapsedMinutes": [
+      0,
+      42,
+      77,
+      144,
+      156
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8501",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "阿城北",
+      "横道河子东",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8501.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2c0c4a70eb265e5d8b8aa2991796278988cea981d5fe6f853973e17f0e779b9a",
+    "elapsedMinutes": [
+      0,
+      24,
+      81,
+      102
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8511",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "海林北",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8511.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "59434fcae63abe31629ec527818457294d645eb11f2f89ef1709afd1a07a96b5",
+    "elapsedMinutes": [
+      0,
+      83,
+      96
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8512",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "亚布力西",
+      "尚志南",
+      "阿城北",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8512.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "66ba66993965b0b573ec650c5cd6fd629ab18fb9f91ea0abb18dbce3d09fabe5",
+    "elapsedMinutes": [
+      0,
+      30,
+      52,
+      83,
+      109
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8513",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "尚志南",
+      "一面坡北",
+      "亚布力西",
+      "海林北",
+      "牡丹江",
+      "穆棱",
+      "绥芬河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8513.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f5be1f46f5e54e11ca9752d0ca9ba0edb17c28e043a31e36867308b2b649c278",
+    "elapsedMinutes": [
+      0,
+      48,
+      59,
+      76,
+      101,
+      114,
+      151,
+      186
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8515",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "阿城北",
+      "帽儿山西",
+      "尚志南",
+      "亚布力西",
+      "横道河子东",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8515.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "631281313b76ddc49bede708a0079970247950acaa2c953e7a50f39118ca4c2a",
+    "elapsedMinutes": [
+      0,
+      10,
+      36,
+      56,
+      72,
+      94,
+      111,
+      132
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8516",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "苇河西",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8516.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "32ab5774abe7989b9e7cdbae84338dea149e675a0ca8d89e97c4d9c52318ef80",
+    "elapsedMinutes": [
+      0,
+      34,
+      97
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8517",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "尚志南",
+      "横道河子东",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8517.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "326349c0f43cd2e095b93646f86ef5ae3b651530809749e54cd68a82f4acae34",
+    "elapsedMinutes": [
+      0,
+      10,
+      61,
+      94,
+      115
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8518",
+    "category": "D",
+    "stopNames": [
+      "绥芬河",
+      "绥阳",
+      "穆棱",
+      "牡丹江",
+      "横道河子东",
+      "亚布力西",
+      "尚志南",
+      "阿城北",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8518.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "750977003b53259995c253d87d7131c0b0f51685edddf18ef5918ad48a0c4bf0",
+    "elapsedMinutes": [
+      0,
+      13,
+      40,
+      73,
+      96,
+      114,
+      136,
+      167,
+      193
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8519",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "阿城北",
+      "苇河西",
+      "牡丹江",
+      "穆棱",
+      "绥阳",
+      "绥芬河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8519.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6da212926bd056f91a32311c272e54add5028bc9af26fb4ecfa6a7fd2b2612e5",
+    "elapsedMinutes": [
+      0,
+      30,
+      72,
+      108,
+      144,
+      170,
+      184
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8520",
+    "category": "D",
+    "stopNames": [
+      "绥芬河",
+      "穆棱",
+      "牡丹江",
+      "横道河子东",
+      "一面坡北",
+      "帽儿山西",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8520.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "aeb894d855d1440854a9d0c5f83e580f538567620d3463026bdf17d659d3e439",
+    "elapsedMinutes": [
+      0,
+      34,
+      66,
+      89,
+      118,
+      139,
+      180
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8522",
+    "category": "D",
+    "stopNames": [
+      "绥芬河",
+      "绥阳",
+      "穆棱",
+      "牡丹江",
+      "海林北",
+      "尚志南",
+      "帽儿山西",
+      "阿城北",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8522.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "182b9d63eef74112a84758ab7050a2433deeff7a25b5da1c50117fbe8d2b5a12",
+    "elapsedMinutes": [
+      0,
+      13,
+      39,
+      71,
+      87,
+      128,
+      144,
+      165,
+      191
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8523",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "尚志南",
+      "牡丹江",
+      "穆棱",
+      "绥芬河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8523.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "79228d33f008dd4e5d507efb823bd1edb6c20de2799a0475f2d0b57f521a9460",
+    "elapsedMinutes": [
+      0,
+      54,
+      103,
+      140,
+      176
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8524",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "横道河子东",
+      "亚布力西",
+      "苇河西",
+      "一面坡北",
+      "尚志南",
+      "帽儿山西",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8524.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7d4d14da4585701ef1aebc173860637cc53b9156111aa204356a0fc93a77f39e",
+    "elapsedMinutes": [
+      0,
+      18,
+      36,
+      46,
+      59,
+      70,
+      87,
+      128
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8525",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "牡丹江",
+      "穆棱",
+      "绥阳",
+      "绥芬河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8525.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ebcd3254f185fb3a20df271eebe1def50d513ab0e6ee4d7b4aa7d8c45fc9feba",
+    "elapsedMinutes": [
+      0,
+      90,
+      125,
+      151,
+      165
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8526",
+    "category": "D",
+    "stopNames": [
+      "绥芬河",
+      "绥阳",
+      "穆棱",
+      "牡丹江",
+      "横道河子东",
+      "亚布力西",
+      "阿城北",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8526.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c1de5c23024e147be4b002d91da1c7ab847fcebcbc7762c9903b6b08dc7b49ab",
+    "elapsedMinutes": [
+      0,
+      13,
+      39,
+      71,
+      94,
+      112,
+      159,
+      185
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8528",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8528.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "876fa76b2f5ffbc3894e82b94f59499eab9b20e0ed136351f31337e0c4b44be8",
+    "elapsedMinutes": [
+      0,
+      91
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8529",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "帽儿山西",
+      "尚志南",
+      "横道河子东",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8529.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "de51c685dc86ae34d8f68e4de6f3577e8d2ecf9ae8167ba11d6294dd3db32efc",
+    "elapsedMinutes": [
+      0,
+      10,
+      52,
+      68,
+      102,
+      124
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8530",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8530.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a531ad5404bc806061b2a278e34f097fe70df6132560918e51961d4a4c01fe79",
+    "elapsedMinutes": [
+      0,
+      91
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8531",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "帽儿山西",
+      "一面坡北",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8531.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0376fa400ffb8b323c79bd18b848fea7acd799979ddbb30757499ba01f0b9f57",
+    "elapsedMinutes": [
+      0,
+      38,
+      59,
+      102
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8532",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "亚布力西",
+      "阿城北",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8532.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d2f4397cf19545740881c8a18d1b4f07d6d1179487c33a8b145b351ab37ee2cb",
+    "elapsedMinutes": [
+      0,
+      30,
+      77,
+      103
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8533",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "亚布力西",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8533.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "251f3a9d22364c21897ce1fd9fefa2252616705713d366de8bda991bf68fa1a5",
+    "elapsedMinutes": [
+      0,
+      64,
+      96
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8534",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "苇河西",
+      "帽儿山西",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8534.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4f6235477319ec15e6ba682ca5c56d21d22f2259f9ffe29aa96b0a0248118cff",
+    "elapsedMinutes": [
+      0,
+      34,
+      62,
+      104
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8536",
+    "category": "D",
+    "stopNames": [
+      "绥芬河",
+      "穆棱",
+      "牡丹江",
+      "哈尔滨",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8536.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5f8e69470acb076cd434d30e065a1975c668bda9f982bc9119f15bf979fbc01a",
+    "elapsedMinutes": [
+      0,
+      34,
+      67,
+      163,
+      175
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8545",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "阿城北",
+      "苇河西",
+      "海林北",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8545.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7ffabcfa70c9f30dbb3244086f6a0f8533054d95094b123f120755f6708716a9",
+    "elapsedMinutes": [
+      0,
+      24,
+      66,
+      95,
+      108
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9121",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "阿城北",
+      "尚志南",
+      "苇河西",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9121.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "b703b2a07f5bb91f40bbb528121b99728841c46a5f94fd5071a5351311c01826",
+    "elapsedMinutes": [
+      0,
+      30,
+      59,
+      76,
+      113
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9122",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "海林北",
+      "亚布力西",
+      "帽儿山西",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9122.html",
+    "sourceUpdatedAt": "2026-03-03",
+    "sourceSha256": "d50c342f762330518d39dde5cfb3232d5936878d31a4935174af2343a8db804e",
+    "elapsedMinutes": [
+      0,
+      11,
+      36,
+      68,
+      113
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9123",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9123.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "ad58ec5f204156b3917758859750e279b145f6f212a8078402d625cca6524286",
+    "elapsedMinutes": [
+      0,
+      95
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9124",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9124.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "cc5a74d98d9d0479a332ba17cdace75802a38311e7c504c5cf32631d1500f4a6",
+    "elapsedMinutes": [
+      0,
+      89
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9125",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "宾州",
+      "方正",
+      "高楞",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9125.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "4c5e93e01f996efb0f7105f9a8c72e2d37b9401c5400380285ff7fac8d8075e2",
+    "elapsedMinutes": [
+      0,
+      10,
+      41,
+      81,
+      101,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9126",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "高楞",
+      "方正",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9126.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "8a7431c989803fc827cfc0c9f54e9c10540b7b5ea3600b723a62ee4186625e27",
+    "elapsedMinutes": [
+      0,
+      46,
+      65,
+      130
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9127",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "宾州",
+      "方正",
+      "高楞",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9127.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "314c12ad0c9d5bde0dfd93cab806554ae3bcf0f6cd260a52865113271aaaba2d",
+    "elapsedMinutes": [
+      0,
+      29,
+      69,
+      88,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9128",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "方正",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9128.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "41f84073f08c140d151405bf974b843d40e89d39019327ed64dbeae3c9507dab",
+    "elapsedMinutes": [
+      0,
+      59,
+      124
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9131",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "大庆东",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9131.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "4fc08dc47ef1bcc602a3939ea6e1c17cf10e9b9fe3461286f84807c79cafdf7f",
+    "elapsedMinutes": [
+      0,
+      51,
+      92
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9132",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "杜尔伯特",
+      "大庆东",
+      "肇东",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9132.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "2384c549c01845e40814cc782df2fc3e3240aabb2b96284b8b81405df38b4ab3",
+    "elapsedMinutes": [
+      0,
+      21,
+      44,
+      72,
+      96
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9133",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "肇东",
+      "安达",
+      "大庆东",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9133.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "ead1597087d9450e0f901f5db71e703f1bbcf982b8f7458e8533830d8d669701",
+    "elapsedMinutes": [
+      0,
+      23,
+      46,
+      58,
+      100
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9134",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆西",
+      "安达",
+      "肇东",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9134.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "c7b6e9e2b74c0d33be67a826a15f0e7349182ec73c67773038c1d9c77aca57d0",
+    "elapsedMinutes": [
+      0,
+      31,
+      50,
+      73,
+      97
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9135",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "肇东",
+      "大庆东",
+      "大庆西",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9135.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "69e11b31a0f2a2eaef0574ba5e8f6e6d02190b03df9b07747555392011315929",
+    "elapsedMinutes": [
+      0,
+      23,
+      51,
+      63,
+      99
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9136",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆东",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9136.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "33c0eb20f0a6124e234928c43ca3fdc149913e3fa5aec9e271c54a94b85a95d3",
+    "elapsedMinutes": [
+      0,
+      38,
+      85
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9137",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "大庆西",
+      "杜尔伯特",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9137.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "117e5c98a49dd6fef50ff2f885d3e041960cc87ced5ae279428b15020f9d12cd",
+    "elapsedMinutes": [
+      0,
+      51,
+      70,
+      94
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9138",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "杜尔伯特",
+      "大庆西",
+      "大庆东",
+      "哈尔滨",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9138.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "a00890dbdd22e0a5de8b32451c05ad8baab160f5eba55bafbdce0dcecd63b7c6",
+    "elapsedMinutes": [
+      0,
+      21,
+      37,
+      51,
+      97,
+      110
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9139",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "安达",
+      "大庆东",
+      "大庆西",
+      "齐齐哈尔南",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9139.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "747f142b041da6fcd57e8441f52cbdb8385d9275634642951e52b60ec6bd37f7",
+    "elapsedMinutes": [
+      0,
+      39,
+      52,
+      64,
+      99,
+      110
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9140",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔",
+      "杜尔伯特",
+      "大庆东",
+      "肇东",
+      "哈尔滨",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9140.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "760a061605e6ecb997dd36e6a3f09def0f8df068c74373f61dd677670074eef6",
+    "elapsedMinutes": [
+      0,
+      26,
+      49,
+      78,
+      102,
+      117
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9141",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "哈尔滨北",
+      "肇东",
+      "大庆东",
+      "大庆西",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9141.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "2c8add0f4f38384d54f90810938f81086fe8157770c1c50c04dd6e1f360c0add",
+    "elapsedMinutes": [
+      0,
+      10,
+      29,
+      57,
+      69,
+      104
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9142",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆西",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9142.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "fa62a709c5f8c0dfad3a7bf5017bc31d5f3650ec132dcc44c26ec0fd81a11eb9",
+    "elapsedMinutes": [
+      0,
+      31,
+      85
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9143",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "肇东",
+      "大庆东",
+      "齐齐哈尔南",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9143.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "3cd377b8e06ec3578e10c1b12a90d19f6b379e591146be526a092b0a936bb1bf",
+    "elapsedMinutes": [
+      0,
+      23,
+      52,
+      94,
+      106
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9144",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9144.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "f8d8ec4042e399b75be4154cf88b1fb9d0d1757b6068dcc8a124428a701106ae",
+    "elapsedMinutes": [
+      0,
+      83
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9145",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "肇东",
+      "杜尔伯特",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9145.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "38b997ab601d87aebbd9036f3de05d90f6dcec38467ec690240d8e3db8167cc5",
+    "elapsedMinutes": [
+      0,
+      21,
+      67,
+      90
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9146",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9146.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "8ef984d1581d5c6a2f040d23d56f20fccde1816de8b8072cd49298f380cd00a9",
+    "elapsedMinutes": [
+      0,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9151",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "肇东",
+      "大庆西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9151.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "eae27dd9259e5b42a49b1a2adc2cd49803b2edc450cc5eb362a5a0e7419325cb",
+    "elapsedMinutes": [
+      0,
+      23,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9152",
+    "category": "D",
+    "stopNames": [
+      "大庆西",
+      "安达",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9152.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "31e79c0103dfa36c31afc146146525278d129b8736ffed2e2bc52a78ae123feb",
+    "elapsedMinutes": [
+      0,
+      16,
+      56
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9153",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "肇东",
+      "大庆东",
+      "大庆西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9153.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "5992f926c687c144f91e94bac553d180bbda4c01b0096426fe31850194fa4ba7",
+    "elapsedMinutes": [
+      0,
+      23,
+      51,
+      63
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9154",
+    "category": "D",
+    "stopNames": [
+      "大庆西",
+      "肇东",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9154.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "e907510003214507b2d0ab2725e2897fcc47c2962f32bfb1ebb12c870ca047a4",
+    "elapsedMinutes": [
+      0,
+      32,
+      56
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9155",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "大庆西",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9155.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "b36f9afc024180f0b702804fb39b3335c4d9ece11dd92a4029f5b7c702e0f5c2",
+    "elapsedMinutes": [
+      0,
+      51,
+      87
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9156",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆西",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9156.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "1086ab8e14c148198a7d1e6765743c2078b72dec15509cdd3ff92681b95eb680",
+    "elapsedMinutes": [
+      0,
+      31,
+      84
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9157",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "大庆西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9157.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "aed85c32a3473c9bab47ca04d08f70779e87f555f0deb1b00f3cabcb09a24614",
+    "elapsedMinutes": [
+      0,
+      51
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9158",
+    "category": "D",
+    "stopNames": [
+      "大庆西",
+      "大庆东",
+      "安达",
+      "肇东",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9158.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "0041ada06d29f36d9e35e16cedc4e621f6d1600f06a6ba63124bf4ba55b41a96",
+    "elapsedMinutes": [
+      0,
+      10,
+      22,
+      44,
+      68
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9159",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "安达",
+      "大庆西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9159.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "8b0fc4611782dc6e8dde81b081645471db5ee5417ff4c966b232274d04ce6bf0",
+    "elapsedMinutes": [
+      0,
+      39,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9160",
+    "category": "D",
+    "stopNames": [
+      "大庆西",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9160.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "bdbd8cca25030879eebe5c6280263c0d1a114c599e1591b2ad71cceb61eba284",
+    "elapsedMinutes": [
+      0,
+      50
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9161",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9161.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "2b219b82c5482dd9a8446c6b03601413886a9ead1fd70198cac90008f8da6e42",
+    "elapsedMinutes": [
+      0,
+      118
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9162",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "依兰",
+      "宾州",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9162.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "616a57418ac7256150320267802f984615c157d7619cf813822f1bf7c596118b",
+    "elapsedMinutes": [
+      0,
+      33,
+      98,
+      131
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9163",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9163.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "b761ed67aba8780b07da2571a30fec7bc2562e5a54b5f88010bb3b756832e9b0",
+    "elapsedMinutes": [
+      0,
+      118
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9164",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9164.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "2e1f3d2c29270462806b69fdabc2b91ea911917ef2a5cfce2d0defc583ea00d6",
+    "elapsedMinutes": [
+      0,
+      118
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9165",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "亚布力西",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9165.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "6b3b5482ea03e285a7218b48ac1ed217e80f8e3c080bdf063a23af5228b20467",
+    "elapsedMinutes": [
+      0,
+      63,
+      95
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9166",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "亚布力西",
+      "尚志南",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9166.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "0afecdd8969dbaf08d357c1cefc4bd216b470fb81ddccd9b984429017f99a7f1",
+    "elapsedMinutes": [
+      0,
+      30,
+      52,
+      101
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9167",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "横道河子东",
+      "牡丹江",
+      "林口南",
+      "鸡西西",
+      "七台河西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9167.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "598085f6bc532009a4a24a2e9625e61316ff60cec2bdc657ad05a4100ae90fa9",
+    "elapsedMinutes": [
+      0,
+      10,
+      88,
+      109,
+      144,
+      161,
+      183
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9168",
+    "category": "D",
+    "stopNames": [
+      "七台河西",
+      "牡丹江",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9168.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "e3e85070eaf2d0a50fbccab2b662efa9700da9689b9809203aed442710a1cbf2",
+    "elapsedMinutes": [
+      0,
+      57,
+      152
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9169",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9169.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "01c43a5f7fceb81443810a3f59ca550c311ac8acc40d6c6bc207e4ccecaaa398",
+    "elapsedMinutes": [
+      0,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9170",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆西",
+      "安达",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9170.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "2e1afe85ced38cefdf228367212407ddbcba73720175ec37f92a1531102e3f76",
+    "elapsedMinutes": [
+      0,
+      31,
+      51,
+      91
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9171",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9171.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "1d699ea65e110c3a82cab15f7fd8eb76a4948219ccd912105f661341830fbc26",
+    "elapsedMinutes": [
+      0,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9172",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9172.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "bd056283d441774a7da3986d97b7d64f2f0971adb25332ef65ef4032c011b9f5",
+    "elapsedMinutes": [
+      0,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9173",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "肇东",
+      "大庆西",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9173.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "8c61ae026f82f5cac02c1f4c2ce6bd3250099fc013037e1362adc3d2b1ee1583",
+    "elapsedMinutes": [
+      0,
+      21,
+      56,
+      90
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9174",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "杜尔伯特",
+      "大庆西",
+      "大庆东",
+      "安达",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9174.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "e74bbdfe540eec0ed73152c3530ccd9feee6e5c5439c8f9058257f5c09fb9c82",
+    "elapsedMinutes": [
+      0,
+      21,
+      37,
+      51,
+      63,
+      103
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9175",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "肇东",
+      "安达",
+      "大庆西",
+      "杜尔伯特",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9175.html",
+    "sourceUpdatedAt": "2026-04-05",
+    "sourceSha256": "23250c5e94cc4b9d6a511b333ca6b86db193853ffc28772700e8d15a321adafc",
+    "elapsedMinutes": [
+      0,
+      27,
+      49,
+      69,
+      87,
+      110
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9176",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "杜尔伯特",
+      "大庆西",
+      "大庆东",
+      "安达",
+      "哈尔滨",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9176.html",
+    "sourceUpdatedAt": "2026-04-05",
+    "sourceSha256": "414c8bc30efb54e897c9840782d0167204f237274e2b84991c7db413d5ac5509",
+    "elapsedMinutes": [
+      0,
+      21,
+      38,
+      52,
+      64,
+      105,
+      120
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9177",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "阿城北",
+      "尚志南",
+      "苇河西",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9177.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "a025a6d821b782eec198735eb456cf8a1a9768f005d03e0ff0514231e519e5ab",
+    "elapsedMinutes": [
+      0,
+      30,
+      59,
+      76,
+      113
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9178",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "海林北",
+      "亚布力西",
+      "帽儿山西",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9178.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "7d4f1a30f26d6476c765cf8f20d14162f43b8d3ba69cd192f0c5f1dc709486c5",
+    "elapsedMinutes": [
+      0,
+      11,
+      36,
+      68,
+      113
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9179",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "哈尔滨北",
+      "肇东",
+      "大庆东",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9179.html",
+    "sourceUpdatedAt": "2026-06-13",
+    "sourceSha256": "c0f94cfb67d83bb997ff2d2f4b85e986e2db191c6d5a7b8f6e350a8b3d48ab16",
+    "elapsedMinutes": [
+      0,
+      9,
+      27,
+      56,
+      96
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9180",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9180.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "79fd7581ed1c78257f5100abdfab582247b81e0bbb5524c89bcb99f964698706",
+    "elapsedMinutes": [
+      0,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9819",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9819.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "b428c160fb5ca315f97ee043335f6bf597822af67ee584d1cb18e4c3d39a7b14",
+    "elapsedMinutes": [
+      0,
+      124
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9820",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9820.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "a98b785b785f0ec84a204bee02f17b892edc94d4455615f6f6c059b67046fca8",
+    "elapsedMinutes": [
+      0,
+      124
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9821",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9821.html",
+    "sourceUpdatedAt": "2026-08-02",
+    "sourceSha256": "d7b19f82ca7ac0cac829186494400e6fd480071abbd5dbb793b3c609fa9488d8",
+    "elapsedMinutes": [
+      0,
+      118
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9822",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "依兰",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9822.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "044d7b1cd88a0cdb162fccc7b91e82d580f3f4e8d4781d23f9b9025127d1282f",
+    "elapsedMinutes": [
+      0,
+      33,
+      125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9825",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "亚布力西",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9825.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "03612acdac76e83b52d589b0f617505ebe36c9ef1b41b5b2a39fce3db8711ce0",
+    "elapsedMinutes": [
+      0,
+      10,
+      79,
+      111
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9826",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "亚布力西",
+      "帽儿山西",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9826.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "366bcd04b8fad9c5c75f72fbb5a2e6b620e93c2abe8beb042a18ffbb8f31c058",
+    "elapsedMinutes": [
+      0,
+      30,
+      62,
+      103
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9827",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "帽儿山西",
+      "苇河西",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9827.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "e23c4136926f2a29672b2b509ae1fe21abd6f005291caae4d37ae390197afb3e",
+    "elapsedMinutes": [
+      0,
+      38,
+      66,
+      102
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9828",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "海林北",
+      "亚布力西",
+      "尚志南",
+      "阿城北",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9828.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "3c69e9b5e446f943605eb205937bf2408e79ed4ff44076f4dca1412d9c7c03d4",
+    "elapsedMinutes": [
+      0,
+      11,
+      36,
+      58,
+      89,
+      116
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9829",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "尚志南",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9829.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "781674e01572cacdedebc55923169a86ce437af3d89fe596caa0ae4868276e5d",
+    "elapsedMinutes": [
+      0,
+      48,
+      96
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9830",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "海林北",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9830.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "cbd316dd75bb1244fc075f938b744079c9813027191089ac9ff3234730dd497c",
+    "elapsedMinutes": [
+      0,
+      11,
+      97
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9837",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨",
+      "大庆东",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9837.html",
+    "sourceUpdatedAt": "2026-07-24",
+    "sourceSha256": "6068a964c838fb15342ec88d4e90639b6e919b58f77dbfd83b72faa976fb01e0",
+    "elapsedMinutes": [
+      0,
+      45,
+      86
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D9838",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆东",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d9838.html",
+    "sourceUpdatedAt": "2026-07-24",
+    "sourceSha256": "52d1c90ee733742e6c496b5da4875d17011c3812435622f6d449a08f59d8a656",
+    "elapsedMinutes": [
+      0,
+      38,
+      85
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5101",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "呼兰",
+      "绥化",
+      "佳木斯",
+      "福利屯",
+      "红兴隆",
+      "新友谊",
+      "富锦",
+      "同江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5101.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "95eae8a2e52721edfd15a614899a33c3a68cf54e69f0d397b9d77731737e1bab",
+    "elapsedMinutes": [
+      0,
+      22,
+      99,
+      407,
+      499,
+      547,
+      564,
+      622,
+      687
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5102",
+    "category": "K",
+    "stopNames": [
+      "同江",
+      "富锦",
+      "新友谊",
+      "红兴隆",
+      "佳木斯",
+      "绥化",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5102.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f8275ea851eaed4b063b8b958005f8b547a2f66a0ce6465e02799f2d38c4dfec",
+    "elapsedMinutes": [
+      0,
+      52,
+      106,
+      124,
+      235,
+      555,
+      713
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5103",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "绥化",
+      "佳木斯",
+      "福利屯",
+      "新友谊",
+      "宝清"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5103.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "052458a5885eb6386ec0e0f5b39ac1b55faf879287abe306ea5c0401183c1f8f",
+    "elapsedMinutes": [
+      0,
+      90,
+      397,
+      493,
+      550,
+      630
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5104",
+    "category": "K",
+    "stopNames": [
+      "宝清",
+      "新友谊",
+      "福利屯",
+      "佳木斯",
+      "铁力",
+      "绥化",
+      "呼兰",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5104.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a17895bc72b8bf283a7ff8b0db6236898504847ac4c4add8a0b0f36a367e311c",
+    "elapsedMinutes": [
+      0,
+      75,
+      128,
+      195,
+      447,
+      535,
+      615,
+      648
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5107",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨",
+      "肇东",
+      "安达",
+      "大庆西",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5107.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "369f355f75ecd09c7e231919ab63032a62328ea65a661227f027a418c472e830",
+    "elapsedMinutes": [
+      0,
+      43,
+      84,
+      118,
+      195
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5108",
+    "category": "K",
+    "stopNames": [
+      "齐齐哈尔",
+      "大庆",
+      "肇东",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5108.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "148ce4398e91f6cc4f679b0ffe4dc9b02813ab7dc933ee0b4f786bc742bced10",
+    "elapsedMinutes": [
+      0,
+      77,
+      146,
+      197
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5109",
+    "category": "K",
+    "stopNames": [
+      "香坊",
+      "尚志",
+      "亚布力",
+      "横道河子",
+      "海林",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5109.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "401dc59db548c8d0c1d88d162f70e4a5161e6312f589824b581558dd6ad44eac",
+    "elapsedMinutes": [
+      0,
+      97,
+      155,
+      209,
+      266,
+      297
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5110",
+    "category": "K",
+    "stopNames": [
+      "牡丹江",
+      "海林",
+      "横道河子",
+      "亚布力",
+      "尚志",
+      "香坊"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5110.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "e57f95f78f5f04da78fe4cbbb472c7e04a5f1cb2e019e9571510d0a6716aa9f8",
+    "elapsedMinutes": [
+      0,
+      21,
+      74,
+      130,
+      190,
+      300
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5115",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "呼兰",
+      "绥化",
+      "绥棱",
+      "海伦"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5115.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "5dbe701f156d08b3159ee55576522a374c4807e70859ed931d31d03274c3e944",
+    "elapsedMinutes": [
+      0,
+      23,
+      96,
+      171,
+      204
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5116",
+    "category": "K",
+    "stopNames": [
+      "海伦",
+      "绥化",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5116.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "e1a769a26847a054c9fdc20b4a9e9d3eb7dc448a92af464eda7bdbbc58639100",
+    "elapsedMinutes": [
+      0,
+      101,
+      238
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5117",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "呼兰",
+      "兴隆镇",
+      "绥化",
+      "庆安",
+      "铁力",
+      "南岔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5117.html",
+    "sourceUpdatedAt": "2026-04-06",
+    "sourceSha256": "47b6c1e8538bbb3faa80bd24e29e2a1f16d5a5fcb34f5ff626dba9a0952f62cf",
+    "elapsedMinutes": [
+      0,
+      22,
+      74,
+      101,
+      148,
+      190,
+      296
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5118",
+    "category": "K",
+    "stopNames": [
+      "南岔",
+      "铁力",
+      "绥化",
+      "新松浦",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5118.html",
+    "sourceUpdatedAt": "2026-04-06",
+    "sourceSha256": "3a940afa07440e19489337d8dde57e7865832867cf63e46689e853e6522faa0c",
+    "elapsedMinutes": [
+      0,
+      98,
+      184,
+      272,
+      304
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5127",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "阿城",
+      "亚布力",
+      "横道河子",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5127.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "9071d1ab628f81351c88eca685df1201077802572f74a308da188c90d7077e72",
+    "elapsedMinutes": [
+      0,
+      34,
+      208,
+      273,
+      358
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5128",
+    "category": "K",
+    "stopNames": [
+      "牡丹江",
+      "海林",
+      "横道河子",
+      "亚布力",
+      "尚志",
+      "阿城",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5128.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "6b2ba19c88f7375422de5095d58712e398964393774fe10d068f6ee5d8c489a6",
+    "elapsedMinutes": [
+      0,
+      21,
+      75,
+      130,
+      201,
+      287,
+      337
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5131",
+    "category": "K",
+    "stopNames": [
+      "双城堡",
+      "五家",
+      "王岗",
+      "哈尔滨东",
+      "呼兰",
+      "康金井",
+      "兴隆镇",
+      "绥化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5131.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "43fb6691e4b743f69cc6663a892e24145733e8a985e40b05baba0d8812f8aacf",
+    "elapsedMinutes": [
+      0,
+      13,
+      32,
+      86,
+      120,
+      144,
+      177,
+      203
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5132",
+    "category": "K",
+    "stopNames": [
+      "绥化",
+      "兴隆镇",
+      "康金井",
+      "呼兰",
+      "哈尔滨东",
+      "王岗",
+      "五家",
+      "双城堡"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5132.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4b6df390e8d907b554e8050821a3e57af380b499b3f6abcaaefdae211bae441d",
+    "elapsedMinutes": [
+      0,
+      22,
+      58,
+      89,
+      117,
+      184,
+      202,
+      222
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5133",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "绥化",
+      "庆安",
+      "双丰",
+      "铁力",
+      "神树"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5133.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "83ada8d7c5dfdc3d727172ecb87f7a2dc078a37638e9087a40b9f48725d423ca",
+    "elapsedMinutes": [
+      0,
+      95,
+      145,
+      168,
+      192,
+      223
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5134",
+    "category": "K",
+    "stopNames": [
+      "神树",
+      "桃山",
+      "铁力",
+      "双丰",
+      "庆安",
+      "绥化",
+      "白奎堡",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5134.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "72588ab08bc50466183b92eeadc1124ca779eea29ee74d1eb5538456863bb241",
+    "elapsedMinutes": [
+      0,
+      20,
+      32,
+      54,
+      76,
+      128,
+      163,
+      229
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5141",
+    "category": "K",
+    "stopNames": [
+      "依安",
+      "北安",
+      "扎音河",
+      "海伦",
+      "绥棱",
+      "四方台",
+      "秦家",
+      "绥化",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5141.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "921a08bbf814f29c6596a70564fed19ffcd470a229c87addb938a9aa129bd8c7",
+    "elapsedMinutes": [
+      0,
+      79,
+      165,
+      192,
+      226,
+      289,
+      307,
+      342,
+      439
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5142",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "呼兰",
+      "绥化",
+      "绥棱",
+      "海伦",
+      "北安",
+      "依安",
+      "富裕",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5142.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "2cc550643ba3f356b3e31fe0c3cb1f11e6bdada46664e58c9906453283602908",
+    "elapsedMinutes": [
+      0,
+      22,
+      101,
+      212,
+      255,
+      423,
+      512,
+      567,
+      615
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5143",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "呼兰",
+      "绥化",
+      "绥棱",
+      "海伦",
+      "北安",
+      "依安",
+      "富裕",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5143.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "0067bd86e4ffa524b3963e706b8ec74838b7cb4250fd8ae85ec1bde1d37926f8",
+    "elapsedMinutes": [
+      0,
+      22,
+      101,
+      212,
+      255,
+      423,
+      512,
+      567,
+      615
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5144",
+    "category": "K",
+    "stopNames": [
+      "依安",
+      "北安",
+      "扎音河",
+      "海伦",
+      "绥棱",
+      "四方台",
+      "秦家",
+      "绥化",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5144.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "c29f15bcd331888b458dcd9b352e288827feceee2287adb335c6786c055cc1d0",
+    "elapsedMinutes": [
+      0,
+      79,
+      165,
+      192,
+      226,
+      289,
+      307,
+      342,
+      439
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5149",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "呼兰",
+      "白奎堡",
+      "绥化",
+      "绥棱",
+      "海伦",
+      "扎音河",
+      "赵光",
+      "北安",
+      "二龙山屯",
+      "龙镇"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5149.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e3c0df024f28d9f3d1c2576d88a224473a44b0e604b51d857b315e50ee14e59b",
+    "elapsedMinutes": [
+      0,
+      22,
+      63,
+      100,
+      174,
+      208,
+      230,
+      302,
+      330,
+      383,
+      425
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5150",
+    "category": "K",
+    "stopNames": [
+      "龙镇",
+      "五大连池",
+      "二龙山屯",
+      "北安",
+      "赵光",
+      "通北",
+      "海伦",
+      "绥棱",
+      "张维屯",
+      "绥化",
+      "兴隆镇",
+      "白奎堡",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5150.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "75181746b9ef6c1a41f161b66a700b9fd172583e55251597f352af204da5eadb",
+    "elapsedMinutes": [
+      0,
+      17,
+      42,
+      99,
+      134,
+      175,
+      214,
+      261,
+      285,
+      336,
+      365,
+      381,
+      492
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5151",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "兴隆镇",
+      "绥化",
+      "四方台",
+      "绥棱",
+      "海伦",
+      "海北",
+      "通北",
+      "北安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5151.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fb9ab00b3b6cf40035b393ab24c5d4f8fe5a12eba28cc5da093684d6da567db9",
+    "elapsedMinutes": [
+      0,
+      68,
+      94,
+      134,
+      172,
+      214,
+      245,
+      274,
+      340
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5152",
+    "category": "K",
+    "stopNames": [
+      "北安",
+      "海伦",
+      "绥棱",
+      "绥化",
+      "兴隆镇",
+      "白奎堡",
+      "呼兰",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5152.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "18371ac83c3ddeed5cf4c39fccb372dc958e28adf2be52631d963b055c2f8d70",
+    "elapsedMinutes": [
+      0,
+      91,
+      136,
+      202,
+      229,
+      243,
+      286,
+      335
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5153",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "绥化",
+      "庆安",
+      "铁力",
+      "佳木斯",
+      "富锦",
+      "建三江",
+      "前进镇",
+      "前锋",
+      "寒葱沟",
+      "抚远"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5153.html",
+    "sourceUpdatedAt": "2026-05-20",
+    "sourceSha256": "5ca096f647233d33f0789d35d8a2fd575f7d29c1d27bcd6bc5112e49614ac850",
+    "elapsedMinutes": [
+      0,
+      89,
+      144,
+      191,
+      550,
+      734,
+      781,
+      846,
+      905,
+      958,
+      1017
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5154",
+    "category": "K",
+    "stopNames": [
+      "抚远",
+      "寒葱沟",
+      "前锋",
+      "换新天",
+      "建三江",
+      "佳木斯",
+      "铁力",
+      "庆安",
+      "绥化",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5154.html",
+    "sourceUpdatedAt": "2026-05-23",
+    "sourceSha256": "46bbb77b80504dcc5ed72027a9cc82d552404b2f95af06dfb208993f3182c495",
+    "elapsedMinutes": [
+      0,
+      50,
+      103,
+      191,
+      222,
+      412,
+      652,
+      702,
+      763,
+      871
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5163",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "兴隆镇",
+      "绥化",
+      "庆安",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5163.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "b335874769783e165e358f3897970aa4993fe62d744c8a5dd7cdfc226e6d444d",
+    "elapsedMinutes": [
+      0,
+      68,
+      126,
+      175,
+      426
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5164",
+    "category": "K",
+    "stopNames": [
+      "佳木斯",
+      "绥化",
+      "白奎堡",
+      "呼兰",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5164.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "7d1113d69b1a5b8e6e6d2decb8e70bb5da4a1786d615ab7433e9c1afd99d637a",
+    "elapsedMinutes": [
+      0,
+      286,
+      320,
+      367,
+      399
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5165",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨",
+      "绥化",
+      "北安",
+      "孙吴",
+      "黑河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5165.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "90a35fb53cca7e86053bf889b4d90672e75b8a6c054d86bc5a293f1a29dee59a",
+    "elapsedMinutes": [
+      0,
+      97,
+      285,
+      492,
+      631
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5166",
+    "category": "K",
+    "stopNames": [
+      "黑河",
+      "孙吴",
+      "北安",
+      "绥化",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5166.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f844c5debb7e706e4724d549d8483dc663bff9872b942dc73c63264c417c3e16",
+    "elapsedMinutes": [
+      0,
+      107,
+      340,
+      537,
+      642
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5169",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "绥化",
+      "佳木斯",
+      "福利屯",
+      "新友谊",
+      "富锦",
+      "双龙山",
+      "前进镇",
+      "洪河",
+      "东二道河",
+      "抚远"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5169.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "33c8aa0bf9b35515ac9135331fed864ba875f5381cf9bfe6006a469ee039a0a7",
+    "elapsedMinutes": [
+      0,
+      90,
+      397,
+      493,
+      550,
+      600,
+      633,
+      718,
+      753,
+      800,
+      891
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5170",
+    "category": "K",
+    "stopNames": [
+      "抚远",
+      "前进镇",
+      "建三江",
+      "新友谊",
+      "福利屯",
+      "佳木斯",
+      "铁力",
+      "绥化",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5170.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "135ceabe99d23924e68b7beca6a1813617cec94a83ccdd7fcac49bd6d8bf792d",
+    "elapsedMinutes": [
+      0,
+      155,
+      217,
+      304,
+      416,
+      483,
+      735,
+      823,
+      936
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5180",
+    "category": "K",
+    "stopNames": [
+      "香坊",
+      "孙家",
+      "平房",
+      "周家",
+      "牛家",
+      "拉林",
+      "背荫河",
+      "五常"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5180.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1133d451e82b3ec25550e067fd792a7d8e52563366bc2467eda8ffcec53d7819",
+    "elapsedMinutes": [
+      0,
+      10,
+      27,
+      49,
+      68,
+      87,
+      102,
+      136
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5181",
+    "category": "K",
+    "stopNames": [
+      "五常",
+      "平房",
+      "香坊"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5181.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "62544ed679165efe01e1df21e1c6d0033991cdc80f65b70c98ec3550ba2c4e6b",
+    "elapsedMinutes": [
+      0,
+      71,
+      98
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5182",
+    "category": "K",
+    "stopNames": [
+      "香坊",
+      "孙家",
+      "平房",
+      "牛家",
+      "五常"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5182.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5f3149c46fc957e81557c26ff124f3b2f1a539b0e953c6cd4d394978b70874c8",
+    "elapsedMinutes": [
+      0,
+      10,
+      28,
+      55,
+      111
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5183",
+    "category": "K",
+    "stopNames": [
+      "五常",
+      "安家",
+      "背荫河",
+      "拉林",
+      "牛家",
+      "平房",
+      "孙家",
+      "香坊"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5183.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a043853ac4d42be368aa5a3f30327fdb5797e38ddf43ebee067332eb7f4dd5a0",
+    "elapsedMinutes": [
+      0,
+      16,
+      39,
+      54,
+      74,
+      104,
+      131,
+      144
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5184",
+    "category": "K",
+    "stopNames": [
+      "香坊",
+      "平房",
+      "五常"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5184.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d0fdcbc7c218293f04938deb1f426fab77b0e02d6b9ddd04373e6158d586e0e6",
+    "elapsedMinutes": [
+      0,
+      21,
+      108
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5185",
+    "category": "K",
+    "stopNames": [
+      "五常",
+      "拉林",
+      "香坊"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5185.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "152ac25fcaaac58c517b0f043109123579454a8a3198fd776a4ebc6e7d9eb1e5",
+    "elapsedMinutes": [
+      0,
+      35,
+      111
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5186",
+    "category": "K",
+    "stopNames": [
+      "香坊",
+      "孙家",
+      "平房",
+      "牛家",
+      "背荫河",
+      "安家",
+      "五常"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5186.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "68566cafd23b579b38cc486e551169d1f17ef9c28e5673e5600aa9aedb5cc0b8",
+    "elapsedMinutes": [
+      0,
+      10,
+      27,
+      54,
+      82,
+      101,
+      128
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5187",
+    "category": "K",
+    "stopNames": [
+      "五常",
+      "背荫河",
+      "拉林",
+      "牛家",
+      "平房",
+      "孙家",
+      "香坊"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5187.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d023694658d3bfcc6047140294b0a74d952b6b2dafeca15986b7424962a568bf",
+    "elapsedMinutes": [
+      0,
+      27,
+      41,
+      61,
+      90,
+      100,
+      118
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5188",
+    "category": "K",
+    "stopNames": [
+      "香坊",
+      "平房",
+      "牛家",
+      "拉林",
+      "背荫河",
+      "五常"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5188.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "17bc22111f246c02834365f525ca9bd2016073265176de448c6f886028d12ecd",
+    "elapsedMinutes": [
+      0,
+      32,
+      72,
+      95,
+      113,
+      153
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5189",
+    "category": "K",
+    "stopNames": [
+      "五常",
+      "拉林",
+      "周家",
+      "孙家",
+      "香坊"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5189.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "46382c750a5d52cb69180b8f8d42c64cd463a7883cfaf81754e7256a12c8075c",
+    "elapsedMinutes": [
+      0,
+      36,
+      69,
+      112,
+      125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5197",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "亚布力南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5197.html",
+    "sourceUpdatedAt": "2026-02-17",
+    "sourceSha256": "98d0c74d733cd12e95dd284963dcce6f2152bb1eec89cfcb9bba4bd4ac3e7a7e",
+    "elapsedMinutes": [
+      0,
+      165
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5198",
+    "category": "K",
+    "stopNames": [
+      "亚布力南",
+      "苇河",
+      "一面坡",
+      "尚志",
+      "帽儿山",
+      "玉泉",
+      "阿城",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5198.html",
+    "sourceUpdatedAt": "2026-02-20",
+    "sourceSha256": "2e62ba2928c4255fc4139312e7418519ca0afa06b098c36c982fd21bdfa50a47",
+    "elapsedMinutes": [
+      0,
+      23,
+      62,
+      84,
+      126,
+      158,
+      197,
+      249
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7017",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "呼兰",
+      "石人城",
+      "兴隆镇",
+      "绥化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7017.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c679d9620aec7db2bfa12476ab0559943868f6cce0caad4cabe9cfceac3734b3",
+    "elapsedMinutes": [
+      0,
+      22,
+      57,
+      82,
+      113
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7018",
+    "category": "K",
+    "stopNames": [
+      "绥化",
+      "呼兰",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7018.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "35b3a13269d76deea4bc5e53fa55e35a3317630cc76e8ee037a399e83407b33f",
+    "elapsedMinutes": [
+      0,
+      69,
+      105
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7031",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "呼兰",
+      "绥化",
+      "北安",
+      "孙吴",
+      "黑河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7031.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3f6afb7770d891c07bfd377e3cba3f077fe0a8523c86181e45076ba5996dd940",
+    "elapsedMinutes": [
+      0,
+      25,
+      100,
+      319,
+      530,
+      648
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7032",
+    "category": "K",
+    "stopNames": [
+      "黑河",
+      "孙吴",
+      "北安",
+      "绥化",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7032.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fdad44f84c75b36bf6c63d323b07a2f9eac44d5af350997e0bb2e48505d80bc1",
+    "elapsedMinutes": [
+      0,
+      107,
+      336,
+      547,
+      654
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7037",
+    "category": "K",
+    "stopNames": [
+      "漠河",
+      "塔河",
+      "加格达奇",
+      "齐齐哈尔",
+      "哈尔滨东",
+      "白奎堡",
+      "绥化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7037.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6180d97383fb67bc9c14c803a154df71bc3b8f82b8f5f96e110a1c9fe1bf53f3",
+    "elapsedMinutes": [
+      0,
+      206,
+      414,
+      785,
+      978,
+      1059,
+      1096
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7038",
+    "category": "K",
+    "stopNames": [
+      "绥化",
+      "哈尔滨东",
+      "大庆西",
+      "齐齐哈尔",
+      "加格达奇",
+      "塔河",
+      "漠河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7038.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9ee8a54cf07409dfa0fbcbc0a859da56ac115e94b2288b219ee3bd515cd24542",
+    "elapsedMinutes": [
+      0,
+      90,
+      232,
+      311,
+      670,
+      886,
+      1112
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7039",
+    "category": "K",
+    "stopNames": [
+      "绥化",
+      "哈尔滨东",
+      "大庆西",
+      "齐齐哈尔",
+      "加格达奇",
+      "塔河",
+      "漠河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7039.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "26e7172c9b46c25af2b619c3c733d6b2a87875322df15bc0785494804e75e056",
+    "elapsedMinutes": [
+      0,
+      90,
+      232,
+      311,
+      670,
+      886,
+      1112
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7040",
+    "category": "K",
+    "stopNames": [
+      "漠河",
+      "塔河",
+      "加格达奇",
+      "齐齐哈尔",
+      "哈尔滨东",
+      "白奎堡",
+      "绥化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7040.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "76b232ddd922da5eac0bd4b10fe8bc626e167ee53b2762ff57ab4337926b722d",
+    "elapsedMinutes": [
+      0,
+      206,
+      414,
+      785,
+      978,
+      1059,
+      1096
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7041",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨",
+      "大庆西",
+      "齐齐哈尔",
+      "嫩江",
+      "加格达奇",
+      "小扬气",
+      "新林",
+      "塔河",
+      "漠河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7041.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3e94875623af6b385493569da5e35dd1e5dd30a74b7d7fcb005384088b3deaf3",
+    "elapsedMinutes": [
+      0,
+      100,
+      175,
+      406,
+      557,
+      621,
+      718,
+      787,
+      1030
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7042",
+    "category": "K",
+    "stopNames": [
+      "漠河",
+      "塔河",
+      "新林",
+      "加格达奇",
+      "齐齐哈尔",
+      "大庆西",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7042.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2d4e3b62cb7f8655c804b38669eab5b73cefbfc59c74722030c705135ad0c598",
+    "elapsedMinutes": [
+      0,
+      225,
+      306,
+      455,
+      867,
+      969,
+      1080
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7065",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "绥化",
+      "庆安",
+      "铁力",
+      "朗乡",
+      "南岔",
+      "佳木斯",
+      "富锦",
+      "建三江",
+      "前进镇",
+      "前锋",
+      "寒葱沟",
+      "抚远"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7065.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fad7c5cddfc5c6c56207efc67ff1aa8c34a641cc7b078c2ab72e63f76cf72131",
+    "elapsedMinutes": [
+      0,
+      89,
+      139,
+      181,
+      250,
+      294,
+      415,
+      605,
+      651,
+      707,
+      766,
+      822,
+      879
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7066",
+    "category": "K",
+    "stopNames": [
+      "抚远",
+      "寒葱沟",
+      "前锋",
+      "前进镇",
+      "换新天",
+      "建三江",
+      "富锦",
+      "福利屯",
+      "佳木斯",
+      "南岔",
+      "铁力",
+      "庆安",
+      "绥化",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7066.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bfc4e35a77c856b4ee6a38d2748ec161ca3030983a46d075ba32d65fa733bd4c",
+    "elapsedMinutes": [
+      0,
+      50,
+      101,
+      163,
+      189,
+      222,
+      265,
+      363,
+      428,
+      563,
+      673,
+      711,
+      765,
+      869
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7105",
+    "category": "K",
+    "stopNames": [
+      "嫩江",
+      "九三",
+      "恒地营",
+      "讷河",
+      "富裕",
+      "齐齐哈尔",
+      "大庆",
+      "哈尔滨东",
+      "康金井",
+      "兴隆镇",
+      "绥化",
+      "庆安",
+      "双丰",
+      "铁力",
+      "桃山",
+      "神树",
+      "朗乡",
+      "带岭",
+      "南岔",
+      "浩良河",
+      "汤原",
+      "佳木斯",
+      "桦南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7105.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5fc9108d7c3f0cc5367a4349f770a20eee9be6dd2dce0e34da3b53a5cbaa57c7",
+    "elapsedMinutes": [
+      0,
+      35,
+      74,
+      93,
+      182,
+      230,
+      344,
+      461,
+      536,
+      569,
+      600,
+      654,
+      677,
+      701,
+      715,
+      738,
+      791,
+      809,
+      846,
+      898,
+      932,
+      980,
+      1066
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7106",
+    "category": "K",
+    "stopNames": [
+      "佳木斯",
+      "汤原",
+      "香兰",
+      "浩良河",
+      "南岔",
+      "带岭",
+      "朗乡",
+      "神树",
+      "桃山",
+      "铁力",
+      "双丰",
+      "庆安",
+      "绥化",
+      "兴隆镇",
+      "康金井",
+      "哈尔滨东",
+      "大庆西",
+      "杜尔伯特",
+      "齐齐哈尔",
+      "富裕",
+      "讷河",
+      "嫩江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7106.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "15ab1bb74c3d8eb8e7f9e2fec7776a086002924529af33b80c812251ad33d195",
+    "elapsedMinutes": [
+      0,
+      54,
+      72,
+      91,
+      173,
+      206,
+      222,
+      279,
+      301,
+      313,
+      335,
+      357,
+      409,
+      435,
+      466,
+      514,
+      651,
+      683,
+      751,
+      813,
+      891,
+      985
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7107",
+    "category": "K",
+    "stopNames": [
+      "佳木斯",
+      "汤原",
+      "香兰",
+      "浩良河",
+      "南岔",
+      "带岭",
+      "朗乡",
+      "神树",
+      "桃山",
+      "铁力",
+      "双丰",
+      "庆安",
+      "绥化",
+      "兴隆镇",
+      "康金井",
+      "哈尔滨东",
+      "大庆西",
+      "杜尔伯特",
+      "齐齐哈尔",
+      "富裕",
+      "讷河",
+      "嫩江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7107.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b2975283639b0364416f6552a22f0cf87ecfdb8cff12fe5731843901b4527c7f",
+    "elapsedMinutes": [
+      0,
+      54,
+      72,
+      91,
+      173,
+      206,
+      222,
+      279,
+      301,
+      313,
+      335,
+      357,
+      409,
+      435,
+      466,
+      514,
+      651,
+      683,
+      751,
+      813,
+      891,
+      985
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7108",
+    "category": "K",
+    "stopNames": [
+      "嫩江",
+      "九三",
+      "恒地营",
+      "讷河",
+      "富裕",
+      "齐齐哈尔",
+      "大庆",
+      "哈尔滨东",
+      "康金井",
+      "兴隆镇",
+      "绥化",
+      "庆安",
+      "双丰",
+      "铁力",
+      "桃山",
+      "神树",
+      "朗乡",
+      "带岭",
+      "南岔",
+      "浩良河",
+      "汤原",
+      "佳木斯",
+      "桦南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7108.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c09987fc714113fa33b823044521199960dd22418376d1fcb83c0b13ce9f4190",
+    "elapsedMinutes": [
+      0,
+      35,
+      74,
+      93,
+      182,
+      230,
+      344,
+      461,
+      536,
+      569,
+      600,
+      654,
+      677,
+      701,
+      715,
+      738,
+      791,
+      809,
+      846,
+      898,
+      932,
+      980,
+      1066
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7123",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "绥化",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7123.html",
+    "sourceUpdatedAt": "2026-06-30",
+    "sourceSha256": "2a30466143c3d9357b687ec0cd776ec702e2c7bfe9d7cc174aba0abf7e098e13",
+    "elapsedMinutes": [
+      0,
+      90,
+      422
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7124",
+    "category": "K",
+    "stopNames": [
+      "佳木斯",
+      "绥化",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7124.html",
+    "sourceUpdatedAt": "2026-06-25",
+    "sourceSha256": "349bf5235d72d729d969d2d7d5d4631ffac733b50f94ce54af898c1b70b92df2",
+    "elapsedMinutes": [
+      0,
+      303,
+      402
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7125",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "呼兰",
+      "绥化",
+      "庆安",
+      "南岔",
+      "浩良河",
+      "汤原",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7125.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e1e8dbcaa89a9182873348f500055759f1dde5f9104a24f116b15de48477ab97",
+    "elapsedMinutes": [
+      0,
+      22,
+      100,
+      149,
+      290,
+      340,
+      373,
+      419
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7126",
+    "category": "K",
+    "stopNames": [
+      "佳木斯",
+      "香兰",
+      "浩良河",
+      "南岔",
+      "带岭",
+      "朗乡",
+      "神树",
+      "铁力",
+      "双丰",
+      "庆安",
+      "绥化",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7126.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9c429cdb48bcbf19754fe9bcf3a9341ea9958f31174f7f29d9b64a9b347ebd00",
+    "elapsedMinutes": [
+      0,
+      52,
+      70,
+      126,
+      158,
+      173,
+      219,
+      248,
+      270,
+      292,
+      342,
+      450
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7127",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "绥化",
+      "铁力",
+      "南岔",
+      "西林",
+      "伊春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7127.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5edf504290e1a9a2ff5c753c0794f7f356113799e36e0859e87b1cd9f7d6e765",
+    "elapsedMinutes": [
+      0,
+      96,
+      178,
+      292,
+      360,
+      413
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7128",
+    "category": "K",
+    "stopNames": [
+      "伊春",
+      "美溪",
+      "西林",
+      "南岔",
+      "绥化",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7128.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f8ebce3d074c90cd010be251310c98904a99eac37f95dbbccabb7c9f387976fe",
+    "elapsedMinutes": [
+      0,
+      25,
+      56,
+      130,
+      310,
+      415
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7137",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "呼兰",
+      "绥化",
+      "伊春",
+      "五营",
+      "红星",
+      "新青",
+      "汤旺河",
+      "乌伊岭"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7137.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "15b653fb50360f12f243053d2e2ea6db662dc41d20239ae157b13863caae4b78",
+    "elapsedMinutes": [
+      0,
+      22,
+      95,
+      447,
+      536,
+      560,
+      576,
+      604,
+      630
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7138",
+    "category": "K",
+    "stopNames": [
+      "乌伊岭",
+      "汤旺河",
+      "新青",
+      "红星",
+      "五营",
+      "友好",
+      "伊春",
+      "绥化",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7138.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b6d9372c858bc39836512e78259a69f28f3455d479ffc81c9eb919f7bb2dd378",
+    "elapsedMinutes": [
+      0,
+      22,
+      48,
+      63,
+      92,
+      153,
+      176,
+      486,
+      583
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7139",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "呼兰",
+      "康金井",
+      "绥化",
+      "海伦",
+      "北安",
+      "孙吴",
+      "黑河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7139.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3c3aee633bf1768a37af991302cbefb19c338965236872ab5836d0afa0bc43a2",
+    "elapsedMinutes": [
+      0,
+      22,
+      49,
+      105,
+      216,
+      331,
+      531,
+      649
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7140",
+    "category": "K",
+    "stopNames": [
+      "黑河",
+      "孙吴",
+      "海伦",
+      "绥化",
+      "呼兰",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7140.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a7213da6bbdb45dd6df528841d994131ebf059349dcd94c95ec57c088793be9a",
+    "elapsedMinutes": [
+      0,
+      107,
+      504,
+      624,
+      715,
+      745
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7141",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "兴隆镇",
+      "绥化",
+      "张维屯",
+      "绥棱",
+      "海伦",
+      "海北",
+      "北安",
+      "龙镇",
+      "孙吴",
+      "黑河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7141.html",
+    "sourceUpdatedAt": "2026-06-26",
+    "sourceSha256": "dce90df616d438d5a4f961919c9bcc807bbb211ceb0180004846be8d19b8f6e1",
+    "elapsedMinutes": [
+      0,
+      76,
+      102,
+      170,
+      191,
+      225,
+      255,
+      336,
+      437,
+      545,
+      661
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7142",
+    "category": "K",
+    "stopNames": [
+      "黑河",
+      "孙吴",
+      "龙镇",
+      "五大连池",
+      "北安",
+      "通北",
+      "海伦",
+      "绥棱",
+      "绥化",
+      "呼兰",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7142.html",
+    "sourceUpdatedAt": "2026-06-30",
+    "sourceSha256": "85a129943aa13abf7cb406b27c730d6bd558f37335448de99453ba55f685001b",
+    "elapsedMinutes": [
+      0,
+      107,
+      230,
+      255,
+      356,
+      431,
+      470,
+      509,
+      608,
+      693,
+      746
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7153",
+    "category": "K",
+    "stopNames": [
+      "东方红",
+      "虎林",
+      "卫星",
+      "兴凯",
+      "密山",
+      "鸡东",
+      "鸡西",
+      "林口",
+      "牡丹江",
+      "哈尔滨",
+      "大庆东",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7153.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "23a1bc97dab841111fb9304d003c84a7682a203e565ddc200a8f02d118b04493",
+    "elapsedMinutes": [
+      0,
+      65,
+      109,
+      148,
+      177,
+      247,
+      274,
+      355,
+      463,
+      818,
+      916,
+      1007
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7154",
+    "category": "K",
+    "stopNames": [
+      "齐齐哈尔",
+      "大庆西",
+      "安达",
+      "肇东",
+      "哈尔滨东",
+      "牡丹江",
+      "林口",
+      "鸡西",
+      "鸡东",
+      "密山",
+      "兴凯",
+      "凯北",
+      "卫星",
+      "虎林",
+      "迎春",
+      "东方红"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7154.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "33a96df3fa1a706125fdd7b906c2f2e7c6058075433674a891edc5da31fee5e4",
+    "elapsedMinutes": [
+      0,
+      81,
+      114,
+      162,
+      235,
+      598,
+      718,
+      802,
+      830,
+      899,
+      935,
+      982,
+      992,
+      1029,
+      1082,
+      1120
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7155",
+    "category": "K",
+    "stopNames": [
+      "齐齐哈尔",
+      "大庆西",
+      "安达",
+      "肇东",
+      "哈尔滨东",
+      "牡丹江",
+      "林口",
+      "鸡西",
+      "鸡东",
+      "密山",
+      "兴凯",
+      "凯北",
+      "卫星",
+      "虎林",
+      "迎春",
+      "东方红"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7155.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "316a57a9aa3f93cf6950b5bc87f0b5c94f3ddf28acadd3744e16397cba7e5d37",
+    "elapsedMinutes": [
+      0,
+      81,
+      114,
+      162,
+      235,
+      598,
+      718,
+      802,
+      830,
+      899,
+      935,
+      982,
+      992,
+      1029,
+      1082,
+      1120
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7156",
+    "category": "K",
+    "stopNames": [
+      "东方红",
+      "虎林",
+      "卫星",
+      "兴凯",
+      "密山",
+      "鸡东",
+      "鸡西",
+      "林口",
+      "牡丹江",
+      "哈尔滨",
+      "大庆东",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7156.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2f3659474c5df5499b8f0df4a54633b199b94d7ae41b1f94a843f1f4cb0655b5",
+    "elapsedMinutes": [
+      0,
+      65,
+      109,
+      148,
+      177,
+      247,
+      274,
+      355,
+      463,
+      818,
+      916,
+      1007
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7187",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨",
+      "阿城",
+      "尚志",
+      "一面坡",
+      "苇河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7187.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "69682c81bde0430ff73a209953df62804d82c4853327893abdc6303620bd28a7",
+    "elapsedMinutes": [
+      0,
+      34,
+      115,
+      134,
+      183
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7188",
+    "category": "K",
+    "stopNames": [
+      "苇河",
+      "一面坡",
+      "尚志",
+      "帽儿山",
+      "平山",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7188.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "099f42f57ab42c218ce5ea2ad45b3bd38caa1a001bb7dd6a026fddaf3ef467dd",
+    "elapsedMinutes": [
+      0,
+      28,
+      48,
+      86,
+      98,
+      175
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7221",
+    "category": "K",
+    "stopNames": [
+      "香坊",
+      "阿城",
+      "尚志",
+      "一面坡",
+      "苇河",
+      "亚布力",
+      "横道河子",
+      "山市",
+      "海林",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7221.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bc756eb2a697c3d45f96106a7881f0531e79c82aaa9594d6c24656502ca67fa4",
+    "elapsedMinutes": [
+      0,
+      28,
+      109,
+      126,
+      159,
+      180,
+      250,
+      299,
+      332,
+      362
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7222",
+    "category": "K",
+    "stopNames": [
+      "牡丹江",
+      "海林",
+      "山市",
+      "横道河子",
+      "亚布力",
+      "苇河",
+      "一面坡",
+      "尚志",
+      "帽儿山",
+      "平山",
+      "玉泉",
+      "阿城",
+      "香坊"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7222.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1950ee7d3aaf8d7713f2e952337623113415351a8aaf48e3d2d588ccf51ad397",
+    "elapsedMinutes": [
+      0,
+      21,
+      53,
+      90,
+      157,
+      176,
+      210,
+      230,
+      269,
+      281,
+      306,
+      329,
+      369
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7289",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨东",
+      "哈尔滨",
+      "阿城",
+      "尚志",
+      "亚布力",
+      "牡丹江",
+      "鸡西",
+      "密山",
+      "虎林",
+      "迎春",
+      "东方红"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7289.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "798f92f8d930461964ce2de210edc1feb408076b11cd85df33915d9d47c1f431",
+    "elapsedMinutes": [
+      0,
+      15,
+      58,
+      163,
+      222,
+      355,
+      569,
+      658,
+      759,
+      812,
+      847
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7290",
+    "category": "K",
+    "stopNames": [
+      "东方红",
+      "迎春",
+      "虎林",
+      "密山",
+      "鸡东",
+      "鸡西",
+      "牡丹江",
+      "哈尔滨",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7290.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0a2303acf6d6244aa06ff8e8871ef3ea50ce8ec251e2358b7d14a8ef09a6b8a2",
+    "elapsedMinutes": [
+      0,
+      27,
+      74,
+      174,
+      243,
+      264,
+      444,
+      754,
+      779
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y385",
+    "category": "OTHER",
+    "stopNames": [
+      "吉林",
+      "五常",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y385.html",
+    "sourceUpdatedAt": "2026-08-02",
+    "sourceSha256": "0ce63c357640aac9e840780aff4d38e15e8c569d4f4cfe70a1aaf96c863d62c5",
+    "elapsedMinutes": [
+      0,
+      151,
+      268
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y519",
+    "category": "OTHER",
+    "stopNames": [
+      "哈尔滨",
+      "亚布力南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y519.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "2bf4a8b3f7fdb97dfd76c7038877abebb31fe173869f264a270dc985d18d727e",
+    "elapsedMinutes": [
+      0,
+      175
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y520",
+    "category": "OTHER",
+    "stopNames": [
+      "亚布力",
+      "尚志",
+      "阿城",
+      "香坊"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y520.html",
+    "sourceUpdatedAt": "2026-05-30",
+    "sourceSha256": "6bccf641d336cfcbe4fec1740db843a1d05881f0fe21bf0622bd615ac644aebc",
+    "elapsedMinutes": [
+      0,
+      57,
+      137,
+      170
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y533",
+    "category": "OTHER",
+    "stopNames": [
+      "哈尔滨",
+      "香坊",
+      "哈尔滨东",
+      "绥化",
+      "铁力"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y533.html",
+    "sourceUpdatedAt": "2026-05-31",
+    "sourceSha256": "a09129a531a59b00a814b03e92372e9acb301f66dbe5b912aafec718b48db4e1",
+    "elapsedMinutes": [
+      0,
+      12,
+      53,
+      182,
+      271
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y534",
+    "category": "OTHER",
+    "stopNames": [
+      "伊春",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y534.html",
+    "sourceUpdatedAt": "2026-06-30",
+    "sourceSha256": "c7569baa994ee7780150d2ba856ce024619d3dfa57ec101223ca55ef873cc696",
+    "elapsedMinutes": [
+      0,
+      537
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y675",
+    "category": "OTHER",
+    "stopNames": [
+      "哈尔滨",
+      "塔河",
+      "漠河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y675.html",
+    "sourceUpdatedAt": "2026-09-10",
+    "sourceSha256": "4c23737195f1c320e8e2926d6000f551ba4fe7b80bad15d4d5e159434aa32468",
+    "elapsedMinutes": [
+      0,
+      848,
+      1125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y685",
+    "category": "OTHER",
+    "stopNames": [
+      "哈尔滨",
+      "塔河",
+      "漠河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y685.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "418bfc085be34b0fff4d2433e2816643f1e5ba924f1981795ae8c800da32c51f",
+    "elapsedMinutes": [
+      0,
+      848,
+      1125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y782",
+    "category": "OTHER",
+    "stopNames": [
+      "亚布力",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y782.html",
+    "sourceUpdatedAt": "2026-01-02",
+    "sourceSha256": "c9fd8b49a450184d5f6d1bc5fa9d989cebfdf83f4c79d305dc343d42a44820b9",
+    "elapsedMinutes": [
+      0,
+      210
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y794",
+    "category": "OTHER",
+    "stopNames": [
+      "伊春",
+      "白奎堡",
+      "哈尔滨东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y794.html",
+    "sourceUpdatedAt": "2026-09-02",
+    "sourceSha256": "2c8d4a59cbb721c972b8a64994db3b95d32014a33911994e51da4976a513603c",
+    "elapsedMinutes": [
+      0,
+      567,
+      661
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y800",
+    "category": "OTHER",
+    "stopNames": [
+      "亚布力南",
+      "香坊",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y800.html",
+    "sourceUpdatedAt": "2026-01-09",
+    "sourceSha256": "0abadc6372bc619f9a88ab78dc4815a6162fd833e79ba8af83d34131705ce041",
+    "elapsedMinutes": [
+      0,
+      166,
+      210
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

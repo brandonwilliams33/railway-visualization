@@ -1,0 +1,114 @@
+[
+  {
+    "trainNumber": "K5051",
+    "category": "K",
+    "stopNames": [
+      "锦州",
+      "义县",
+      "阜新南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5051.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "5c0dd4ea4085eb9dcabf15bf0c83cfba706a9973a6f1f30a793e8b4c79bca28e",
+    "elapsedMinutes": [
+      0,
+      45,
+      106
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5052",
+    "category": "K",
+    "stopNames": [
+      "阜新南",
+      "义县",
+      "锦州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5052.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "c1d56d418a54cb55ef25810d79a4e3019977b8191dccc18f14799049e3f1e0c0",
+    "elapsedMinutes": [
+      0,
+      63,
+      116
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7501",
+    "category": "K",
+    "stopNames": [
+      "锦州",
+      "义县",
+      "清河门北",
+      "阜新南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7501.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "af897d39fb401a8cb3a737ca99536b6a24f1c8ba6594223317923676de18961a",
+    "elapsedMinutes": [
+      0,
+      45,
+      82,
+      111
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7502",
+    "category": "K",
+    "stopNames": [
+      "阜新南",
+      "清河门北",
+      "义县",
+      "锦州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7502.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9b892285a19e86665bb3a7b77979a02cfb633661d631dc39e732a917b64e0487",
+    "elapsedMinutes": [
+      0,
+      27,
+      66,
+      117
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y869",
+    "category": "OTHER",
+    "stopNames": [
+      "锦州",
+      "盘锦"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y869.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c885511720251cb6443673cef396297016946fae3d0c78321f2655c48f1060eb",
+    "elapsedMinutes": [
+      0,
+      134
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

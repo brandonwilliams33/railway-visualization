@@ -1,0 +1,13 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "牡丹江",
+  "stationCount": 34,
+  "candidateServices": 193,
+  "acquiredAdditionalServices": 17,
+  "failedPages": [],
+  "stationIssues": [
+    "五林",
+    "桦林",
+    "马莲河"
+  ]
+}

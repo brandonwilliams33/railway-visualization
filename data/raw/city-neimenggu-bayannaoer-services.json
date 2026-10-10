@@ -1,0 +1,86 @@
+[
+  {
+    "trainNumber": "D6781",
+    "category": "D",
+    "stopNames": [
+      "乌拉特前旗",
+      "五原",
+      "巴彦淖尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6781.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "256c33bc78d434685798f5e8b9186bc669261ee3ec749a5e7af7c89ea3551aa1",
+    "elapsedMinutes": [
+      0,
+      18,
+      41
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6782",
+    "category": "D",
+    "stopNames": [
+      "巴彦淖尔",
+      "乌拉特前旗"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6782.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "36ec32b6cab647242f6f467f7d613bbe440d0ac3b3b16d03c8476f91324cab0e",
+    "elapsedMinutes": [
+      0,
+      34
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6783",
+    "category": "D",
+    "stopNames": [
+      "乌拉特前旗",
+      "五原",
+      "巴彦淖尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6783.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "43e3cad75e0a3276e45dabe7bd28d29e9b03a9c1d21f401f3d7bd0f8b412988e",
+    "elapsedMinutes": [
+      0,
+      18,
+      41
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D6784",
+    "category": "D",
+    "stopNames": [
+      "巴彦淖尔",
+      "乌拉特前旗"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6784.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "52b369d1cc38c0f5b26ac47e164dae3974a46e71967b8e1a81e254f154ef5292",
+    "elapsedMinutes": [
+      0,
+      33
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

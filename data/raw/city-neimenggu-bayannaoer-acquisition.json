@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "巴彦淖尔",
+  "stationCount": 15,
+  "candidateServices": 378,
+  "acquiredAdditionalServices": 4,
+  "failedPages": [],
+  "stationIssues": [
+    "临河"
+  ]
+}

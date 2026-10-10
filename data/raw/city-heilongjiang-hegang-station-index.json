@@ -1,0 +1,91 @@
+[
+  {
+    "name": "鹤岗",
+    "city": "鹤岗",
+    "cityId": "heilongjiang-hegang",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/hegang/hegang.html",
+    "candidateTrainNumbers": [
+      "4171",
+      "4172",
+      "4174",
+      "C101",
+      "C102",
+      "C105",
+      "C106",
+      "C109",
+      "C110",
+      "C111",
+      "C112",
+      "C113",
+      "C114",
+      "C869",
+      "C870",
+      "C941",
+      "C942",
+      "C943",
+      "C944",
+      "C945",
+      "C946",
+      "C947",
+      "C948",
+      "C950",
+      "C961",
+      "C962",
+      "K4227",
+      "K4228",
+      "K4230"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e9787b28201958e653935861c0537c49a7a175ebe833fa8eb2e8af6cf1a19339",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "宝泉岭",
+    "city": "鹤岗",
+    "cityId": "heilongjiang-hegang",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/hegang/baoquanling.html",
+    "candidateTrainNumbers": [
+      "4171",
+      "4172",
+      "4174"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2b5704f1e805483322d905a7658f73bcf717666dd9985638717f5c4c8b85c864",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "新华",
+    "city": "鹤岗",
+    "cityId": "heilongjiang-hegang",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/hegang/xinhua.html",
+    "candidateTrainNumbers": [],
+    "sourceUpdatedAt": "",
+    "sourceSha256": "e38b3f9175d2e2aed9785d2883d869699aa9f89d68cf9fb89db558531d1c3a99",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "鹤北",
+    "city": "鹤岗",
+    "cityId": "heilongjiang-hegang",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/hegang/hebei.html",
+    "candidateTrainNumbers": [
+      "4171",
+      "4172",
+      "4174",
+      "K4227",
+      "K4228",
+      "K4230"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3f387d00ee6c51ec8408d700463dc6462f9959e6ad167f31b4a4920083e44c21",
+    "retrievedAt": "2026-10-10"
+  }
+]

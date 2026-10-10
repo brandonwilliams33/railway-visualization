@@ -1,0 +1,734 @@
+[
+  {
+    "trainNumber": "C502",
+    "category": "C",
+    "stopNames": [
+      "乌兰浩特",
+      "白城",
+      "安广",
+      "大安",
+      "长山屯",
+      "松原",
+      "王府",
+      "农安",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c502.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "17d44f6d53946dcd2e93d67f560728d0f09eef0f613e1ce8e945f3e7a30c546b",
+    "elapsedMinutes": [
+      0,
+      43,
+      88,
+      121,
+      137,
+      162,
+      182,
+      209,
+      250
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C503",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "农安",
+      "松原",
+      "长山屯",
+      "大安",
+      "安广",
+      "到保",
+      "白城",
+      "平台",
+      "乌兰浩特"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c503.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fdae9a6b4e9695606a88891307d77f37f230d793e7f58d6ebace5e98b699e6f4",
+    "elapsedMinutes": [
+      0,
+      38,
+      79,
+      104,
+      126,
+      149,
+      176,
+      199,
+      223,
+      256
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C508",
+    "category": "C",
+    "stopNames": [
+      "乌兰浩特",
+      "葛根庙",
+      "白城",
+      "大安",
+      "松原",
+      "农安",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c508.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "38f94a92a088b597943dbeb27f6b23339e5ffd6044f0bcf4ebf400db67520947",
+    "elapsedMinutes": [
+      0,
+      16,
+      50,
+      112,
+      146,
+      186,
+      227
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C509",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "农安",
+      "哈拉海",
+      "松原",
+      "查干湖",
+      "大安",
+      "白城",
+      "乌兰浩特"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c509.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "dc37e4bb746e730ce936830cc6ef273fc31214a09270c8682b3686c958d0d42f",
+    "elapsedMinutes": [
+      0,
+      38,
+      56,
+      86,
+      109,
+      129,
+      193,
+      243
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C512",
+    "category": "C",
+    "stopNames": [
+      "乌兰浩特",
+      "镇西",
+      "平台",
+      "白城",
+      "安广",
+      "两家",
+      "大安",
+      "查干湖",
+      "松原",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c512.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5cf6b06bd7c699b60da4b1f93a099ef376c37b3d4e504bfb3a7d4cd80fb6eb52",
+    "elapsedMinutes": [
+      0,
+      20,
+      36,
+      57,
+      102,
+      115,
+      133,
+      153,
+      174,
+      250
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C517",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "农安",
+      "松原",
+      "大安",
+      "白城",
+      "乌兰浩特"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c517.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "59d5427a44b4a56aff1fc0d576fd6c37c535910ff06c377fbcb00fba14d19f5e",
+    "elapsedMinutes": [
+      0,
+      39,
+      80,
+      116,
+      183,
+      235
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C519",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "松原",
+      "白城",
+      "乌兰浩特"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c519.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ed210f2a01dab82a589ddad72b6ed3dc2e1d5b81d50489d193e57fd669d008eb",
+    "elapsedMinutes": [
+      0,
+      72,
+      158,
+      208
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4155",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "齐齐哈尔",
+      "泰来",
+      "镇赉",
+      "白城",
+      "乌兰浩特"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4155.html",
+    "sourceUpdatedAt": "2026-07-28",
+    "sourceSha256": "bdbc6775c2fbdae284e466b62de438df362c6f76da8a7989deef9a9c4197cb4f",
+    "elapsedMinutes": [
+      0,
+      11,
+      203,
+      325,
+      369,
+      399,
+      502
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4156",
+    "category": "K",
+    "stopNames": [
+      "乌兰浩特",
+      "白城",
+      "齐齐哈尔",
+      "大庆西",
+      "哈尔滨",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4156.html",
+    "sourceUpdatedAt": "2026-07-28",
+    "sourceSha256": "8e1d4f1a5547029a50aaad9f777f57ddeb34e957cc0b26e8674dc4dc1e3b27ab",
+    "elapsedMinutes": [
+      0,
+      60,
+      343,
+      463,
+      589,
+      613
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4157",
+    "category": "K",
+    "stopNames": [
+      "乌兰浩特",
+      "白城",
+      "齐齐哈尔",
+      "大庆西",
+      "哈尔滨",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4157.html",
+    "sourceUpdatedAt": "2026-07-28",
+    "sourceSha256": "c3ce576e6b5e9dd4c745fdf301fdc731507b35042fe9bd4b9c10aa69db201b40",
+    "elapsedMinutes": [
+      0,
+      60,
+      343,
+      463,
+      589,
+      613
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4158",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨西",
+      "哈尔滨",
+      "齐齐哈尔",
+      "泰来",
+      "镇赉",
+      "白城",
+      "乌兰浩特"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4158.html",
+    "sourceUpdatedAt": "2026-07-28",
+    "sourceSha256": "a2259f3ab21757cbf6ac65dfb068b274465284e17820d58843c4e3c4ab98bb71",
+    "elapsedMinutes": [
+      0,
+      11,
+      203,
+      325,
+      369,
+      399,
+      502
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7305",
+    "category": "K",
+    "stopNames": [
+      "大连",
+      "金州",
+      "普兰店",
+      "瓦房店",
+      "熊岳城",
+      "大石桥",
+      "海城",
+      "鞍山",
+      "辽阳",
+      "沈阳",
+      "长春",
+      "农安",
+      "松原",
+      "长山屯",
+      "大安",
+      "两家",
+      "安广",
+      "白城",
+      "乌兰浩特"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7305.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f65dd2438a035c518bee5eb1d20bd4b4fc602b7e6e7b4e4d4b8e9eb2c389272b",
+    "elapsedMinutes": [
+      0,
+      25,
+      63,
+      87,
+      141,
+      189,
+      215,
+      244,
+      265,
+      316,
+      525,
+      589,
+      645,
+      676,
+      697,
+      724,
+      738,
+      800,
+      871
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7306",
+    "category": "K",
+    "stopNames": [
+      "乌兰浩特",
+      "白城",
+      "安广",
+      "大安",
+      "查干湖",
+      "松原",
+      "农安",
+      "长春",
+      "公主岭",
+      "四平",
+      "昌图",
+      "沈阳",
+      "辽阳",
+      "鞍山",
+      "海城",
+      "大石桥",
+      "熊岳城",
+      "瓦房店",
+      "普兰店",
+      "金州",
+      "大连"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7306.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3f064ba87fe99e0c42156984fcf8106951c620bd058ec0ac9474517242c7d053",
+    "elapsedMinutes": [
+      0,
+      60,
+      120,
+      156,
+      187,
+      210,
+      265,
+      325,
+      378,
+      422,
+      457,
+      554,
+      612,
+      634,
+      663,
+      695,
+      736,
+      802,
+      827,
+      870,
+      921
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7565",
+    "category": "K",
+    "stopNames": [
+      "沈阳",
+      "铁岭",
+      "四平",
+      "白城",
+      "乌兰浩特",
+      "德伯斯",
+      "索伦",
+      "五叉沟",
+      "阿尔山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7565.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6935c932bfd67014da5599ffe1c4e72d6e87149775a2e25f216ccfe33ec5bfbe",
+    "elapsedMinutes": [
+      0,
+      48,
+      133,
+      386,
+      472,
+      547,
+      567,
+      650,
+      728
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7566",
+    "category": "K",
+    "stopNames": [
+      "阿尔山",
+      "白狼",
+      "五叉沟",
+      "索伦",
+      "德伯斯",
+      "乌兰浩特",
+      "白城",
+      "四平",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7566.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bd64339d09118846a20c379d3ca66b70b640887093257f173f9178aa929f66f0",
+    "elapsedMinutes": [
+      0,
+      36,
+      81,
+      164,
+      184,
+      257,
+      323,
+      635,
+      767
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7595",
+    "category": "K",
+    "stopNames": [
+      "白城",
+      "乌兰浩特",
+      "大石寨",
+      "德伯斯",
+      "索伦",
+      "明水河",
+      "五叉沟",
+      "白狼",
+      "阿尔山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7595.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ebd3e104b804116b5181d6f1d8a562e382a1b16bb24eb92f82a70b1259a9d080",
+    "elapsedMinutes": [
+      0,
+      61,
+      111,
+      143,
+      163,
+      205,
+      252,
+      297,
+      340
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7596",
+    "category": "K",
+    "stopNames": [
+      "阿尔山",
+      "白狼",
+      "五叉沟",
+      "明水河",
+      "索伦",
+      "德伯斯",
+      "大石寨",
+      "乌兰浩特",
+      "白城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7596.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f4a8c179ad242e64c171fbca9517e16049809a52c4be7a7e27e076aca64bdc82",
+    "elapsedMinutes": [
+      0,
+      36,
+      81,
+      128,
+      170,
+      190,
+      221,
+      269,
+      334
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y545",
+    "category": "OTHER",
+    "stopNames": [
+      "沈阳",
+      "开原",
+      "四平",
+      "白城",
+      "阿尔山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y545.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "2c251d958b5c10dc629ec4d8917bf805a434b15bfe9c250198171da3f7f1f14c",
+    "elapsedMinutes": [
+      0,
+      66,
+      128,
+      373,
+      689
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y546",
+    "category": "OTHER",
+    "stopNames": [
+      "乌兰浩特",
+      "白城",
+      "四平",
+      "沈阳",
+      "本溪",
+      "凤凰城",
+      "丹东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y546.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cdf84129e8014c0ae88a4a00200b5d8d0f59c5ab86efb59100c067e7c6fef4fc",
+    "elapsedMinutes": [
+      0,
+      58,
+      313,
+      512,
+      648,
+      769,
+      862
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y547",
+    "category": "OTHER",
+    "stopNames": [
+      "乌兰浩特",
+      "白城",
+      "四平",
+      "沈阳",
+      "本溪",
+      "凤凰城",
+      "丹东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y547.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d59e00dc5769a01061b3d7b6dfbf81e7e324cfbff08a061a7f167a37e18ae27f",
+    "elapsedMinutes": [
+      0,
+      58,
+      313,
+      512,
+      648,
+      769,
+      862
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y597",
+    "category": "OTHER",
+    "stopNames": [
+      "大连",
+      "金州",
+      "瓦房店",
+      "大石桥",
+      "鞍山",
+      "沈阳",
+      "四平",
+      "白城",
+      "乌兰浩特",
+      "阿尔山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y597.html",
+    "sourceUpdatedAt": "2026-08-09",
+    "sourceSha256": "5e8a5ffb543393a2bd0131e7c3357f56ea466aecf2feb3e06d1d6ae8949030fc",
+    "elapsedMinutes": [
+      0,
+      25,
+      82,
+      192,
+      246,
+      355,
+      496,
+      741,
+      826,
+      1060
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y598",
+    "category": "OTHER",
+    "stopNames": [
+      "阿尔山",
+      "乌兰浩特",
+      "白城",
+      "四平",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y598.html",
+    "sourceUpdatedAt": "2026-07-14",
+    "sourceSha256": "e2731916b7c79fa8803ac580be129d8c6ad3797a62f35ae536761fd252ebc3f8",
+    "elapsedMinutes": [
+      0,
+      232,
+      328,
+      616,
+      813
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

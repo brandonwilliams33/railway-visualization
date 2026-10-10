@@ -1,0 +1,26 @@
+[
+  {
+    "trainNumber": "Z9802",
+    "category": "Z",
+    "stopNames": [
+      "林芝",
+      "朗县",
+      "山南",
+      "拉萨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z9802.html",
+    "sourceUpdatedAt": "2026-04-10",
+    "sourceSha256": "b7b49928315e531404081cc897f7201f774778229318a8485c0673a48c9a304a",
+    "elapsedMinutes": [
+      0,
+      81,
+      156,
+      248
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

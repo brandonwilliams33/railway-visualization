@@ -1,0 +1,13 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "延边",
+  "stationCount": 12,
+  "candidateServices": 268,
+  "acquiredAdditionalServices": 4,
+  "failedPages": [],
+  "stationIssues": [
+    "大石头",
+    "安图",
+    "黄泥河"
+  ]
+}

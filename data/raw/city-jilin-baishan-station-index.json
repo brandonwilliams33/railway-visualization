@@ -1,0 +1,280 @@
+[
+  {
+    "name": "白山东",
+    "city": "白山",
+    "cityId": "jilin-baishan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/baishan/baishandong.html",
+    "candidateTrainNumbers": [
+      "C1351",
+      "C1354",
+      "C1359",
+      "C1360",
+      "C1361",
+      "C1362",
+      "C1363",
+      "D547",
+      "D548",
+      "D549",
+      "D550",
+      "D8090",
+      "D8091",
+      "G140",
+      "G3527",
+      "G3530",
+      "G3551",
+      "G3552",
+      "G3555",
+      "G3557",
+      "G3558",
+      "G3565",
+      "G3566",
+      "G3567",
+      "G3568",
+      "G4939",
+      "G4940",
+      "G8111",
+      "G8114",
+      "G8116",
+      "G8125",
+      "G8126",
+      "G8131",
+      "G8132",
+      "G8133",
+      "G8134",
+      "G8135",
+      "G8136",
+      "G8137",
+      "G8138",
+      "G8139",
+      "G8140",
+      "G8141",
+      "G8144",
+      "G8146",
+      "G8152",
+      "G8156",
+      "G8158",
+      "G8160",
+      "G9171",
+      "G9173",
+      "G9175",
+      "G9177"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "55879d08913ad4ca4bd36b61b52624205f74078e0fbe54df893cc0183c7acade",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "临江",
+    "city": "白山",
+    "cityId": "jilin-baishan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/baishan/linjiang.html",
+    "candidateTrainNumbers": [
+      "4349",
+      "4350"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ccc13fa53c90c09c6af5db9a94bb696d5239d3661572e38255b84ecd3718bb85",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "仙人桥",
+    "city": "白山",
+    "cityId": "jilin-baishan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/baishan/xianrenqiao.html",
+    "candidateTrainNumbers": [
+      "4245",
+      "4246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3156fc85fb5ff3ea3ff965c0c4f4346a22ea85334f45aa7c2c9dd79493129d3e",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "松岭",
+    "city": "白山",
+    "cityId": "jilin-baishan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/baishan/songling.html",
+    "candidateTrainNumbers": [
+      "4349",
+      "4350"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2335b932393ee39e7d94ec76f6e99187c33e68208dda6e0f24db572b66b91085",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "松树镇",
+    "city": "白山",
+    "cityId": "jilin-baishan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/baishan/songshuzhen.html",
+    "candidateTrainNumbers": [
+      "4245",
+      "4246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "896ff6e58659c6277e86eb20fde028674a53a06446ab06f2ad2f19e548f9a9e7",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "松江河",
+    "city": "白山",
+    "cityId": "jilin-baishan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/baishan/songjianghe.html",
+    "candidateTrainNumbers": [],
+    "sourceUpdatedAt": "",
+    "sourceSha256": "29fb06a78d31b9b7b4d3edd3036ae06fbe803ad9f28da9686493575a4091af48",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "江源",
+    "city": "白山",
+    "cityId": "jilin-baishan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/baishan/jiangyuan.html",
+    "candidateTrainNumbers": [
+      "4245",
+      "4246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "23081488d22d93729ce8953da7262cedd5c4c0991a291347b7ace19904ecb945",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "江源东",
+    "city": "白山",
+    "cityId": "jilin-baishan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/baishan/jiangyuandong.html",
+    "candidateTrainNumbers": [
+      "C1351",
+      "C1352",
+      "C1353",
+      "C1354",
+      "C1359",
+      "C1362",
+      "D547",
+      "D550",
+      "G4939",
+      "G8114",
+      "G8131",
+      "G8132",
+      "G8133",
+      "G8134",
+      "G8136",
+      "G8137",
+      "G8144",
+      "G9173"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b65ebcafa805adc91171705d0b837efac6246266d4af335250b2fdc0e3abc38e",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "泉阳",
+    "city": "白山",
+    "cityId": "jilin-baishan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/baishan/quanyang.html",
+    "candidateTrainNumbers": [
+      "4245",
+      "4246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "095c75f2e83ee1b5bf6b646a601865290341da0a03e31c2c8e994386c2a3faf9",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "白山市",
+    "city": "白山",
+    "cityId": "jilin-baishan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/baishan/baishanshi.html",
+    "candidateTrainNumbers": [
+      "4245",
+      "4246",
+      "4349",
+      "4350",
+      "K7391",
+      "K7394"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5b573e5afc625796e5c141ee51cded61918428f8c2f62c9f4abeb0915cab6d75",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "石人",
+    "city": "白山",
+    "cityId": "jilin-baishan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/baishan/shiren.html",
+    "candidateTrainNumbers": [
+      "4349",
+      "4350"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "782fedefd693c07f4f94015e7881e5744e667a3132f3241f81a38370bb14ddd6",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "老营",
+    "city": "白山",
+    "cityId": "jilin-baishan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/baishan/laoying.html",
+    "candidateTrainNumbers": [
+      "4349",
+      "4350"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a2e607de3fae02f24ac3d62665a0cb0d29f5ffd90bb247bfe2ee525f66e50377",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "道清",
+    "city": "白山",
+    "cityId": "jilin-baishan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/baishan/daoqing.html",
+    "candidateTrainNumbers": [
+      "4349",
+      "4350"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "73ec8bd9fc95b1b69358237b1141c6f17f10c2b658d53a1e8196b185029954db",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "露水河",
+    "city": "白山",
+    "cityId": "jilin-baishan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/baishan/lushuihe.html",
+    "candidateTrainNumbers": [
+      "4245",
+      "4246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7fb7a4be214326887ebee5ab9f2cfdbad8e97c972b20657a0ce3e95975d9675d",
+    "retrievedAt": "2026-10-10"
+  }
+]

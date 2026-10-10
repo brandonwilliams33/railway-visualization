@@ -1,0 +1,330 @@
+[
+  {
+    "trainNumber": "4171",
+    "category": "OTHER",
+    "stopNames": [
+      "牡丹江",
+      "柴河",
+      "朱家沟",
+      "宝林",
+      "楚山",
+      "林口",
+      "古城镇",
+      "亚河",
+      "青山",
+      "虎山",
+      "勃利",
+      "倭肯",
+      "桦南",
+      "孟家岗",
+      "申家店",
+      "长发屯",
+      "佳木斯",
+      "鹤岗",
+      "宝泉岭",
+      "鹤北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4171.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "632f8e962a2b2d9c01a59b9c6105c34781dd7e3a662d990e3071dd39504e8051",
+    "elapsedMinutes": [
+      0,
+      25,
+      54,
+      86,
+      101,
+      138,
+      155,
+      180,
+      195,
+      219,
+      261,
+      305,
+      339,
+      370,
+      398,
+      420,
+      441,
+      531,
+      577,
+      594
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4172",
+    "category": "OTHER",
+    "stopNames": [
+      "鹤北",
+      "宝泉岭",
+      "鹤岗",
+      "鹤立",
+      "佳木斯",
+      "申家店",
+      "桦南",
+      "倭肯",
+      "七台河",
+      "勃利",
+      "虎山",
+      "青山",
+      "亚河",
+      "古城镇",
+      "林口",
+      "朱家沟",
+      "柴河",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4172.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "492f2c17e203d3089c4bc180f105258f61b98cfda0f770f93a68ae121544e59b",
+    "elapsedMinutes": [
+      0,
+      16,
+      58,
+      108,
+      143,
+      197,
+      244,
+      277,
+      410,
+      534,
+      576,
+      606,
+      622,
+      651,
+      665,
+      750,
+      778,
+      810
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4174",
+    "category": "OTHER",
+    "stopNames": [
+      "鹤北",
+      "宝泉岭",
+      "鹤岗",
+      "鹤立",
+      "佳木斯",
+      "申家店",
+      "桦南",
+      "倭肯",
+      "七台河",
+      "勃利",
+      "虎山",
+      "青山",
+      "亚河",
+      "古城镇",
+      "林口",
+      "朱家沟",
+      "柴河",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4174.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e9f6340e9506fcdbfe1adec77bbe07a44e3c666b9f39e6f5f54e7a4bd31e6ef4",
+    "elapsedMinutes": [
+      0,
+      16,
+      58,
+      108,
+      143,
+      197,
+      244,
+      277,
+      410,
+      534,
+      576,
+      606,
+      622,
+      651,
+      665,
+      750,
+      778,
+      810
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C112",
+    "category": "C",
+    "stopNames": [
+      "鹤岗",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c112.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "09066c351459c5ffc534d41e91ea9be6dd0b29490845b3a217d3af8d32353f23",
+    "elapsedMinutes": [
+      0,
+      46
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C113",
+    "category": "C",
+    "stopNames": [
+      "佳木斯",
+      "鹤立",
+      "鹤岗"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c113.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "91f9642b804f32cf306c2f4e9688d4975555e5e4604799c9856ea06fff89ad46",
+    "elapsedMinutes": [
+      0,
+      25,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C114",
+    "category": "C",
+    "stopNames": [
+      "鹤岗",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c114.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "1479c35636d9a95d4c19fe7be03bb0a465a547669644364b77972fea047ae15f",
+    "elapsedMinutes": [
+      0,
+      46
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C941",
+    "category": "C",
+    "stopNames": [
+      "佳木斯",
+      "鹤岗"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c941.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2f22e14fb7b30ca53cf76f61b260241384daf8fe61550741f1eaead7971d5370",
+    "elapsedMinutes": [
+      0,
+      47
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C944",
+    "category": "C",
+    "stopNames": [
+      "鹤岗",
+      "鹤立",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c944.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ec82f69ed33730afc06284ebe0ce56278ff0461077a58bbdd7777b9e766338fa",
+    "elapsedMinutes": [
+      0,
+      25,
+      52
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C945",
+    "category": "C",
+    "stopNames": [
+      "佳木斯",
+      "鹤立",
+      "鹤岗"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c945.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0031f68aca09b27f9141ef85036b2d6e23a7106a5a95bc2b54bce11b6d87ed20",
+    "elapsedMinutes": [
+      0,
+      25,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C961",
+    "category": "C",
+    "stopNames": [
+      "佳木斯",
+      "鹤立",
+      "鹤岗"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c961.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "a083d8aa562cd26ea0e1964f2a1e957aa1d03dbcd96d1e91de9f57a89737eec1",
+    "elapsedMinutes": [
+      0,
+      25,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C962",
+    "category": "C",
+    "stopNames": [
+      "鹤岗",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c962.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "a8ee53ecd3cca966773b169e95abc47559bb52a8336c729d3c6018157747e72a",
+    "elapsedMinutes": [
+      0,
+      46
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

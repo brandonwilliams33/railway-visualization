@@ -1,0 +1,35 @@
+[
+  {
+    "name": "日喀则",
+    "city": "日喀则",
+    "cityId": "xizang-rikaze",
+    "province": "西藏",
+    "provinceId": "xizang",
+    "sourceUrl": "https://www.crecc.com/xizang/rikaze/rikaze.html",
+    "candidateTrainNumbers": [
+      "C4385",
+      "C4386",
+      "C4387",
+      "C4388",
+      "C4391",
+      "C4392",
+      "C4393",
+      "C4394",
+      "C4395",
+      "C4396",
+      "C883",
+      "C884",
+      "C885",
+      "C886",
+      "C887",
+      "C888",
+      "Z8801",
+      "Z8802",
+      "Z8803",
+      "Z8804"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "af5fa2d311b088e04ae252280c8afcd68df1d2190b8dbd4e42e091f0ddbb3bf2",
+    "retrievedAt": "2026-10-10"
+  }
+]

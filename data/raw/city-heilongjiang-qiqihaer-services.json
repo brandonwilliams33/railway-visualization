@@ -1,0 +1,444 @@
+[
+  {
+    "trainNumber": "4081",
+    "category": "OTHER",
+    "stopNames": [
+      "齐齐哈尔",
+      "高头",
+      "塔哈",
+      "富裕",
+      "富海",
+      "依安",
+      "克山",
+      "克东",
+      "北安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4081.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b62430520834eff67dab7c3dcddab2e9511097467cf8027b78265a604ce80a26",
+    "elapsedMinutes": [
+      0,
+      9,
+      30,
+      55,
+      90,
+      119,
+      167,
+      200,
+      230
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4095",
+    "category": "OTHER",
+    "stopNames": [
+      "三间房",
+      "榆树屯",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4095.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "85a7880ec450e316339cb94bb532a75f5cfa8028810a9e2686c6151a258bcde7",
+    "elapsedMinutes": [
+      0,
+      15,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6259",
+    "category": "OTHER",
+    "stopNames": [
+      "齐齐哈尔",
+      "昂昂溪",
+      "三间房"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6259.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "820ae437afa6b344314a538145aae8d8cc4b848e63b18e8e0e5f7652772c64aa",
+    "elapsedMinutes": [
+      0,
+      26,
+      165
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6260",
+    "category": "OTHER",
+    "stopNames": [
+      "齐齐哈尔",
+      "昂昂溪",
+      "三间房"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6260.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1dbb7143848528372a265a171ea1e9f8899f18f7b8d665dc8c3d84cceeba9432",
+    "elapsedMinutes": [
+      0,
+      26,
+      165
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6279",
+    "category": "OTHER",
+    "stopNames": [
+      "三间房",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6279.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "98eebce144e9293289eab94b750aef1a68510b5b302400d814851ba9a462debe",
+    "elapsedMinutes": [
+      0,
+      33
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6280",
+    "category": "OTHER",
+    "stopNames": [
+      "齐齐哈尔",
+      "榆树屯",
+      "三间房"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6280.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d728c59700383827140e347a8aa1cf5eaece2fe3285a4386949f0f3c547a407a",
+    "elapsedMinutes": [
+      0,
+      18,
+      37
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6293",
+    "category": "OTHER",
+    "stopNames": [
+      "三间房",
+      "昂昂溪",
+      "富拉尔基"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6293.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6e1cb1dff9b79f0b6fdb6f0e82100391d3d2bad57e2759e511b137f9af144ce5",
+    "elapsedMinutes": [
+      0,
+      17,
+      41
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6294",
+    "category": "OTHER",
+    "stopNames": [
+      "富拉尔基",
+      "昂昂溪",
+      "三间房"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6294.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f181c2bb73a18aabbf1f0ab25edb30df91eb7d6eecbfc9841385aaa33584ac63",
+    "elapsedMinutes": [
+      0,
+      12,
+      31
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6295",
+    "category": "OTHER",
+    "stopNames": [
+      "三间房",
+      "昂昂溪",
+      "富拉尔基",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6295.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e38234dc75b55b966329024fe9c45e980ec66c049386ff5817432cca8e76f0c4",
+    "elapsedMinutes": [
+      13,
+      35,
+      52,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6296",
+    "category": "OTHER",
+    "stopNames": [
+      "三间房",
+      "昂昂溪",
+      "富拉尔基",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6296.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d7c282eae675e37596d315afe7fde68b3ff5ddb21172081601cf83af20139f6e",
+    "elapsedMinutes": [
+      13,
+      35,
+      52,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5113",
+    "category": "K",
+    "stopNames": [
+      "齐齐哈尔",
+      "富裕",
+      "二道湾",
+      "团结",
+      "拉哈",
+      "光明",
+      "讷河",
+      "恒地营",
+      "伊拉哈",
+      "九三",
+      "弯道",
+      "嫩江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5113.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d3ba38d48011c0c4a8f62ca5341a37f9d8c07b363a9c2cf294db3a5a05fed224",
+    "elapsedMinutes": [
+      0,
+      40,
+      66,
+      82,
+      101,
+      112,
+      148,
+      172,
+      215,
+      226,
+      237,
+      280
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5114",
+    "category": "K",
+    "stopNames": [
+      "嫩江",
+      "九三",
+      "讷河",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5114.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e8e7f5688ee82fb381f876c1c14dad62aaf532c8f68d135cb0aeacc0fe0e1086",
+    "elapsedMinutes": [
+      0,
+      63,
+      125,
+      313
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5125",
+    "category": "K",
+    "stopNames": [
+      "齐齐哈尔",
+      "富裕",
+      "依安",
+      "克山",
+      "北安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5125.html",
+    "sourceUpdatedAt": "2026-05-06",
+    "sourceSha256": "cfd9d9d72e35eacd0e7cc41b9f5aa97399caba7ca700e4165eb3f16051b1d427",
+    "elapsedMinutes": [
+      0,
+      40,
+      96,
+      138,
+      187
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5126",
+    "category": "K",
+    "stopNames": [
+      "北安",
+      "克东",
+      "依安",
+      "富裕",
+      "塔哈",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5126.html",
+    "sourceUpdatedAt": "2026-05-06",
+    "sourceSha256": "c874f15494ba12bfe300134a26d02ca2ebb869821698c32bea1f59bf98a4b535",
+    "elapsedMinutes": [
+      0,
+      22,
+      85,
+      145,
+      172,
+      205
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5146",
+    "category": "K",
+    "stopNames": [
+      "齐齐哈尔",
+      "泰来"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5146.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "62602fe76a234d960519853885a5803e7a42b14405b62fc0ca339c0cdba2189e",
+    "elapsedMinutes": [
+      0,
+      91
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5177",
+    "category": "K",
+    "stopNames": [
+      "齐齐哈尔",
+      "富裕",
+      "拉哈",
+      "讷河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5177.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "4c1261696558194da5a71216c08325a39d392736fa359d03c2a4ee140f54ccbc",
+    "elapsedMinutes": [
+      0,
+      40,
+      97,
+      141
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5178",
+    "category": "K",
+    "stopNames": [
+      "讷河",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5178.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "e03573b3c3e24d3f845db1291a99fb7fd4f79050618faa9c18c4e1f63027bf66",
+    "elapsedMinutes": [
+      0,
+      159
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y769",
+    "category": "OTHER",
+    "stopNames": [
+      "齐齐哈尔",
+      "嫩江",
+      "加格达奇",
+      "塔河",
+      "漠河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y769.html",
+    "sourceUpdatedAt": "2026-08-01",
+    "sourceSha256": "6c40b5f488bf7d7cf1cd5eeaa7aacb31b3aea82c740cc1b5ead265e44a6a6a5c",
+    "elapsedMinutes": [
+      0,
+      206,
+      404,
+      621,
+      869
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

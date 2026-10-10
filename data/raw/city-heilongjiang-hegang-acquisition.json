@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "鹤岗",
+  "stationCount": 4,
+  "candidateServices": 29,
+  "acquiredAdditionalServices": 11,
+  "failedPages": [],
+  "stationIssues": [
+    "新华"
+  ]
+}

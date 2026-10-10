@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "辽阳",
+  "stationCount": 3,
+  "candidateServices": 237,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "张台子"
+  ]
+}

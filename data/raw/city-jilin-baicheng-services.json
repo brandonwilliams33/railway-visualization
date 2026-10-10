@@ -1,0 +1,52 @@
+[
+  {
+    "trainNumber": "K4119",
+    "category": "K",
+    "stopNames": [
+      "白城",
+      "镇赉",
+      "泰来",
+      "齐齐哈尔"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4119.html",
+    "sourceUpdatedAt": "2026-03-11",
+    "sourceSha256": "e9372346b1dc0b9a5346c40e9c6858afc7e5998a62e8aa192c775ff11271a0ec",
+    "elapsedMinutes": [
+      0,
+      27,
+      75,
+      166
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4120",
+    "category": "K",
+    "stopNames": [
+      "齐齐哈尔",
+      "平洋",
+      "泰来",
+      "镇赉",
+      "白城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4120.html",
+    "sourceUpdatedAt": "2026-03-11",
+    "sourceSha256": "4f92fad0044fc2f70484159b2e9f9f9cdcd27d85ebbc16152b833e939df2b144",
+    "elapsedMinutes": [
+      0,
+      90,
+      121,
+      169,
+      200
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

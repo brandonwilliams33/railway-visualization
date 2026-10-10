@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "绥化",
+  "stationCount": 16,
+  "candidateServices": 221,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "东津",
+    "东边井",
+    "兴福",
+    "龙船"
+  ]
+}

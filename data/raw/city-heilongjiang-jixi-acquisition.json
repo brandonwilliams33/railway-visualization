@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "鸡西",
+  "stationCount": 23,
+  "candidateServices": 63,
+  "acquiredAdditionalServices": 14,
+  "failedPages": [],
+  "stationIssues": [
+    "密山西"
+  ]
+}

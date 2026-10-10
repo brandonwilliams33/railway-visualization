@@ -1,0 +1,20 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "呼伦贝尔",
+  "stationCount": 57,
+  "candidateServices": 107,
+  "acquiredAdditionalServices": 81,
+  "failedPages": [],
+  "stationIssues": [
+    "乌鲁布铁",
+    "南木",
+    "哈拉苏",
+    "喀喇其",
+    "大杨树东",
+    "忠工屯",
+    "新帐房",
+    "讷尔克气",
+    "达拉滨",
+    "金林"
+  ]
+}

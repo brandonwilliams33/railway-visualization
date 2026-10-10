@@ -1,0 +1,66 @@
+[
+  {
+    "name": "辽源",
+    "city": "辽源",
+    "cityId": "jilin-liaoyuan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/liaoyuan/liaoyuan.html",
+    "candidateTrainNumbers": [
+      "K429",
+      "K430",
+      "K5069",
+      "K5070",
+      "K7385",
+      "K7386",
+      "K7391",
+      "K7392",
+      "K7393",
+      "K7394",
+      "K7521",
+      "K7522",
+      "K7541",
+      "K7542",
+      "K7571",
+      "K7572"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7f65a210f175869f88c7289ce60de5b79c9508c343fc9891b5c98e715a6a0adc",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "东丰",
+    "city": "辽源",
+    "cityId": "jilin-liaoyuan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/liaoyuan/dongfeng.html",
+    "candidateTrainNumbers": [
+      "K429",
+      "K430",
+      "K7386",
+      "K7521",
+      "K7522",
+      "K7571",
+      "K7572"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "317f6706c89aee6899d3cb28a27aac5a822586a7dd940e1aea56cc0d44550c9b",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "白泉",
+    "city": "辽源",
+    "cityId": "jilin-liaoyuan",
+    "province": "吉林",
+    "provinceId": "jilin",
+    "sourceUrl": "https://www.crecc.com/jilin/liaoyuan/baiquan.html",
+    "candidateTrainNumbers": [
+      "K7521",
+      "K7522"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "74f994e2dd531ca22801be708d2d1ddf7e3613d4a16e81622f837fd0fc5cc819",
+    "retrievedAt": "2026-10-10"
+  }
+]

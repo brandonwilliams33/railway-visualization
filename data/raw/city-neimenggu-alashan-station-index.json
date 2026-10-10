@@ -1,0 +1,53 @@
+[
+  {
+    "name": "东风南",
+    "city": "阿拉善",
+    "cityId": "neimenggu-alashan",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "sourceUrl": "https://www.crecc.com/neimenggu/alashan/dongfengnan.html",
+    "candidateTrainNumbers": [
+      "7565",
+      "7566",
+      "7567",
+      "7568",
+      "K9671",
+      "K9672"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9702997908661e99497ea64bec4a3bff70d656869a97fee8ede4359c045ab398",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "呼鲁斯太",
+    "city": "阿拉善",
+    "cityId": "neimenggu-alashan",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "sourceUrl": "https://www.crecc.com/neimenggu/alashan/hulusitai.html",
+    "candidateTrainNumbers": [
+      "7523",
+      "7524",
+      "7525",
+      "7526"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "da8f559980784e770ce2a3bcbe42fd185fa193f8cda38e5e39f3b051db93cafa",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "额济纳",
+    "city": "阿拉善",
+    "cityId": "neimenggu-alashan",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "sourceUrl": "https://www.crecc.com/neimenggu/alashan/ejina.html",
+    "candidateTrainNumbers": [
+      "K7911",
+      "K7912"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cd10eafd59a1e1c2cbd58b7152894c1436aeb7dcfe7a98b64d220ff93f9b6672",
+    "retrievedAt": "2026-10-10"
+  }
+]

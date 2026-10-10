@@ -1,0 +1,15 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "齐齐哈尔",
+  "stationCount": 33,
+  "candidateServices": 283,
+  "acquiredAdditionalServices": 18,
+  "failedPages": [],
+  "stationIssues": [
+    "中和",
+    "八方",
+    "大民屯",
+    "老莱",
+    "鲁河"
+  ]
+}

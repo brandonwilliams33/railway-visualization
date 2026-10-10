@@ -1,0 +1,12 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "双鸭山",
+  "stationCount": 8,
+  "candidateServices": 68,
+  "acquiredAdditionalServices": 13,
+  "failedPages": [],
+  "stationIssues": [
+    "丰乐镇",
+    "笔架山"
+  ]
+}

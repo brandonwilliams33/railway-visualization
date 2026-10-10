@@ -1,0 +1,13 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "长春",
+  "stationCount": 17,
+  "candidateServices": 879,
+  "acquiredAdditionalServices": 252,
+  "failedPages": [],
+  "stationIssues": [
+    "大屯",
+    "范家屯",
+    "陶家屯"
+  ]
+}

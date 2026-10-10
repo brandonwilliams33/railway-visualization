@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "抚顺",
+  "stationCount": 4,
+  "candidateServices": 43,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "抚顺北"
+  ]
+}

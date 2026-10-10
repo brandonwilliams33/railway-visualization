@@ -1,0 +1,356 @@
+[
+  {
+    "trainNumber": "4135",
+    "category": "OTHER",
+    "stopNames": [
+      "佳木斯",
+      "福利屯",
+      "红兴隆",
+      "新友谊",
+      "富锦",
+      "同江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4135.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1a4be2263078b7518c8361a977bd866d451043362b30ec26e600b9229abee9d7",
+    "elapsedMinutes": [
+      0,
+      88,
+      133,
+      151,
+      213,
+      277
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4136",
+    "category": "OTHER",
+    "stopNames": [
+      "同江",
+      "富锦",
+      "新友谊",
+      "红兴隆",
+      "福利屯",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4136.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "efc3be2ce163b5b4b54adff1f625343ac0ba305a5660a08163ad395543c07e13",
+    "elapsedMinutes": [
+      0,
+      52,
+      105,
+      124,
+      176,
+      253
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6221",
+    "category": "OTHER",
+    "stopNames": [
+      "佳木斯",
+      "福利屯",
+      "红兴隆",
+      "新友谊",
+      "富锦",
+      "同江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6221.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "21d97a85edf430c507b83ba2ef314469e022c471d738b48b30098f1d4f6be7cb",
+    "elapsedMinutes": [
+      0,
+      83,
+      133,
+      151,
+      213,
+      277
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6222",
+    "category": "OTHER",
+    "stopNames": [
+      "同江",
+      "富锦",
+      "新友谊",
+      "红兴隆",
+      "福利屯",
+      "太平镇",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6222.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "7d9c7c08b44a3ba955817e72c5d0c6dba45163edfac8fa8d8d3f285cdf346ee2",
+    "elapsedMinutes": [
+      0,
+      52,
+      105,
+      128,
+      179,
+      213,
+      253
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7902",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "双鸭山西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7902.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c34564e2fe2f08c414b0cce7a2613dc50a27ef4a780d8fa7262cb2e006d93372",
+    "elapsedMinutes": [
+      0,
+      25
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7904",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "双鸭山西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7904.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "96dfe4eb3b1c8a0bc030752bb91771d1596c9e7307f3c9ff9dc5d1a4f1912835",
+    "elapsedMinutes": [
+      0,
+      26
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7906",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "双鸭山西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7906.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1baa2f4622c6296da12a52550a496dc88d013463c74780a64dfa8b4b3a8b5179",
+    "elapsedMinutes": [
+      0,
+      25
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7920",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "双鸭山西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7920.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4a179bb222b7502393aa0d73df79fb11e5ea1c4e3a1831b9e10d22753440524e",
+    "elapsedMinutes": [
+      0,
+      26
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5155",
+    "category": "K",
+    "stopNames": [
+      "佳木斯",
+      "四马架",
+      "太平镇",
+      "福利屯",
+      "新友谊",
+      "宝清"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5155.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "854a5b78ff983f97b7863abfdad5b1155a4e2fba6587b744034ac1a962fe142b",
+    "elapsedMinutes": [
+      0,
+      25,
+      49,
+      109,
+      160,
+      233
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5156",
+    "category": "K",
+    "stopNames": [
+      "宝清",
+      "新友谊",
+      "红兴隆",
+      "福利屯",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5156.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "69cf44e94448a50221f0fd81d706e84402ccb2374f04e53249ced3153ac82b3d",
+    "elapsedMinutes": [
+      0,
+      70,
+      88,
+      129,
+      200
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5157",
+    "category": "K",
+    "stopNames": [
+      "佳木斯",
+      "福利屯",
+      "富锦",
+      "建三江",
+      "换新天",
+      "前进镇",
+      "洪河",
+      "东二道河",
+      "抚远"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5157.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8d0f7af71d23e3ff7e908f221c5cda4b94a9b3ea80ee32cf8109c0b4ae009916",
+    "elapsedMinutes": [
+      0,
+      69,
+      195,
+      246,
+      278,
+      301,
+      336,
+      388,
+      479
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5158",
+    "category": "K",
+    "stopNames": [
+      "抚远",
+      "寒葱沟",
+      "东二道河",
+      "前锋",
+      "洪河",
+      "前进镇",
+      "换新天",
+      "建三江",
+      "富锦",
+      "新友谊",
+      "红兴隆",
+      "福利屯",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5158.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1458325a56dc15793230e99c19c2dc8601e988285b96ecbf997c80f9330bb8e6",
+    "elapsedMinutes": [
+      0,
+      56,
+      89,
+      118,
+      150,
+      184,
+      208,
+      237,
+      294,
+      364,
+      388,
+      439,
+      523
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5167",
+    "category": "K",
+    "stopNames": [
+      "佳木斯",
+      "福利屯",
+      "升昌",
+      "红兴隆",
+      "新友谊",
+      "富锦",
+      "同江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5167.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "19764080832282cfe83d604f70e47bb7a44109a1ddf177b6b8bc58f38f1b18c1",
+    "elapsedMinutes": [
+      0,
+      63,
+      96,
+      117,
+      138,
+      189,
+      293
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

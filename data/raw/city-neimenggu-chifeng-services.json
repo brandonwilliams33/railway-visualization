@@ -1,0 +1,2196 @@
+[
+  {
+    "trainNumber": "4327",
+    "category": "OTHER",
+    "stopNames": [
+      "叶柏寿",
+      "石脑",
+      "沙海",
+      "天义",
+      "二龙",
+      "汐子",
+      "乃林",
+      "平庄南",
+      "平庄北",
+      "元宝山",
+      "赤峰南",
+      "东南营子",
+      "水地",
+      "安庆沟",
+      "山湾子",
+      "小河沿",
+      "四道湾",
+      "莲花山",
+      "孤山子",
+      "敖汉",
+      "木头营子",
+      "三义井",
+      "新窝铺",
+      "四合",
+      "舍力虎",
+      "奈曼",
+      "嘎什吐",
+      "昂乃",
+      "白音他拉",
+      "黄花筒",
+      "八仙筒",
+      "东明村",
+      "嘎什甸子",
+      "治安",
+      "东来",
+      "瓦房",
+      "余粮堡",
+      "通辽"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4327.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "8272a2e2d864496e494fbf827a23b911dbad2c64c71fdc3f80730c0a584080b2",
+    "elapsedMinutes": [
+      0,
+      21,
+      40,
+      57,
+      73,
+      86,
+      105,
+      121,
+      133,
+      167,
+      206,
+      262,
+      280,
+      294,
+      309,
+      322,
+      337,
+      352,
+      364,
+      382,
+      394,
+      411,
+      424,
+      434,
+      447,
+      462,
+      484,
+      500,
+      513,
+      526,
+      538,
+      560,
+      572,
+      586,
+      599,
+      610,
+      626,
+      673
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4328",
+    "category": "OTHER",
+    "stopNames": [
+      "赤峰南",
+      "元宝山",
+      "平庄北",
+      "平庄南",
+      "乃林",
+      "汐子",
+      "二龙",
+      "天义",
+      "沙海",
+      "石脑",
+      "叶柏寿"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4328.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "6f27e9fd44c1ebe2a6697a7cab47063bd6a82514c4babcb3db3e03ac2346f6d1",
+    "elapsedMinutes": [
+      0,
+      35,
+      70,
+      83,
+      93,
+      114,
+      128,
+      144,
+      162,
+      178,
+      197
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4330",
+    "category": "OTHER",
+    "stopNames": [
+      "通辽",
+      "余粮堡",
+      "瓦房",
+      "东来",
+      "治安",
+      "嘎什甸子",
+      "东明村",
+      "八仙筒",
+      "黄花筒",
+      "白音他拉",
+      "昂乃",
+      "嘎什吐",
+      "奈曼",
+      "舍力虎",
+      "四合",
+      "新窝铺",
+      "三义井",
+      "木头营子",
+      "敖汉",
+      "莲花山",
+      "四道湾",
+      "小河沿",
+      "山湾子",
+      "安庆沟",
+      "水地",
+      "东南营子",
+      "赤峰南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4330.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "36c05cf3b01f6c2d08a4afb0c2da5bd9e60670a111ceefc3341ab4a1d0fc7bff",
+    "elapsedMinutes": [
+      0,
+      27,
+      49,
+      60,
+      73,
+      87,
+      105,
+      132,
+      144,
+      161,
+      188,
+      214,
+      225,
+      242,
+      255,
+      265,
+      278,
+      290,
+      303,
+      324,
+      339,
+      355,
+      368,
+      383,
+      397,
+      411,
+      434
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1151",
+    "category": "C",
+    "stopNames": [
+      "沈阳",
+      "阜新",
+      "北票",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1151.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "57819ee4c27f34f55c2ace512f7279b13d52920e6f3b3d9a63ab22bbf5f37bca",
+    "elapsedMinutes": [
+      0,
+      53,
+      84,
+      107,
+      133,
+      160,
+      176,
+      202,
+      224
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1152",
+    "category": "C",
+    "stopNames": [
+      "赤峰",
+      "宁城",
+      "喀左",
+      "辽宁朝阳",
+      "北票",
+      "沈阳",
+      "沈阳南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1152.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0ec0155eb33219603310337bb58caa7e49f55866176643090603ac14f4c31a15",
+    "elapsedMinutes": [
+      0,
+      31,
+      56,
+      81,
+      97,
+      179,
+      195
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1153",
+    "category": "C",
+    "stopNames": [
+      "赤峰",
+      "宁城",
+      "喀左",
+      "辽宁朝阳",
+      "北票",
+      "沈阳",
+      "沈阳南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1153.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5f8d55e6117340cad8aab4262e50889115010b6e2d2de8d0cc078c33745b2cb6",
+    "elapsedMinutes": [
+      0,
+      31,
+      56,
+      81,
+      97,
+      179,
+      195
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1154",
+    "category": "C",
+    "stopNames": [
+      "沈阳",
+      "阜新",
+      "北票",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1154.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cafe506141b0844ba0a0b265cc48a1c4f95d550caaacf69bacb9f308ba76d070",
+    "elapsedMinutes": [
+      0,
+      53,
+      84,
+      107,
+      133,
+      160,
+      176,
+      202,
+      224
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1155",
+    "category": "C",
+    "stopNames": [
+      "沈阳南",
+      "沈阳",
+      "阜新",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1155.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "78dff8bc114d6776c8505e9bae4392289e3dc8727c842326c0c9d08725a9c16e",
+    "elapsedMinutes": [
+      0,
+      14,
+      73,
+      111,
+      135,
+      153,
+      169,
+      186,
+      208
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1156",
+    "category": "C",
+    "stopNames": [
+      "赤峰",
+      "宁城",
+      "建平",
+      "喀左",
+      "沈阳",
+      "沈阳南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1156.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "27fdee719261bd1248dae8d6329c8494f384247767da027f3bb7816c14ab5149",
+    "elapsedMinutes": [
+      0,
+      31,
+      47,
+      64,
+      173,
+      190
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1157",
+    "category": "C",
+    "stopNames": [
+      "赤峰",
+      "宁城",
+      "建平",
+      "喀左",
+      "沈阳",
+      "沈阳南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1157.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8e4868bfe5bca0d37b61d7518405893f6a87b40cff0addcde2c77e94016f1b4d",
+    "elapsedMinutes": [
+      0,
+      31,
+      47,
+      64,
+      173,
+      190
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1158",
+    "category": "C",
+    "stopNames": [
+      "沈阳南",
+      "沈阳",
+      "阜新",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1158.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5a90edcb6d828b7b4f4c950eafd35b5a3d69caa5a68682b25264a6538a0fcdd6",
+    "elapsedMinutes": [
+      0,
+      14,
+      73,
+      111,
+      135,
+      153,
+      169,
+      186,
+      208
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1159",
+    "category": "C",
+    "stopNames": [
+      "沈阳南",
+      "沈阳",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1159.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8af0b0be215cd4fb17b8094a89bca8b3b5ced41052c7847f1e180635c9b17123",
+    "elapsedMinutes": [
+      0,
+      12,
+      103,
+      128,
+      146,
+      162,
+      179,
+      201
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1160",
+    "category": "C",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "宁城",
+      "建平",
+      "喀左",
+      "辽宁朝阳",
+      "阜新",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1160.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1b641e5ce417335af615355375fbdb1b6ca10409448d2fc4249144e1e595912d",
+    "elapsedMinutes": [
+      0,
+      20,
+      37,
+      52,
+      69,
+      96,
+      135,
+      191
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1161",
+    "category": "C",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "宁城",
+      "建平",
+      "喀左",
+      "辽宁朝阳",
+      "阜新",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1161.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bb9bfe45415121c2700bef70a1f37d0938b08dc248a4ce9e5da98f0aea1cbae9",
+    "elapsedMinutes": [
+      0,
+      20,
+      37,
+      52,
+      69,
+      96,
+      135,
+      191
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1162",
+    "category": "C",
+    "stopNames": [
+      "沈阳南",
+      "沈阳",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1162.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1d9a4a9ddd7edb5e23f75dc78a36446c12980c33e055120e9eab15e0c35399ed",
+    "elapsedMinutes": [
+      0,
+      12,
+      103,
+      128,
+      146,
+      162,
+      179,
+      201
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1171",
+    "category": "C",
+    "stopNames": [
+      "沈阳北",
+      "阜新",
+      "北票",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "宁城",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1171.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6a8da36838178d2850619b13cf5111dcf859badd50f76ea474bcd76f1fe7bec2",
+    "elapsedMinutes": [
+      0,
+      53,
+      85,
+      107,
+      132,
+      151,
+      167,
+      200
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1172",
+    "category": "C",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "宁城",
+      "建平",
+      "喀左",
+      "阜新",
+      "沈阳",
+      "沈阳南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1172.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "efe716224ace10176de4784235e6eb1ca9b34e87977dd3bac50e2d99d4fa1f94",
+    "elapsedMinutes": [
+      0,
+      20,
+      37,
+      52,
+      69,
+      135,
+      190,
+      205
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1173",
+    "category": "C",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "宁城",
+      "建平",
+      "喀左",
+      "阜新",
+      "沈阳",
+      "沈阳南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1173.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f0f9c99b8bd729fab8bd09220b50a8fb05e5a8496a8a0400968040ce49d0f084",
+    "elapsedMinutes": [
+      0,
+      20,
+      37,
+      52,
+      69,
+      135,
+      190,
+      205
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1174",
+    "category": "C",
+    "stopNames": [
+      "沈阳北",
+      "阜新",
+      "北票",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "宁城",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1174.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "89514f724cbbbd1805b15de05ea845d67a476542df32c2060f35a1e3be2b3b9b",
+    "elapsedMinutes": [
+      0,
+      53,
+      85,
+      107,
+      132,
+      151,
+      167,
+      200
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1175",
+    "category": "C",
+    "stopNames": [
+      "沈阳",
+      "黑山北",
+      "阜新",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1175.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "80d058a28f9c4fd11cde822ed4373456fff7ad0d3babb5d45b025568f8b2fc7a",
+    "elapsedMinutes": [
+      0,
+      39,
+      60,
+      100,
+      124,
+      142,
+      169,
+      191
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1176",
+    "category": "C",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "宁城",
+      "喀左",
+      "辽宁朝阳",
+      "北票",
+      "阜新",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1176.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a6390b36459110c02c7f1ea8e059658982834587f6c5031d7047055885061836",
+    "elapsedMinutes": [
+      0,
+      20,
+      37,
+      62,
+      87,
+      103,
+      138,
+      195
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1177",
+    "category": "C",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "宁城",
+      "喀左",
+      "辽宁朝阳",
+      "北票",
+      "阜新",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1177.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7e757d74381061d361076109d8dc815369a883644c072883b0a87a2546be10a6",
+    "elapsedMinutes": [
+      0,
+      20,
+      37,
+      62,
+      87,
+      103,
+      138,
+      195
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1178",
+    "category": "C",
+    "stopNames": [
+      "沈阳",
+      "黑山北",
+      "阜新",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1178.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0f38706112c91581e3c7be1bb4b03522ed4b402ee3e3a4b76b0d59c74138ec0f",
+    "elapsedMinutes": [
+      0,
+      39,
+      60,
+      100,
+      124,
+      142,
+      169,
+      191
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1180",
+    "category": "C",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "宁城",
+      "建平",
+      "喀左",
+      "辽宁朝阳",
+      "北票",
+      "沈阳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1180.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fdff6811c40d1ff454bbec121a4a82215189e5d63d76ff10dd74377d4962a394",
+    "elapsedMinutes": [
+      0,
+      20,
+      37,
+      52,
+      69,
+      101,
+      118,
+      205
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1181",
+    "category": "C",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "宁城",
+      "建平",
+      "喀左",
+      "辽宁朝阳",
+      "北票",
+      "沈阳北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1181.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4e3fda86f2a0e2aa6c6fda01831f9a95077ebfc85809204dbbcf5c91b4baf301",
+    "elapsedMinutes": [
+      0,
+      20,
+      37,
+      52,
+      69,
+      101,
+      118,
+      205
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7765",
+    "category": "D",
+    "stopNames": [
+      "沈阳",
+      "辽阳",
+      "鞍山西",
+      "海城西",
+      "盘锦",
+      "锦州北",
+      "巴图营",
+      "辽宁朝阳",
+      "建平",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7765.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e7ddde65e2284848bfee13e366fe46e96dfad2488a2a6cfe00d4d244df400cc3",
+    "elapsedMinutes": [
+      0,
+      25,
+      38,
+      52,
+      78,
+      114,
+      134,
+      150,
+      187,
+      230
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7766",
+    "category": "D",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "建平",
+      "辽宁朝阳",
+      "锦州北",
+      "盘锦",
+      "海城西",
+      "鞍山西",
+      "辽阳",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7766.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "82f33a36e8046808be413be09a458189abc7769b7f4a1b79b39c0e5f985bf1d5",
+    "elapsedMinutes": [
+      0,
+      20,
+      46,
+      81,
+      120,
+      159,
+      185,
+      201,
+      214,
+      243
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7767",
+    "category": "D",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "建平",
+      "辽宁朝阳",
+      "锦州北",
+      "盘锦",
+      "海城西",
+      "鞍山西",
+      "辽阳",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7767.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c90903dfd3e70f758613cff8ecdf343a2f9c6c58df4703f4cd373c468ff6c8bc",
+    "elapsedMinutes": [
+      0,
+      20,
+      46,
+      81,
+      120,
+      159,
+      185,
+      201,
+      214,
+      243
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7768",
+    "category": "D",
+    "stopNames": [
+      "沈阳",
+      "辽阳",
+      "鞍山西",
+      "海城西",
+      "盘锦",
+      "锦州北",
+      "巴图营",
+      "辽宁朝阳",
+      "建平",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7768.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7503ed7415781be8101c540fe06b8088f709fe77085fe327179e40739241fa39",
+    "elapsedMinutes": [
+      0,
+      25,
+      38,
+      52,
+      78,
+      114,
+      134,
+      150,
+      187,
+      230
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7785",
+    "category": "D",
+    "stopNames": [
+      "沈阳南",
+      "沈阳",
+      "凌海南",
+      "锦州北",
+      "辽宁朝阳",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7785.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cc20f215f876832e1bc97b547c6b88fcef51d559c3b0f42297b1828cdc19cb6d",
+    "elapsedMinutes": [
+      0,
+      12,
+      92,
+      118,
+      148,
+      197,
+      214,
+      236
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7788",
+    "category": "D",
+    "stopNames": [
+      "沈阳南",
+      "沈阳",
+      "凌海南",
+      "锦州北",
+      "辽宁朝阳",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7788.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "32a123160db153e0e9bf5e3fd5f60fd75616f6c1909aff84ba26e59029793271",
+    "elapsedMinutes": [
+      0,
+      12,
+      92,
+      118,
+      148,
+      197,
+      214,
+      236
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7791",
+    "category": "D",
+    "stopNames": [
+      "大连北",
+      "鲅鱼圈",
+      "盘锦",
+      "锦州北",
+      "巴图营",
+      "辽宁朝阳",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7791.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7ecf6ed039868616905e107769b55544cd43354ac5bd46491f3366e9305b61ea",
+    "elapsedMinutes": [
+      0,
+      43,
+      89,
+      128,
+      148,
+      164,
+      210,
+      227,
+      249
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7792",
+    "category": "D",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "宁城",
+      "建平",
+      "喀左",
+      "辽宁朝阳",
+      "锦州北",
+      "凌海南",
+      "盘锦",
+      "营口东",
+      "鲅鱼圈",
+      "大连北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7792.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "328882f37087b0f8a95df06e1b65f17621490532a37d6965d69739d12353366d",
+    "elapsedMinutes": [
+      0,
+      20,
+      37,
+      52,
+      69,
+      93,
+      128,
+      144,
+      177,
+      208,
+      229,
+      275
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7793",
+    "category": "D",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "宁城",
+      "建平",
+      "喀左",
+      "辽宁朝阳",
+      "锦州北",
+      "凌海南",
+      "盘锦",
+      "营口东",
+      "鲅鱼圈",
+      "大连北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7793.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5b5355c146f5fc604dd7a7feb800a330c3f03f19b04e086e663ebce8c52d22ac",
+    "elapsedMinutes": [
+      0,
+      20,
+      37,
+      52,
+      69,
+      93,
+      128,
+      144,
+      177,
+      208,
+      229,
+      275
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7794",
+    "category": "D",
+    "stopNames": [
+      "大连北",
+      "鲅鱼圈",
+      "盘锦",
+      "锦州北",
+      "巴图营",
+      "辽宁朝阳",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7794.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "63688dc3b19610f7e53dbe466419b80124747a18017921fe72f5624f597f66c7",
+    "elapsedMinutes": [
+      0,
+      43,
+      89,
+      128,
+      148,
+      164,
+      210,
+      227,
+      249
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7795",
+    "category": "D",
+    "stopNames": [
+      "大连北",
+      "瓦房店西",
+      "营口东",
+      "凌海南",
+      "锦州北",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7795.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "5f4a0c986ea9e1fd695d95e3316e29e2d854cae0cd619a8736258cba536be977",
+    "elapsedMinutes": [
+      0,
+      28,
+      66,
+      122,
+      138,
+      174,
+      212,
+      233,
+      249,
+      266,
+      288
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7796",
+    "category": "D",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "宁城",
+      "建平",
+      "喀左",
+      "辽宁朝阳",
+      "锦州北",
+      "盘锦北",
+      "盘锦",
+      "营口东",
+      "盖州西",
+      "大连北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7796.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "00c85982b64cf22f96b0c9154d2711ba31a9a1f07cd262a052e3bb75729ba6eb",
+    "elapsedMinutes": [
+      0,
+      20,
+      37,
+      52,
+      69,
+      94,
+      124,
+      153,
+      170,
+      202,
+      220,
+      274
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7797",
+    "category": "D",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "宁城",
+      "建平",
+      "喀左",
+      "辽宁朝阳",
+      "锦州北",
+      "盘锦北",
+      "盘锦",
+      "营口东",
+      "盖州西",
+      "大连北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7797.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "c774d87f850d4fbe1d764715c7f3725e8da90425ff563a0953309de55a038f13",
+    "elapsedMinutes": [
+      0,
+      20,
+      37,
+      52,
+      69,
+      94,
+      124,
+      153,
+      170,
+      202,
+      220,
+      274
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7798",
+    "category": "D",
+    "stopNames": [
+      "大连北",
+      "瓦房店西",
+      "营口东",
+      "凌海南",
+      "锦州北",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7798.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "de54f679151a9c5c83ae355190fd893adf2894f8e906fecb5122c97814ded11a",
+    "elapsedMinutes": [
+      0,
+      28,
+      66,
+      122,
+      138,
+      174,
+      212,
+      233,
+      249,
+      266,
+      288
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8079",
+    "category": "G",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "宁城",
+      "建平",
+      "辽宁朝阳",
+      "阜新",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8079.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8b9c18fc15a9c38125fb0ed7343abd7386f282382e63e521f039a7504dcd5100",
+    "elapsedMinutes": [
+      0,
+      20,
+      37,
+      52,
+      84,
+      118,
+      167
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8080",
+    "category": "G",
+    "stopNames": [
+      "沈阳",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8080.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6ce4d301b6e1141454986293e5ba8d69bf637c491878f98f78b457fca202e3dc",
+    "elapsedMinutes": [
+      0,
+      76,
+      99,
+      117,
+      133,
+      150,
+      172
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8081",
+    "category": "G",
+    "stopNames": [
+      "沈阳",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8081.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "81e6c29d2fa4e990adfcdf1b9b4eee2aed1587e290888340c82a59c29262b506",
+    "elapsedMinutes": [
+      0,
+      76,
+      99,
+      117,
+      133,
+      150,
+      172
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8082",
+    "category": "G",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "宁城",
+      "建平",
+      "辽宁朝阳",
+      "阜新",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8082.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1523d9e497f5627d91550a3d72f859e71b4e9e622ac4ec1dba795c8a1b996f01",
+    "elapsedMinutes": [
+      0,
+      20,
+      37,
+      52,
+      84,
+      118,
+      167
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8095",
+    "category": "G",
+    "stopNames": [
+      "大连北",
+      "鲅鱼圈",
+      "营口东",
+      "凌海南",
+      "锦州北",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8095.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9d249ea1677054ca0581d491cc15e727b90ecd65db07084ae892e26144d56ecd",
+    "elapsedMinutes": [
+      0,
+      37,
+      56,
+      104,
+      118,
+      144,
+      167,
+      185,
+      201,
+      218,
+      240
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8096",
+    "category": "G",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "宁城",
+      "建平",
+      "辽宁朝阳",
+      "锦州北",
+      "盘锦",
+      "营口东",
+      "大连北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8096.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "17e04a2ef96af4199909723bc716cd80e80c2d91965f8d61687c68902fadcac1",
+    "elapsedMinutes": [
+      0,
+      20,
+      37,
+      52,
+      85,
+      115,
+      156,
+      184,
+      235
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8097",
+    "category": "G",
+    "stopNames": [
+      "赤峰",
+      "平庄",
+      "宁城",
+      "建平",
+      "辽宁朝阳",
+      "锦州北",
+      "盘锦",
+      "营口东",
+      "大连北"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8097.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "116df7fcb12ec73f9766947624f22809dbe94c6a43db7fe206f6787095466849",
+    "elapsedMinutes": [
+      0,
+      20,
+      37,
+      52,
+      85,
+      115,
+      156,
+      184,
+      235
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8098",
+    "category": "G",
+    "stopNames": [
+      "大连北",
+      "鲅鱼圈",
+      "营口东",
+      "凌海南",
+      "锦州北",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8098.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f864d319b7e30ed662fdeb96dc913e5b267bd7de658264ac7cb4a882b03bbdfb",
+    "elapsedMinutes": [
+      0,
+      37,
+      56,
+      104,
+      118,
+      144,
+      167,
+      185,
+      201,
+      218,
+      240
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8206",
+    "category": "G",
+    "stopNames": [
+      "长春",
+      "沈阳",
+      "辽阳",
+      "大连北",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8206.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a9991c7f24a731e9fadc21e72e272ca588f180538ac9efe63eb1ecf4dbb9cc11",
+    "elapsedMinutes": [
+      0,
+      75,
+      100,
+      170,
+      130,
+      147,
+      169
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "G8207",
+    "category": "G",
+    "stopNames": [
+      "长春",
+      "沈阳",
+      "辽阳",
+      "大连北",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8207.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0ba992987e89fc632564480b99710b54b93358e02cafef9249b11a2ce47ee0cf",
+    "elapsedMinutes": [
+      0,
+      75,
+      100,
+      170,
+      130,
+      147,
+      169
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "G9141",
+    "category": "G",
+    "stopNames": [
+      "赤峰",
+      "宁城",
+      "喀左",
+      "辽宁朝阳",
+      "北票",
+      "阜新",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9141.html",
+    "sourceUpdatedAt": "2026-01-02",
+    "sourceSha256": "3f24f188039524c5bc362d086dea4eb65b194490e36b1df9a624136292557896",
+    "elapsedMinutes": [
+      0,
+      31,
+      56,
+      77,
+      93,
+      125,
+      175
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9142",
+    "category": "G",
+    "stopNames": [
+      "沈阳南",
+      "沈阳",
+      "阜新",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9142.html",
+    "sourceUpdatedAt": "2026-01-02",
+    "sourceSha256": "ea6c525c30fda34fc0993c40daf6245e45663c6d3eafbeaef7e98310663ecbdb",
+    "elapsedMinutes": [
+      0,
+      11,
+      71,
+      107,
+      129,
+      149,
+      165,
+      182,
+      204
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9143",
+    "category": "G",
+    "stopNames": [
+      "沈阳南",
+      "沈阳",
+      "阜新",
+      "辽宁朝阳",
+      "喀左",
+      "建平",
+      "宁城",
+      "平庄",
+      "赤峰"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9143.html",
+    "sourceUpdatedAt": "2026-01-02",
+    "sourceSha256": "1bec6da15c9d4eeca129a831fbeb23f1a8b2809fb0506cdd7050d241614ccd4b",
+    "elapsedMinutes": [
+      0,
+      11,
+      71,
+      107,
+      129,
+      149,
+      165,
+      182,
+      204
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G9144",
+    "category": "G",
+    "stopNames": [
+      "赤峰",
+      "宁城",
+      "喀左",
+      "辽宁朝阳",
+      "北票",
+      "阜新",
+      "沈阳"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g9144.html",
+    "sourceUpdatedAt": "2026-01-02",
+    "sourceSha256": "6b7e03c50885e8637c6abc2f54730ba51559ee7541c4cecf1f2ae8aec7ced35d",
+    "elapsedMinutes": [
+      0,
+      31,
+      56,
+      77,
+      93,
+      125,
+      175
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K4696",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨西",
+      "长春",
+      "集宁南",
+      "商都",
+      "公主岭",
+      "化德",
+      "四平",
+      "正镶白旗",
+      "昌图",
+      "桑根达来",
+      "开原",
+      "林西",
+      "铁岭",
+      "大板",
+      "沈阳",
+      "赤峰南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4696.html",
+    "sourceUpdatedAt": "2026-02-20",
+    "sourceSha256": "1e6e7110a4f10a078e1d314bb3106f40e3e42374ddc910a21fd15232abf017be",
+    "elapsedMinutes": [
+      0,
+      150,
+      85,
+      170,
+      197,
+      215,
+      238,
+      291,
+      272,
+      362,
+      295,
+      567,
+      321,
+      615,
+      379,
+      858
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3,
+        9,
+        11,
+        13,
+        15
+      ]
+    }
+  },
+  {
+    "trainNumber": "K4697",
+    "category": "K",
+    "stopNames": [
+      "哈尔滨西",
+      "长春",
+      "集宁南",
+      "商都",
+      "公主岭",
+      "化德",
+      "四平",
+      "正镶白旗",
+      "昌图",
+      "桑根达来",
+      "开原",
+      "林西",
+      "铁岭",
+      "大板",
+      "沈阳",
+      "赤峰南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k4697.html",
+    "sourceUpdatedAt": "2026-02-20",
+    "sourceSha256": "ef066c27df2b5a5c5678760ec7be7d85aaf7f32ac51825a3fecb05c9eae2c299",
+    "elapsedMinutes": [
+      0,
+      150,
+      85,
+      170,
+      197,
+      215,
+      238,
+      291,
+      272,
+      362,
+      295,
+      567,
+      321,
+      615,
+      379,
+      858
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3,
+        9,
+        11,
+        13,
+        15
+      ]
+    }
+  },
+  {
+    "trainNumber": "K5067",
+    "category": "K",
+    "stopNames": [
+      "赤峰南",
+      "奈曼",
+      "八仙筒",
+      "治安",
+      "通辽"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5067.html",
+    "sourceUpdatedAt": "2026-02-27",
+    "sourceSha256": "97b844211e0ecd4e4d35c4dc244a45b2b38a6c2f524ade830c2999c17679fadf",
+    "elapsedMinutes": [
+      0,
+      153,
+      194,
+      226,
+      279
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5068",
+    "category": "K",
+    "stopNames": [
+      "通辽",
+      "治安",
+      "八仙筒",
+      "奈曼",
+      "赤峰南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5068.html",
+    "sourceUpdatedAt": "2026-03-06",
+    "sourceSha256": "5b3c4850f75bcf814b0b67af7da0ac6c95bf212fc425ce978f2cb6781807a16b",
+    "elapsedMinutes": [
+      0,
+      52,
+      86,
+      143,
+      297
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5081",
+    "category": "K",
+    "stopNames": [
+      "赤峰南",
+      "四道湾",
+      "敖汉",
+      "新窝铺",
+      "奈曼",
+      "八仙筒",
+      "东明村",
+      "治安",
+      "东来",
+      "通辽"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5081.html",
+    "sourceUpdatedAt": "2026-09-06",
+    "sourceSha256": "1fc75fd0d0d90232f38a5a09c79dbed729d53258e5e95a0a87cc503dd6e72a0c",
+    "elapsedMinutes": [
+      0,
+      91,
+      121,
+      149,
+      197,
+      236,
+      253,
+      275,
+      289,
+      334
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5082",
+    "category": "K",
+    "stopNames": [
+      "通辽",
+      "东来",
+      "治安",
+      "东明村",
+      "八仙筒",
+      "奈曼",
+      "新窝铺",
+      "赤峰南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5082.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "07d776b1427da65149d7570fb71f2e346adc4d68dd505f613ea66a12944ea7af",
+    "elapsedMinutes": [
+      0,
+      44,
+      58,
+      81,
+      99,
+      141,
+      168,
+      297
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7327",
+    "category": "K",
+    "stopNames": [
+      "赤峰南",
+      "四道湾",
+      "敖汉",
+      "新窝铺",
+      "奈曼",
+      "八仙筒",
+      "东明村",
+      "治安",
+      "东来",
+      "通辽"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7327.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "47bf8fcbd4a2c0b597ff01dffea222431a9b3890b1e55da1b879faf0b79186ba",
+    "elapsedMinutes": [
+      0,
+      63,
+      94,
+      123,
+      164,
+      204,
+      221,
+      255,
+      269,
+      314
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7328",
+    "category": "K",
+    "stopNames": [
+      "通辽",
+      "东来",
+      "治安",
+      "东明村",
+      "八仙筒",
+      "奈曼",
+      "新窝铺",
+      "敖汉",
+      "四道湾",
+      "赤峰南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7328.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0aaa1e13c6566edf329bb8ca293932c466775c5d83b23c32cda09c76eb7f6863",
+    "elapsedMinutes": [
+      0,
+      44,
+      58,
+      81,
+      104,
+      152,
+      194,
+      223,
+      254,
+      323
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7529",
+    "category": "K",
+    "stopNames": [
+      "赤峰南",
+      "四道湾",
+      "敖汉",
+      "奈曼",
+      "东来"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7529.html",
+    "sourceUpdatedAt": "2026-03-11",
+    "sourceSha256": "ed4efad44305b6388ad85284f2fea8a242228ec70f30c6da2e8e72f132945c21",
+    "elapsedMinutes": [
+      0,
+      63,
+      120,
+      190,
+      283
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

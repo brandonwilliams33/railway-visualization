@@ -1,0 +1,458 @@
+[
+  {
+    "name": "鸡西",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/jixi.html",
+    "candidateTrainNumbers": [
+      "4051",
+      "4052",
+      "6223",
+      "6224",
+      "K5161",
+      "K5162",
+      "K7149",
+      "K7150",
+      "K7153",
+      "K7154",
+      "K7155",
+      "K7156",
+      "K7157",
+      "K7158",
+      "K7159",
+      "K7160",
+      "K7289",
+      "K7290"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b59e0663694d1b5249ff4d98e4d513873d5160ae9136f9833390555e9c6dbf25",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "鸡西西",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/jixixi.html",
+    "candidateTrainNumbers": [
+      "D539",
+      "D542",
+      "D7903",
+      "D7905",
+      "D7907",
+      "D7908",
+      "D7912",
+      "D7921",
+      "D7924",
+      "D7929",
+      "D7930",
+      "D7932",
+      "D7933",
+      "D7951",
+      "D7957",
+      "D7958",
+      "D7963",
+      "D7964",
+      "D7966",
+      "D7967",
+      "D7968",
+      "D7971",
+      "D7973",
+      "D7974",
+      "D7975",
+      "D7976",
+      "D7977",
+      "D7978",
+      "D7980",
+      "D7981",
+      "D7983",
+      "D7986",
+      "D7987",
+      "D7990",
+      "D9167",
+      "G106",
+      "G121",
+      "G3507",
+      "G3512",
+      "G703",
+      "G714",
+      "G721",
+      "G724",
+      "G732",
+      "G754"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f3b589c85952f17a93a0fcc06fc4bcb72cb1cfffb0f8a67ab2bf352afe3f2681",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "东方红",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/dongfanghong.html",
+    "candidateTrainNumbers": [
+      "6223",
+      "6224",
+      "K7153",
+      "K7154",
+      "K7155",
+      "K7156",
+      "K7289",
+      "K7290"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6bb3f056cb9b0ea17c418294fb5e64628b8a4d759fcee73464ae5d8118eea8d7",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "东海",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/donghai.html",
+    "candidateTrainNumbers": [
+      "6223",
+      "6224",
+      "K7157",
+      "K7158"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "65d03cfc00d4fdcd9fafde73112de929fd88b42810188a3c827c4086665dd92e",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "兴凯",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/xingkai.html",
+    "candidateTrainNumbers": [
+      "6223",
+      "6224",
+      "K7153",
+      "K7154",
+      "K7155",
+      "K7156"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2b3954bbed97c0424ef3666afc912c0d91863b627206864811bf5782e5e77e3b",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "凯北",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/kaibei.html",
+    "candidateTrainNumbers": [
+      "6223",
+      "6224",
+      "K7154",
+      "K7155"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6f5f4aeef1d39879da9e129b5ee6b371db519bf642df3186daa2f9831abc0f76",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "卫星",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/weixing.html",
+    "candidateTrainNumbers": [
+      "6223",
+      "6224",
+      "K7153",
+      "K7154",
+      "K7155",
+      "K7156"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4f34ff51c445be194dc671bc7bd390b10df4dc7d5d2e0f5cdf19ddd2ac25d1fb",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "密山",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/mishan.html",
+    "candidateTrainNumbers": [
+      "6223",
+      "6224",
+      "K7153",
+      "K7154",
+      "K7155",
+      "K7156",
+      "K7157",
+      "K7158",
+      "K7159",
+      "K7160",
+      "K7289",
+      "K7290"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fec4b8750ae1f67f5cc483b5b29c8c48b2a5d0c9cfaf5bf8c25e47cae0b6c53a",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "密山西",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/mishanxi.html",
+    "candidateTrainNumbers": [],
+    "sourceUpdatedAt": "",
+    "sourceSha256": "398f5da7bfea7005b74d24ee9a7185dc0c11b45f734bcc432cda0465fd0cd094",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "杨岗",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/yanggang.html",
+    "candidateTrainNumbers": [
+      "6223"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "66f1f53e78624dbe3fb7690d258e0d6cb0932d4c317c6c4b730d2935dab16769",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "柳毛",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/liumao.html",
+    "candidateTrainNumbers": [
+      "6223",
+      "6224"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "651886bc5b126522dd1901d5567b6f91717186edce680fc7eaca7f4b1b96cf8f",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "梨树镇",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/lishuzhen.html",
+    "candidateTrainNumbers": [
+      "6223",
+      "6224",
+      "K7149",
+      "K7150"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ea84e62ce2bee841e13d00894a25d3180cc83aa68335cfeccdb5b951d9db5a91",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "永安乡",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/yonganxiang.html",
+    "candidateTrainNumbers": [
+      "6224",
+      "K7158"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "974f43054d503dc69f1e1c0edb6a0deb4886fff032ad85eadae3d025f7b76e99",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "滴道",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/didao.html",
+    "candidateTrainNumbers": [
+      "4051",
+      "4052"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f590bedd63e0b76793d16ca637ef7a324c1d1328a38c5c4d7542cf50579fb641",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "虎林",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/hulin.html",
+    "candidateTrainNumbers": [
+      "6223",
+      "6224",
+      "K7153",
+      "K7154",
+      "K7155",
+      "K7156",
+      "K7157",
+      "K7158",
+      "K7159",
+      "K7160",
+      "K7289",
+      "K7290"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c9a5d48287c2786a2a16487c03d1a80a9815bfb52006714d94dc9954db0f7f24",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "裴德",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/peide.html",
+    "candidateTrainNumbers": [
+      "6223",
+      "6224"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ffaadb57055bb8b0bc4fa7a322b79d61108e89c6ebcdfe374fa264079f80d111",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "西麻山",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/ximashan.html",
+    "candidateTrainNumbers": [
+      "4051",
+      "4052",
+      "K5161"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a14395a4dd38d90c1410ac84959b7c6a012d6ad60b10eb3a1f8f0fa222d66f79",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "迎春",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/yingchun.html",
+    "candidateTrainNumbers": [
+      "6223",
+      "6224",
+      "K7154",
+      "K7155",
+      "K7289",
+      "K7290"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c0d9f5f953e309ad2c3ebf5b413f3662b1f13b5df6226528c0bed9a13dff491c",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "连珠山",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/lianzhushan.html",
+    "candidateTrainNumbers": [
+      "6223",
+      "6224",
+      "K7158"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b650ba84c1aec5d55a972bbd8ead3d9c96e6f79cc466720584c01b78fef872f1",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "青龙",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/qinglong.html",
+    "candidateTrainNumbers": [
+      "4051",
+      "4052",
+      "K5162"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "30cc54311df55678d06c22ac790f704cdf1c8f52d1c1cd97ee978613f64cc340",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "鸡东",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/jidong.html",
+    "candidateTrainNumbers": [
+      "6223",
+      "6224",
+      "K7153",
+      "K7154",
+      "K7155",
+      "K7156",
+      "K7158",
+      "K7160",
+      "K7290"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "42ae80d481f4e746c0023f09eb46cdbae3124a45b0f5830479f3e11e4d948102",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "麻山",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/mashan.html",
+    "candidateTrainNumbers": [
+      "4051",
+      "4052",
+      "K5161"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "038b9cb9ad05ee84caf9873744486801cf07383abdd7e3192cda63fbfe62b242",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "黑台",
+    "city": "鸡西",
+    "cityId": "heilongjiang-jixi",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/jixi/heitai.html",
+    "candidateTrainNumbers": [
+      "6223",
+      "6224",
+      "K7158"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1949d882df53ee5aa258b239265f4d408ff57595d5c0da121eb83f3098d6e831",
+    "retrievedAt": "2026-10-10"
+  }
+]

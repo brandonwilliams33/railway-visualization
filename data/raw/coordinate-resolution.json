@@ -1,5 +1,10 @@
 {
-  "addedStations": [],
+  "addedStations": [
+    "天岗",
+    "尼木",
+    "白石山",
+    "黄松甸"
+  ],
   "originIdentityConflicts": [
     {
       "name": "陈庄",
@@ -25,14 +30,79 @@
       "name": "岔江",
       "catalogueProvince": "贵州",
       "coordinateProvince": "云南"
+    },
+    {
+      "name": "加格达奇",
+      "catalogueProvince": "黑龙江",
+      "coordinateProvince": "内蒙古"
+    },
+    {
+      "name": "劲松",
+      "catalogueProvince": "黑龙江",
+      "coordinateProvince": "内蒙古"
+    },
+    {
+      "name": "古源",
+      "catalogueProvince": "黑龙江",
+      "coordinateProvince": "内蒙古"
+    },
+    {
+      "name": "大扬气",
+      "catalogueProvince": "黑龙江",
+      "coordinateProvince": "内蒙古"
+    },
+    {
+      "name": "小扬气",
+      "catalogueProvince": "黑龙江",
+      "coordinateProvince": "内蒙古"
+    },
+    {
+      "name": "新天",
+      "catalogueProvince": "黑龙江",
+      "coordinateProvince": "内蒙古"
+    },
+    {
+      "name": "松树林",
+      "catalogueProvince": "黑龙江",
+      "coordinateProvince": "内蒙古"
+    },
+    {
+      "name": "白桦排",
+      "catalogueProvince": "黑龙江",
+      "coordinateProvince": "内蒙古"
+    },
+    {
+      "name": "翠峰",
+      "catalogueProvince": "黑龙江",
+      "coordinateProvince": "内蒙古"
+    },
+    {
+      "name": "金山",
+      "catalogueProvince": "吉林",
+      "coordinateProvince": "新疆"
+    },
+    {
+      "name": "萧县北",
+      "catalogueProvince": "辽宁",
+      "coordinateProvince": "安徽"
+    },
+    {
+      "name": "先锋",
+      "catalogueProvince": "内蒙古",
+      "coordinateProvince": "湖南"
     }
   ],
-  "ambiguousNames": [],
+  "ambiguousNames": [
+    "三家子",
+    "四方台",
+    "桃山"
+  ],
   "unlocatedStations": [
     "万荣",
     "万象",
+    "三 亚",
+    "三家子",
     "东莞 西",
-    "东风南",
     "临 沂北",
     "临澧",
     "乌图美仁",
@@ -44,30 +114,32 @@
     "厦 门北",
     "古城",
     "合肥 南",
-    "图木舒克",
-    "塔城",
-    "大磴沟",
+    "哈 尔 滨",
+    "四方台",
     "天棚",
     "孟赛",
     "宁明",
     "宜昌 东",
     "尉犁",
     "广州 白云",
+    "忠工屯",
     "惠州 北",
     "成 都东",
     "扶绥",
     "曲江",
+    "桃山",
     "横琴北",
     "武 昌",
     "武汉 东",
     "汉 口",
     "汕 头",
+    "沈 阳北",
     "沙园",
     "泸 州",
-    "泾川",
     "洛川东",
     "济 南",
     "济 南西",
+    "海 口东",
     "深 圳",
     "深圳 北",
     "琅勃拉邦",
@@ -79,18 +151,14 @@
     "艾家村",
     "花土沟",
     "茶卡",
-    "营盘水",
     "褚家湾",
     "襄阳 东",
     "贵 阳北",
     "通州",
     "重 庆西",
-    "金山",
-    "长庆桥",
-    "阿拉山口",
+    "金林",
     "陇南西",
     "青 岛北",
-    "额敏",
     "马海",
     "龙 岩"
   ],
@@ -99,29 +167,25 @@
     "乌图美仁",
     "乐山北",
     "古城",
-    "图木舒克",
-    "塔城",
-    "大磴沟",
+    "四方台",
     "天棚",
     "宁明",
     "尉犁",
+    "忠工屯",
     "扶绥",
     "曲江",
+    "桃山",
     "横琴北",
     "沙园",
-    "泾川",
     "洛川东",
     "盘古",
     "福海",
     "艾家村",
     "花土沟",
     "茶卡",
-    "营盘水",
     "褚家湾",
     "通州",
-    "长庆桥",
-    "阿拉山口",
-    "陇南西",
-    "额敏"
+    "金林",
+    "陇南西"
   ]
 }

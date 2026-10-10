@@ -1,0 +1,13 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "葫芦岛",
+  "stationCount": 9,
+  "candidateServices": 323,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "南桥",
+    "建昌",
+    "柳树屯"
+  ]
+}

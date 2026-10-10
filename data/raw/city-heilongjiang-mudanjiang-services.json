@@ -1,0 +1,438 @@
+[
+  {
+    "trainNumber": "4061",
+    "category": "OTHER",
+    "stopNames": [
+      "东京城",
+      "石头",
+      "宁安",
+      "温春",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4061.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "85e81ca4f4482657a42547ef3df44f6ee1b35a42f8ce37c673adea0f3d317963",
+    "elapsedMinutes": [
+      0,
+      16,
+      40,
+      53,
+      85
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4062",
+    "category": "OTHER",
+    "stopNames": [
+      "牡丹江",
+      "东京城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4062.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "a1b1da6bdb66790962642cb5e30414a26c5248cb346ae69543989aff02ae85e0",
+    "elapsedMinutes": [
+      0,
+      63
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4063",
+    "category": "OTHER",
+    "stopNames": [
+      "东京城",
+      "石头",
+      "兰岗",
+      "宁安",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4063.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5f4e5350170cec21acb7e3b7fdfd6ed8ca99251f62b951b51d1a2ca80baf50fd",
+    "elapsedMinutes": [
+      0,
+      16,
+      30,
+      45,
+      80
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4064",
+    "category": "OTHER",
+    "stopNames": [
+      "牡丹江",
+      "温春",
+      "宁安",
+      "兰岗",
+      "石头",
+      "东京城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4064.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2b33309c57301beae15f9fb58ec2e1e2a57666f11414b0858c4a5a4103c79989",
+    "elapsedMinutes": [
+      0,
+      29,
+      38,
+      57,
+      78,
+      96
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4065",
+    "category": "OTHER",
+    "stopNames": [
+      "斗沟子",
+      "东京城",
+      "石头",
+      "宁安",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4065.html",
+    "sourceUpdatedAt": "2026-03-11",
+    "sourceSha256": "dca3db2640480a2258357940e92c4d565acc26b8908afb06e8c550517d5fd401",
+    "elapsedMinutes": [
+      0,
+      29,
+      50,
+      74,
+      110
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4066",
+    "category": "OTHER",
+    "stopNames": [
+      "牡丹江",
+      "温春",
+      "宁安",
+      "石头",
+      "东京城",
+      "斗沟子"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4066.html",
+    "sourceUpdatedAt": "2026-03-11",
+    "sourceSha256": "b91a99074ed57a57be9a328b5f12a71a7bdb4693625de9533982127465a85c27",
+    "elapsedMinutes": [
+      0,
+      24,
+      45,
+      70,
+      88,
+      125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4067",
+    "category": "OTHER",
+    "stopNames": [
+      "东京城",
+      "石头",
+      "兰岗",
+      "宁安",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4067.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "abd1bcc71191baada5cd8edc16117778f407d0f5265a1cef22478bfce3fd54aa",
+    "elapsedMinutes": [
+      0,
+      15,
+      28,
+      41,
+      76
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4068",
+    "category": "OTHER",
+    "stopNames": [
+      "牡丹江",
+      "宁安",
+      "石头",
+      "东京城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4068.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1a6476b00f794f135853f95da3c7e14dd2c6b3d469d5f997057979fc5e0bc120",
+    "elapsedMinutes": [
+      0,
+      32,
+      67,
+      85
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4069",
+    "category": "OTHER",
+    "stopNames": [
+      "东京城",
+      "石头",
+      "兰岗",
+      "宁安",
+      "温春",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4069.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "a6f72efeaeb21504310d507176cc039e915e85b6572219fc433dbff651e7f916",
+    "elapsedMinutes": [
+      0,
+      15,
+      27,
+      39,
+      53,
+      75
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4070",
+    "category": "OTHER",
+    "stopNames": [
+      "牡丹江",
+      "温春",
+      "宁安",
+      "兰岗",
+      "石头",
+      "东京城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4070.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "5b5654a68b772c1771ea2ff109f98b0ab9d5b4bed6f4dad4941c10cfd6b4e427",
+    "elapsedMinutes": [
+      0,
+      24,
+      46,
+      59,
+      68,
+      83
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4071",
+    "category": "OTHER",
+    "stopNames": [
+      "东京城",
+      "宁安",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4071.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "be1932c8faa4135bc3bca7392f93f03e680b3e0091d26660cfc9233776e942ec",
+    "elapsedMinutes": [
+      0,
+      32,
+      67
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4072",
+    "category": "OTHER",
+    "stopNames": [
+      "牡丹江",
+      "宁安",
+      "兰岗",
+      "石头",
+      "东京城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4072.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e0dce48601974020e99f3cd5f79056a5e084d81b49fbdbd1f6a65a0a9055d359",
+    "elapsedMinutes": [
+      0,
+      46,
+      61,
+      75,
+      93
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6285",
+    "category": "OTHER",
+    "stopNames": [
+      "长汀镇",
+      "敖头",
+      "海林",
+      "拉古",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6285.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "003702a89554b65cef70f487522c4a5c226a5e070a65281c35f5d62e1ca216b3",
+    "elapsedMinutes": [
+      0,
+      83,
+      98,
+      113,
+      130
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6286",
+    "category": "OTHER",
+    "stopNames": [
+      "牡丹江",
+      "拉古",
+      "海林",
+      "敖头",
+      "长汀镇"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6286.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "08e2b6dd46580501f73461f83d30907d1f91dff6321b94473528208a9caab328",
+    "elapsedMinutes": [
+      0,
+      14,
+      26,
+      40,
+      125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6287",
+    "category": "OTHER",
+    "stopNames": [
+      "牡丹江",
+      "拉古",
+      "海林",
+      "敖头",
+      "长汀镇"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6287.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0473dd4e32805e7e52d25668553dddcb827ae626bfcfe983fdfd3117ffcc7de7",
+    "elapsedMinutes": [
+      0,
+      14,
+      26,
+      40,
+      125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6288",
+    "category": "OTHER",
+    "stopNames": [
+      "长汀镇",
+      "敖头",
+      "海林",
+      "拉古",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6288.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c61c368b35d9e143b75f368267db585325816764ca8ab9963cf1711481e9a36c",
+    "elapsedMinutes": [
+      0,
+      83,
+      98,
+      113,
+      130
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8549",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "穆棱",
+      "绥阳",
+      "绥芬河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8549.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "feeb685bde7ea7c283eb63bb5296a8acdd68427147bf0b5b96881044239dd9bb",
+    "elapsedMinutes": [
+      0,
+      30,
+      56,
+      71
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "trainNumber": "D7901",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "七台河西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7901.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "71ea787c234ec8dc956e2404b82eada394cf78eb4286f38e75d266fa803e1ebc",
+    "elapsedMinutes": [
+      0,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7910",
+    "category": "D",
+    "stopNames": [
+      "七台河西",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7910.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "629a1ba8177d0c10d85331ddc4c0c0ba1b0a43e085819ae937aeb6647679f94a",
+    "elapsedMinutes": [
+      0,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

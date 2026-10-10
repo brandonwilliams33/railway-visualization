@@ -1,0 +1,16 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "哈尔滨",
+  "stationCount": 58,
+  "candidateServices": 857,
+  "acquiredAdditionalServices": 337,
+  "failedPages": [],
+  "stationIssues": [
+    "万乐",
+    "双龙湖",
+    "小岭",
+    "徐家",
+    "成高子",
+    "新香坊北"
+  ]
+}

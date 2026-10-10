@@ -1,0 +1,114 @@
+[
+  {
+    "trainNumber": "Y561",
+    "category": "OTHER",
+    "stopNames": [
+      "丹东",
+      "凤凰城",
+      "灌水",
+      "通化",
+      "长白山",
+      "龙井"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y561.html",
+    "sourceUpdatedAt": "2026-06-22",
+    "sourceSha256": "5c8fe38e8ab5f26fcb23d9f1f08dc837d1fe703aba1aa5c6adf1a8119d5fbf04",
+    "elapsedMinutes": [
+      0,
+      53,
+      191,
+      313,
+      668,
+      824
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y562",
+    "category": "OTHER",
+    "stopNames": [
+      "龙井",
+      "长白山",
+      "通化",
+      "灌水",
+      "凤凰城",
+      "丹东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y562.html",
+    "sourceUpdatedAt": "2026-06-26",
+    "sourceSha256": "9ff9e1cb4389427175d4ca4f75e93960dcb17e71ebc91dbec494da51b56bed0c",
+    "elapsedMinutes": [
+      0,
+      143,
+      473,
+      620,
+      728,
+      822
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y563",
+    "category": "OTHER",
+    "stopNames": [
+      "龙井",
+      "长白山",
+      "通化",
+      "灌水",
+      "凤凰城",
+      "丹东"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y563.html",
+    "sourceUpdatedAt": "2026-06-26",
+    "sourceSha256": "cd2320f9fb67a85b5f94e62cd6113d96718533a15ced0afe187752df6001bfda",
+    "elapsedMinutes": [
+      0,
+      143,
+      473,
+      620,
+      728,
+      822
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y564",
+    "category": "OTHER",
+    "stopNames": [
+      "丹东",
+      "凤凰城",
+      "灌水",
+      "通化",
+      "长白山",
+      "龙井"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y564.html",
+    "sourceUpdatedAt": "2026-06-22",
+    "sourceSha256": "23a0b17743fa3f9c1fccdbcb32e6ea0202e42d0f8fed9f9f5bc7f3723a73989b",
+    "elapsedMinutes": [
+      0,
+      53,
+      191,
+      313,
+      668,
+      824
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

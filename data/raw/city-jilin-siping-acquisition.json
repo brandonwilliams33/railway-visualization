@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "四平",
+  "stationCount": 6,
+  "candidateServices": 358,
+  "acquiredAdditionalServices": 2,
+  "failedPages": [],
+  "stationIssues": [
+    "郭家店"
+  ]
+}

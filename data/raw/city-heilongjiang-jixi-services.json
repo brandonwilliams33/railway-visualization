@@ -1,0 +1,434 @@
+[
+  {
+    "trainNumber": "4051",
+    "category": "OTHER",
+    "stopNames": [
+      "牡丹江",
+      "柴河",
+      "朱家沟",
+      "林口",
+      "奎山",
+      "西麻山",
+      "麻山",
+      "青龙",
+      "滴道",
+      "鸡西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4051.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "90284f3caf16ce75293e83964c181fc1a65778334c0df9860f2ea68e2f328798",
+    "elapsedMinutes": [
+      0,
+      25,
+      51,
+      128,
+      167,
+      178,
+      188,
+      209,
+      247,
+      268
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6223",
+    "category": "OTHER",
+    "stopNames": [
+      "牡丹江",
+      "磨刀石",
+      "穆棱",
+      "下城子",
+      "八面通",
+      "梨树镇",
+      "柳毛",
+      "鸡西",
+      "鸡东",
+      "东海",
+      "黑台",
+      "连珠山",
+      "密山",
+      "裴德",
+      "兴凯",
+      "杨岗",
+      "凯北",
+      "卫星",
+      "虎林",
+      "迎春",
+      "东方红"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6223.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ded301cd221c6e2faf4fed6b487720e4dd3e428cb1de26ac17cbfa78877ccf5a",
+    "elapsedMinutes": [
+      0,
+      19,
+      69,
+      85,
+      137,
+      174,
+      213,
+      250,
+      277,
+      296,
+      324,
+      341,
+      364,
+      384,
+      403,
+      425,
+      441,
+      451,
+      494,
+      548,
+      587
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6224",
+    "category": "OTHER",
+    "stopNames": [
+      "东方红",
+      "迎春",
+      "虎林",
+      "卫星",
+      "凯北",
+      "兴凯",
+      "裴德",
+      "密山",
+      "连珠山",
+      "黑台",
+      "永安乡",
+      "东海",
+      "鸡东",
+      "鸡西",
+      "柳毛",
+      "梨树镇",
+      "八面通",
+      "下城子",
+      "穆棱",
+      "磨刀石",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6224.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d850f788448db2cdcbcc00c500b54350a45d96b4e9170c0ae765521f2f2f54d9",
+    "elapsedMinutes": [
+      0,
+      27,
+      75,
+      124,
+      135,
+      169,
+      187,
+      203,
+      224,
+      241,
+      258,
+      284,
+      304,
+      334,
+      374,
+      413,
+      449,
+      498,
+      514,
+      551,
+      575
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7903",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "鸡西西",
+      "七台河西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7903.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "acc8ce0c9be2c40b6c6bd790f77599e01ae2a116fe54a7499547c8162dfd9c31",
+    "elapsedMinutes": [
+      0,
+      42,
+      64
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7907",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "鸡西西",
+      "七台河西",
+      "双鸭山西",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7907.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "14e87b7126aeb4f17b9d0a202c58016e553c2754700a7b39e667091e9e17d160",
+    "elapsedMinutes": [
+      0,
+      42,
+      64,
+      107,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D7912",
+    "category": "D",
+    "stopNames": [
+      "七台河西",
+      "鸡西西",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d7912.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "acccf59e40cde279dade82edeb094f851ba490b1ecb1c1ef05bcb8b7a344af81",
+    "elapsedMinutes": [
+      0,
+      19,
+      63
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5161",
+    "category": "K",
+    "stopNames": [
+      "牡丹江",
+      "柴河",
+      "朱家沟",
+      "林口",
+      "西麻山",
+      "麻山",
+      "鸡西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5161.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "0de9e4a44dc3eb60aee10dc93d533a4ee1841a5eaaa1c7571c7d289102cc40cc",
+    "elapsedMinutes": [
+      0,
+      23,
+      49,
+      112,
+      150,
+      165,
+      235
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5162",
+    "category": "K",
+    "stopNames": [
+      "鸡西",
+      "青龙",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5162.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "cc38e3fe2e09f74995343ec3bab00df364edd4020d8e340eee60de466542f422",
+    "elapsedMinutes": [
+      0,
+      37,
+      315
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7149",
+    "category": "K",
+    "stopNames": [
+      "牡丹江",
+      "磨刀石",
+      "穆棱",
+      "下城子",
+      "八面通",
+      "梨树镇",
+      "鸡西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7149.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c31bc07f4f91e6d7557146ac4551de14895bb47fe54cfc6a295fd7755cef8877",
+    "elapsedMinutes": [
+      0,
+      19,
+      58,
+      75,
+      119,
+      158,
+      225
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7150",
+    "category": "K",
+    "stopNames": [
+      "鸡西",
+      "梨树镇",
+      "八面通",
+      "穆棱",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7150.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "41e8540d83a0a2a8abfa4ac5ff8378b1f30685ce334486dd8679166f0067c498",
+    "elapsedMinutes": [
+      0,
+      57,
+      91,
+      150,
+      205
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7157",
+    "category": "K",
+    "stopNames": [
+      "鸡西",
+      "东海",
+      "密山",
+      "虎林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7157.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "92e024900a3a6ae8c6714d046d34a72f20375a8a6ddc4eb95a47df08c35b1335",
+    "elapsedMinutes": [
+      0,
+      33,
+      103,
+      200
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7158",
+    "category": "K",
+    "stopNames": [
+      "虎林",
+      "密山",
+      "连珠山",
+      "黑台",
+      "永安乡",
+      "东海",
+      "鸡东",
+      "鸡西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7158.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9c9eb22f8c2ce8c78c52e5522a23ce36492a7c7f863c1800dce478260c3cb13b",
+    "elapsedMinutes": [
+      0,
+      96,
+      119,
+      142,
+      158,
+      175,
+      196,
+      218
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7159",
+    "category": "K",
+    "stopNames": [
+      "鸡西",
+      "密山",
+      "虎林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7159.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6e006220cd870b142b3ae688b4a7e9b59854882c353172803b36a41d97cd72f2",
+    "elapsedMinutes": [
+      0,
+      87,
+      185
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7160",
+    "category": "K",
+    "stopNames": [
+      "虎林",
+      "密山",
+      "鸡东",
+      "鸡西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7160.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4fc006d352d9e06280f22f3986d16eb825f3871feef39f2e854cbb6e941555b8",
+    "elapsedMinutes": [
+      0,
+      91,
+      157,
+      180
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

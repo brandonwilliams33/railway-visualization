@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "白山",
+  "stationCount": 14,
+  "candidateServices": 61,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "松江河"
+  ]
+}

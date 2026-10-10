@@ -1,0 +1,42 @@
+[
+  {
+    "trainNumber": "Y509",
+    "category": "OTHER",
+    "stopNames": [
+      "集宁南",
+      "白音察干"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y509.html",
+    "sourceUpdatedAt": "2026-08-24",
+    "sourceSha256": "18b3dcf03fbd764ed84fe5eaef1541d277a6ce99f4e530ccb17eb4a129dc3254",
+    "elapsedMinutes": [
+      0,
+      75
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y510",
+    "category": "OTHER",
+    "stopNames": [
+      "白音察干",
+      "集宁南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y510.html",
+    "sourceUpdatedAt": "2026-08-24",
+    "sourceSha256": "6084d2dd140c2cb8134c2de4048c64088d1676a06c90ce0b86b7ef24f51cbf44",
+    "elapsedMinutes": [
+      0,
+      74
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

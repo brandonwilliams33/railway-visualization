@@ -1,0 +1,107 @@
+[
+  {
+    "name": "山南",
+    "city": "山南",
+    "cityId": "xizang-shannan",
+    "province": "西藏",
+    "provinceId": "xizang",
+    "sourceUrl": "https://www.crecc.com/xizang/shannan/shannan.html",
+    "candidateTrainNumbers": [
+      "C4379",
+      "C4380",
+      "C4389",
+      "C881",
+      "C882",
+      "K6831",
+      "K6832",
+      "K6833",
+      "K6834",
+      "K6835",
+      "K6836",
+      "K9801",
+      "K9802",
+      "Z9802"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2bcc4dd13187267e649926b1dc37ef194e62711b07a4ffd4981111480c4e56bc",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "加查",
+    "city": "山南",
+    "cityId": "xizang-shannan",
+    "province": "西藏",
+    "provinceId": "xizang",
+    "sourceUrl": "https://www.crecc.com/xizang/shannan/jiacha.html",
+    "candidateTrainNumbers": [
+      "C4379",
+      "C4380",
+      "C4389",
+      "C4390",
+      "C881",
+      "C882",
+      "K6831",
+      "K6832",
+      "K6833",
+      "K6834",
+      "K6835",
+      "K6836",
+      "K9801",
+      "K9802"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7f749824594c65efaa952433d6d560142464b570207d5553669af198fe27c5a9",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "扎囊",
+    "city": "山南",
+    "cityId": "xizang-shannan",
+    "province": "西藏",
+    "provinceId": "xizang",
+    "sourceUrl": "https://www.crecc.com/xizang/shannan/zhanang.html",
+    "candidateTrainNumbers": [
+      "K6831",
+      "K6832",
+      "K9801",
+      "K9802"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "57ee7fd100344fb14e59480f6fd80c93954280834dec7d030cc677c11e6c892a",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "桑日",
+    "city": "山南",
+    "cityId": "xizang-shannan",
+    "province": "西藏",
+    "provinceId": "xizang",
+    "sourceUrl": "https://www.crecc.com/xizang/shannan/sangri.html",
+    "candidateTrainNumbers": [
+      "K6831",
+      "K6832",
+      "K9801",
+      "K9802"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "606517debc6f5ab36073df70ad8133b528545866a032bb11620d354433c842e3",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "贡嘎",
+    "city": "山南",
+    "cityId": "xizang-shannan",
+    "province": "西藏",
+    "provinceId": "xizang",
+    "sourceUrl": "https://www.crecc.com/xizang/shannan/gongga.html",
+    "candidateTrainNumbers": [
+      "K6831",
+      "K6832",
+      "K9801",
+      "K9802"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "da32843927effc616875c8d4b53d2db351dc7876cdf295f647170570dbd7b701",
+    "retrievedAt": "2026-10-10"
+  }
+]

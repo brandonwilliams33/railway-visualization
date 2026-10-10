@@ -4,9 +4,9 @@
 
 从已开放城市的客运车站出发，探索有公开客运服务依据的直达车站与铁路走廊。
 
-| 独立车站选择 | 南宁东出发网络 | 手机布局 |
+| 独立车站选择 | 沈阳北出发网络 | 手机布局 |
 | --- | --- | --- |
-| ![南宁的独立客运车站](docs/screenshots/preview-expanded-city.jpg) | ![南宁东站直达网络](docs/screenshots/preview-expanded-network.jpg) | ![手机端客运网络](docs/screenshots/preview-expanded-mobile.jpg) |
+| ![沈阳的独立客运车站](docs/screenshots/preview-expanded-city.png) | ![沈阳北站直达网络](docs/screenshots/preview-expanded-network.png) | ![手机端客运网络](docs/screenshots/preview-expanded-mobile.png) |
 
 ## 本地运行
 
@@ -49,9 +49,9 @@ npm run data:build
 
 ## 扩展范围与数据边界
 
-开放 276 城市、2,446 个独立出发站；接受 17,365 个服务，使用 2,765 个有来源坐标的车站。146,031 个已定位停站区间都有连续绘图路径，缺失 0。尚有 12 个国内目的站待坐标核验、161 个目录入口待核验；完整事实保留，不猜坐标、不开放空入口。
+开放 342 城市、3,095 个独立出发站；接受 19,019 个服务，使用 3,187 个有来源坐标的车站。156,287 个已定位停站区间都有连续绘图路径，缺失 0。尚有 6 个国内目的站待坐标或同名身份核验、275 个目录入口待核验；完整事实保留，不猜坐标、不开放空入口。
 
-本轮完成广西14、云南14、贵州9、甘肃12、宁夏5、青海4、新疆20个源目录城市/行政单位的采集，七份省级采集审计的 failedCities 均为空。相比上一交付新增75个城市、573个独立出发站。目录覆盖不等于官方全部现行车次已穷尽。逐市清单见 [扩展进度](docs/EXPANSION-PROGRESS.md)，后续步骤见 [接班说明](HANDOFF.md)。
+本轮完成内蒙古12、辽宁14、吉林9、黑龙江13、海南12、西藏5个源目录城市/行政单位的采集，六份省级采集审计的 failedCities 均为空。相比上一交付新增66个城市、649个独立出发站。目前入口覆盖大陆31个省级地区；目录覆盖不等于官方全部现行车次已穷尽。逐市清单见 [扩展进度](docs/EXPANSION-PROGRESS.md)，后续步骤见 [接班说明](HANDOFF.md)。
 
 庆盛与南沙北、新塘与广州新塘是官方更名的同一车站，已统一曾用名检索；新塘南及其他不同车站均保留独立 ID，不合并站点。 更名证据见 [广州交通部门公告](https://jtj.gz.gov.cn/xwdt/gzdt/content/post_10483759.html)。
 
@@ -70,7 +70,7 @@ npm test
 npm run build
 ```
 
-下一批从内蒙古开始，先遵循 HANDOFF.md 的核验与续传步骤。若有未定位站点，先用 `resolveStationCoordinates.py` 补坐标；`verifyCoordinateCandidates.py` 仅把英文坐标表当候选区域，再通过原始 OSM 对象上的中文站名验证；`acquireWikidataCoordinates.py` 配合明确的同名消歧义登记补充高精度铁路车站坐标。采集与坐标步骤需要联网，已提交快照的构建完全离线。
+后续优先逐市复核待开放小站、同名身份与特殊行政管理归属，遵循 HANDOFF.md 的核验与续传步骤。若有未定位站点，先用 `resolveStationCoordinates.py` 补坐标；`verifyCoordinateCandidates.py` 仅把英文坐标表当候选区域，再通过原始 OSM 对象上的中文站名验证；`acquireWikidataCoordinates.py` 配合明确的同名消歧义登记补充高精度铁路车站坐标。`acquireSnapshotStationObjects.py` 从 HOTOSM 找到候选节点 ID 后读取 OSM 原始对象，核对中文名、可见性和铁路属性；不能直接把裁剪快照中的所有同名点当成客运站。采集与坐标步骤需要联网，已提交快照的构建完全离线。
 
 ## 来源与许可
 

@@ -1,0 +1,28 @@
+[
+  {
+    "trainNumber": "D6785",
+    "category": "D",
+    "stopNames": [
+      "乌拉特前旗",
+      "五原",
+      "巴彦淖尔",
+      "磴口",
+      "乌海"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d6785.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "bddafd7cc76369e1e8d2e3faf7602da843d7fbd3351cbc6c7393e66678379006",
+    "elapsedMinutes": [
+      0,
+      17,
+      39,
+      61,
+      88
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

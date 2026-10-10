@@ -1,0 +1,262 @@
+[
+  {
+    "trainNumber": "4245",
+    "category": "OTHER",
+    "stopNames": [
+      "通化",
+      "白山市",
+      "江源",
+      "青沟子",
+      "松树镇",
+      "氡泉",
+      "仙人桥",
+      "黄泥崴子",
+      "长白山西",
+      "泉阳",
+      "砬子河",
+      "露水河",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4245.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f0dd6a5dbba7a5f940b71f54705e19d50975bf7ef3b8613f3cf3a2e0b195339b",
+    "elapsedMinutes": [
+      0,
+      71,
+      95,
+      164,
+      173,
+      200,
+      211,
+      224,
+      253,
+      286,
+      316,
+      330,
+      363
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4246",
+    "category": "OTHER",
+    "stopNames": [
+      "长白山",
+      "露水河",
+      "砬子河",
+      "泉阳",
+      "长白山西",
+      "黄泥崴子",
+      "仙人桥",
+      "氡泉",
+      "松树镇",
+      "青沟子",
+      "江源",
+      "白山市",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4246.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a4ef1f2a56fdb647aa451a4efaea5d84916a1083731217b76363b1b0005e6062",
+    "elapsedMinutes": [
+      0,
+      32,
+      46,
+      76,
+      107,
+      121,
+      152,
+      165,
+      190,
+      201,
+      274,
+      297,
+      371
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4347",
+    "category": "OTHER",
+    "stopNames": [
+      "通化",
+      "水洞",
+      "鸭园",
+      "铁厂",
+      "果松",
+      "石湖",
+      "老岭",
+      "黄柏",
+      "西阳岔",
+      "阳岔",
+      "集安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4347.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "83932e8cffaa29b450cdbc4e27346d2493d3c13cf058831ae0df4a03dacb07a8",
+    "elapsedMinutes": [
+      0,
+      24,
+      35,
+      45,
+      65,
+      85,
+      95,
+      122,
+      135,
+      150,
+      173
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4348",
+    "category": "OTHER",
+    "stopNames": [
+      "集安",
+      "阳岔",
+      "西阳岔",
+      "黄柏",
+      "老岭",
+      "石湖",
+      "果松",
+      "铁厂",
+      "鸭园",
+      "水洞",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4348.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1f0d67906cf760f133e80b77b19023cb4ced535fc1e98ef289054c93f78a6a8b",
+    "elapsedMinutes": [
+      0,
+      20,
+      29,
+      49,
+      61,
+      71,
+      104,
+      124,
+      134,
+      145,
+      171
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4349",
+    "category": "OTHER",
+    "stopNames": [
+      "通化",
+      "水洞",
+      "鸭园",
+      "菇园",
+      "道清",
+      "老营",
+      "白山市",
+      "石人",
+      "林子头",
+      "松岭",
+      "临江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4349.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d6297d2255166621141a32beedbe931aa730bc8e97e06bdd02fbbf93c5ae5219",
+    "elapsedMinutes": [
+      0,
+      24,
+      35,
+      47,
+      60,
+      72,
+      90,
+      108,
+      124,
+      146,
+      187
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "4350",
+    "category": "OTHER",
+    "stopNames": [
+      "临江",
+      "松岭",
+      "林子头",
+      "石人",
+      "白山市",
+      "老营",
+      "道清",
+      "菇园",
+      "鸭园",
+      "水洞",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/4350.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "46243c2ce1ca65e642b2b0dcdb2a15b9e3ea2613f4e0ab63a1217a1dd6e9e2a6",
+    "elapsedMinutes": [
+      0,
+      20,
+      40,
+      81,
+      96,
+      117,
+      130,
+      143,
+      155,
+      166,
+      192
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1363",
+    "category": "C",
+    "stopNames": [
+      "通化",
+      "白山东",
+      "长白山西",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1363.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "d22e3c0480b36e0c32978f931db640c20c73d3f7687ed312b243e46f6ce324bb",
+    "elapsedMinutes": [
+      0,
+      19,
+      50,
+      74
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

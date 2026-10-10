@@ -10,8 +10,10 @@ def acquire(province,city,province_name,catalog_page=None):
     else:
         doc=Tables(catalog_page if catalog_page is not None else fetch(BASE+'/'+province+'/'))
         names={h.split('/')[2]:n for h,n in doc.links if re.fullmatch('/'+province+r'/[^/]+/',h)}
-        city_name=province_name if city==province else names[city]
-        prefix='/'+province+'/' if city==province else '/'+province+'/'+city+'/'
+        # 吉林市 shares the province code but still has its own nested page.
+        direct_catalogue=city==province and city not in names
+        city_name=province_name if direct_catalogue else names[city]
+        prefix='/'+province+'/' if direct_catalogue else '/'+province+'/'+city+'/'
         entries={h:{'name':n[:-1],'city':city_name,'cityId':key,'province':province_name,'provinceId':province,'sourceUrl':BASE+h}
                  for h,n in doc.links if re.fullmatch(re.escape(prefix)+r'[^/]+\.html',h) and n.endswith('站')}
         index=list(entries.values());assert index,'Empty city index';save(index_path,index)

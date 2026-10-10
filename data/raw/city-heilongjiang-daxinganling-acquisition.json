@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "大兴安岭",
+  "stationCount": 25,
+  "candidateServices": 43,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "白桦排"
+  ]
+}

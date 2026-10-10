@@ -1,0 +1,64 @@
+[
+  {
+    "trainNumber": "Y784",
+    "category": "OTHER",
+    "stopNames": [
+      "漠河",
+      "北安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y784.html",
+    "sourceUpdatedAt": "2026-06-26",
+    "sourceSha256": "a5c84dc122d863098c4832201e24f1a50615c0c57b914c94c6cc0214de9c479f",
+    "elapsedMinutes": [
+      0,
+      1117
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y785",
+    "category": "OTHER",
+    "stopNames": [
+      "漠河",
+      "北安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y785.html",
+    "sourceUpdatedAt": "2026-06-26",
+    "sourceSha256": "6b3b6f00311af4b34bb07b9bccb3a61a0735a98e21e1d8c9ccf8e51d5053d950",
+    "elapsedMinutes": [
+      0,
+      1117
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y812",
+    "category": "OTHER",
+    "stopNames": [
+      "黑河",
+      "龙镇",
+      "北安"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y812.html",
+    "sourceUpdatedAt": "2026-08-06",
+    "sourceSha256": "9962905dc14a74a8e14cceaa6fc4b98e7e4cd0c39e522aef9b49f29ff4bf0111",
+    "elapsedMinutes": [
+      0,
+      232,
+      321
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

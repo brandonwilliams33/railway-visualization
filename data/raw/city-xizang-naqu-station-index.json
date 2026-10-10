@@ -1,0 +1,59 @@
+[
+  {
+    "name": "那曲",
+    "city": "那曲",
+    "cityId": "xizang-naqu",
+    "province": "西藏",
+    "provinceId": "xizang",
+    "sourceUrl": "https://www.crecc.com/xizang/naqu/naqu.html",
+    "candidateTrainNumbers": [
+      "Y840",
+      "Y930",
+      "Z163",
+      "Z164",
+      "Z165",
+      "Z166",
+      "Z21",
+      "Z22",
+      "Z224",
+      "Z263",
+      "Z264",
+      "Z265",
+      "Z266",
+      "Z321",
+      "Z324",
+      "Z8982",
+      "Z8991",
+      "Z8992",
+      "Z9813",
+      "Z9815",
+      "Z9821",
+      "Z9825"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fa957916969162fc650cace2bd992589cd76ecf3c4ffdb74f6d1d3060abe5e10",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "安多",
+    "city": "那曲",
+    "cityId": "xizang-naqu",
+    "province": "西藏",
+    "provinceId": "xizang",
+    "sourceUrl": "https://www.crecc.com/xizang/naqu/anduo.html",
+    "candidateTrainNumbers": [
+      "Z163",
+      "Z164",
+      "Z165",
+      "Z166",
+      "Z264",
+      "Z265",
+      "Z8982",
+      "Z8991",
+      "Z9825"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6a6522a1f463704d7f0714dfdb31be58ee3c9150237560832ffbf679b15e360f",
+    "retrievedAt": "2026-10-10"
+  }
+]

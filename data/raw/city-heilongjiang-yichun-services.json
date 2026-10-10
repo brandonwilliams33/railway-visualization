@@ -1,0 +1,238 @@
+[
+  {
+    "trainNumber": "6271",
+    "category": "OTHER",
+    "stopNames": [
+      "乌伊岭",
+      "汤旺河",
+      "新青",
+      "红星",
+      "五营",
+      "红山",
+      "友好",
+      "伊春",
+      "美溪",
+      "西林",
+      "金山屯",
+      "南岔",
+      "晨明",
+      "浩良河",
+      "汤原",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6271.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "475d88f63d83a5c4e625288c18e7396a9601b017aea90d67341667dca9637a17",
+    "elapsedMinutes": [
+      0,
+      22,
+      48,
+      63,
+      87,
+      125,
+      152,
+      180,
+      217,
+      249,
+      270,
+      350,
+      411,
+      461,
+      493,
+      548
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6272",
+    "category": "OTHER",
+    "stopNames": [
+      "佳木斯",
+      "汤原",
+      "香兰",
+      "浩良河",
+      "晨明",
+      "南岔",
+      "金山屯",
+      "西林",
+      "美溪",
+      "伊春",
+      "友好",
+      "红山",
+      "五营",
+      "红星",
+      "新青",
+      "汤旺河",
+      "乌伊岭"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6272.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e99296f040f8e58bcfba3a3cd35ff2eb3b5332b462f6705d65fa7570659cad91",
+    "elapsedMinutes": [
+      0,
+      39,
+      59,
+      77,
+      117,
+      146,
+      231,
+      256,
+      293,
+      327,
+      354,
+      382,
+      421,
+      449,
+      465,
+      493,
+      519
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6273",
+    "category": "OTHER",
+    "stopNames": [
+      "佳木斯",
+      "汤原",
+      "香兰",
+      "浩良河",
+      "晨明",
+      "南岔",
+      "金山屯",
+      "西林",
+      "美溪",
+      "伊春",
+      "友好",
+      "红山",
+      "五营",
+      "红星",
+      "新青",
+      "汤旺河",
+      "乌伊岭"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6273.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "89296ddfe5fea58797cb52a427f1848263a73ed769b187a60bf52020e9b6f6b2",
+    "elapsedMinutes": [
+      0,
+      39,
+      59,
+      77,
+      117,
+      146,
+      231,
+      256,
+      293,
+      327,
+      354,
+      382,
+      421,
+      449,
+      465,
+      493,
+      519
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "6274",
+    "category": "OTHER",
+    "stopNames": [
+      "乌伊岭",
+      "汤旺河",
+      "新青",
+      "红星",
+      "五营",
+      "红山",
+      "友好",
+      "伊春",
+      "美溪",
+      "西林",
+      "金山屯",
+      "南岔",
+      "晨明",
+      "浩良河",
+      "汤原",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/6274.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f3344fc58c3def6130ab5f406d09a4804d69e4c12e678fb8ae6ca92ea3da376e",
+    "elapsedMinutes": [
+      0,
+      22,
+      48,
+      63,
+      87,
+      125,
+      152,
+      180,
+      217,
+      249,
+      270,
+      350,
+      411,
+      461,
+      493,
+      548
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y537",
+    "category": "OTHER",
+    "stopNames": [
+      "金山屯",
+      "汤旺河"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y537.html",
+    "sourceUpdatedAt": "2026-06-28",
+    "sourceSha256": "b3823198de49660c03b857d2c0e01c9e0c3ddb9e396725a7e98ad628f2083a5e",
+    "elapsedMinutes": [
+      0,
+      227
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y538",
+    "category": "OTHER",
+    "stopNames": [
+      "汤旺河",
+      "伊春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y538.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "a39af87d7f4281a7ece7c0785f035139eba2146b833dab71e1797ec2a32a2aa2",
+    "elapsedMinutes": [
+      0,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

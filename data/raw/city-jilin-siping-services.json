@@ -1,0 +1,66 @@
+[
+  {
+    "trainNumber": "K7521",
+    "category": "K",
+    "stopNames": [
+      "四平",
+      "白泉",
+      "辽源",
+      "东丰",
+      "梅河口",
+      "柳河",
+      "三源浦",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7521.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8eb53ff07966ab45a145da2021097ad4a6346b7e8de10734c7e9e227eb061406",
+    "elapsedMinutes": [
+      0,
+      71,
+      85,
+      131,
+      160,
+      204,
+      257,
+      320
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7522",
+    "category": "K",
+    "stopNames": [
+      "通化",
+      "三源浦",
+      "柳河",
+      "梅河口",
+      "东丰",
+      "辽源",
+      "白泉",
+      "四平"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7522.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e8b2856f4726b547e3df55720d78cfe44398d75cf5c9a0a750442c68b49963c3",
+    "elapsedMinutes": [
+      0,
+      49,
+      94,
+      130,
+      163,
+      208,
+      223,
+      297
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

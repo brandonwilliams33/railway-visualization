@@ -1,0 +1,13 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "包头",
+  "stationCount": 19,
+  "candidateServices": 321,
+  "acquiredAdditionalServices": 19,
+  "failedPages": [],
+  "stationIssues": [
+    "乌兰胡同",
+    "艾不盖",
+    "高家村"
+  ]
+}

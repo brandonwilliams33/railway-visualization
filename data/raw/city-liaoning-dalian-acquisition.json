@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "大连",
+  "stationCount": 14,
+  "candidateServices": 450,
+  "acquiredAdditionalServices": 49,
+  "failedPages": [
+    {
+      "trainNumber": "G8083",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

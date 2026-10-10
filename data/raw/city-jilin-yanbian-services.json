@@ -1,0 +1,90 @@
+[
+  {
+    "trainNumber": "C1036",
+    "category": "C",
+    "stopNames": [
+      "敦化",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1036.html",
+    "sourceUpdatedAt": "2026-02-24",
+    "sourceSha256": "741439bea4aba9614e1c600d89c63a9736bde2b13e38e6ef9a358d7b5386b613",
+    "elapsedMinutes": [
+      0,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1037",
+    "category": "C",
+    "stopNames": [
+      "敦化",
+      "大石头南",
+      "安图西",
+      "延吉西",
+      "图们北",
+      "珲春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1037.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "05a2a71cc8b6118a056ddbf5fc060919baa7e6dafaf3317b98f4cf5f3ba3a604",
+    "elapsedMinutes": [
+      0,
+      10,
+      29,
+      50,
+      70,
+      96
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y388",
+    "category": "OTHER",
+    "stopNames": [
+      "敦化",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y388.html",
+    "sourceUpdatedAt": "2026-04-27",
+    "sourceSha256": "8fdc869a5a8e6b34621b1f5240229745c659042ac305414eed83d4d9a245e99e",
+    "elapsedMinutes": [
+      0,
+      945
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y899",
+    "category": "OTHER",
+    "stopNames": [
+      "敦化",
+      "延吉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y899.html",
+    "sourceUpdatedAt": "2026-08-26",
+    "sourceSha256": "9ac89077a80aa9e1e13d0cb94f9fff8714cf1f715ff262b35fca2597d2033084",
+    "elapsedMinutes": [
+      0,
+      182
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

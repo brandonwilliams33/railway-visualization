@@ -1,0 +1,6932 @@
+[
+  {
+    "trainNumber": "C1001",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林",
+      "蛟河西",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1001.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2f7b432cdc46d3a63c48f4f39479968c61381d940395172727c610d3b7324d6f",
+    "elapsedMinutes": [
+      0,
+      40,
+      69,
+      138
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1002",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "大石头南",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1002.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0b5618d2d09f974c17eed6653ab39dfc8bcb2c58af47a39631d4a4389924e6b5",
+    "elapsedMinutes": [
+      0,
+      32,
+      44,
+      78,
+      107,
+      139,
+      157
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1003",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "安图西",
+      "延吉西",
+      "图们北",
+      "珲春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1003.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "099f63222f784351b70faf6b39d4671132a0baf0e728a26b2a1b36225d27db7b",
+    "elapsedMinutes": [
+      0,
+      14,
+      47,
+      76,
+      110,
+      135,
+      157,
+      175,
+      200
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1004",
+    "category": "C",
+    "stopNames": [
+      "珲春",
+      "延吉西",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1004.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "18f0533c5d13227b64bbaa8033811f8a5c8f6b1f17c93acf05ebaf3311b6dd3d",
+    "elapsedMinutes": [
+      0,
+      34,
+      162
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1005",
+    "category": "C",
+    "stopNames": [
+      "长春西",
+      "长春",
+      "吉林",
+      "大石头南",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1005.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "adc486947fcac42735b00443794adb24b0eb5cb7227053e6d3deb2f2bdbf736a",
+    "elapsedMinutes": [
+      0,
+      10,
+      53,
+      116,
+      151
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1006",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1006.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "12121e64ed640763ce12edbe19f082de1db59f89ed213a7a996400d60bbe86f6",
+    "elapsedMinutes": [
+      0,
+      38,
+      72,
+      101,
+      144
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1007",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "九台南",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "大石头南",
+      "安图西",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1007.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d30fe61b7a09644a92926ba92e6d48a008ffc4508a962140f928695a3027980a",
+    "elapsedMinutes": [
+      0,
+      17,
+      46,
+      75,
+      109,
+      121,
+      140,
+      162
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1008",
+    "category": "C",
+    "stopNames": [
+      "珲春",
+      "图们北",
+      "延吉西",
+      "安图西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1008.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c31d359d4b3f54a0d0d45b9989b90f7607b41055e1727a90416a4a499cdf3c4b",
+    "elapsedMinutes": [
+      0,
+      22,
+      40,
+      62,
+      87,
+      122,
+      152,
+      184,
+      201
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1009",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "延吉西",
+      "珲春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1009.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "49c5334e202526be932b24870eb4a97df6f08ce6935cdafa977c02a6f5797197",
+    "elapsedMinutes": [
+      0,
+      125,
+      162
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1010",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1010.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fb3b9ccce97a649bbe5f0cce2620d1021b38789d2986a6392f3850dfc5e5ac19",
+    "elapsedMinutes": [
+      0,
+      125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1011",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "安图西",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1011.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "712da567089f1f6f3dcbf27da1de712849e1fb2221966a15d3a20ef37bbf362b",
+    "elapsedMinutes": [
+      0,
+      14,
+      50,
+      80,
+      114,
+      139,
+      161
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1012",
+    "category": "C",
+    "stopNames": [
+      "珲春",
+      "图们北",
+      "延吉西",
+      "安图西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1012.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3b808e83cd7ccf4d4adcea9c444def30c3f3cf4a8078eb79f0ea6ff913ca5e11",
+    "elapsedMinutes": [
+      0,
+      22,
+      40,
+      62,
+      87,
+      121,
+      150,
+      193
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1013",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1013.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a4cb7cc60e3f28749cd1fbdec13fb21c6c3069366c3a14519d964572e78398cb",
+    "elapsedMinutes": [
+      0,
+      40,
+      69,
+      103,
+      144
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1014",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1014.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "72ddbbc37b83b1f02bce7df31205e1454d81ed6ae0d621699c8cb1908f29d469",
+    "elapsedMinutes": [
+      0,
+      38,
+      72,
+      101,
+      144
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1016",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "安图西",
+      "大石头南",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1016.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ffe104fbba4b62e7b807760ae40f789a5a4fa7e747cca818506a7dffb18b3735",
+    "elapsedMinutes": [
+      0,
+      19,
+      38,
+      50,
+      86,
+      115,
+      147,
+      168
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1017",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1017.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8b7ac10a80a0852209ccde7d20bb5a8d5e41bf1ca60747623f9b702ce0c710fb",
+    "elapsedMinutes": [
+      0,
+      125
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1018",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "敦化",
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1018.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cc01d263e9f21078a9766c20ff508563291af88c80b63e2146e50452fc28e3e4",
+    "elapsedMinutes": [
+      0,
+      38,
+      95,
+      128,
+      146
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1019",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "敦化",
+      "大石头南",
+      "安图西",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1019.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "80937eba75cc34525d2483f4f09cd3055aa5ea287fc6d3c6cc2269204701cfc9",
+    "elapsedMinutes": [
+      0,
+      14,
+      50,
+      107,
+      119,
+      138,
+      160
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1020",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "安图西",
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1020.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "66ced74907a34d04651d207bfdb35427262ef0ad7d74d20da12c7301954ab403",
+    "elapsedMinutes": [
+      0,
+      19,
+      95,
+      128,
+      149
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1021",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "九台南",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1021.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8238b307d2459fcf874354b5d61bbddda6dd0b2718f032b836a46c9e250df7ba",
+    "elapsedMinutes": [
+      0,
+      14,
+      24,
+      53,
+      82,
+      116,
+      157
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1023",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "安图西",
+      "延吉西",
+      "图们北",
+      "珲春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1023.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8a3e8508a2b5449e9c7490f2a57da03eebff8b7b794cad140ee77e7c2bebeee5",
+    "elapsedMinutes": [
+      0,
+      40,
+      69,
+      103,
+      128,
+      150,
+      168,
+      193
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1024",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "安图西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春",
+      "长春西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1024.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "58b19964ee0326c2f3262e1a809c09dd57867da74c8097c6fe1dc2dd5f660cba",
+    "elapsedMinutes": [
+      0,
+      19,
+      44,
+      78,
+      107,
+      150,
+      163
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1025",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "延吉西",
+      "珲春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1025.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "df90e8f1f84d22b5df4fc8c6e88f9533d6c4334fb4fa0f9c5d9d22962e11cf47",
+    "elapsedMinutes": [
+      0,
+      125,
+      162
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1026",
+    "category": "C",
+    "stopNames": [
+      "珲春",
+      "图们北",
+      "延吉西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1026.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e0cbf0066526875460ba5df7bac2935ed5514412c9e6bb212f05d516985e7e74",
+    "elapsedMinutes": [
+      0,
+      22,
+      40,
+      82,
+      116,
+      145,
+      190
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1027",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "蛟河西",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1027.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ef25e8739a3e411611b73190f26ae9bd00cda32906917b5b0a817b188e492bef",
+    "elapsedMinutes": [
+      0,
+      14,
+      50,
+      80,
+      149
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1028",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "敦化",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1028.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f3dce5d0b259863cd79cc83eaedb4a34f14182a9a020ddac3694c204037e2e5f",
+    "elapsedMinutes": [
+      0,
+      38,
+      95,
+      138
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1029",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1029.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e58eaf604476dd66fd42cc88eb711ac03c1ea8788ec4a1bf5eb8e4e68a896b77",
+    "elapsedMinutes": [
+      0,
+      40,
+      132
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1030",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "敦化",
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1030.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e0475f1978e8d20d5d3ac950591437dc1463e519c9efc4cbd9df3249a43e047e",
+    "elapsedMinutes": [
+      0,
+      38,
+      95,
+      127,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1033",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1033.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "761bfc1c492188e91a7e13e8e82681f62fe633ace70dea36466acf2ebfd0dfda",
+    "elapsedMinutes": [
+      0,
+      40,
+      132
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1040",
+    "category": "C",
+    "stopNames": [
+      "珲春",
+      "延吉西",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1040.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "55bdfd183650610cc1a13e51c9b73d92c2da0f4b15aee88c0e4fcc7d7330216d",
+    "elapsedMinutes": [
+      0,
+      34,
+      162
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1041",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1041.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "713f7399712f186ed0c2ad03e93a2b2bb8188cfa6594d23f4680819802b2d5ad",
+    "elapsedMinutes": [
+      0,
+      14,
+      47,
+      139
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1042",
+    "category": "C",
+    "stopNames": [
+      "珲春",
+      "图们北",
+      "延吉西",
+      "大石头南",
+      "敦化",
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1042.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "99a2bbb871ce925a0f5aaca7f4281e528b0d7758019f7ddde1e3c9f50bafab7c",
+    "elapsedMinutes": [
+      0,
+      22,
+      40,
+      76,
+      88,
+      145,
+      177,
+      195
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1043",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "安图西",
+      "延吉西",
+      "图们北",
+      "珲春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1043.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c2b756f92f06a05356f34d6ff21ce4278b3dba3f6563973d0afbd20f04d2dc05",
+    "elapsedMinutes": [
+      0,
+      14,
+      48,
+      82,
+      116,
+      141,
+      163,
+      181,
+      206
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1045",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "九台南",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "延吉西",
+      "图们北",
+      "珲春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1045.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e4e82505b04cfde0f3cb2f73b38695c6adb27f86f501bb8983ca95e23997f985",
+    "elapsedMinutes": [
+      0,
+      14,
+      23,
+      52,
+      81,
+      116,
+      157,
+      175,
+      200
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1046",
+    "category": "C",
+    "stopNames": [
+      "珲春",
+      "图们北",
+      "延吉西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1046.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a38767ee2f528ccb1fce9664f734a2a739b1d735d5c0ad528fae2eb8502fc48d",
+    "elapsedMinutes": [
+      0,
+      22,
+      40,
+      81,
+      115,
+      144,
+      176,
+      197
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1047",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "双吉",
+      "吉林",
+      "敦化",
+      "安图西",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1047.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f073bfdabe986a32fbbe4088585ee761db26ffd0931771f5782dcf5c02524f67",
+    "elapsedMinutes": [
+      0,
+      14,
+      39,
+      53,
+      110,
+      136,
+      164
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1048",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "安图西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "龙嘉",
+      "长春",
+      "长春西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1048.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8034315b463999c634d3d3779c7d5be5721c0134085740828a7581b8902c5d2a",
+    "elapsedMinutes": [
+      0,
+      19,
+      44,
+      78,
+      107,
+      139,
+      157,
+      170
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1049",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1049.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a1ba6422f4890ca795bc19275f3c96a4c309160fcd891f78d03ddba9a9eb0238",
+    "elapsedMinutes": [
+      0,
+      14,
+      47,
+      76,
+      110,
+      151
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1051",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1051.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "f00d63cad09eee0611a2fca209e522b1a52d2ffbf14d18f31d2e7dd86dafc620",
+    "elapsedMinutes": [
+      0,
+      40,
+      69,
+      103,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1052",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1052.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "bef606d2b120bb0605b39dff993976998392a822be505b842267ecff70e5a1a3",
+    "elapsedMinutes": [
+      0,
+      89,
+      132
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1053",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林",
+      "敦化",
+      "安图西",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1053.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "e45ddb955b9ad16233c8222c464860c3552b5b239d29adb544d394bd52cdc194",
+    "elapsedMinutes": [
+      0,
+      40,
+      102,
+      132,
+      154
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1054",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1054.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "744704ea3986b66175b73f5af020568cc186a9ecec924fbeb19ca9fada1d848b",
+    "elapsedMinutes": [
+      0,
+      38,
+      72,
+      101,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1055",
+    "category": "C",
+    "stopNames": [
+      "长春西",
+      "长春",
+      "吉林",
+      "敦化",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1055.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "d8e32e124f2b3bcec96953ca0f021f1f75fa95df61bb02677b3083e71d6475c4",
+    "elapsedMinutes": [
+      0,
+      10,
+      53,
+      111,
+      152
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1056",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "安图西",
+      "敦化",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1056.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "16d3136faef585f638724f0c3b92c1f7070184e77a1b0d449054062d31967d49",
+    "elapsedMinutes": [
+      0,
+      20,
+      45,
+      102,
+      146
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1057",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "大石头南",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1057.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "e14dc130cf8f879bee2fc79af74b66137e593dc5091e5c76396add45cb2ccd50",
+    "elapsedMinutes": [
+      0,
+      40,
+      74,
+      108,
+      120,
+      155
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1058",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "安图西",
+      "大石头南",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春",
+      "长春西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1058.html",
+    "sourceUpdatedAt": "2026-09-04",
+    "sourceSha256": "5d9f776c26ca3c0e5549fddbe0ad2f7902ac4a66c2b02938f3760b48b96920f7",
+    "elapsedMinutes": [
+      0,
+      19,
+      38,
+      50,
+      84,
+      117,
+      161,
+      176
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1059",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "九台南",
+      "吉林",
+      "敦化",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1059.html",
+    "sourceUpdatedAt": "2025-12-12",
+    "sourceSha256": "615c12090746e5e6824df18f7176b6fcc5b6e3badd5c875931750a026f077a7e",
+    "elapsedMinutes": [
+      0,
+      14,
+      27,
+      57,
+      114,
+      158
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1060",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "敦化",
+      "吉林",
+      "九台南",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1060.html",
+    "sourceUpdatedAt": "2025-12-12",
+    "sourceSha256": "13602a95c81b107139fd5a5bd2a366697570aa219d5dec6c25c5cbae5d60b3ac",
+    "elapsedMinutes": [
+      0,
+      38,
+      99,
+      128,
+      148
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1061",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "敦化",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1061.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "d7a445dbc758f86a397806deb4712c43544b0a8177b8382c62b49b1783d9c47a",
+    "elapsedMinutes": [
+      0,
+      14,
+      51,
+      108,
+      149
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1062",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1062.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "bf9f2044d720df9148379a06dd993bc5fef53ba67243d9544573b75d3b954708",
+    "elapsedMinutes": [
+      0,
+      89,
+      134
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1065",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1065.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "641525f73bb04295ca82c8b438b63df96252b71b769e82e1befc5273f15f72b1",
+    "elapsedMinutes": [
+      0,
+      40,
+      69,
+      103,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1066",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "吉林",
+      "长春",
+      "长春西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1066.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "1b079211efb3e9519e06de1b99c953667622d2135bec30908b3dfc502888ccf0",
+    "elapsedMinutes": [
+      0,
+      89,
+      132,
+      146
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1071",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "敦化",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1071.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "6b4b446761db180b89e79467a0e66a923f0f97a1bd3e101f0ecc1c808555256f",
+    "elapsedMinutes": [
+      0,
+      14,
+      46,
+      103,
+      144
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1072",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1072.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "b3942690d5b54efa5d036a53c6548f3d013974c2eee9bb820d4f709113bf07ab",
+    "elapsedMinutes": [
+      0,
+      89,
+      133
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1073",
+    "category": "C",
+    "stopNames": [
+      "长春西",
+      "长春",
+      "吉林",
+      "敦化",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1073.html",
+    "sourceUpdatedAt": "2026-08-01",
+    "sourceSha256": "a643566247f30b7a794d7bafee04ad543e28a1b2c1f7ea89bac796c4412bc684",
+    "elapsedMinutes": [
+      0,
+      10,
+      53,
+      115,
+      156
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1074",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1074.html",
+    "sourceUpdatedAt": "2026-08-01",
+    "sourceSha256": "6e8c0e8c6f199f699d064ffc00fdab84a0de5cadee27b758e9e6a2a78a655f7d",
+    "elapsedMinutes": [
+      0,
+      89,
+      132
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1079",
+    "category": "C",
+    "stopNames": [
+      "长春西",
+      "长春",
+      "吉林",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1079.html",
+    "sourceUpdatedAt": "2026-04-02",
+    "sourceSha256": "67118a16e5d48a7831279be05122fca344c714d9ba2baf3e2ab5ad6bb964cd5d",
+    "elapsedMinutes": [
+      0,
+      10,
+      53,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1202",
+    "category": "C",
+    "stopNames": [
+      "吉林",
+      "九台南",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1202.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "125913af5903d6c29a8a814de4ea3ea9cd595e22eae4b0b418b8352c4bb255bb",
+    "elapsedMinutes": [
+      0,
+      26,
+      35,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1203",
+    "category": "C",
+    "stopNames": [
+      "长春西",
+      "长春",
+      "龙嘉",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1203.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e23c2a17b4fb7fbd6825be889a69bdb7c3db1091b6a7a6867613fce8beb1aa8a",
+    "elapsedMinutes": [
+      0,
+      10,
+      31,
+      64
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1205",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "蛟河西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1205.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "729f63e90694fcb98d6d5058f34c3a1cb85aac5e1c0dd3a2a6add3e68616c9b2",
+    "elapsedMinutes": [
+      0,
+      14,
+      50,
+      80
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1206",
+    "category": "C",
+    "stopNames": [
+      "吉林",
+      "九台南",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1206.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e01b71e90826d82041610cbb1d846c7434c5e2dd9f6997f7382388b3440b8e2a",
+    "elapsedMinutes": [
+      0,
+      26,
+      35,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1208",
+    "category": "C",
+    "stopNames": [
+      "蛟河西",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1208.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d398fce3e57df26dce7913c6564923906dfbd15706da0d241587c3e10ff19d1c",
+    "elapsedMinutes": [
+      0,
+      27,
+      70
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1209",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1209.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4dc937384451955be43b60ffa7792c8aa9e5ba25ea01e3a84378270a966db69a",
+    "elapsedMinutes": [
+      0,
+      15,
+      48
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1211",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1211.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8d6fd2c7bc0dab6e89e7530766c50d106c498ef292087409ae08d3c133e77efd",
+    "elapsedMinutes": [
+      0,
+      14,
+      47
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1212",
+    "category": "C",
+    "stopNames": [
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1212.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5fd9de37a89bade11bb759f0962657145da7a0a86dba940a523d7aa8892a4e37",
+    "elapsedMinutes": [
+      0,
+      29,
+      47
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1215",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1215.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ebffa30e50c9e86d5cc74cc9012158d2080bdf96ec402a669e6e2748bf68e3aa",
+    "elapsedMinutes": [
+      0,
+      14,
+      47
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1217",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1217.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "195f17d3cc3c427fc86bef401da0910410ec826d9d213492a25502c7527f7b09",
+    "elapsedMinutes": [
+      0,
+      14,
+      50
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1218",
+    "category": "C",
+    "stopNames": [
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1218.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "22fddc0f393c74bbebf8754ba085414afef35f90289567c0d76ebf0f2c87b9d2",
+    "elapsedMinutes": [
+      0,
+      29,
+      47
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1220",
+    "category": "C",
+    "stopNames": [
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1220.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fc8749f5f75fe5e4adcd72f1b7475ae21bc2a598303f9d1a2afc12133b0521f6",
+    "elapsedMinutes": [
+      0,
+      29,
+      50
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1221",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1221.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c66470899799edb7c1fe0f9170f14b4829726292ae379968ad3176475fdbb1c7",
+    "elapsedMinutes": [
+      0,
+      14,
+      50
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1223",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1223.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0039049aafc23b1de6425e95e2a6663377f720bc7f45f6aac6f51e952b1a5705",
+    "elapsedMinutes": [
+      0,
+      14,
+      57
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1224",
+    "category": "C",
+    "stopNames": [
+      "吉林",
+      "双吉",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1224.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "aa2710dd171c97c36ea085334c76b3a5dc201d89640e7a46d93fa49c877b59b8",
+    "elapsedMinutes": [
+      0,
+      11,
+      35,
+      52
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1226",
+    "category": "C",
+    "stopNames": [
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1226.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "531f5c0ee933ba35976a3ba25216d40da00fd9a0a10754849ec20c98e3a9daff",
+    "elapsedMinutes": [
+      0,
+      29,
+      47
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1227",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1227.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cdf3a2c8d48c79285fc6c487b1a055c109a02a8076f83893a4571ef1514f5a00",
+    "elapsedMinutes": [
+      0,
+      14,
+      47
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1229",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1229.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "03ac5613f6434d9d1433b2ae63a92f9f991324cb4a72fd788f57552ea9f9e63e",
+    "elapsedMinutes": [
+      0,
+      14,
+      46
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1230",
+    "category": "C",
+    "stopNames": [
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1230.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c0d207bd9d539585cdd9efa16505b84fbd16ac54becae894ab3170fc82ed017c",
+    "elapsedMinutes": [
+      0,
+      29,
+      46
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1232",
+    "category": "C",
+    "stopNames": [
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1232.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "41d8279e69120b070ef519dce3429fe2319cd132563c3d3a9c58727b8db3135c",
+    "elapsedMinutes": [
+      0,
+      29,
+      47
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1233",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1233.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c89f5a8b221182a60491bd18f3a10d1a4e509036cb9c37bae59a2c81e8729df0",
+    "elapsedMinutes": [
+      0,
+      14,
+      48
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1235",
+    "category": "C",
+    "stopNames": [
+      "长春西",
+      "长春",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1235.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "65d757b5254f107a6863297d1cd6af7364ba72bae9041f736386fc8aa25c2f6c",
+    "elapsedMinutes": [
+      0,
+      10,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1236",
+    "category": "C",
+    "stopNames": [
+      "吉林",
+      "长春",
+      "长春西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1236.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f9dab7ce914932036f39bece649c5b46c48549f50f31dc47279b34482cf7f694",
+    "elapsedMinutes": [
+      0,
+      40,
+      53
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1237",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1237.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f257edd875e50557a5d5550fa40e827dc10be951464d5527caa8542cbe44f693",
+    "elapsedMinutes": [
+      0,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1238",
+    "category": "C",
+    "stopNames": [
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1238.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e364dc2cbc5a14d469cb1ea724042b32a10dd13af741c0749af345520c65825d",
+    "elapsedMinutes": [
+      0,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1243",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1243.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7ed06810f3f037a001b55f41c8106ab56d2d298f719941937ac70e026e65ad34",
+    "elapsedMinutes": [
+      0,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1248",
+    "category": "C",
+    "stopNames": [
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1248.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2de7faee5d016474f1749c25780094fe46e2f49d8564574b6c46cee82518bbf2",
+    "elapsedMinutes": [
+      0,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1250",
+    "category": "C",
+    "stopNames": [
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1250.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2ae678b9f51f7d6c0e055467f65a8e5bc8896640212a75bfccd991b6b2b0068b",
+    "elapsedMinutes": [
+      0,
+      40
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1252",
+    "category": "C",
+    "stopNames": [
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1252.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6cdc7645f81caf51e2d6ef1486287fb193bfc5725fc140dfbda6a450180e5f8b",
+    "elapsedMinutes": [
+      0,
+      29,
+      47
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1301",
+    "category": "C",
+    "stopNames": [
+      "长白山",
+      "永庆",
+      "敦化",
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1301.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9d8bf7a1da74ef772d3e19577d93a1b6fec41d6ed6dc831ffa40f4da69ab6b7e",
+    "elapsedMinutes": [
+      0,
+      12,
+      43,
+      100,
+      132,
+      149
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1302",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "永庆",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1302.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fe5d6d094d8fc36eff0d1f0d509a686948029d00f903fe9bcf22f8fd6702af86",
+    "elapsedMinutes": [
+      0,
+      40,
+      69,
+      103,
+      135,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1303",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "永庆",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1303.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7e8a86011cc7cacb6837b098c3e0fe0df86d1baf225029f591ee52ffcf2ab223",
+    "elapsedMinutes": [
+      0,
+      40,
+      69,
+      103,
+      135,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1304",
+    "category": "C",
+    "stopNames": [
+      "长白山",
+      "永庆",
+      "敦化",
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1304.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b4dc44055d3f16cc157b18dc73547e683a1d6aee98967805fe80fca716fa83f7",
+    "elapsedMinutes": [
+      0,
+      12,
+      43,
+      100,
+      132,
+      149
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1305",
+    "category": "C",
+    "stopNames": [
+      "长白山",
+      "永庆",
+      "敦化",
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1305.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5b3f786b6b86882e418cdc8de576cb78058b7c018bf35e588d88a6bc5da29528",
+    "elapsedMinutes": [
+      0,
+      12,
+      43,
+      100,
+      132,
+      151
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1306",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "敦化",
+      "永庆",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1306.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8f0a830ecb2fe97da28950726d911c0bd06230c31437472eb5082e408fbc2d19",
+    "elapsedMinutes": [
+      0,
+      14,
+      47,
+      104,
+      136,
+      151
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1307",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "敦化",
+      "永庆",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1307.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "34f349e7506ee1ec0a33684ed872b83898a80061e46b6e149b2d25fca6c11262",
+    "elapsedMinutes": [
+      0,
+      14,
+      47,
+      104,
+      136,
+      151
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1308",
+    "category": "C",
+    "stopNames": [
+      "长白山",
+      "永庆",
+      "敦化",
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1308.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6c5cb9f158ca585d068e51fab2caeb51bbba9f3f0d48747a2ac8bd92824f370c",
+    "elapsedMinutes": [
+      0,
+      12,
+      43,
+      100,
+      132,
+      151
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1309",
+    "category": "C",
+    "stopNames": [
+      "长白山",
+      "永庆",
+      "敦化",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1309.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "208a648adfb28ae45cffe16941ad5accfefdd41ad637a9612cb8c337bda5b95b",
+    "elapsedMinutes": [
+      0,
+      12,
+      47,
+      104,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1310",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "九台南",
+      "吉林",
+      "敦化",
+      "永庆",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1310.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0bdb047b07e27e2d9b8d2f82d5cde979348b4bf85f256c72de2c08359aecd8b4",
+    "elapsedMinutes": [
+      0,
+      14,
+      27,
+      57,
+      114,
+      146,
+      161
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1311",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "九台南",
+      "吉林",
+      "敦化",
+      "永庆",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1311.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c8f2eb743ae1e424488f4748519c8384e7ebe2d44f457244929c6ef2bb4fac13",
+    "elapsedMinutes": [
+      0,
+      14,
+      27,
+      57,
+      114,
+      146,
+      161
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1312",
+    "category": "C",
+    "stopNames": [
+      "长白山",
+      "永庆",
+      "敦化",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1312.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "45e0df01f1fe7d119c928e49655212a7b8d18ccff07a6879882a7ed3d96094cb",
+    "elapsedMinutes": [
+      0,
+      12,
+      47,
+      104,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1313",
+    "category": "C",
+    "stopNames": [
+      "长白山",
+      "永庆",
+      "敦化",
+      "吉林",
+      "九台南",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1313.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b1503390d076f49a333826b7678c799eb6a9c8849d81fffe9fcabb4f11ee0eb0",
+    "elapsedMinutes": [
+      0,
+      12,
+      43,
+      100,
+      130,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1314",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "敦化",
+      "永庆",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1314.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b97c46504922ff3561e10c0058ccb16a23d225a73f3f2af122a9ceb3920b9a75",
+    "elapsedMinutes": [
+      0,
+      14,
+      46,
+      103,
+      135,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1315",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "敦化",
+      "永庆",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1315.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a59072372d1a7fa604b84bf22b40321f75ce23f3e8b682ff1336137c52b91d5a",
+    "elapsedMinutes": [
+      0,
+      14,
+      46,
+      103,
+      135,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1316",
+    "category": "C",
+    "stopNames": [
+      "长白山",
+      "永庆",
+      "敦化",
+      "吉林",
+      "九台南",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1316.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c40c639f661e0fdc63b5ef24b3b3df21d25123662f5614c65df706e8969ca41c",
+    "elapsedMinutes": [
+      0,
+      12,
+      43,
+      100,
+      130,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1317",
+    "category": "C",
+    "stopNames": [
+      "长白山",
+      "蛟河西",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1317.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "818a2dcbdd210a50adfba1e1d30b190d92bbb192b6df7e092a97dd7e0fc2c026",
+    "elapsedMinutes": [
+      0,
+      65,
+      94,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1318",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1318.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "03f4bec15be54edef68359363812b1f96081585930a5e8e18f3f126916955347",
+    "elapsedMinutes": [
+      0,
+      14,
+      46,
+      75,
+      109,
+      154
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1319",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1319.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f2d51c1be637c86824da4a17dda08fc256bcd5b049833ece13624bdc47e89c2b",
+    "elapsedMinutes": [
+      0,
+      14,
+      46,
+      75,
+      109,
+      154
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1320",
+    "category": "C",
+    "stopNames": [
+      "长白山",
+      "蛟河西",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1320.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e7e1567689140dc24120041d88b09b131fc7214598500ff98ea97cd185d90624",
+    "elapsedMinutes": [
+      0,
+      65,
+      94,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1322",
+    "category": "C",
+    "stopNames": [
+      "长春西",
+      "长春",
+      "吉林",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1322.html",
+    "sourceUpdatedAt": "2026-06-17",
+    "sourceSha256": "1e9e17f205c75a753da21e0fe573de99c7b0b0cb1b6b49b05b15b32534e6c775",
+    "elapsedMinutes": [
+      0,
+      10,
+      53,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1323",
+    "category": "C",
+    "stopNames": [
+      "长春西",
+      "长春",
+      "吉林",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1323.html",
+    "sourceUpdatedAt": "2026-06-17",
+    "sourceSha256": "277c3d7b0193a670555f568f89cc5cef5a34d91b545a13e4cc15c983178d28a4",
+    "elapsedMinutes": [
+      0,
+      10,
+      53,
+      145
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1331",
+    "category": "C",
+    "stopNames": [
+      "长白山",
+      "敦化",
+      "吉林",
+      "长春",
+      "敦化",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1331.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3e94ecacc217d0a96a054ed0584423b59f4455f0fec6224766be82770e42b89b",
+    "elapsedMinutes": [
+      0,
+      37,
+      94,
+      137,
+      109,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "C1332",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "蛟河西",
+      "龙嘉",
+      "吉林",
+      "吉林",
+      "九台南",
+      "蛟河西",
+      "敦化",
+      "长春",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1332.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0cafa81d711318955998d64535bafbd447fdb640e3892f476945cac57a608c22",
+    "elapsedMinutes": [
+      0,
+      65,
+      14,
+      94,
+      46,
+      123,
+      75,
+      109,
+      143,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3,
+        5,
+        7
+      ]
+    }
+  },
+  {
+    "trainNumber": "C1333",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "蛟河西",
+      "龙嘉",
+      "吉林",
+      "吉林",
+      "九台南",
+      "蛟河西",
+      "敦化",
+      "长春",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1333.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "847cbf98f1c6d5c78dc0152c087b9761629ec2e44a87ac11465e08f3502575a4",
+    "elapsedMinutes": [
+      0,
+      65,
+      14,
+      94,
+      46,
+      123,
+      75,
+      109,
+      143,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3,
+        5,
+        7
+      ]
+    }
+  },
+  {
+    "trainNumber": "C1334",
+    "category": "C",
+    "stopNames": [
+      "长白山",
+      "敦化",
+      "吉林",
+      "长春",
+      "敦化",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1334.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d57c40d3999fb36f515143ca96aaf9b8029b16e8c9552a141847f1a3636fc1a4",
+    "elapsedMinutes": [
+      0,
+      37,
+      94,
+      137,
+      109,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        5
+      ]
+    }
+  },
+  {
+    "trainNumber": "C1335",
+    "category": "C",
+    "stopNames": [
+      "长白山",
+      "敦化",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1335.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3733241d633adaf49a13463158ee44054dc0818d80efbcb89df5a49c3bb7532c",
+    "elapsedMinutes": [
+      0,
+      37,
+      96,
+      139
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1336",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "蛟河西",
+      "龙嘉",
+      "吉林",
+      "吉林",
+      "九台南",
+      "蛟河西",
+      "敦化",
+      "长春",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1336.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4fe69745c50c47bc45a5428bc672af71b8f73b69e1e5c40bfff7c904642e0cd5",
+    "elapsedMinutes": [
+      0,
+      65,
+      14,
+      94,
+      46,
+      123,
+      75,
+      109,
+      143,
+      150
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": false,
+      "regressionRows": [
+        3,
+        5,
+        7
+      ]
+    }
+  },
+  {
+    "trainNumber": "C1338",
+    "category": "C",
+    "stopNames": [
+      "长白山",
+      "敦化",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1338.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c638c186bc1fa71ab31810b6b4a55931f4c68de6b97e65568ee2917a77c4fc6f",
+    "elapsedMinutes": [
+      0,
+      37,
+      96,
+      139
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1341",
+    "category": "C",
+    "stopNames": [
+      "长白山",
+      "敦化",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1341.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "7b8c869bb541e19edee859cbb1553430708def1c9a80bcca7a6f0612dd8159e1",
+    "elapsedMinutes": [
+      0,
+      37,
+      94,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1342",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林",
+      "敦化",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1342.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "f204ea82d892f0289a122b5849f1e82515d2055026d7a0707274fdbdc574d468",
+    "elapsedMinutes": [
+      0,
+      40,
+      97,
+      138
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1343",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林",
+      "敦化",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1343.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "bb92e05f29b0437e1d9370c5113346cc3eb5773ef19d1fe6882fdb9b7c1ca6f0",
+    "elapsedMinutes": [
+      0,
+      40,
+      97,
+      138
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1344",
+    "category": "C",
+    "stopNames": [
+      "长白山",
+      "敦化",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1344.html",
+    "sourceUpdatedAt": "2026-08-28",
+    "sourceSha256": "be043abc595f79bbff3042200dd4339c761b541bc4f93fc04c20aad2bb60041f",
+    "elapsedMinutes": [
+      0,
+      37,
+      94,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1345",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "安图西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "龙嘉",
+      "长春",
+      "松原",
+      "白城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1345.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0d396a93060de00b7fe50a0541c41390f79abe8aa29e7af2890c2a4bd2c96ad1",
+    "elapsedMinutes": [
+      0,
+      19,
+      44,
+      78,
+      112,
+      144,
+      162,
+      250,
+      328
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1346",
+    "category": "C",
+    "stopNames": [
+      "白城",
+      "松原",
+      "长春",
+      "龙嘉",
+      "吉林",
+      "敦化",
+      "安图西",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1346.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "968e1b2d3f64dc855d1d02c3111a54622d7f01106145488ba3426e052f7e0e9b",
+    "elapsedMinutes": [
+      0,
+      75,
+      145,
+      179,
+      211,
+      268,
+      293,
+      315
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1347",
+    "category": "C",
+    "stopNames": [
+      "白城",
+      "松原",
+      "长春",
+      "龙嘉",
+      "吉林",
+      "敦化",
+      "安图西",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1347.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0ead919dee062e65c59d6a82c89a1adc48a80632351523c469b71f4fd8c09e2c",
+    "elapsedMinutes": [
+      0,
+      75,
+      145,
+      179,
+      211,
+      268,
+      293,
+      315
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1348",
+    "category": "C",
+    "stopNames": [
+      "延吉西",
+      "安图西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "龙嘉",
+      "长春",
+      "松原",
+      "白城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1348.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6d6f5fc4a6eb5b4c1f9030bb69d79f0962e24e7fde15543fb3b5a064b762e8e6",
+    "elapsedMinutes": [
+      0,
+      19,
+      44,
+      78,
+      112,
+      144,
+      162,
+      250,
+      328
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1351",
+    "category": "C",
+    "stopNames": [
+      "通化",
+      "白山东",
+      "江源东",
+      "长白山西",
+      "长白山",
+      "敦化",
+      "吉林",
+      "九台南",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1351.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "96bfbe5a73b5ee103b532ee72bbb28920ae11f61a8bb310b644a68488813320c",
+    "elapsedMinutes": [
+      0,
+      18,
+      35,
+      55,
+      78,
+      118,
+      176,
+      205,
+      225
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1352",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林",
+      "长白山",
+      "江源东",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1352.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "31a5900833bb4b52dda61793281c745c8be2c06dbafbbeca572a4c3e9bb71228",
+    "elapsedMinutes": [
+      0,
+      40,
+      132,
+      169,
+      201
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1353",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "吉林",
+      "长白山",
+      "江源东",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1353.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bc802a4ac92ddcf670c176e9e81428a48f28d4454ca7c5817db08773dd3c8517",
+    "elapsedMinutes": [
+      0,
+      40,
+      132,
+      169,
+      201
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1354",
+    "category": "C",
+    "stopNames": [
+      "通化",
+      "白山东",
+      "江源东",
+      "长白山西",
+      "长白山",
+      "敦化",
+      "吉林",
+      "九台南",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1354.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d89a260502533d36640f0be9b6c4a1f84f3321e233e15fa8311f4a9a0622d6ec",
+    "elapsedMinutes": [
+      0,
+      18,
+      35,
+      55,
+      78,
+      118,
+      176,
+      205,
+      225
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1355",
+    "category": "C",
+    "stopNames": [
+      "通化",
+      "长白山西",
+      "长白山",
+      "敦化",
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1355.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a3dea2fe7b3dfde6a55615fed6ff92985a4516c5a14db6cf6045930c4eafca25",
+    "elapsedMinutes": [
+      0,
+      43,
+      66,
+      106,
+      163,
+      196,
+      213
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1356",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "长白山",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1356.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7898b3c91b426fd3764d5f4838169d7e438b59d80f3d20ed462a084b313e597a",
+    "elapsedMinutes": [
+      0,
+      14,
+      46,
+      75,
+      109,
+      150,
+      213
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1357",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "长白山",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1357.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "526f42704ac3748d5e33c2a7fdf2e50dc2388a50a87db630b180d6fcbc722107",
+    "elapsedMinutes": [
+      0,
+      14,
+      46,
+      75,
+      109,
+      150,
+      213
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1358",
+    "category": "C",
+    "stopNames": [
+      "通化",
+      "长白山西",
+      "长白山",
+      "敦化",
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1358.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "36a97722fffe7163fe8554694ef247e5a774c32ef5906d77fa7c8b96392c1f7a",
+    "elapsedMinutes": [
+      0,
+      43,
+      66,
+      106,
+      163,
+      196,
+      213
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1359",
+    "category": "C",
+    "stopNames": [
+      "通化",
+      "白山东",
+      "江源东",
+      "长白山西",
+      "长白山",
+      "敦化",
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1359.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "34603c9bfa7b665dfd39f459cf7d58bd3465fe1556aa0939b72c52aeea68c57f",
+    "elapsedMinutes": [
+      0,
+      19,
+      36,
+      55,
+      79,
+      119,
+      176,
+      208,
+      229
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1360",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "九台南",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "长白山",
+      "长白山西",
+      "白山东",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1360.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "dfcb01fc01136a9b26fc053a299d7bce6d26dc0bf895fd8cf2d429203c55586d",
+    "elapsedMinutes": [
+      0,
+      14,
+      24,
+      53,
+      82,
+      116,
+      157,
+      181,
+      211,
+      233
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1361",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "龙嘉",
+      "九台南",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "长白山",
+      "长白山西",
+      "白山东",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1361.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "3fa99935e40c5c62e5fe181033d2c9aae31a168fbb59301ddebaec6d11384525",
+    "elapsedMinutes": [
+      0,
+      14,
+      24,
+      53,
+      82,
+      116,
+      157,
+      181,
+      211,
+      233
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C1362",
+    "category": "C",
+    "stopNames": [
+      "通化",
+      "白山东",
+      "江源东",
+      "长白山西",
+      "长白山",
+      "敦化",
+      "吉林",
+      "龙嘉",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c1362.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "30fcc02c1eb94f31ee6f5c3181ee4f2b859ab8b977a40d15318361133b76c255",
+    "elapsedMinutes": [
+      0,
+      19,
+      36,
+      55,
+      79,
+      119,
+      176,
+      208,
+      229
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4171",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "农安",
+      "松原"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4171.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "d4c4af8740d70e898484412c32ad5b828e3937667ec75b98189a261081ada5eb",
+    "elapsedMinutes": [
+      0,
+      38,
+      79
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4172",
+    "category": "C",
+    "stopNames": [
+      "松原",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4172.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "86e621e39f14fb8b213cab56dcbd88ed4cad99eb626195c48df9f57a99696b4f",
+    "elapsedMinutes": [
+      0,
+      76
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4173",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "农安",
+      "松原"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4173.html",
+    "sourceUpdatedAt": "2026-06-17",
+    "sourceSha256": "9d368bf09b0e4dbce725d879b68829834e7a094c8aa478961d29c454f6581f42",
+    "elapsedMinutes": [
+      0,
+      38,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4175",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "农安",
+      "松原"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4175.html",
+    "sourceUpdatedAt": "2026-04-02",
+    "sourceSha256": "e737ea0dbfcff98abf0c832a21733aa1b5bbdc4bdcfd8f71ebf1fa44fadc81cd",
+    "elapsedMinutes": [
+      0,
+      38,
+      79
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4177",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "松原",
+      "白城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4177.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "b1d2d965d4407889a671a2ca20e29bfe49b70457782dc76994fd62e2148dcd64",
+    "elapsedMinutes": [
+      0,
+      72,
+      163
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C4178",
+    "category": "C",
+    "stopNames": [
+      "白城",
+      "大安",
+      "长山屯",
+      "查干湖",
+      "松原",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c4178.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "57c0616d2245c8118eaa3359f2e1e5d8ebda749035d64d9cf1fc979e1980bb9a",
+    "elapsedMinutes": [
+      0,
+      56,
+      72,
+      83,
+      104,
+      180
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C504",
+    "category": "C",
+    "stopNames": [
+      "白城",
+      "安广",
+      "两家",
+      "大安",
+      "松原",
+      "农安",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c504.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "756ec84ccc16ab6d49e5ed6ecc9c6ff2bb042c537dbc590d6b9a5022c0f4538c",
+    "elapsedMinutes": [
+      0,
+      39,
+      52,
+      70,
+      104,
+      146,
+      187
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C505",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "松原",
+      "白城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c505.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "789ea44f9f6479fedbb06d25cfb99ded4af4d98dd97696712ce454d377201906",
+    "elapsedMinutes": [
+      0,
+      72,
+      159
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C506",
+    "category": "C",
+    "stopNames": [
+      "白城",
+      "大安",
+      "长山屯",
+      "松原",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c506.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5568dbc7c1ff33d2b7fac6abd069295af2e173995ff7785267c6c0392a2042c8",
+    "elapsedMinutes": [
+      0,
+      56,
+      72,
+      97,
+      172
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C507",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "农安",
+      "松原",
+      "查干湖",
+      "长山屯",
+      "大安",
+      "两家",
+      "白城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c507.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ee60f1a6bca3c87a3c78238f6f2ab777685c600d7f8dfbc4f81c4559eabe1f1f",
+    "elapsedMinutes": [
+      0,
+      38,
+      78,
+      99,
+      109,
+      124,
+      141,
+      189
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C510",
+    "category": "C",
+    "stopNames": [
+      "白城",
+      "到保",
+      "安广",
+      "松原",
+      "农安",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c510.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "341f35ca254dee2851b19f68e8f293147589674fd6e53a08392d2ba83d60eb14",
+    "elapsedMinutes": [
+      0,
+      20,
+      46,
+      97,
+      137,
+      178
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C511",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "农安",
+      "王府",
+      "松原",
+      "查干湖",
+      "大安",
+      "两家",
+      "白城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c511.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "7b64c731e0876562c6f34220225f8dc04f93cf9b4531503566c06b41cf0e57a4",
+    "elapsedMinutes": [
+      0,
+      38,
+      65,
+      86,
+      109,
+      129,
+      153,
+      204
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C518",
+    "category": "C",
+    "stopNames": [
+      "白城",
+      "松原",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c518.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ff9ca0736be4b01fb105b87a6c207e17e6aa4fc3889e6904f1d95da7f5d38bbb",
+    "elapsedMinutes": [
+      0,
+      83,
+      157
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C521",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "松原",
+      "查干湖",
+      "大安",
+      "白城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c521.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "88581a13a104e8c6d6b98289e4fc266cdcf709d0d10110afa54d1eee84696911",
+    "elapsedMinutes": [
+      0,
+      72,
+      93,
+      113,
+      172
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C522",
+    "category": "C",
+    "stopNames": [
+      "白城",
+      "到保",
+      "大安",
+      "查干湖",
+      "松原",
+      "哈拉海",
+      "农安",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c522.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bfc8c7f351df17457cc56f21bd721e0f54f5e8d7d79feee2ff3a8d93a08ce83e",
+    "elapsedMinutes": [
+      0,
+      19,
+      61,
+      82,
+      110,
+      139,
+      156,
+      203
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C527",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "农安",
+      "松原",
+      "长山屯",
+      "大安",
+      "安广",
+      "白城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c527.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b5d0a8f48db1a715d4b9a0b11cb72f324ff83683fd76baf63330c009fbf90a30",
+    "elapsedMinutes": [
+      0,
+      38,
+      79,
+      104,
+      120,
+      143,
+      187
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C528",
+    "category": "C",
+    "stopNames": [
+      "白城",
+      "松原",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c528.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6f85775c454056d95e2f8466fa6c69a90f15fa099891c3a9189f9d892d6f9dad",
+    "elapsedMinutes": [
+      0,
+      83,
+      157
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C531",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "松原"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c531.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e07e671f26ad9dc4bda21762cc0938c64571afaa5e2642427edc62ea0769042d",
+    "elapsedMinutes": [
+      0,
+      72
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C532",
+    "category": "C",
+    "stopNames": [
+      "松原",
+      "农安",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c532.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9f56dc747e197255a38bc922651e6e0c43f3b67df98bdb91b3e4319645f8964a",
+    "elapsedMinutes": [
+      0,
+      37,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C533",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "农安",
+      "松原"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c533.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2cb9d731d098291536c7a81b625f16dd1f2146d8fcd6f0341b03c086fc05ece7",
+    "elapsedMinutes": [
+      0,
+      38,
+      79
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C534",
+    "category": "C",
+    "stopNames": [
+      "松原",
+      "哈拉海",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c534.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c7a6d62f5558636cd674caf1228078f7cae32f28fe8d38496fa4e663582a6137",
+    "elapsedMinutes": [
+      0,
+      26,
+      79
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C535",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "农安",
+      "松原"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c535.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "2a54f83ea754b43d9a6198479f6a5b01d2909cf35999064c537c29b9fc2515ab",
+    "elapsedMinutes": [
+      0,
+      38,
+      81
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C536",
+    "category": "C",
+    "stopNames": [
+      "松原",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c536.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "5626266703e632f2017e1428d8e27045d5347e1fce9f1dada80f73e029adf35a",
+    "elapsedMinutes": [
+      0,
+      71
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C545",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "松原"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c545.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "90c4983b308de8d711ef1af854ed25cacd64f9456f66af2796e262f8bbb374c0",
+    "elapsedMinutes": [
+      0,
+      72
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C546",
+    "category": "C",
+    "stopNames": [
+      "松原",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c546.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "515ff9d43067245cba6017a2f2f9243c549a983803ed7bb099e9df4d9f67511e",
+    "elapsedMinutes": [
+      0,
+      71
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C547",
+    "category": "C",
+    "stopNames": [
+      "长春",
+      "农安",
+      "松原"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c547.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f0579dfcdf4ff6980f4de45729d04f011f6d39f7fd50ea7eb5e3b0fe22fe0e7b",
+    "elapsedMinutes": [
+      0,
+      38,
+      78
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "C548",
+    "category": "C",
+    "stopNames": [
+      "松原",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/c548.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fe47241d33907bd5c56c11d68235e3c118e6cd0a81a26113416ebebd29661bf6",
+    "elapsedMinutes": [
+      0,
+      71
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4161",
+    "category": "D",
+    "stopNames": [
+      "吉林",
+      "龙嘉",
+      "长春",
+      "德惠西",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4161.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "479151baad82a8fdda40f4ecd3855039ff230870d043908e136964290b3486a0",
+    "elapsedMinutes": [
+      0,
+      29,
+      47,
+      79,
+      136
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4162",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4162.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "99d0d29b063b482e4a3f32583ca9a9da9981515470b550af4a20afec6d15baf3",
+    "elapsedMinutes": [
+      0,
+      67
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4164",
+    "category": "D",
+    "stopNames": [
+      "吉林",
+      "龙嘉",
+      "长春",
+      "德惠西",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4164.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "46c96413bec57a51952d3d4ff9c8fcd5e49b959f12967fd73634b2dc6e88c4fe",
+    "elapsedMinutes": [
+      0,
+      29,
+      47,
+      79,
+      136
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4241",
+    "category": "D",
+    "stopNames": [
+      "吉林",
+      "长春",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4241.html",
+    "sourceUpdatedAt": "2026-02-20",
+    "sourceSha256": "20135a631d1486899723ac5bec53c87087fb4e0b69e620b230eb53b88363f249",
+    "elapsedMinutes": [
+      0,
+      40,
+      118
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4242",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4242.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "7bd4b2b559f5c44d871be094121b466ee20ebc85b26a45f57684b76fc60998c5",
+    "elapsedMinutes": [
+      0,
+      68
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4244",
+    "category": "D",
+    "stopNames": [
+      "吉林",
+      "长春",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4244.html",
+    "sourceUpdatedAt": "2026-02-20",
+    "sourceSha256": "90d585d55e6c39986852bcd68e9eb2caf6eaddf421cd7627ff59ab6c6f114d95",
+    "elapsedMinutes": [
+      0,
+      40,
+      118
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4245",
+    "category": "D",
+    "stopNames": [
+      "延吉西",
+      "长春",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4245.html",
+    "sourceUpdatedAt": "2026-02-20",
+    "sourceSha256": "ae9032da05599b45335228902551861366c208344c6591f58d0dc3e5fc09364c",
+    "elapsedMinutes": [
+      0,
+      125,
+      197
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4246",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "长春",
+      "吉林",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4246.html",
+    "sourceUpdatedAt": "2026-02-24",
+    "sourceSha256": "f2631ffaa35175e83dd65b478a5a3f5773ae3fe9740dee9b91230cac4fa8bc1e",
+    "elapsedMinutes": [
+      0,
+      68,
+      113,
+      205
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4247",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "长春",
+      "吉林",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4247.html",
+    "sourceUpdatedAt": "2026-02-24",
+    "sourceSha256": "1135391f007beb079c283622685fcc9547f566bbba454bf706b0dade76b6b0f0",
+    "elapsedMinutes": [
+      0,
+      68,
+      113,
+      205
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4248",
+    "category": "D",
+    "stopNames": [
+      "延吉西",
+      "长春",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4248.html",
+    "sourceUpdatedAt": "2026-02-20",
+    "sourceSha256": "f91dcf0925cedc07894cb5121666bf12bf236c2fba2f43c8db049387de1e71e1",
+    "elapsedMinutes": [
+      0,
+      125,
+      197
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4719",
+    "category": "D",
+    "stopNames": [
+      "长春",
+      "扶余北",
+      "哈尔滨西",
+      "哈尔滨"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4719.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "d4cac7072d952eb29e8d7e1f4efd40118cebb1dbca9ffeef0bc86ffb564652b3",
+    "elapsedMinutes": [
+      0,
+      44,
+      75,
+      87
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D4720",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "扶余北",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d4720.html",
+    "sourceUpdatedAt": "2026-06-21",
+    "sourceSha256": "6fcbd1bf22bb9b84068d7eb7d977bf6e16f39f41bc0c1e6ca2b968e5f6fdea35",
+    "elapsedMinutes": [
+      0,
+      29,
+      74
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D511",
+    "category": "D",
+    "stopNames": [
+      "珲春",
+      "图们北",
+      "延吉西",
+      "敦化",
+      "吉林",
+      "长春",
+      "德惠西",
+      "扶余北",
+      "哈尔滨西",
+      "哈尔滨北",
+      "肇东",
+      "大庆西",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d511.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "67ab107c80ec4cba51fb60a50316205d12f8b116080a9ee013934bb5428cf5df",
+    "elapsedMinutes": [
+      0,
+      22,
+      40,
+      81,
+      138,
+      181,
+      212,
+      233,
+      269,
+      296,
+      314,
+      349,
+      384
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D512",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆东",
+      "哈尔滨",
+      "德惠西",
+      "长春",
+      "吉林",
+      "延吉西",
+      "图们北",
+      "珲春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d512.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3bb695970bd2cd1f605cd278a8b6f3b68681214547fcbf043d6270b36a30e7cd",
+    "elapsedMinutes": [
+      0,
+      38,
+      85,
+      148,
+      182,
+      227,
+      319,
+      337,
+      362
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D513",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆东",
+      "哈尔滨",
+      "德惠西",
+      "长春",
+      "吉林",
+      "延吉西",
+      "图们北",
+      "珲春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d513.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "317edb703844800640f7c0e428a33a539022d8fb547880118e7d2dedc8474b12",
+    "elapsedMinutes": [
+      0,
+      38,
+      85,
+      148,
+      182,
+      227,
+      319,
+      337,
+      362
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D514",
+    "category": "D",
+    "stopNames": [
+      "珲春",
+      "图们北",
+      "延吉西",
+      "敦化",
+      "吉林",
+      "长春",
+      "德惠西",
+      "扶余北",
+      "哈尔滨西",
+      "哈尔滨北",
+      "肇东",
+      "大庆西",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d514.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b86785a539ab05a1a864527f187593141b2d8bcebade15457ee8f3fb6e35a5d0",
+    "elapsedMinutes": [
+      0,
+      22,
+      40,
+      81,
+      138,
+      181,
+      212,
+      233,
+      269,
+      296,
+      314,
+      349,
+      384
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D515",
+    "category": "D",
+    "stopNames": [
+      "延吉西",
+      "安图西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d515.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "45a7521746615f5816278fc1fdfd1e1fce149a6461af08f02281d3a5f362440a",
+    "elapsedMinutes": [
+      0,
+      19,
+      44,
+      78,
+      107,
+      151,
+      226
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D516",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "扶余北",
+      "德惠西",
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "安图西",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d516.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f8e7d3420b41c9da9030d09841d09cac804f42e590ac99b3bb81e32dfee3b17a",
+    "elapsedMinutes": [
+      0,
+      29,
+      54,
+      91,
+      137,
+      169,
+      203,
+      233,
+      255
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D517",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "扶余北",
+      "德惠西",
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "安图西",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d517.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9223dfbadce5bf23fd4868e492ff25604fa8656a613eb3b65f237eda8c00e04e",
+    "elapsedMinutes": [
+      0,
+      29,
+      54,
+      91,
+      137,
+      169,
+      203,
+      233,
+      255
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D518",
+    "category": "D",
+    "stopNames": [
+      "延吉西",
+      "安图西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d518.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c408db5273944a18c4dcb78254d1687859c7e034034d5784c4f1935a0aaeb598",
+    "elapsedMinutes": [
+      0,
+      19,
+      44,
+      78,
+      107,
+      151,
+      226
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D519",
+    "category": "D",
+    "stopNames": [
+      "长春",
+      "德惠西",
+      "扶余北",
+      "双城北",
+      "哈尔滨西",
+      "亚布力西",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d519.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "824af04c826e9d5060acca2c43f00df35e7d9ce1247f844e970fd94172249da7",
+    "elapsedMinutes": [
+      0,
+      28,
+      49,
+      68,
+      86,
+      161,
+      193
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D520",
+    "category": "D",
+    "stopNames": [
+      "牡丹江",
+      "苇河西",
+      "哈尔滨西",
+      "双城北",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d520.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "74afef810db9778f495712d759d85e14f8e20469ca4c67c997991b55fd5e5e87",
+    "elapsedMinutes": [
+      0,
+      34,
+      103,
+      124,
+      182
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D521",
+    "category": "D",
+    "stopNames": [
+      "长春",
+      "扶余北",
+      "哈尔滨",
+      "宾州",
+      "胜利镇",
+      "方正",
+      "依兰",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d521.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d3d8a54ce03bc944394481d70bf7b4edfdd91ecef5d541aec89446ffe87725b4",
+    "elapsedMinutes": [
+      0,
+      43,
+      88,
+      125,
+      145,
+      171,
+      202,
+      239
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D522",
+    "category": "D",
+    "stopNames": [
+      "佳木斯",
+      "依兰",
+      "方正",
+      "宾州",
+      "哈尔滨",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d522.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a57529f5743c42780319e8cbb44f6f1de1602bbdb8853561736f1224a1c5f743",
+    "elapsedMinutes": [
+      0,
+      33,
+      66,
+      105,
+      137,
+      217
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D523",
+    "category": "D",
+    "stopNames": [
+      "吉林",
+      "双吉",
+      "长春",
+      "德惠西",
+      "扶余北",
+      "双城北",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d523.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3fbe2e22368e3778bb55d3a7f7be74576b4fd8ea2dd719909ae6478c04d23c97",
+    "elapsedMinutes": [
+      0,
+      11,
+      46,
+      79,
+      100,
+      119,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D524",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "双城北",
+      "长春",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d524.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "283165262ed1e12b1f19b0f564212612fc8d902152fe1ee7fc54948f95cd22e4",
+    "elapsedMinutes": [
+      0,
+      16,
+      74,
+      119
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D525",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "双城北",
+      "长春",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d525.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "75076cab831ec95583e4ba946251076cfaa23a32ee20a3f10e10a9dd9ff14854",
+    "elapsedMinutes": [
+      0,
+      16,
+      74,
+      119
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D526",
+    "category": "D",
+    "stopNames": [
+      "吉林",
+      "双吉",
+      "长春",
+      "德惠西",
+      "扶余北",
+      "双城北",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d526.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "faf1f767595a91f679d35ef9bafeebb5ad72b73cdd0ba58aa32c22967dee5049",
+    "elapsedMinutes": [
+      0,
+      11,
+      46,
+      79,
+      100,
+      119,
+      137
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D527",
+    "category": "D",
+    "stopNames": [
+      "吉林",
+      "长春",
+      "德惠西",
+      "哈尔滨西",
+      "肇东",
+      "安达",
+      "大庆西",
+      "杜尔伯特",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d527.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0ca6e32aceed2dc7b40a4d6f91a5ea09e93679878e6598ec87f5f04cdad7e916",
+    "elapsedMinutes": [
+      0,
+      40,
+      73,
+      119,
+      153,
+      176,
+      195,
+      212,
+      235
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D528",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆东",
+      "哈尔滨",
+      "哈尔滨西",
+      "双城北",
+      "扶余北",
+      "德惠西",
+      "长春",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d528.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0a8945988157248de12fc54b9d1c8f89433975fa17cd29c93f576952bed003b5",
+    "elapsedMinutes": [
+      0,
+      38,
+      84,
+      97,
+      119,
+      139,
+      160,
+      190,
+      235
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D529",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆东",
+      "哈尔滨",
+      "哈尔滨西",
+      "双城北",
+      "扶余北",
+      "德惠西",
+      "长春",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d529.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "669a0e74ab6d723343e5a31d3ccffafea3fbb779ef1bf33c87872bbad504e6fb",
+    "elapsedMinutes": [
+      0,
+      38,
+      84,
+      97,
+      119,
+      139,
+      160,
+      190,
+      235
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D530",
+    "category": "D",
+    "stopNames": [
+      "吉林",
+      "长春",
+      "德惠西",
+      "哈尔滨西",
+      "肇东",
+      "安达",
+      "大庆西",
+      "杜尔伯特",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d530.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "72f3a5f248946e2c64ee3c54e7aebc59284decffe312a5a731dd94edcb201380",
+    "elapsedMinutes": [
+      0,
+      40,
+      73,
+      119,
+      153,
+      176,
+      195,
+      212,
+      235
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D531",
+    "category": "D",
+    "stopNames": [
+      "珲春",
+      "图们北",
+      "延吉西",
+      "敦化",
+      "吉林",
+      "长春",
+      "德惠西",
+      "扶余北",
+      "哈尔滨西",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d531.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "812a2429d6597759c692ff699e0e7d62d4b2a4d4139f4c870be87a001bcfec1d",
+    "elapsedMinutes": [
+      0,
+      22,
+      40,
+      83,
+      140,
+      183,
+      221,
+      245,
+      287,
+      418
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D532",
+    "category": "D",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "依兰",
+      "哈尔滨",
+      "扶余北",
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "安图西",
+      "延吉西",
+      "图们北",
+      "珲春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d532.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "12a16d407094e5dcd56a8703e7fcc5a94c432e637332d0c90586d26884604467",
+    "elapsedMinutes": [
+      0,
+      26,
+      60,
+      147,
+      186,
+      241,
+      285,
+      314,
+      348,
+      373,
+      395,
+      413,
+      438
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D533",
+    "category": "D",
+    "stopNames": [
+      "双鸭山西",
+      "佳木斯",
+      "依兰",
+      "哈尔滨",
+      "扶余北",
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "安图西",
+      "延吉西",
+      "图们北",
+      "珲春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d533.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "21cad47ab9568fd44b6a35142c53897a5385f53b547a7a010c89ef044adb3953",
+    "elapsedMinutes": [
+      0,
+      26,
+      60,
+      147,
+      186,
+      241,
+      285,
+      314,
+      348,
+      373,
+      395,
+      413,
+      438
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D534",
+    "category": "D",
+    "stopNames": [
+      "珲春",
+      "图们北",
+      "延吉西",
+      "敦化",
+      "吉林",
+      "长春",
+      "德惠西",
+      "扶余北",
+      "哈尔滨西",
+      "佳木斯"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d534.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "01616079f271c745881911bda1687fda1ae3032e429d2a020f35d488d10c1e18",
+    "elapsedMinutes": [
+      0,
+      22,
+      40,
+      83,
+      140,
+      183,
+      221,
+      245,
+      287,
+      418
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D535",
+    "category": "D",
+    "stopNames": [
+      "长白山",
+      "永庆",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春",
+      "德惠西",
+      "哈尔滨西",
+      "阿城北",
+      "尚志南",
+      "亚布力西",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d535.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b2f9a60cc8c6a08a78d6bbfbdbda2483d678388fc28a0b0bb0b1ba5f34bc5372",
+    "elapsedMinutes": [
+      0,
+      12,
+      43,
+      81,
+      110,
+      155,
+      190,
+      243,
+      280,
+      310,
+      332,
+      364
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D536",
+    "category": "D",
+    "stopNames": [
+      "绥芬河",
+      "绥阳",
+      "穆棱",
+      "牡丹江",
+      "亚布力西",
+      "帽儿山西",
+      "哈尔滨西",
+      "德惠西",
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d536.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6c85a022384de73342deee050aad785caa60b22ada85c9aa50f88819768519b3",
+    "elapsedMinutes": [
+      0,
+      13,
+      39,
+      71,
+      105,
+      137,
+      184,
+      236,
+      266,
+      311,
+      340,
+      374,
+      415
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D537",
+    "category": "D",
+    "stopNames": [
+      "绥芬河",
+      "绥阳",
+      "穆棱",
+      "牡丹江",
+      "亚布力西",
+      "帽儿山西",
+      "哈尔滨西",
+      "德惠西",
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d537.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4027673459c812ec462abe8120ce4dacfc9ac994f8e8e747108f5f8f3755b44a",
+    "elapsedMinutes": [
+      0,
+      13,
+      39,
+      71,
+      105,
+      137,
+      184,
+      236,
+      266,
+      311,
+      340,
+      374,
+      415
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D538",
+    "category": "D",
+    "stopNames": [
+      "长白山",
+      "永庆",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春",
+      "德惠西",
+      "哈尔滨西",
+      "阿城北",
+      "尚志南",
+      "亚布力西",
+      "牡丹江"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d538.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9837cab3f94eb06487c4adc6c66050e374ec2ba6bef9bb0fbbb6d2446462efa6",
+    "elapsedMinutes": [
+      0,
+      12,
+      43,
+      81,
+      110,
+      155,
+      190,
+      243,
+      280,
+      310,
+      332,
+      364
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D539",
+    "category": "D",
+    "stopNames": [
+      "珲春",
+      "图们北",
+      "延吉西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春",
+      "哈尔滨",
+      "海林北",
+      "牡丹江",
+      "林口南",
+      "鸡西西",
+      "七台河西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d539.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "95bf9e4eab6c048383770abc6770820f61b76329c37f5570cc3c8ccb05254d6a",
+    "elapsedMinutes": [
+      0,
+      22,
+      40,
+      83,
+      117,
+      146,
+      189,
+      267,
+      355,
+      368,
+      404,
+      422,
+      444
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D540",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "扶余北",
+      "德惠西",
+      "长春",
+      "吉林",
+      "敦化",
+      "安图西",
+      "延吉西",
+      "图们北",
+      "珲春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d540.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a4505239336d5c6cff3f64d2a2124f24c765c1be0c3946d8ec6f44b4a0af1640",
+    "elapsedMinutes": [
+      0,
+      29,
+      50,
+      80,
+      127,
+      184,
+      214,
+      236,
+      256,
+      281
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D541",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "扶余北",
+      "德惠西",
+      "长春",
+      "吉林",
+      "敦化",
+      "安图西",
+      "延吉西",
+      "图们北",
+      "珲春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d541.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8c5dc03715c16b0888b9b9e37b92722d955ca42368a9ba2f8e8ec32b623f62c3",
+    "elapsedMinutes": [
+      0,
+      29,
+      50,
+      80,
+      127,
+      184,
+      214,
+      236,
+      256,
+      281
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D542",
+    "category": "D",
+    "stopNames": [
+      "珲春",
+      "图们北",
+      "延吉西",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春",
+      "哈尔滨",
+      "海林北",
+      "牡丹江",
+      "林口南",
+      "鸡西西",
+      "七台河西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d542.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "16ff95dc795895e6e09572ba32e46c5fb119181b11c754277067be6c8e7e153e",
+    "elapsedMinutes": [
+      0,
+      22,
+      40,
+      83,
+      117,
+      146,
+      189,
+      267,
+      355,
+      368,
+      404,
+      422,
+      444
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D543",
+    "category": "D",
+    "stopNames": [
+      "延吉西",
+      "敦化",
+      "吉林",
+      "长春",
+      "德惠西",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d543.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "eb327f326a979693714bcca0d21a405c44e1c1f48fb0899e9c33b1d134d49ff7",
+    "elapsedMinutes": [
+      0,
+      38,
+      95,
+      138,
+      172,
+      218
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D544",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "扶余北",
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d544.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6d44d75e7744cfb6224f386307f04c7faa81764b843d1bd0980c163fbd4d685d",
+    "elapsedMinutes": [
+      0,
+      29,
+      81,
+      126,
+      155,
+      189,
+      230
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D545",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "扶余北",
+      "长春",
+      "吉林",
+      "蛟河西",
+      "敦化",
+      "延吉西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d545.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2cc3585b4a2ac95696f9c5658c326129894cae3d756db7eb12baef97c5c8cb4a",
+    "elapsedMinutes": [
+      0,
+      29,
+      81,
+      126,
+      155,
+      189,
+      230
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D546",
+    "category": "D",
+    "stopNames": [
+      "延吉西",
+      "敦化",
+      "吉林",
+      "长春",
+      "德惠西",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d546.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "26a61fcc28a2cfcb01494eae0589ddcdb0460b3b89f5ca3ec74efbdc8fb6dea1",
+    "elapsedMinutes": [
+      0,
+      38,
+      95,
+      138,
+      172,
+      218
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D547",
+    "category": "D",
+    "stopNames": [
+      "通化",
+      "白山东",
+      "江源东",
+      "长白山西",
+      "长白山",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d547.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "63c826a2be787f7b0c5ff0e2fd421280178ea5a91759765b9c8c5ef9bcf0f998",
+    "elapsedMinutes": [
+      0,
+      19,
+      36,
+      55,
+      79,
+      119,
+      153,
+      182,
+      225,
+      298
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D548",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "长春",
+      "吉林",
+      "敦化",
+      "长白山",
+      "长白山西",
+      "白山东",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d548.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d9660a068d5d4ed66839d0c8ccd2e5ec9c16d72cdc9ddd8c0c13564c02557f25",
+    "elapsedMinutes": [
+      0,
+      68,
+      113,
+      170,
+      211,
+      243,
+      273,
+      294
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D549",
+    "category": "D",
+    "stopNames": [
+      "哈尔滨西",
+      "长春",
+      "吉林",
+      "敦化",
+      "长白山",
+      "长白山西",
+      "白山东",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d549.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f90e739303c6acec32ccd7bb26ebeab69ec4aa967cf6eb56fd385c37a5941fc2",
+    "elapsedMinutes": [
+      0,
+      68,
+      113,
+      170,
+      211,
+      243,
+      273,
+      294
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D550",
+    "category": "D",
+    "stopNames": [
+      "通化",
+      "白山东",
+      "江源东",
+      "长白山西",
+      "长白山",
+      "敦化",
+      "蛟河西",
+      "吉林",
+      "长春",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d550.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b71f5f515a2520ad103a33679501c6b3d5579c03d52032ad5db0c8e3ca013b46",
+    "elapsedMinutes": [
+      0,
+      19,
+      36,
+      55,
+      79,
+      119,
+      153,
+      182,
+      225,
+      298
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D551",
+    "category": "D",
+    "stopNames": [
+      "通化",
+      "长白山",
+      "敦化",
+      "吉林",
+      "长春",
+      "扶余北",
+      "哈尔滨西",
+      "哈尔滨",
+      "大庆东",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d551.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "335b59d608f181ff39ceda426fac2432da70da45dbd2afbdbc5b1f687e1bd240",
+    "elapsedMinutes": [
+      0,
+      61,
+      101,
+      158,
+      201,
+      249,
+      281,
+      299,
+      349,
+      390
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D552",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆东",
+      "肇东",
+      "哈尔滨",
+      "哈尔滨西",
+      "扶余北",
+      "长春",
+      "吉林",
+      "敦化",
+      "长白山",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d552.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e90e06e47f55ad6c733a2c05c6b4a2d562f7f2f50e95b685a1538d13c9c52ffd",
+    "elapsedMinutes": [
+      0,
+      38,
+      67,
+      91,
+      107,
+      144,
+      193,
+      239,
+      298,
+      345,
+      410
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D553",
+    "category": "D",
+    "stopNames": [
+      "齐齐哈尔南",
+      "大庆东",
+      "肇东",
+      "哈尔滨",
+      "哈尔滨西",
+      "扶余北",
+      "长春",
+      "吉林",
+      "敦化",
+      "长白山",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d553.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "af2d7b6b043833278c741bae16e76f1d97db270c9ea040964363a4905f45b951",
+    "elapsedMinutes": [
+      0,
+      38,
+      67,
+      91,
+      107,
+      144,
+      193,
+      239,
+      298,
+      345,
+      410
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D554",
+    "category": "D",
+    "stopNames": [
+      "通化",
+      "长白山",
+      "敦化",
+      "吉林",
+      "长春",
+      "扶余北",
+      "哈尔滨西",
+      "哈尔滨",
+      "大庆东",
+      "齐齐哈尔南"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d554.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "501c0d36a1bc9e4f5e301d998bcf04c3c6bb8e93bdada4f94dc919f8a35ef0cb",
+    "elapsedMinutes": [
+      0,
+      61,
+      101,
+      158,
+      201,
+      249,
+      281,
+      299,
+      349,
+      390
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8094",
+    "category": "D",
+    "stopNames": [
+      "四平东",
+      "公主岭南",
+      "长春",
+      "龙嘉",
+      "吉林",
+      "敦化",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8094.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8a694f1796abe0e90c03435ef7275886eb742005028a1480f9ae7202041181a0",
+    "elapsedMinutes": [
+      0,
+      16,
+      43,
+      64,
+      101,
+      158,
+      199
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "D8095",
+    "category": "D",
+    "stopNames": [
+      "四平东",
+      "公主岭南",
+      "长春",
+      "龙嘉",
+      "吉林",
+      "敦化",
+      "长白山"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/d8095.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1e98273dfffa2a57cfdb6ed1a3abf7468e4a4e3908e0b3377a5cf07295dc1cad",
+    "elapsedMinutes": [
+      0,
+      16,
+      43,
+      64,
+      101,
+      158,
+      199
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4305",
+    "category": "G",
+    "stopNames": [
+      "延吉西",
+      "吉林",
+      "长春",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4305.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "ca7a3c8838627d8cebc12835d1a064aa999d93b4230ba665b259a52ec411ef04",
+    "elapsedMinutes": [
+      0,
+      89,
+      132,
+      194
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4306",
+    "category": "G",
+    "stopNames": [
+      "哈尔滨西",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4306.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "bb0742b9a25ffda81ab244eedc79f5549e02f4e506c31be53bd0870a634fb616",
+    "elapsedMinutes": [
+      0,
+      58
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4308",
+    "category": "G",
+    "stopNames": [
+      "延吉西",
+      "吉林",
+      "长春",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4308.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "6b61fb73a10e82c0efbb3680bf4563f6e0438a20a569cea608a9a497ddc6712b",
+    "elapsedMinutes": [
+      0,
+      89,
+      132,
+      194
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4349",
+    "category": "G",
+    "stopNames": [
+      "延吉西",
+      "吉林",
+      "长春",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4349.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "1d4d5660235679f276dd058e31dd49273b32669795453bd03c5930490a9135b0",
+    "elapsedMinutes": [
+      0,
+      89,
+      132,
+      194
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G4352",
+    "category": "G",
+    "stopNames": [
+      "延吉西",
+      "吉林",
+      "长春",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g4352.html",
+    "sourceUpdatedAt": "2026-06-20",
+    "sourceSha256": "3ad96e3b874b013a2dcdbfc32d27d39d94b97db5fdfc0aed58134a20ca7a163c",
+    "elapsedMinutes": [
+      0,
+      89,
+      132,
+      194
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "G8022",
+    "category": "G",
+    "stopNames": [
+      "扶余北",
+      "德惠西",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8022.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "91c84391ec971464a11b83acee543bd6b0fd81d86a4611d08c66ba70868083a7",
+    "elapsedMinutes": [
+      0,
+      16,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5009",
+    "category": "K",
+    "stopNames": [
+      "长春",
+      "德惠",
+      "榆树"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5009.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b2bb3097dcc950beb864f85bc04bb73337e691e982bc7b7b9b4b451c9022f339",
+    "elapsedMinutes": [
+      0,
+      47,
+      127
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5010",
+    "category": "K",
+    "stopNames": [
+      "榆树",
+      "五棵树",
+      "陶赖昭",
+      "德惠",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5010.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fea0a7d5939a01cb798982e5a5cfa33ab43a415ac2d7520443efe10be90b14c7",
+    "elapsedMinutes": [
+      0,
+      34,
+      59,
+      88,
+      147
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5018",
+    "category": "K",
+    "stopNames": [
+      "图们北",
+      "延吉",
+      "吉林",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5018.html",
+    "sourceUpdatedAt": "2026-04-30",
+    "sourceSha256": "2137ed16048e7901fb74e46721efbc13a1caa1064e81f5d683d77c3379481cb0",
+    "elapsedMinutes": [
+      0,
+      57,
+      442,
+      563
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5075",
+    "category": "K",
+    "stopNames": [
+      "长春",
+      "德惠",
+      "陶赖昭",
+      "五棵树",
+      "榆树"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5075.html",
+    "sourceUpdatedAt": "2026-08-21",
+    "sourceSha256": "99ae3c308076aaa048d91268d42e8e64ff89ec9892d3af8fcbf1622b98a534cc",
+    "elapsedMinutes": [
+      0,
+      47,
+      77,
+      102,
+      139
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5076",
+    "category": "K",
+    "stopNames": [
+      "榆树",
+      "五棵树",
+      "陶赖昭",
+      "德惠",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5076.html",
+    "sourceUpdatedAt": "2026-08-21",
+    "sourceSha256": "617021a0c5253b06e84cf2ff23a85e0cd4a4b8e2693d6ef8ed466c32b3e41108",
+    "elapsedMinutes": [
+      0,
+      34,
+      59,
+      94,
+      162
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5087",
+    "category": "K",
+    "stopNames": [
+      "长春",
+      "松原",
+      "大安",
+      "白城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5087.html",
+    "sourceUpdatedAt": "2026-06-17",
+    "sourceSha256": "01c04441f69a5f118de2a118ff2c126fe8724c3b11b9fff0b2896fdcc0886409",
+    "elapsedMinutes": [
+      0,
+      96,
+      166,
+      250
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K5088",
+    "category": "K",
+    "stopNames": [
+      "白城",
+      "大安",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k5088.html",
+    "sourceUpdatedAt": "2026-06-17",
+    "sourceSha256": "866d3ec545741351dcd948bcb26215c27e196319073223208acd12e5481ceff9",
+    "elapsedMinutes": [
+      0,
+      73,
+      222
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7391",
+    "category": "K",
+    "stopNames": [
+      "白山市",
+      "通化",
+      "梅河口",
+      "辽源",
+      "四平",
+      "长春",
+      "九台",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7391.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "e3805bf5efc9a546cef2547c71733aff29bf7f6eb91f7de6feedb30eeb435013",
+    "elapsedMinutes": [
+      0,
+      70,
+      235,
+      330,
+      445,
+      524,
+      582,
+      651
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7392",
+    "category": "K",
+    "stopNames": [
+      "吉林",
+      "九台",
+      "长春",
+      "四平",
+      "辽源",
+      "梅河口",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7392.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "be7919afd5f511dd50f6d71984c3f9789194586b3afa7942111f8e87ffaf4f4c",
+    "elapsedMinutes": [
+      0,
+      59,
+      108,
+      194,
+      287,
+      386,
+      516
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7393",
+    "category": "K",
+    "stopNames": [
+      "吉林",
+      "九台",
+      "长春",
+      "四平",
+      "辽源",
+      "梅河口",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7393.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "a331f5099a2deafd455b834ac2e50ed151d3338ae6d04482a10f7fde68b97e5b",
+    "elapsedMinutes": [
+      0,
+      59,
+      108,
+      194,
+      287,
+      386,
+      516
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7394",
+    "category": "K",
+    "stopNames": [
+      "白山市",
+      "通化",
+      "梅河口",
+      "辽源",
+      "四平",
+      "长春",
+      "九台",
+      "吉林"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7394.html",
+    "sourceUpdatedAt": "2026-01-23",
+    "sourceSha256": "5181ebc4af0a34fb291ba2c21abd423ed828b7c510dc20ea0d841223da4a7200",
+    "elapsedMinutes": [
+      0,
+      70,
+      235,
+      330,
+      445,
+      524,
+      582,
+      651
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7571",
+    "category": "K",
+    "stopNames": [
+      "长春",
+      "双阳",
+      "伊通",
+      "辽源",
+      "东丰",
+      "梅河口",
+      "柳河",
+      "通化"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7571.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6bea3340460d055cb7d41b0095d929f56d6fff9c2412ba3516951ba97a31cf35",
+    "elapsedMinutes": [
+      0,
+      58,
+      94,
+      159,
+      205,
+      233,
+      285,
+      418
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "K7572",
+    "category": "K",
+    "stopNames": [
+      "通化",
+      "柳河",
+      "梅河口",
+      "东丰",
+      "辽源",
+      "伊通",
+      "双阳",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/k7572.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "de1ca65fa6366983ad94ba3c1a1288fbec28de15c3ad3e6bf8f62fdde29ebbc5",
+    "elapsedMinutes": [
+      0,
+      104,
+      142,
+      177,
+      224,
+      292,
+      330,
+      392
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T5301",
+    "category": "T",
+    "stopNames": [
+      "长春",
+      "德惠",
+      "陶赖昭",
+      "五棵树",
+      "榆树"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t5301.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "53be195fa9a4743f447be68daff75db6f226b639f287823e3faa6815c0f71882",
+    "elapsedMinutes": [
+      0,
+      51,
+      81,
+      105,
+      142
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T5302",
+    "category": "T",
+    "stopNames": [
+      "榆树",
+      "五棵树",
+      "德惠",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t5302.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "654f27fc667c1e431f8761ea8741578a49edfd2c9419ffb0ad06b2c97ae5d595",
+    "elapsedMinutes": [
+      0,
+      34,
+      80,
+      132
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T5303",
+    "category": "T",
+    "stopNames": [
+      "长春",
+      "德惠",
+      "陶赖昭",
+      "五棵树",
+      "榆树"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t5303.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3efc440e9feed61956cbc9f02313e06af476089a3fb3960ff01207f283a3024c",
+    "elapsedMinutes": [
+      0,
+      41,
+      68,
+      93,
+      130
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "T5306",
+    "category": "T",
+    "stopNames": [
+      "榆树",
+      "五棵树",
+      "陶赖昭",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/t5306.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "908bc211225953b4b26f390982e43f21871d8c6bbd2513e511f4e45a89fc3145",
+    "elapsedMinutes": [
+      0,
+      34,
+      59,
+      132
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Y556",
+    "category": "OTHER",
+    "stopNames": [
+      "敦化",
+      "吉林",
+      "长春",
+      "扶余"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/y556.html",
+    "sourceUpdatedAt": "2026-06-03",
+    "sourceSha256": "9cf625d95dd5bd5b89363899787905213d244e1196a8692b4f090f4ebd780ba3",
+    "elapsedMinutes": [
+      0,
+      217,
+      353,
+      522
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z4065",
+    "category": "Z",
+    "stopNames": [
+      "长春",
+      "德惠",
+      "双城堡",
+      "哈尔滨西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z4065.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "c8d588c495fceea423df0e4500c2c22aee4494db8ee59ef2a15113f7fc1a10db",
+    "elapsedMinutes": [
+      0,
+      38,
+      124,
+      162
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z4066",
+    "category": "Z",
+    "stopNames": [
+      "哈尔滨西",
+      "双城堡",
+      "扶余",
+      "陶赖昭",
+      "德惠",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z4066.html",
+    "sourceUpdatedAt": "2026-08-29",
+    "sourceSha256": "3874b0c786cc81fe4b993efb7a799e2fa179383fda142e41246833a9c6ddded7",
+    "elapsedMinutes": [
+      0,
+      29,
+      79,
+      95,
+      119,
+      171
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z5001",
+    "category": "Z",
+    "stopNames": [
+      "长春",
+      "松原",
+      "大安",
+      "白城"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z5001.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "195a530d0d2636e7589f6d1052b921418388a01f8ae6c3fb37b19bc10d6fa77c",
+    "elapsedMinutes": [
+      0,
+      92,
+      129,
+      201
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z5002",
+    "category": "Z",
+    "stopNames": [
+      "镇赉",
+      "白城",
+      "大安",
+      "松原",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z5002.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "cd4e12898efc7af7faf7dc9f2f81ba9ae9f54b3f0d7d2d784211150768dd592c",
+    "elapsedMinutes": [
+      0,
+      27,
+      93,
+      134,
+      219
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z5003",
+    "category": "Z",
+    "stopNames": [
+      "长春",
+      "松原",
+      "大安",
+      "白城",
+      "镇赉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z5003.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "116b82ffb058b3416dbf2a14dbfb7c086d416d993d2d1175298eafe5cdc5add1",
+    "elapsedMinutes": [
+      0,
+      78,
+      113,
+      184,
+      219
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z5004",
+    "category": "Z",
+    "stopNames": [
+      "镇赉",
+      "白城",
+      "大安",
+      "松原",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z5004.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "495dd598db33c55a57f1f967549dfe3d5bb814e37bda8f254cdddb7549d3f6b3",
+    "elapsedMinutes": [
+      0,
+      27,
+      91,
+      130,
+      214
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z5005",
+    "category": "Z",
+    "stopNames": [
+      "长春",
+      "松原",
+      "大安",
+      "白城",
+      "镇赉"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z5005.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "617f059a173976f2aa1bfc601f6ab95818202042bd13b87dcae6b293796f49a3",
+    "elapsedMinutes": [
+      0,
+      78,
+      113,
+      184,
+      219
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "Z5006",
+    "category": "Z",
+    "stopNames": [
+      "白城",
+      "大安",
+      "松原",
+      "长春"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/z5006.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "584ac74392a51b407570aae576dad1b3f28afbf0fbecb7bb91cb66e52a4c7f2f",
+    "elapsedMinutes": [
+      0,
+      63,
+      104,
+      221
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

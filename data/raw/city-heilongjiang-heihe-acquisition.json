@@ -1,0 +1,12 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "黑河",
+  "stationCount": 15,
+  "candidateServices": 63,
+  "acquiredAdditionalServices": 3,
+  "failedPages": [],
+  "stationIssues": [
+    "二井",
+    "新高峰"
+  ]
+}

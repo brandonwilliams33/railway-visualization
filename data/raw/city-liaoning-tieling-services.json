@@ -1,0 +1,24 @@
+[
+  {
+    "trainNumber": "G8104",
+    "category": "G",
+    "stopNames": [
+      "长春",
+      "四平东",
+      "昌图西"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/g8104.html",
+    "sourceUpdatedAt": "2026-06-29",
+    "sourceSha256": "7d40cca5e1aaa30a3c89babaa672349593712b3fefdf960395cb25d0d93460ab",
+    "elapsedMinutes": [
+      0,
+      33,
+      51
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

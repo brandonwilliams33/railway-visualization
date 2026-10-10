@@ -1,0 +1,12 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "锡林郭勒",
+  "stationCount": 22,
+  "candidateServices": 118,
+  "acquiredAdditionalServices": 0,
+  "failedPages": [],
+  "stationIssues": [
+    "苏尼特左旗",
+    "阿巴嘎旗"
+  ]
+}

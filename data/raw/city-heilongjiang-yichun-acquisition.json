@@ -1,0 +1,18 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "伊春",
+  "stationCount": 28,
+  "candidateServices": 59,
+  "acquiredAdditionalServices": 6,
+  "failedPages": [],
+  "stationIssues": [
+    "圣浪",
+    "威岭",
+    "小白",
+    "松青",
+    "王杨",
+    "界山",
+    "石长",
+    "绿潭"
+  ]
+}

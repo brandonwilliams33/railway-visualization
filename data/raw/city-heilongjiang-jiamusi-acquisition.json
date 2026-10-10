@@ -1,0 +1,13 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "佳木斯",
+  "stationCount": 22,
+  "candidateServices": 215,
+  "acquiredAdditionalServices": 10,
+  "failedPages": [],
+  "stationIssues": [
+    "兴莲",
+    "望江",
+    "莲江口"
+  ]
+}

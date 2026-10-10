@@ -1,0 +1,14 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "呼和浩特",
+  "stationCount": 6,
+  "candidateServices": 560,
+  "acquiredAdditionalServices": 188,
+  "failedPages": [
+    {
+      "trainNumber": "D2824",
+      "error": "No complete passenger stop table"
+    }
+  ],
+  "stationIssues": []
+}

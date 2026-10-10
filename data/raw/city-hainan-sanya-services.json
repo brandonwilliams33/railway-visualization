@@ -1,0 +1,1034 @@
+[
+  {
+    "trainNumber": "S6701",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6701.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8d99942b53ac6cc9345bea67e4fbc8fd50288ff0ce36462c568fc006151a7918",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6702",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6702.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5d43426831c43a47de2be669720921de7f031ee6979a5ef76b49ff7593395e86",
+    "elapsedMinutes": [
+      0,
+      12,
+      22,
+      29,
+      37
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6703",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6703.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ac77b47ad2518b967c4f0fd9372f872b19aaf63d135a47246a4490631ea0df26",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6704",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6704.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "0d710a8917238c030644773cc8cbcfb4bcac5ecef2013ce3b1ef1580b9f93eac",
+    "elapsedMinutes": [
+      0,
+      8,
+      17,
+      27,
+      34,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6705",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6705.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "28ba8badae3d25e42670be1859ea3d68765f410f8119cda6bddf729d2e409979",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      46
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6706",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6706.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "677f9c7b9ce4d76ae4d78fe4f2a93a404ab84c05cd1d21d9eafa78ab066de751",
+    "elapsedMinutes": [
+      0,
+      8,
+      17,
+      27,
+      34,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6707",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6707.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "884f0dc57f680f28565aa65465d53353449bba75513150d61b9fa679444feb74",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6708",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6708.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a8e29190dcd0e795892e256e50f2012703a91964e058d2a08db544fb626c7f1f",
+    "elapsedMinutes": [
+      0,
+      8,
+      17,
+      27,
+      34,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6709",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6709.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "211914c2642aac4a936c9db13d5d747d4edb240fca8c8b4521da1cfd5cb6afe0",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6710",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6710.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1ba757e073fe25ff90ba665ab23591fb2b613333bf6b07754dc5d29bb59ba822",
+    "elapsedMinutes": [
+      0,
+      8,
+      17,
+      27,
+      34,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6711",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6711.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "5efbca1fd2433debf7f0004f4dd32b4dbdb172a7cdf97e21e3c88f71b6d90c9f",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6712",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6712.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "66b86600e85ccbb2732d214c90ff88610927c09641e262fea2cacaaef8a61885",
+    "elapsedMinutes": [
+      0,
+      8,
+      17,
+      27,
+      34,
+      45
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6713",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6713.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a22077caffa205cebafb906a037decc5987c47ea228ecd6b445af54f5270b0b6",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6714",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6714.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9ae5c6ff08ced861707f873202a8c23d128d6b065f0fb7fd305c4bede619c8e9",
+    "elapsedMinutes": [
+      0,
+      8,
+      17,
+      27,
+      34,
+      42
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6715",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6715.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bbb72fba5130245704cba294e364248ee0625fa1f26a92404f09db720f806f7e",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6716",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6716.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "eff97b6c766513e816513e83fa97e7f5f8c2e1f9a1c6eafadc0a096d087a499d",
+    "elapsedMinutes": [
+      0,
+      8,
+      17,
+      27,
+      34,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6717",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6717.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d30871032d0316cfa504bffb4156739704c3d174b5d7b89aa3594265621616bf",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6718",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6718.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "e1a38f35f191dcd258fd44d9d537c719700c7b6df8605dff712937e3a984e2ce",
+    "elapsedMinutes": [
+      0,
+      8,
+      17,
+      27,
+      34,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6719",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6719.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "13a0ef399d158939042b5c9396bdfef2f15db5ca4f598f30117173d3e87df6c4",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6720",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6720.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "156cff8ad9ae78486f234ac3b4ff7de4cf78901c2af53b6e5b01fe5818c06de7",
+    "elapsedMinutes": [
+      0,
+      8,
+      17,
+      27,
+      34,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6721",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6721.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "23c0e70e8b4ee3934a573f620c44a565c53a54b01e5641ca6c2b0f888d3d0d5f",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6722",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6722.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c43b821d4689fce8e2fc21f1f85519ea2d597073cae4bb02abe51b9a98f2f873",
+    "elapsedMinutes": [
+      0,
+      9,
+      18,
+      28,
+      36,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6729",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6729.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "abf9208cab64d511560b990bb439d8534021b13989acd954c45b4cdb918f7319",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      42
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6730",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6730.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "350f830244071b753785cf126c82ae306ffa9075261ed14f5a71f35ecf19668e",
+    "elapsedMinutes": [
+      0,
+      9,
+      17,
+      27,
+      35,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6731",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6731.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fd33f811396bc3ac03c3c48f61a24645a8a5c29b24436b0f5f7e3bc3755ac183",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6732",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6732.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6d88f389d24636e84ffe7966b698e22448d5c73ae441ca8f561f0a93bce99f87",
+    "elapsedMinutes": [
+      0,
+      8,
+      17,
+      27,
+      34,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6733",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6733.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "dee97d0c9c1d56883843157db12711ab2e2abaeb141fc1576c297848dd19f2a5",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6734",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6734.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "1a2966f97c4d526d1836c91142527720ea23f6e0107db7ad49287db4c7edbecd",
+    "elapsedMinutes": [
+      0,
+      8,
+      17,
+      27,
+      34,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6735",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6735.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2a1e742fd612954dd5d96ef1f597e44e64425c921b0d78caa07a92c7b6db7553",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6736",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6736.html",
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "c2ac27b7b010280b3253e953c0e20d4590a860b29e3457068c14862354d1e36e",
+    "elapsedMinutes": [
+      0,
+      9,
+      19,
+      29,
+      36,
+      45
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6737",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6737.html",
+    "sourceUpdatedAt": "2026-04-13",
+    "sourceSha256": "e3603c334da300e79c7c7940fa1f7658e65ca180bef8f8ca716f1fcd37ec7b60",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6738",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6738.html",
+    "sourceUpdatedAt": "2026-04-13",
+    "sourceSha256": "607b3487aaec5fd5ff82034dd19899cd96238503797a80084698b96fa517f986",
+    "elapsedMinutes": [
+      0,
+      8,
+      17,
+      27,
+      34,
+      44
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6739",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6739.html",
+    "sourceUpdatedAt": "2026-04-13",
+    "sourceSha256": "fde4f3ec84c9df5c5d118a69ccbbe121e1e3c99a800e32c2ce3cac59588f7cb4",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6740",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6740.html",
+    "sourceUpdatedAt": "2026-04-13",
+    "sourceSha256": "10328a5a8e10d53e79b93d8b161ab022646f0d072428319828326c2054d0376e",
+    "elapsedMinutes": [
+      0,
+      8,
+      17,
+      27,
+      34,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6741",
+    "category": "OTHER",
+    "stopNames": [
+      "崖州",
+      "崖州湾",
+      "南山北",
+      "天涯海角",
+      "凤凰机场",
+      "三亚"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6741.html",
+    "sourceUpdatedAt": "2026-04-13",
+    "sourceSha256": "ebe75118e2a5356d1959121ef44e81e61cf5cf5ca1659b552ceff55c598f438a",
+    "elapsedMinutes": [
+      0,
+      5,
+      13,
+      23,
+      33,
+      45
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6742",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6742.html",
+    "sourceUpdatedAt": "2026-04-13",
+    "sourceSha256": "5862ed1a1d3b31aa36d6a31d7d602468541bc77a17b9cf8bc0ca9a89f79e1c84",
+    "elapsedMinutes": [
+      0,
+      12,
+      22,
+      29,
+      38
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  },
+  {
+    "trainNumber": "S6744",
+    "category": "OTHER",
+    "stopNames": [
+      "三亚",
+      "凤凰机场",
+      "天涯海角",
+      "南山北",
+      "崖州湾",
+      "崖州"
+    ],
+    "passenger": true,
+    "sourceUrl": "https://www.crecc.com/huoche/s6744.html",
+    "sourceUpdatedAt": "2026-04-13",
+    "sourceSha256": "694893eded0bc21283a929f9bdb9a0fdac7b8520e1ccc00fa456a926ef603303",
+    "elapsedMinutes": [
+      0,
+      8,
+      17,
+      27,
+      34,
+      43
+    ],
+    "sourceValidation": {
+      "elapsedTimeMonotonic": true,
+      "regressionRows": []
+    }
+  }
+]

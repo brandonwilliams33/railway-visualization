@@ -236,6 +236,48 @@
       "coordinateSource": "https://www.openstreetmap.org/node/7783459218",
       "identitySource": "https://www.beijing.gov.cn/ywdt/zwzt/jjjyth/jtxx/201905/t20190524_1820033.html",
       "coordinateNote": "精确中文客运车站节点；政府唐曹客运铁路站序确认身份，补足粗略沿海行政面未覆盖的点位。"
+    },
+    {
+      "id": "st-osm-node-9118892091",
+      "name": "营盘水",
+      "city": "中卫",
+      "province": "宁夏",
+      "provinceId": "ningxia",
+      "longitude": 104.3105641,
+      "latitude": 37.4449062,
+      "isHub": false,
+      "major": false,
+      "coordinateSource": "https://www.openstreetmap.org/node/9118892091",
+      "identitySource": "https://xinwen.bjd.com.cn/content/s66445a39e4b0f5cd59e2a87d.html",
+      "coordinateNote": "独立铁路车站原始点；铁路运营方/地方政府身份资料确认归属，补足粗略省界面误判。"
+    },
+    {
+      "id": "st-osm-node-8100864291",
+      "name": "长庆桥",
+      "city": "庆阳",
+      "province": "甘肃",
+      "provinceId": "gansu",
+      "longitude": 107.7476153,
+      "latitude": 35.3146983,
+      "isHub": false,
+      "major": false,
+      "coordinateSource": "https://www.openstreetmap.org/node/8100864291",
+      "identitySource": "https://www.ningxian.gov.cn/Upload/zrzyj/InfoPublicity/PublicInformation/File/2025/05/27/202505270938515431.pdf",
+      "coordinateNote": "独立铁路车站原始点；铁路运营方/地方政府身份资料确认归属，补足粗略省界面误判。"
+    },
+    {
+      "id": "st-osm-node-2662698005",
+      "name": "阿拉山口",
+      "city": "博州",
+      "province": "新疆",
+      "provinceId": "xinjiang",
+      "longitude": 82.5704564,
+      "latitude": 45.1702695,
+      "isHub": false,
+      "major": false,
+      "coordinateSource": "https://www.openstreetmap.org/node/2662698005",
+      "identitySource": "https://www.xinjiang.gov.cn/xinjiang/dzdt/202307/51e52156527040ffbc34245740a82c25.shtml",
+      "coordinateNote": "原始铁路车站点及中文名；自治区政府所载口岸实地报道确认新疆博尔塔拉归属，补足粗略国界面误判。"
     }
   ]
 }

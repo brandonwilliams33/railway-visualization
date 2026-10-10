@@ -1,0 +1,450 @@
+[
+  {
+    "name": "加格达奇",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/jiagedaqi.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246",
+      "K2061",
+      "K2062",
+      "K4411",
+      "K4412",
+      "K4413",
+      "K4414",
+      "K4867",
+      "K4868",
+      "K489",
+      "K490",
+      "K497",
+      "K498",
+      "K5159",
+      "K5160",
+      "K5171",
+      "K5172",
+      "K5173",
+      "K5174",
+      "K7037",
+      "K7038",
+      "K7039",
+      "K7040",
+      "K7041",
+      "K7042",
+      "K7093",
+      "K7094",
+      "K7096",
+      "K7097",
+      "K7103",
+      "K7104",
+      "Y769",
+      "Y783",
+      "Y786"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "02a9e6e05bc40154c7196b899a8f0604616cf69976813d3d3c5223b47aeae12c",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "劲松",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/jinsong.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "4e8e65429c8eaea26bd267cbfe3662121ea9ac0b9f0edfb6d359903151b2f432",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "古源",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/guyuan.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "bf7f079b93c58c43f3c5bcec2d11b71c57b622933eb775f077d8da61ef5ffd2b",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "古莲",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/gulian.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9c86adf19dbb2f350086369dff97c0741a7680b43dd4711f9b29d2bb620e8cb6",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "图强",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/tuqiang.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f5f7ecdc0ef4ed2528f46c5f72dfd61e55a69e5042d9d4c7a16d9cd24f3ab94f",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "塔尔根",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/taergen.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "223be58c5ad3231da7fd585d73bf6b4fcb69cf4555ca52d8f32cd7b9c6885538",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "塔河",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/tahe.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246",
+      "K5172",
+      "K5173",
+      "K7037",
+      "K7038",
+      "K7039",
+      "K7040",
+      "K7041",
+      "K7042",
+      "Y675",
+      "Y676",
+      "Y677",
+      "Y678",
+      "Y679",
+      "Y685",
+      "Y769",
+      "Y783",
+      "Y786"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "903ec70be47f48bc0264ccce9e941cca11e96ff86ec3bbc684f812167d7411d1",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "塔源",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/tayuan.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a1fff276f7a5773ef91fa20820635694132dd52e96ac22a4dd3c8e650468084d",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "大乌苏",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/dawusu.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "47f061fbf18570bac06094523e29847232c1507e87cfe588cdba9b3b7c6e935f",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "大扬气",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/dayangqi.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "490527bd5752b34f2547b2709cbf538992d4378e10c64e9b524e972ddf6f4bab",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "太阳沟",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/taiyanggou.html",
+    "candidateTrainNumbers": [
+      "6245"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d12f171068b650511423a9a7e8c367f6862e0edf8884676398bad9970e32952a",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "小扬气",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/xiaoyangqi.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246",
+      "K7041"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a1a0cb3a80ebcfc4c3696fe063489b85a868836dc7357a1eeeea5db2277e2611",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "新天",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/xintian.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "b94a32b93f5fe9b5db50de86738fbb7b9fff68265dfeb7a77c624e9e41582139",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "新林",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/xinlin.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246",
+      "K7041",
+      "K7042"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "48cbe0bfa83b1c924a34135370d2279ee27625b2bd4ec37191e60f905f6df01d",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "松树林",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/songshulin.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246",
+      "K5160"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "940f40e7ca78e63ab7079a4f9cb8c7e077a843376bed11767c7b49dd047f0044",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "林海",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/linhai.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "9866dbc8c26e7c15e7b3f063cd75a57c80f392cbb34420e15ddef66f6b992b99",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "漠河",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/mohe.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246",
+      "K5159",
+      "K5160",
+      "K5171",
+      "K5172",
+      "K5173",
+      "K5174",
+      "K7037",
+      "K7038",
+      "K7039",
+      "K7040",
+      "K7041",
+      "K7042",
+      "Y675",
+      "Y676",
+      "Y677",
+      "Y678",
+      "Y679",
+      "Y685",
+      "Y769",
+      "Y783",
+      "Y784",
+      "Y785",
+      "Y786"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d58c3df16da1a089b218afd05722fc7b2d483912698a5e631f91123d6badedf7",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "瓦拉干",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/walagan.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "fd8f3fc89eca5ad6568529d3bfa5becfab5d4aa94960b25478d433dc94a97401",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "白桦排",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/baihuapai.html",
+    "candidateTrainNumbers": [],
+    "sourceUpdatedAt": "",
+    "sourceSha256": "0ea3eac022d589a6abcc430c37acad077e83073195fde40d58755355e82992ff",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "碧州",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/bizhou.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "2cdec627f1aab0828abedaf2ba94eaf5ca27e9e095a96ccb876763a14079c8d5",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "绣峰",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/xiufeng.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "61f7cd254ab2e309e460192af22343155e03db97a96fa47f5271f288aba4a2bc",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "翠岗",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/cuigang.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "3b55efc0543a552af14c7bdd5b1fa575903f084437fe2d205fd2bab622296077",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "翠峰",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/cuifeng.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "09a6f40709ffde90e5e85c8b1262a523ae64bb479c239513f894e28e61b468f6",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "聂河",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/niehe.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "f6becd981f9ce8ced2496b9f63542fd621b588bff4bd12706afe5f63f145eec0",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "阿木尔",
+    "city": "大兴安岭",
+    "cityId": "heilongjiang-daxinganling",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "sourceUrl": "https://www.crecc.com/heilongjiang/daxinganling/amuer.html",
+    "candidateTrainNumbers": [
+      "6245",
+      "6246"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "55b33adc672e03ae945ca7225db3e036a93f3bdca78e2a8ae54c9e345d501eef",
+    "retrievedAt": "2026-10-10"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "retrievedAt": "2026-10-10",
+  "city": "沈阳",
+  "stationCount": 11,
+  "candidateServices": 1322,
+  "acquiredAdditionalServices": 507,
+  "failedPages": [],
+  "stationIssues": [
+    "林盛堡"
+  ]
+}

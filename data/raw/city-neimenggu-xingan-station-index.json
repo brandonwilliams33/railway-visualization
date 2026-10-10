@@ -1,0 +1,272 @@
+[
+  {
+    "name": "乌兰浩特",
+    "city": "兴安",
+    "cityId": "neimenggu-xingan",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "sourceUrl": "https://www.crecc.com/neimenggu/xingan/wulanhaote.html",
+    "candidateTrainNumbers": [
+      "C502",
+      "C503",
+      "C508",
+      "C509",
+      "C512",
+      "C517",
+      "C519",
+      "K1189",
+      "K1190",
+      "K1533",
+      "K1534",
+      "K1817",
+      "K1818",
+      "K1819",
+      "K1820",
+      "K2011",
+      "K2012",
+      "K2013",
+      "K2014",
+      "K4155",
+      "K4156",
+      "K4157",
+      "K4158",
+      "K4410",
+      "K4683",
+      "K4686",
+      "K7305",
+      "K7306",
+      "K7565",
+      "K7566",
+      "K7595",
+      "K7596",
+      "K955",
+      "K956",
+      "K957",
+      "K958",
+      "Y215",
+      "Y216",
+      "Y217",
+      "Y218",
+      "Y514",
+      "Y546",
+      "Y547",
+      "Y597",
+      "Y598"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "a282391c3ea59330a0e23a369b203700188ef48a3afb4837a3cccf8390db1742",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "二龙屯",
+    "city": "兴安",
+    "cityId": "neimenggu-xingan",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "sourceUrl": "https://www.crecc.com/neimenggu/xingan/erlongtun.html",
+    "candidateTrainNumbers": [
+      "K2011",
+      "K2012",
+      "K2013",
+      "K2014"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8c0ee5fac05d7ac0e741c4346437da8763d3655674f138fe5e803d15cce92a7f",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "五叉沟",
+    "city": "兴安",
+    "cityId": "neimenggu-xingan",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "sourceUrl": "https://www.crecc.com/neimenggu/xingan/wuchagou.html",
+    "candidateTrainNumbers": [
+      "K7565",
+      "K7566",
+      "K7595",
+      "K7596",
+      "Y216",
+      "Y217"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "caac66a7ecfff718a1a00742a3cc131b3026c0cf304c37da651b5ea3184d16dc",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "吐列毛杜",
+    "city": "兴安",
+    "cityId": "neimenggu-xingan",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "sourceUrl": "https://www.crecc.com/neimenggu/xingan/tuliemaodu.html",
+    "candidateTrainNumbers": [
+      "K7533",
+      "K7534"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d5ac5f587503d60a145bd9c738fc67aa0a6f219576d34c4e5e80e3ba46a72b0f",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "哈日努拉",
+    "city": "兴安",
+    "cityId": "neimenggu-xingan",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "sourceUrl": "https://www.crecc.com/neimenggu/xingan/harinula.html",
+    "candidateTrainNumbers": [
+      "K2011",
+      "K2012",
+      "K2013",
+      "K2014",
+      "K7533",
+      "K7534"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "d383ff02520f754a6f94b2c77cdfe4a179d8c4c865c0017ad92bda2a28c6dda5",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "大石寨",
+    "city": "兴安",
+    "cityId": "neimenggu-xingan",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "sourceUrl": "https://www.crecc.com/neimenggu/xingan/dashizhai.html",
+    "candidateTrainNumbers": [
+      "K7595",
+      "K7596"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "410fb7c6371d7a426101b1b0f8967facfdc55822abf3d60e11efac6f3d142375",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "明水河",
+    "city": "兴安",
+    "cityId": "neimenggu-xingan",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "sourceUrl": "https://www.crecc.com/neimenggu/xingan/mingshuihe.html",
+    "candidateTrainNumbers": [
+      "K7595",
+      "K7596"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "26db0be8a41481f1c9194fa428bfcc2b5fc9885504245c48a77ae791e3fe09d6",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "白狼",
+    "city": "兴安",
+    "cityId": "neimenggu-xingan",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "sourceUrl": "https://www.crecc.com/neimenggu/xingan/bailang.html",
+    "candidateTrainNumbers": [
+      "K7566",
+      "K7595",
+      "K7596"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "65ecc0bb4620b4697af8711b982ce66e6fad36ee787e1ae275315224693312d2",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "白音胡硕",
+    "city": "兴安",
+    "cityId": "neimenggu-xingan",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "sourceUrl": "https://www.crecc.com/neimenggu/xingan/baiyinhushuo.html",
+    "candidateTrainNumbers": [
+      "K7533",
+      "K7534",
+      "K7535",
+      "K7536",
+      "K7537",
+      "K7538"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "8edbbf7b2f095a33fb9da11e483a664f7b629cf092dd04cc887f81cbe80af5a7",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "索伦",
+    "city": "兴安",
+    "cityId": "neimenggu-xingan",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "sourceUrl": "https://www.crecc.com/neimenggu/xingan/suolun.html",
+    "candidateTrainNumbers": [
+      "K7565",
+      "K7566",
+      "K7595",
+      "K7596",
+      "Y216",
+      "Y217"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "ecd14ecb8a1637743d01f1a4b885659e9c4f7e5f2c9d9c448d7194da152bb8b9",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "葛根庙",
+    "city": "兴安",
+    "cityId": "neimenggu-xingan",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "sourceUrl": "https://www.crecc.com/neimenggu/xingan/gegenmiao.html",
+    "candidateTrainNumbers": [
+      "C508"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "252d1f1416874b7eb429c4f20d26f750997f5c0b4721a8c9ba259026c9ec81aa",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "西哲里木",
+    "city": "兴安",
+    "cityId": "neimenggu-xingan",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "sourceUrl": "https://www.crecc.com/neimenggu/xingan/xizhelimu.html",
+    "candidateTrainNumbers": [
+      "K7533",
+      "K7534",
+      "K7535",
+      "K7536",
+      "K7537",
+      "K7538"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "73003a5b30a83b2c5a61c46124fe6bceb98b5b87ecb7a6b576f5e2c180d16e9f",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "阿尔山",
+    "city": "兴安",
+    "cityId": "neimenggu-xingan",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "sourceUrl": "https://www.crecc.com/neimenggu/xingan/aershan.html",
+    "candidateTrainNumbers": [
+      "K7565",
+      "K7566",
+      "K7595",
+      "K7596",
+      "Y215",
+      "Y216",
+      "Y217",
+      "Y218",
+      "Y514",
+      "Y545",
+      "Y597",
+      "Y598"
+    ],
+    "sourceUpdatedAt": "2026-09-11",
+    "sourceSha256": "6ad6f42a13db4b3f9330dceb803725662321588837aab8caef866e6adc02af8c",
+    "retrievedAt": "2026-10-10"
+  }
+]
