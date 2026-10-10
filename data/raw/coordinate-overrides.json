@@ -1,5 +1,5 @@
 {
-  "retrievedAt": "2026-10-08",
+  "retrievedAt": "2026-10-10",
   "notes": {
     "常山": "Exact Chinese railway station inside Zhejiang; Japanese homonym excluded.",
     "郏县": "OSM node linked to Wikidata Q67934462, the Zhengzhou–Chongqing high-speed railway station.",
@@ -278,6 +278,104 @@
       "coordinateSource": "https://www.openstreetmap.org/node/2662698005",
       "identitySource": "https://www.xinjiang.gov.cn/xinjiang/dzdt/202307/51e52156527040ffbc34245740a82c25.shtml",
       "coordinateNote": "原始铁路车站点及中文名；自治区政府所载口岸实地报道确认新疆博尔塔拉归属，补足粗略国界面误判。"
+    },
+    {
+      "id": "st-osm-node-9137876527",
+      "name": "桃山",
+      "city": "伊春",
+      "province": "黑龙江",
+      "provinceId": "heilongjiang",
+      "longitude": 128.1735048,
+      "latitude": 46.9228136,
+      "isHub": false,
+      "major": false,
+      "coordinateSource": "https://www.openstreetmap.org/node/9137876527",
+      "identitySource": "https://www.hljszw.org.cn/pdf/20241209/铁力年鉴2021.pdf",
+      "note": "原始独立站点与运营方、站码、目录城市和同一服务邻站交叉核验；保留其他同名原始对象，未合并。"
+    },
+    {
+      "id": "st-osm-node-2344167674",
+      "name": "四方台",
+      "city": "绥化",
+      "province": "黑龙江",
+      "provinceId": "heilongjiang",
+      "longitude": 126.989429,
+      "latitude": 46.9209145,
+      "isHub": false,
+      "major": false,
+      "coordinateSource": "https://www.openstreetmap.org/node/2344167674",
+      "identitySource": "https://www.suihuaxw.org.cn/paper/shwb/pc/content/202404/26/content_85064.html",
+      "note": "原始独立站点与运营方、站码、目录城市和同一服务邻站交叉核验；保留其他同名原始对象，未合并。"
+    },
+    {
+      "id": "st-osm-node-9169253672",
+      "name": "三家子",
+      "city": "通辽",
+      "province": "内蒙古",
+      "provinceId": "neimenggu",
+      "longitude": 121.9356925,
+      "latitude": 42.8035517,
+      "isHub": false,
+      "major": false,
+      "coordinateSource": "https://www.openstreetmap.org/node/9169253672",
+      "identitySource": "https://www.openstreetmap.org/node/9169253672",
+      "note": "原始独立站点与运营方、站码、目录城市和同一服务邻站交叉核验；保留其他同名原始对象，未合并。"
+    },
+    {
+      "id": "st-osm-node-9129186251",
+      "name": "古城",
+      "city": "齐齐哈尔",
+      "province": "黑龙江",
+      "provinceId": "heilongjiang",
+      "longitude": 125.6736189,
+      "latitude": 47.9592256,
+      "isHub": false,
+      "major": false,
+      "coordinateSource": "https://www.openstreetmap.org/node/9129186251",
+      "identitySource": "https://www.openstreetmap.org/node/9129186251",
+      "note": "原始独立节点与完整同一服务停站交叉核验；原错误省级目录条目已单独纠正。古城与古城镇不是同一车站。"
+    },
+    {
+      "id": "st-osm-node-1252110339",
+      "name": "盘古",
+      "city": "大兴安岭",
+      "province": "黑龙江",
+      "provinceId": "heilongjiang",
+      "longitude": 123.8720533,
+      "latitude": 52.7031548,
+      "isHub": false,
+      "major": false,
+      "coordinateSource": "https://www.openstreetmap.org/node/1252110339",
+      "identitySource": "https://dxalth.gov.cn/dxalth/c100923/202108/c13_95149.shtml",
+      "note": "原始独立节点与完整同一服务停站交叉核验；原错误省级目录条目已单独纠正。古城与古城镇不是同一车站。"
+    },
+    {
+      "id": "st-osm-node-2662698002",
+      "name": "艾家村",
+      "city": "吴忠",
+      "province": "宁夏",
+      "provinceId": "ningxia",
+      "longitude": 105.7723385,
+      "latitude": 37.1586771,
+      "isHub": false,
+      "major": false,
+      "coordinateSource": "https://www.openstreetmap.org/node/2662698002",
+      "identitySource": "https://www.12306.cn/%2Fmormhweb/kyyyz/lanzhou/201001/t20100124_1191.html",
+      "note": "宁夏局部精确中文铁路对象查询取得独立halt节点，配合铁路12306站址与政府公布的现状宝中站序核验。未使用城市中心或铁路区间插值。"
+    },
+    {
+      "id": "st-osm-node-11938234794",
+      "name": "褚家湾",
+      "city": "中卫",
+      "province": "宁夏",
+      "provinceId": "ningxia",
+      "longitude": 106.1144184,
+      "latitude": 36.3946832,
+      "isHub": false,
+      "major": false,
+      "coordinateSource": "https://www.openstreetmap.org/node/11938234794",
+      "identitySource": "https://www.12306.cn/%2Fmormhweb/kyyyz/lanzhou/201001/t20100124_1191.html",
+      "note": "宁夏局部精确中文铁路对象查询取得独立halt节点，配合铁路12306站址与政府公布的现状宝中站序核验。未使用城市中心或铁路区间插值。"
     }
   ]
 }

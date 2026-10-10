@@ -314,6 +314,20 @@
     "coordinateSource": "https://github.com/listenzcc/China-rail-way-stations-data/blob/main/src/station.csv"
   },
   {
+    "id": "st-osm-node-9169253672",
+    "name": "三家子",
+    "city": "通辽",
+    "province": "内蒙古",
+    "provinceId": "neimenggu",
+    "longitude": 121.9356925,
+    "latitude": 42.8035517,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/9169253672",
+    "identitySource": "https://www.openstreetmap.org/node/9169253672",
+    "note": "原始独立站点与运营方、站码、目录城市和同一服务邻站交叉核验；保留其他同名原始对象，未合并。"
+  },
+  {
     "id": "st-osm-node-2323960864",
     "name": "三家寨",
     "city": "六盘水",
@@ -6182,26 +6196,38 @@
   {
     "id": "st-wikidata-q10900832",
     "name": "加格达奇",
-    "city": "城市待核验",
-    "province": "内蒙古",
-    "provinceId": "neimenggu",
+    "city": "大兴安岭",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
     "longitude": 124.1187,
     "latitude": 50.4187,
     "isHub": false,
     "major": false,
-    "coordinateSource": "https://www.wikidata.org/wiki/Q10900832"
+    "coordinateSource": "https://www.wikidata.org/wiki/Q10900832",
+    "geographicProvince": "内蒙古",
+    "identitySources": [
+      "https://jgdq.gov.cn/jgdq/c100757/zoujin.shtml",
+      "https://hlj.gov.cn/hlj/c108433/202505/c00_31843135.shtml"
+    ],
+    "identityNote": "入口按黑龙江省大兴安岭行政管理归属分类；保留内蒙古地理省界事实、原独立站点 ID 和坐标，不改变轨道位置。松岭规划第149条确认古源、劲松、新天为现状火车场站；小扬气独立铁路节点、镇政府护路记录与铁路12306站名交叉核验。"
   },
   {
     "id": "st-osm-node-1252233943",
     "name": "劲松",
-    "city": "呼伦贝尔",
-    "province": "内蒙古",
-    "provinceId": "neimenggu",
+    "city": "大兴安岭",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
     "longitude": 124.1809844,
     "latitude": 51.0656774,
     "isHub": false,
     "major": false,
-    "coordinateSource": "https://www.openstreetmap.org/node/1252233943"
+    "coordinateSource": "https://www.openstreetmap.org/node/1252233943",
+    "geographicProvince": "内蒙古",
+    "identitySources": [
+      "https://www.hlj.gov.cn/hlj/c108500/list_left_tt.shtml",
+      "https://songling.gov.cn/songling/c100298/202411/297921/files/《松岭区国土空间总体规划（2021-2035年）》（公开版）.pdf"
+    ],
+    "identityNote": "入口按黑龙江省大兴安岭行政管理归属分类；保留内蒙古地理省界事实、原独立站点 ID 和坐标，不改变轨道位置。松岭规划第149条确认古源、劲松、新天为现状火车场站；小扬气独立铁路节点、镇政府护路记录与铁路12306站名交叉核验。"
   },
   {
     "id": "st-osm-node-2329802050",
@@ -8254,6 +8280,20 @@
     "coordinateNote": "精确中文铁路车站节点；依据政府地点/行政归属资料补足粗略省界面不准确的点位。"
   },
   {
+    "id": "st-osm-node-9129186251",
+    "name": "古城",
+    "city": "齐齐哈尔",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "longitude": 125.6736189,
+    "latitude": 47.9592256,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/9129186251",
+    "identitySource": "https://www.openstreetmap.org/node/9129186251",
+    "note": "原始独立节点与完整同一服务停站交叉核验；原错误省级目录条目已单独纠正。古城与古城镇不是同一车站。"
+  },
+  {
     "id": "st-osm-node-8417601180",
     "name": "古城东",
     "city": "亳州",
@@ -8331,14 +8371,20 @@
   {
     "id": "st-osm-node-1252233958",
     "name": "古源",
-    "city": "呼伦贝尔",
-    "province": "内蒙古",
-    "provinceId": "neimenggu",
+    "city": "大兴安岭",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
     "longitude": 124.3124258,
     "latitude": 50.9193436,
     "isHub": false,
     "major": false,
-    "coordinateSource": "https://www.openstreetmap.org/node/1252233958"
+    "coordinateSource": "https://www.openstreetmap.org/node/1252233958",
+    "geographicProvince": "内蒙古",
+    "identitySources": [
+      "https://www.hlj.gov.cn/hlj/c108500/list_left_tt.shtml",
+      "https://songling.gov.cn/songling/c100298/202411/297921/files/《松岭区国土空间总体规划（2021-2035年）》（公开版）.pdf"
+    ],
+    "identityNote": "入口按黑龙江省大兴安岭行政管理归属分类；保留内蒙古地理省界事实、原独立站点 ID 和坐标，不改变轨道位置。松岭规划第149条确认古源、劲松、新天为现状火车场站；小扬气独立铁路节点、镇政府护路记录与铁路12306站名交叉核验。"
   },
   {
     "id": "st-osm-node-2927491272",
@@ -9999,6 +10045,20 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/2155516446",
     "coordinateKey": "node/2155516446",
     "timetableStationUrl": "https://www.crecc.com/jilin/siping/sipingdong.html"
+  },
+  {
+    "id": "st-osm-node-2344167674",
+    "name": "四方台",
+    "city": "绥化",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "longitude": 126.989429,
+    "latitude": 46.9209145,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/2344167674",
+    "identitySource": "https://www.suihuaxw.org.cn/paper/shwb/pc/content/202404/26/content_85064.html",
+    "note": "原始独立站点与运营方、站码、目录城市和同一服务邻站交叉核验；保留其他同名原始对象，未合并。"
   },
   {
     "id": "st-osm-node-2348136437",
@@ -14584,14 +14644,21 @@
   {
     "id": "st-osm-node-1725778036",
     "name": "小扬气",
-    "city": "呼伦贝尔",
-    "province": "内蒙古",
-    "provinceId": "neimenggu",
+    "city": "大兴安岭",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
     "longitude": 124.2793793,
     "latitude": 50.7938923,
     "isHub": false,
     "major": false,
-    "coordinateSource": "https://www.openstreetmap.org/node/1725778036"
+    "coordinateSource": "https://www.openstreetmap.org/node/1725778036",
+    "geographicProvince": "内蒙古",
+    "identitySources": [
+      "https://www.hlj.gov.cn/hlj/c108500/list_left_tt.shtml",
+      "https://www.songling.gov.cn/songling/c100261/202512/c13_326257.shtml",
+      "https://kyfw.12306.cn/mormhweb/hyfw/fwcczhxx/fwxmb/"
+    ],
+    "identityNote": "入口按黑龙江省大兴安岭行政管理归属分类；保留内蒙古地理省界事实、原独立站点 ID 和坐标，不改变轨道位置。松岭规划第149条确认古源、劲松、新天为现状火车场站；小扬气独立铁路节点、镇政府护路记录与铁路12306站名交叉核验。"
   },
   {
     "id": "st-source-4b15bc5ebe46fd32",
@@ -16676,7 +16743,7 @@
   {
     "id": "st-wikidata-q113231610",
     "name": "广州长隆",
-    "city": "珠海",
+    "city": "广州",
     "province": "广东",
     "provinceId": "guangdong",
     "longitude": 113.32491,
@@ -19843,14 +19910,20 @@
   {
     "id": "st-osm-node-1252233969",
     "name": "新天",
-    "city": "呼伦贝尔",
-    "province": "内蒙古",
-    "provinceId": "neimenggu",
+    "city": "大兴安岭",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
     "longitude": 124.2067065,
     "latitude": 51.2105966,
     "isHub": false,
     "major": false,
-    "coordinateSource": "https://www.openstreetmap.org/node/1252233969"
+    "coordinateSource": "https://www.openstreetmap.org/node/1252233969",
+    "geographicProvince": "内蒙古",
+    "identitySources": [
+      "https://www.hlj.gov.cn/hlj/c108500/list_left_tt.shtml",
+      "https://songling.gov.cn/songling/c100298/202411/297921/files/《松岭区国土空间总体规划（2021-2035年）》（公开版）.pdf"
+    ],
+    "identityNote": "入口按黑龙江省大兴安岭行政管理归属分类；保留内蒙古地理省界事实、原独立站点 ID 和坐标，不改变轨道位置。松岭规划第149条确认古源、劲松、新天为现状火车场站；小扬气独立铁路节点、镇政府护路记录与铁路12306站名交叉核验。"
   },
   {
     "id": "st-source-9b1e7ae2818fde8d",
@@ -22838,6 +22911,20 @@
     "coordinateSourceUrl": "https://www.openstreetmap.org/node/7775792087",
     "coordinateKey": "node/7775792087",
     "timetableStationUrl": "https://www.crecc.com/guangxi/guilin/guilinxi.html"
+  },
+  {
+    "id": "st-osm-node-9137876527",
+    "name": "桃山",
+    "city": "伊春",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "longitude": 128.1735048,
+    "latitude": 46.9228136,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/9137876527",
+    "identitySource": "https://www.hljszw.org.cn/pdf/20241209/铁力年鉴2021.pdf",
+    "note": "原始独立站点与运营方、站码、目录城市和同一服务邻站交叉核验；保留其他同名原始对象，未合并。"
   },
   {
     "id": "st-source-5a4166277b45be5d",
@@ -31010,6 +31097,20 @@
     "coordinateSource": "https://www.openstreetmap.org/node/2323529378"
   },
   {
+    "id": "st-osm-node-1252110339",
+    "name": "盘古",
+    "city": "大兴安岭",
+    "province": "黑龙江",
+    "provinceId": "heilongjiang",
+    "longitude": 123.8720533,
+    "latitude": 52.7031548,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/1252110339",
+    "identitySource": "https://dxalth.gov.cn/dxalth/c100923/202108/c13_95149.shtml",
+    "note": "原始独立节点与完整同一服务停站交叉核验；原错误省级目录条目已单独纠正。古城与古城镇不是同一车站。"
+  },
+  {
     "id": "st-osm-node-3328330805",
     "name": "盘州",
     "city": "六盘水",
@@ -33878,6 +33979,20 @@
     "coordinateSource": "https://www.openstreetmap.org/node/2662697998"
   },
   {
+    "id": "st-osm-node-2662698002",
+    "name": "艾家村",
+    "city": "吴忠",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 105.7723385,
+    "latitude": 37.1586771,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/2662698002",
+    "identitySource": "https://www.12306.cn/%2Fmormhweb/kyyyz/lanzhou/201001/t20100124_1191.html",
+    "note": "宁夏局部精确中文铁路对象查询取得独立halt节点，配合铁路12306站址与政府公布的现状宝中站序核验。未使用城市中心或铁路区间插值。"
+  },
+  {
     "id": "st-source-0268d9b94a64afb9",
     "name": "艾河",
     "city": "保定",
@@ -35962,6 +36077,20 @@
     "isHub": false,
     "major": false,
     "coordinateSource": "https://www.openstreetmap.org/node/9137873804"
+  },
+  {
+    "id": "st-osm-node-11938234794",
+    "name": "褚家湾",
+    "city": "中卫",
+    "province": "宁夏",
+    "provinceId": "ningxia",
+    "longitude": 106.1144184,
+    "latitude": 36.3946832,
+    "isHub": false,
+    "major": false,
+    "coordinateSource": "https://www.openstreetmap.org/node/11938234794",
+    "identitySource": "https://www.12306.cn/%2Fmormhweb/kyyyz/lanzhou/201001/t20100124_1191.html",
+    "note": "宁夏局部精确中文铁路对象查询取得独立halt节点，配合铁路12306站址与政府公布的现状宝中站序核验。未使用城市中心或铁路区间插值。"
   },
   {
     "id": "st-source-e1348ae474b3dee7",

@@ -35,6 +35,22 @@ def write_progress():
     if correction_path.exists():
         for item in json.loads(correction_path.read_text()):
             lines.extend([f"{item['name']}：依据[所在地证据]({item['identitySource']})纠正为 {item['province']} {item['city']}，保留独立站点身份。",''])
+    reviews_path=ROOT/'data/raw/station-identity-reviews.json'
+    if reviews_path.exists():
+        lines.extend(['特殊行政管理归属按公开政府资料核验，保留原独立坐标、ID及地理省界事实：',''])
+        for item in json.loads(reviews_path.read_text())['stations']:
+            lines.append(f"- {item['name']}：入口归于 {item['province']} {item['city']}；地理省界为 {item['geographicProvince']}。[归属证据]({item['identitySources'][0]})")
+        lines.append('')
+    homonyms_path=ROOT/'data/raw/homonym-coordinate-reviews.json'
+    if homonyms_path.exists():
+        lines.extend(['同名对象逐项核验；选择与服务所在城市、运营方、站码及邻站序列相符的独立节点，其他原始对象保留，不合并：',''])
+        for item in json.loads(homonyms_path.read_text()):
+            lines.append(f"- {item['name']}：{item['province']} {item['city']}，{item['selectedObject']}。[身份依据]({item['identitySources'][0]})；{item['reason']}")
+        lines.append('')
+    ningxia_path=ROOT/'data/raw/ningxia-coordinate-review.json'
+    if ningxia_path.exists():
+        record=json.loads(ningxia_path.read_text())
+        lines.extend(['宁夏补点：艾家村与褚家湾采用独立 OSM railway=halt 原始节点，与[铁路12306站址]('+record['identitySources'][0]+')及政府公布的现状站序交叉核验。褚家湾归入中卫；不与褚家沟混同。旧站址和规划关站只作身份依据，不推定当前开行。',''])
     lines.extend(['上海松江、莘庄等独立车站保持自己的身份；目录记录与本站直达关系分别核验。','',
         '客运服务来自第三方公开时刻快照，源日期不保证当天开行。线路只用于阅读，不作为逐车次实际径路。','',
         '## 已完成源目录采集','',

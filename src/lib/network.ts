@@ -1,10 +1,17 @@
 import raw from '../data/overview.json';
 import type { RailData,HubId,CityId,Filters,PassengerService } from '../types';
 import {decodeNetwork} from './decodeNetwork';
+import {buildIntercityIndex} from './intercityIndex';
+import {buildStationChoiceIndex} from './stationChoiceIndex';
+import {buildDepartureIndex} from './departureIndex';
+import type {DepartureSelection} from './departureIndex';
 export let data = raw as unknown as RailData;
 export const stationById = new Map(data.stations.map(s=>[s.id,s]));
 export const origins = data.origins || [];
 export const originById = new Map(origins.map(s=>[s.id,s]));
+export const departureIndex = buildDepartureIndex(origins);
+export const intercityIndex = buildIntercityIndex(origins);
+export const stationChoiceIndex = buildStationChoiceIndex(origins,intercityIndex);
 export const departureCities = [...new Map(origins.map(s=>[s.cityId,{id:s.cityId,name:s.city}])).values()];
 export const serviceById = new Map<string,PassengerService>();
 let loading:Promise<void>|undefined;
@@ -36,9 +43,20 @@ export function getNetwork(hub:HubId,filters:Filters){
  return {hubStation,services,destinations,destinationIds,segments,stations,overviewCity:null as string|null,provinces:[...new Map(availableStations.map(s=>[s.provinceId,{id:s.provinceId,name:s.province}])).values()].sort((a,b)=>a.name.localeCompare(b.name,'zh-CN'))};
 }
 export type ViewNetwork=ReturnType<typeof getNetwork>;
-export function parseState(search:string){const p=new URLSearchParams(search);const s=p.get('station');const t=p.get('type');const origin=s?originById.get(s):undefined;const city=p.get('city');return {city:origin?.cityId||(departureCities.some(c=>c.id===city)?city:null),hub:origin?.id||null,filters:{type:(t==='highspeed'||t==='conventional'?t:'all') as Filters['type'],province:p.get('province')||'',search:p.get('q')||''}}}
+export function parseState(search:string){
+ const p=new URLSearchParams(search),origin=originById.get(p.get('station')||''),t=p.get('type');
+ const departure=departureIndex.resolve({city:origin?.cityId||p.get('city'),region:p.get('region'),province:p.get('departureProvince')});
+ return {departure,group:stationChoiceIndex.resolve(departure.city,p.get('group'))||(origin?stationChoiceIndex.groupFor(origin.id):null),city:departure.city,hub:origin?.id||null,filters:{type:(t==='highspeed'||t==='conventional'?t:'all') as Filters['type'],province:p.get('province')||'',search:p.get('q')||''}};
+}
 export function readState(){return parseState(location.search)}
-export function writeState(hub:HubId|null,filters:Filters,city:CityId|null=null){const p=new URLSearchParams();if(city&&!hub)p.set('city',city);if(hub)p.set('station',hub);if(filters.type!=='all')p.set('type',filters.type);if(filters.province)p.set('province',filters.province);if(filters.search)p.set('q',filters.search);history.replaceState(null,'',`${location.pathname}${p.size?'?'+p:''}${location.hash}`)}
+export function writeState(hub:HubId|null,filters:Filters,city:CityId|null=null,selection?:DepartureSelection,group:string|null=null){
+ const p=new URLSearchParams(),departure=departureIndex.resolve(selection||{city});
+ if(hub){p.set('station',hub);const resolved=stationChoiceIndex.resolve(departure.city,group);if(resolved)p.set('group',resolved)}
+ else if(departure.city){p.set('city',departure.city);const resolved=stationChoiceIndex.resolve(departure.city,group);if(resolved)p.set('group',resolved)}
+ else {if(departure.region)p.set('region',departure.region);if(departure.province)p.set('departureProvince',departure.province)}
+ if(filters.type!=='all')p.set('type',filters.type);if(filters.province)p.set('province',filters.province);if(filters.search)p.set('q',filters.search);
+ history.replaceState(null,'',`${location.pathname}${p.size?'?'+p:''}${location.hash}`);
+}
 
 export function getOverview(city:CityId|null=null):ViewNetwork{
  const chosen=origins.filter(s=>s.cityId===city);const ids=new Set(chosen.map(s=>s.id));

@@ -1,0 +1,40 @@
+{
+  "retrievedAt": "2026-10-10",
+  "bbox": [
+    36.25,
+    105.55,
+    37.4,
+    106.25
+  ],
+  "coordinateProvider": "OpenStreetMap exact Chinese station/halt objects",
+  "identitySources": [
+    "https://www.12306.cn/%2Fmormhweb/kyyyz/lanzhou/201001/t20100124_1191.html",
+    "https://www.nxzw.gov.cn/xwzx/tzgg/202408/P020240812539872253758.pdf"
+  ],
+  "note": "官方旧站址仅用于确认独立站身份及所在地，不推定当前开行；2024扩能报告中的计划关站不直接作为现行停运。7511—7514完整服务快照独立判断直达。",
+  "objects": [
+    {
+      "type": "node",
+      "id": 2662698002,
+      "lat": 37.1586771,
+      "lon": 105.7723385,
+      "tags": {
+        "name": "艾家村",
+        "name:en": "Aijiacun",
+        "railway": "halt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11938234794,
+      "lat": 36.3946832,
+      "lon": 106.1144184,
+      "tags": {
+        "name": "褚家湾",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes"
+      }
+    }
+  ]
+}

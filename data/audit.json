@@ -6,14 +6,7 @@
     "excludedTemporary": 5674,
     "nonPassenger": 5,
     "malformedSequences": 628,
-    "unlocatedStations": [
-      "三家子",
-      "古城",
-      "桃山",
-      "盘古",
-      "艾家村",
-      "褚家湾"
-    ],
+    "unlocatedStations": [],
     "outOfScopeStations": [
       "万荣",
       "万象",
@@ -359,10 +352,6 @@
     ],
     "pendingOrigins": [
       {
-        "name": "古城",
-        "reason": "coordinate missing"
-      },
-      {
         "name": "大兴",
         "reason": "no validated regular passenger service"
       },
@@ -385,10 +374,6 @@
       {
         "name": "珞璜东",
         "reason": "no validated regular passenger service"
-      },
-      {
-        "name": "盘古",
-        "reason": "coordinate missing"
       },
       {
         "name": "迎龙",
@@ -659,27 +644,7 @@
         "reason": "no validated regular passenger service"
       },
       {
-        "name": "加格达奇",
-        "reason": "station identity conflicts with catalogue"
-      },
-      {
-        "name": "劲松",
-        "reason": "station identity conflicts with catalogue"
-      },
-      {
-        "name": "古源",
-        "reason": "station identity conflicts with catalogue"
-      },
-      {
         "name": "大扬气",
-        "reason": "station identity conflicts with catalogue"
-      },
-      {
-        "name": "小扬气",
-        "reason": "station identity conflicts with catalogue"
-      },
-      {
-        "name": "新天",
         "reason": "station identity conflicts with catalogue"
       },
       {
@@ -892,7 +857,7 @@
       },
       {
         "name": "四方台",
-        "reason": "coordinate missing"
+        "reason": "no validated regular passenger service"
       },
       {
         "name": "扎音河",
@@ -921,10 +886,6 @@
       {
         "name": "松青",
         "reason": "no validated regular passenger service"
-      },
-      {
-        "name": "桃山",
-        "reason": "coordinate missing"
       },
       {
         "name": "王杨",
@@ -1169,14 +1130,6 @@
       {
         "name": "阿巴嘎旗",
         "reason": "no validated regular passenger service"
-      },
-      {
-        "name": "褚家湾",
-        "reason": "coordinate missing"
-      },
-      {
-        "name": "艾家村",
-        "reason": "coordinate missing"
       },
       {
         "name": "乌图美仁",
@@ -1459,17 +1412,17 @@
         "reason": "no validated regular passenger service"
       }
     ],
-    "originCount": 3095,
+    "originCount": 3105,
     "cityCount": 342,
-    "matchedPhysicalIntervals": 92882,
-    "unmatchedPhysicalIntervals": 63405,
+    "matchedPhysicalIntervals": 92906,
+    "unmatchedPhysicalIntervals": 63400,
     "physicalSourceSnapshot": "2026-05-10",
     "physicalGeometryBuild": "2026-10-10",
-    "schematicRepairedIntervals": 63405,
-    "railCorridorRepairedIntervals": 34,
-    "sharedCorridorRepairedIntervals": 2,
+    "schematicRepairedIntervals": 63400,
+    "railCorridorRepairedIntervals": 22,
+    "sharedCorridorRepairedIntervals": 0,
     "remainingUnmappedIntervals": 0,
-    "schematicSegments": 8037,
+    "schematicSegments": 8050,
     "impossibleTimingServices": [
       "4085",
       "4086",
@@ -12989,6 +12942,55 @@
       "identitySource": "https://www.ndrc.gov.cn/fggz/zcssfz/dffz/201809/t20180928_1147951.html",
       "coordinateIdentitySource": "https://www.openstreetmap.org/node/5285771422",
       "reason": "国家发改委济青铁路站序与独立OSM车站对象证明这是山东高密的客运站；第三方将其误列河北张家口。保留独立ID并纠正目录归属。"
+    },
+    {
+      "name": "古城",
+      "sourceCityId": "beijing-beijing",
+      "city": "齐齐哈尔",
+      "cityId": "heilongjiang-qiqihaer",
+      "province": "黑龙江",
+      "provinceId": "heilongjiang",
+      "identitySource": "https://www.openstreetmap.org/node/9129186251",
+      "coordinateIdentitySource": "https://www.openstreetmap.org/node/9129186251",
+      "reason": "独立OSM铁路站点的中文名、站码、国铁运营方和完整停站邻站序列共同确认黑龙江实体。纠正第三方错误的省级目录归属；不全局改名、不移动坐标、不合并不同站点。",
+      "serviceEvidence": "https://www.crecc.com/huoche/4082.html",
+      "retrievedAt": "2026-10-10"
+    },
+    {
+      "name": "盘古",
+      "sourceCityId": "chongqing-chongqing",
+      "city": "大兴安岭",
+      "cityId": "heilongjiang-daxinganling",
+      "province": "黑龙江",
+      "provinceId": "heilongjiang",
+      "identitySource": "https://dxalth.gov.cn/dxalth/c100923/202108/c13_95149.shtml",
+      "coordinateIdentitySource": "https://www.openstreetmap.org/node/1252110339",
+      "reason": "独立OSM铁路站点的中文名、站码、国铁运营方和完整停站邻站序列共同确认黑龙江实体。纠正第三方错误的省级目录归属；不全局改名、不移动坐标、不合并不同站点。",
+      "serviceEvidence": "https://www.crecc.com/huoche/6245.html",
+      "retrievedAt": "2026-10-10"
+    },
+    {
+      "name": "褚家湾",
+      "sourceCityId": "ningxia-guyuan",
+      "city": "中卫",
+      "cityId": "ningxia-zhongwei",
+      "province": "宁夏",
+      "provinceId": "ningxia",
+      "identitySource": "https://www.12306.cn/%2Fmormhweb/kyyyz/lanzhou/201001/t20100124_1191.html",
+      "coordinateIdentitySource": "https://www.openstreetmap.org/node/11938234794",
+      "reason": "铁路12306客运营业站地址明确为中卫市海原县三河镇，政府公示宝中铁路工程报告列为现状车站；纠正源目录固原条目，不与褚家沟合并。",
+      "retrievedAt": "2026-10-10"
+    },
+    {
+      "name": "广州长隆",
+      "sourceCityId": "guangdong-zhuhai",
+      "city": "广州",
+      "cityId": "guangdong-guangzhou",
+      "province": "广东",
+      "provinceId": "guangdong",
+      "identitySource": "https://www.gz.gov.cn/zwfw/zxfw/jtfw/content/mpost_9674465.html",
+      "reason": "广州市政府乘车指南明确广州长隆位于番禺；纠正旧源目录珠海条目，保留站点ID、坐标及服务。",
+      "retrievedAt": "2026-10-10"
     }
   ],
   "quarantinedSourcePages": [
