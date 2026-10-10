@@ -1,0 +1,50 @@
+{
+  "reviewedAt": "2026-10-10",
+  "scope": "已核验的市域线路小站。其他小站由导航规则收纳，不宣称客运仅限市内。",
+  "lines": [
+    {
+      "id": "shanghai-jinshan",
+      "name": "金山铁路 · 市域",
+      "cityId": "shanghai-shanghai",
+      "provinceId": "shanghai",
+      "stations": [
+        {
+          "stationId": "st-osm-node-7168565706",
+          "name": "莘庄"
+        },
+        {
+          "stationId": "st-osm-node-7168518929",
+          "name": "春申"
+        },
+        {
+          "stationId": "st-source-0d4af03347ad4c52",
+          "name": "新桥"
+        },
+        {
+          "stationId": "st-osm-node-7171343532",
+          "name": "车墩"
+        },
+        {
+          "stationId": "st-osm-node-7171384792",
+          "name": "叶榭"
+        },
+        {
+          "stationId": "st-osm-node-7171384790",
+          "name": "亭林"
+        },
+        {
+          "stationId": "st-osm-node-7161813537",
+          "name": "金山园区"
+        },
+        {
+          "stationId": "st-osm-node-7171384791",
+          "name": "金山卫"
+        }
+      ],
+      "sources": [
+        "https://www.shanghai.gov.cn/nw17239/20260313/cc9fe6e3e47a47aca3a55b29cd0fb089.html",
+        "https://www.shanghai.gov.cn/nw4411/20250105/e7e7af64896845e1af9f6bcd1453e7b2.html"
+      ]
+    }
+  ]
+}

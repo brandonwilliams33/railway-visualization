@@ -16249,6 +16249,29 @@
         "wikidata": "Q17061679",
         "wikipedia": "zh:金河站"
       }
+    },
+    {
+      "type": "node",
+      "id": 2662698002,
+      "lat": 37.1586771,
+      "lon": 105.7723385,
+      "tags": {
+        "name": "艾家村",
+        "name:en": "Aijiacun",
+        "railway": "halt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11938234794,
+      "lat": 36.3946832,
+      "lon": 106.1144184,
+      "tags": {
+        "name": "褚家湾",
+        "public_transport": "station",
+        "railway": "halt",
+        "train": "yes"
+      }
     }
   ]
 }

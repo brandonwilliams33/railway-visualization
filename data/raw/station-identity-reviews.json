@@ -1,0 +1,102 @@
+{
+  "retrievedAt": "2026-10-10",
+  "classification": "administrative management, not geometric boundary",
+  "stations": [
+    {
+      "name": "加格达奇",
+      "stationId": "st-wikidata-q10900832",
+      "coordinateSource": "https://www.wikidata.org/wiki/Q10900832",
+      "coordinate": [
+        124.1187,
+        50.4187
+      ],
+      "geographicProvince": "内蒙古",
+      "province": "黑龙江",
+      "provinceId": "heilongjiang",
+      "city": "大兴安岭",
+      "identitySources": [
+        "https://jgdq.gov.cn/jgdq/c100757/zoujin.shtml",
+        "https://hlj.gov.cn/hlj/c108433/202505/c00_31843135.shtml"
+      ],
+      "note": "入口按黑龙江省大兴安岭行政管理归属分类；保留内蒙古地理省界事实、原独立站点 ID 和坐标，不改变轨道位置。松岭规划第149条确认古源、劲松、新天为现状火车场站；小扬气独立铁路节点、镇政府护路记录与铁路12306站名交叉核验。",
+      "retrievedAt": "2026-10-10"
+    },
+    {
+      "name": "劲松",
+      "stationId": "st-osm-node-1252233943",
+      "coordinateSource": "https://www.openstreetmap.org/node/1252233943",
+      "coordinate": [
+        124.1809844,
+        51.0656774
+      ],
+      "geographicProvince": "内蒙古",
+      "province": "黑龙江",
+      "provinceId": "heilongjiang",
+      "city": "大兴安岭",
+      "identitySources": [
+        "https://www.hlj.gov.cn/hlj/c108500/list_left_tt.shtml",
+        "https://songling.gov.cn/songling/c100298/202411/297921/files/《松岭区国土空间总体规划（2021-2035年）》（公开版）.pdf"
+      ],
+      "note": "入口按黑龙江省大兴安岭行政管理归属分类；保留内蒙古地理省界事实、原独立站点 ID 和坐标，不改变轨道位置。松岭规划第149条确认古源、劲松、新天为现状火车场站；小扬气独立铁路节点、镇政府护路记录与铁路12306站名交叉核验。",
+      "retrievedAt": "2026-10-10"
+    },
+    {
+      "name": "古源",
+      "stationId": "st-osm-node-1252233958",
+      "coordinateSource": "https://www.openstreetmap.org/node/1252233958",
+      "coordinate": [
+        124.3124258,
+        50.9193436
+      ],
+      "geographicProvince": "内蒙古",
+      "province": "黑龙江",
+      "provinceId": "heilongjiang",
+      "city": "大兴安岭",
+      "identitySources": [
+        "https://www.hlj.gov.cn/hlj/c108500/list_left_tt.shtml",
+        "https://songling.gov.cn/songling/c100298/202411/297921/files/《松岭区国土空间总体规划（2021-2035年）》（公开版）.pdf"
+      ],
+      "note": "入口按黑龙江省大兴安岭行政管理归属分类；保留内蒙古地理省界事实、原独立站点 ID 和坐标，不改变轨道位置。松岭规划第149条确认古源、劲松、新天为现状火车场站；小扬气独立铁路节点、镇政府护路记录与铁路12306站名交叉核验。",
+      "retrievedAt": "2026-10-10"
+    },
+    {
+      "name": "小扬气",
+      "stationId": "st-osm-node-1725778036",
+      "coordinateSource": "https://www.openstreetmap.org/node/1725778036",
+      "coordinate": [
+        124.2793793,
+        50.7938923
+      ],
+      "geographicProvince": "内蒙古",
+      "province": "黑龙江",
+      "provinceId": "heilongjiang",
+      "city": "大兴安岭",
+      "identitySources": [
+        "https://www.hlj.gov.cn/hlj/c108500/list_left_tt.shtml",
+        "https://www.songling.gov.cn/songling/c100261/202512/c13_326257.shtml",
+        "https://kyfw.12306.cn/mormhweb/hyfw/fwcczhxx/fwxmb/"
+      ],
+      "note": "入口按黑龙江省大兴安岭行政管理归属分类；保留内蒙古地理省界事实、原独立站点 ID 和坐标，不改变轨道位置。松岭规划第149条确认古源、劲松、新天为现状火车场站；小扬气独立铁路节点、镇政府护路记录与铁路12306站名交叉核验。",
+      "retrievedAt": "2026-10-10"
+    },
+    {
+      "name": "新天",
+      "stationId": "st-osm-node-1252233969",
+      "coordinateSource": "https://www.openstreetmap.org/node/1252233969",
+      "coordinate": [
+        124.2067065,
+        51.2105966
+      ],
+      "geographicProvince": "内蒙古",
+      "province": "黑龙江",
+      "provinceId": "heilongjiang",
+      "city": "大兴安岭",
+      "identitySources": [
+        "https://www.hlj.gov.cn/hlj/c108500/list_left_tt.shtml",
+        "https://songling.gov.cn/songling/c100298/202411/297921/files/《松岭区国土空间总体规划（2021-2035年）》（公开版）.pdf"
+      ],
+      "note": "入口按黑龙江省大兴安岭行政管理归属分类；保留内蒙古地理省界事实、原独立站点 ID 和坐标，不改变轨道位置。松岭规划第149条确认古源、劲松、新天为现状火车场站；小扬气独立铁路节点、镇政府护路记录与铁路12306站名交叉核验。",
+      "retrievedAt": "2026-10-10"
+    }
+  ]
+}

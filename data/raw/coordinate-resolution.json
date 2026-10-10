@@ -1,10 +1,5 @@
 {
-  "addedStations": [
-    "天岗",
-    "尼木",
-    "白石山",
-    "黄松甸"
-  ],
+  "addedStations": [],
   "originIdentityConflicts": [
     {
       "name": "陈庄",
@@ -32,32 +27,7 @@
       "coordinateProvince": "云南"
     },
     {
-      "name": "加格达奇",
-      "catalogueProvince": "黑龙江",
-      "coordinateProvince": "内蒙古"
-    },
-    {
-      "name": "劲松",
-      "catalogueProvince": "黑龙江",
-      "coordinateProvince": "内蒙古"
-    },
-    {
-      "name": "古源",
-      "catalogueProvince": "黑龙江",
-      "coordinateProvince": "内蒙古"
-    },
-    {
       "name": "大扬气",
-      "catalogueProvince": "黑龙江",
-      "coordinateProvince": "内蒙古"
-    },
-    {
-      "name": "小扬气",
-      "catalogueProvince": "黑龙江",
-      "coordinateProvince": "内蒙古"
-    },
-    {
-      "name": "新天",
       "catalogueProvince": "黑龙江",
       "coordinateProvince": "内蒙古"
     },
@@ -92,16 +62,11 @@
       "coordinateProvince": "湖南"
     }
   ],
-  "ambiguousNames": [
-    "三家子",
-    "四方台",
-    "桃山"
-  ],
+  "ambiguousNames": [],
   "unlocatedStations": [
     "万荣",
     "万象",
     "三 亚",
-    "三家子",
     "东莞 西",
     "临 沂北",
     "临澧",
@@ -112,10 +77,8 @@
     "南昌 西",
     "厦 门",
     "厦 门北",
-    "古城",
     "合肥 南",
     "哈 尔 滨",
-    "四方台",
     "天棚",
     "孟赛",
     "宁明",
@@ -127,7 +90,6 @@
     "成 都东",
     "扶绥",
     "曲江",
-    "桃山",
     "横琴北",
     "武 昌",
     "武汉 东",
@@ -143,15 +105,12 @@
     "深 圳",
     "深圳 北",
     "琅勃拉邦",
-    "盘古",
     "磨丁",
     "福 州",
     "福海",
     "肇 庆",
-    "艾家村",
     "花土沟",
     "茶卡",
-    "褚家湾",
     "襄阳 东",
     "贵 阳北",
     "通州",
@@ -166,24 +125,18 @@
     "临澧",
     "乌图美仁",
     "乐山北",
-    "古城",
-    "四方台",
     "天棚",
     "宁明",
     "尉犁",
     "忠工屯",
     "扶绥",
     "曲江",
-    "桃山",
     "横琴北",
     "沙园",
     "洛川东",
-    "盘古",
     "福海",
-    "艾家村",
     "花土沟",
     "茶卡",
-    "褚家湾",
     "通州",
     "金林",
     "陇南西"

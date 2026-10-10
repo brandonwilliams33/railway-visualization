@@ -20,6 +20,24 @@ def in_geometry(point,geometry):
     polygons=geometry['coordinates'] if geometry['type']=='MultiPolygon' else [geometry['coordinates']]
     return any(inside_ring(point,p[0]) and not any(inside_ring(point,h) for h in p[1:]) for p in polygons)
 
+def apply_identity_reviews(registry,reviews):
+    """Apply evidence-backed administrative labels to a pinned station identity.
+
+    This cannot move a station or replace it with a same-name object. The raw
+    coordinate evidence remains intact; the coarse geometric province is kept
+    separately when administrative management differs from the boundary map.
+    """
+    by_name={s['name']:s for s in registry}
+    for review in reviews:
+        station=by_name[review['name']]
+        assert station['id']==review['stationId'],'Station identity changed: '+review['name']
+        assert station['coordinateSource']==review['coordinateSource'],'Coordinate evidence changed: '+review['name']
+        assert [station['longitude'],station['latitude']]==review['coordinate'],'Station position changed: '+review['name']
+        station.update({k:review[k] for k in ('province','provinceId','city')})
+        station['geographicProvince']=review['geographicProvince']
+        station['identitySources']=review['identitySources']
+        station['identityNote']=review['note']
+
 def group_osm_candidates(elements,province_at,origins):
     from stationNames import canonical
     candidates=defaultdict(list)
@@ -54,6 +72,8 @@ def resolve(csv_path,admin_path,osm_path,fetch_osm=False):
     if overrides_path.exists():
         for station in read(overrides_path)['stations']:
             if station['name'] not in by_name:registry.append(station);by_name[station['name']]=station
+    reviews_path=RAW/'station-identity-reviews.json'
+    if reviews_path.exists():apply_identity_reviews(registry,read(reviews_path)['stations'])
     from originSources import indexes as origin_indexes, services as source_services
     indexes=origin_indexes();js={s['name']:s for s in indexes}
     records=list(source_services().values())

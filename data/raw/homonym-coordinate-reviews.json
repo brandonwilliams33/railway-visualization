@@ -1,0 +1,52 @@
+[
+  {
+    "name": "桃山",
+    "selectedObject": "node/9137876527",
+    "otherObjectsRetained": [
+      "node/13508852349"
+    ],
+    "city": "伊春",
+    "province": "黑龙江",
+    "identitySources": [
+      "https://www.hljszw.org.cn/pdf/20241209/铁力年鉴2021.pdf",
+      "https://www.openstreetmap.org/node/9137876527"
+    ],
+    "serviceEvidence": "https://www.crecc.com/huoche/K7105.html",
+    "reason": "省地方志铁力年鉴2021第420页确认桃山镇绥佳铁路车站；该独立节点站码60239、国铁绥化车务段，与铁力—桃山—神树停站序列相符。七台河矿业同名节点位于另一条线路。",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "四方台",
+    "selectedObject": "node/2344167674",
+    "otherObjectsRetained": [
+      "node/634878085",
+      "node/13506321530"
+    ],
+    "city": "绥化",
+    "province": "黑龙江",
+    "identitySources": [
+      "https://www.suihuaxw.org.cn/paper/shwb/pc/content/202404/26/content_85064.html",
+      "https://www.openstreetmap.org/node/2344167674"
+    ],
+    "serviceEvidence": "https://www.crecc.com/huoche/K5141.html",
+    "reason": "绥化市报原始历史记载确认绥化四方台车站；独立节点站码59879、国铁绥化车务段，与绥棱—四方台—秦家停站序列相符。双鸭山矿业及辽宁节点属于其他地点。",
+    "retrievedAt": "2026-10-10"
+  },
+  {
+    "name": "三家子",
+    "selectedObject": "node/9169253672",
+    "otherObjectsRetained": [
+      "node/9169253668",
+      "node/13437566513"
+    ],
+    "city": "通辽",
+    "province": "内蒙古",
+    "identitySources": [
+      "https://www.openstreetmap.org/node/9169253672",
+      "https://www.openstreetmap.org/node/9169253672"
+    ],
+    "serviceEvidence": "https://www.crecc.com/huoche/4367.html",
+    "reason": "依据独立OSM节点国铁通辽车务段与站码53373，并与完整4367/4368大青沟—三家子—库伦序列及甘库走廊交叉判断。另一三家子位于铁法方向、另一属于辽宁南票煤电；此项所在地判断为源证据推断。",
+    "retrievedAt": "2026-10-10"
+  }
+]

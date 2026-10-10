@@ -1,0 +1,1571 @@
+{
+  "reviewedAt": "2026-10-10",
+  "scope": "已核验线路上的现有开放出发站；仅导航分组，不改变站点身份、服务类型或直达判定。未覆盖线路仍保留原入口。",
+  "policy": "主要枢纽及明确的干线共用站保留外层快捷入口，同时可在城际线路下找到；同一ID在多条线路中只显示一次。",
+  "lines": [
+    {
+      "id": "suishen",
+      "name": "穗深城际",
+      "stations": [
+        {
+          "stationId": "st-wikidata-q79442270",
+          "name": "新塘南",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-7063140834",
+          "name": "中堂",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-7063140835",
+          "name": "望牛墩",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-7056577695",
+          "name": "东莞西",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-osm-node-7063140880",
+          "name": "洪梅",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q86728380",
+          "name": "东莞港",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-7063140902",
+          "name": "厚街",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q83365647",
+          "name": "虎门北",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-7063140906",
+          "name": "虎门东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-7063140911",
+          "name": "长安西",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-7063140961",
+          "name": "长安",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q79447558",
+          "name": "沙井西",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-7063140991",
+          "name": "福海西",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-7063253906",
+          "name": "深圳机场北",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q57972951",
+          "name": "深圳机场",
+          "keepPrimary": false
+        }
+      ],
+      "sources": [
+        "https://news.southcn.com/node_28e97ffc67/b1fa309343.shtml",
+        "https://jtys.sz.gov.cn/ydmh/jtcx/hccx/hczfb/content/post_9979838.html",
+        "https://www.sznews.com/news/content/2019-12/14/content_22703785.htm"
+      ],
+      "provinceIds": [
+        "guangdong"
+      ]
+    },
+    {
+      "id": "xinbaiguang",
+      "name": "穗深城际 · 新白广段",
+      "stations": [
+        {
+          "stationId": "st-osm-node-12712348633",
+          "name": "竹料",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q116817525",
+          "name": "钟落潭东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q116417103",
+          "name": "九佛",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q116817754",
+          "name": "佛塱",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-12712348629",
+          "name": "新龙",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-12712348628",
+          "name": "镇龙",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q116416561",
+          "name": "永宁北",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q116415636",
+          "name": "永宁南",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q79442270",
+          "name": "新塘南",
+          "keepPrimary": false
+        }
+      ],
+      "sources": [
+        "https://www.huadu.gov.cn/zfxxgkml/gzshdqjtysj/content/mpost_10955866.html"
+      ],
+      "provinceIds": [
+        "guangdong"
+      ]
+    },
+    {
+      "id": "donghuan",
+      "name": "广州东环城际",
+      "stations": [
+        {
+          "stationId": "st-wikidata-q102645309",
+          "name": "花都",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q103819152",
+          "name": "花城街",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q104653280",
+          "name": "花山镇",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-9198249305",
+          "name": "白云机场北",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q121358726",
+          "name": "白云机场南",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q121358698",
+          "name": "白云机场东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-12712348633",
+          "name": "竹料",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q130528619",
+          "name": "帽峰山",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-12712336080",
+          "name": "大源",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-12712336081",
+          "name": "龙洞",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q111200544",
+          "name": "岑村",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-12712336082",
+          "name": "科韵路",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-12712336083",
+          "name": "琶洲",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q107222589",
+          "name": "番禺",
+          "keepPrimary": false
+        }
+      ],
+      "sources": [
+        "https://www.gz.gov.cn/zt/qltjygadwqjsxsdzgzlfzdf/gzzxd/content/post_10450408.html",
+        "https://www.gz.gov.cn/zwfw/zxfw/content/post_6941799.html"
+      ],
+      "provinceIds": [
+        "guangdong"
+      ]
+    },
+    {
+      "id": "palian",
+      "name": "琶莲城际",
+      "stations": [
+        {
+          "stationId": "st-osm-node-12712336083",
+          "name": "琶洲",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-12756930949",
+          "name": "深井",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q124542958",
+          "name": "化龙南",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q116896536",
+          "name": "广州莲花山",
+          "keepPrimary": false
+        }
+      ],
+      "sources": [
+        "https://www.gz.gov.cn/zt/qltjygadwqjsxsdzgzlfzdf/gzzxd/content/post_10450408.html"
+      ],
+      "provinceIds": [
+        "guangdong"
+      ]
+    },
+    {
+      "id": "guangqing",
+      "name": "广清城际",
+      "stations": [
+        {
+          "stationId": "st-wikidata-q102645309",
+          "name": "花都",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-9198249304",
+          "name": "乐同",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-8166487690",
+          "name": "狮岭",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-9198249303",
+          "name": "银盏",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-9198249302",
+          "name": "龙塘镇",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q102461339",
+          "name": "清城",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q131594315",
+          "name": "燕湖",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q131594167",
+          "name": "洲心",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q131574438",
+          "name": "飞霞",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-guangdong-guangzhoubaiyun",
+          "name": "广州白云",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://www.gz.gov.cn/zwfw/zxfw/content/post_6941799.html",
+        "https://td.gd.gov.cn/dtxw_n/tpxw/content/post_4642563.html",
+        "https://www.huadu.gov.cn/zfxxgkml/gzshdqjtysj/content/post_10663601.html"
+      ],
+      "provinceIds": [
+        "guangdong"
+      ]
+    },
+    {
+      "id": "foguan",
+      "name": "广惠城际 · 佛莞段",
+      "stations": [
+        {
+          "stationId": "st-wikidata-q107222589",
+          "name": "番禺",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q113231610",
+          "name": "广州长隆",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q126116219",
+          "name": "东环",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q116910844",
+          "name": "官桥北",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q116896536",
+          "name": "广州莲花山",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q126119501",
+          "name": "麻涌",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-7056577695",
+          "name": "东莞西",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://crec.joyhua.cn/ZTB/20240531/html/content_20240531001003.htm",
+        "https://www.gz.gov.cn/zwfw/zxfw/jtfw/content/mpost_9674465.html"
+      ],
+      "provinceIds": [
+        "guangdong"
+      ]
+    },
+    {
+      "id": "guanhui",
+      "name": "广惠城际 · 莞惠及北延段",
+      "stations": [
+        {
+          "stationId": "st-osm-node-7056577695",
+          "name": "东莞西",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-wikidata-q54552840",
+          "name": "道滘",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-6289527417",
+          "name": "西平西",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-9196767921",
+          "name": "东城南",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-6289527611",
+          "name": "寮步",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-4991684135",
+          "name": "松山湖北",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-6289527666",
+          "name": "大朗镇",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-7101114420",
+          "name": "常平南",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q24841583",
+          "name": "常平东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q24832115",
+          "name": "樟木头东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q24832060",
+          "name": "银瓶",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-6164244049",
+          "name": "沥林北",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q28415067",
+          "name": "陈江南",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-6169449259",
+          "name": "惠环",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-6164592109",
+          "name": "龙丰",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-3693383858",
+          "name": "西湖东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-3677430195",
+          "name": "云山",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q24832111",
+          "name": "小金口",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-8270551258",
+          "name": "惠州北",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://dgsx.dg.gov.cn/sxgk/sxfq/zzsx/content/post_4160351.html",
+        "https://www.gdszx.gov.cn/attachment/0/0/141/27076.pdf",
+        "https://www.huadu.gov.cn/zfxxgkml/gzshdqjtysj/content/mpost_10523946.html"
+      ],
+      "provinceIds": [
+        "guangdong"
+      ]
+    },
+    {
+      "id": "zhuji",
+      "name": "珠机城际",
+      "stations": [
+        {
+          "stationId": "st-source-d8188b4105626850",
+          "name": "珠海",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-osm-node-2936895093",
+          "name": "湾仔北",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q98446047",
+          "name": "十字门",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-2936895090",
+          "name": "横琴",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-8401353562",
+          "name": "珠海长隆",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q124412768",
+          "name": "三灶东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q124412763",
+          "name": "珠海机场",
+          "keepPrimary": false
+        }
+      ],
+      "sources": [
+        "https://td.gd.gov.cn/gkmlpt/content/4/4804/post_4804412.html"
+      ],
+      "provinceIds": [
+        "guangdong"
+      ]
+    },
+    {
+      "id": "guangzhu",
+      "name": "广珠城际",
+      "stations": [
+        {
+          "stationId": "st-guangdong-guangzhounan",
+          "name": "广州南",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-source-d0bba8a8057de327",
+          "name": "北滘",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-05c05c905c3b1fa0",
+          "name": "顺德",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-b325bae26e786671",
+          "name": "顺德学院",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-a0e82b000b31b0c3",
+          "name": "容桂",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-d82b279ea63cf680",
+          "name": "南头",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-274e977ce7068264",
+          "name": "小榄",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-9ae943c92ade5350",
+          "name": "中山北",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-source-7dcf4e07e2f2edf6",
+          "name": "中山",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-source-fc8bdea1455401a1",
+          "name": "南朗",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q22101429",
+          "name": "翠亨",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-75a6e3466a43fcaf",
+          "name": "珠海北",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-source-a67db76cf836a1ae",
+          "name": "唐家湾",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-f0d9855a4c7532ca",
+          "name": "明珠",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-5a49cd000cb9641e",
+          "name": "前山",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-d8188b4105626850",
+          "name": "珠海",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-source-5b16530da947162a",
+          "name": "古镇",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q6191660",
+          "name": "江门东",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-source-0156b106630488a1",
+          "name": "新会",
+          "keepPrimary": false
+        }
+      ],
+      "sources": [
+        "https://www.chinanews.com/sh/2019/11-14/9006790.shtml",
+        "https://zsrbapp.zsnews.cn/home/content/newsContent/ass%3D/629431",
+        "https://gdee.gd.gov.cn/attachment/0/361/361695/2958531.pdf"
+      ],
+      "provinceIds": [
+        "guangdong"
+      ]
+    },
+    {
+      "id": "changzhutan",
+      "name": "长株潭城际",
+      "stations": [
+        {
+          "stationId": "st-hunan-changsha",
+          "name": "长沙",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-wikidata-q54824140",
+          "name": "麓谷",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q54824136",
+          "name": "尖山",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q54824222",
+          "name": "谷山",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q54824031",
+          "name": "八方山",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-3410058504",
+          "name": "观沙岭",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q47001579",
+          "name": "开福寺",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-3410043450",
+          "name": "树木岭",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-3410044783",
+          "name": "香樟路",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-3410043452",
+          "name": "湘府路",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-3410043451",
+          "name": "洞井",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-3410043448",
+          "name": "芙蓉南",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-3410043449",
+          "name": "暮云",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q28149130",
+          "name": "田心东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-8480158185",
+          "name": "大丰",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-hunan-zhuzhou",
+          "name": "株洲",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-osm-node-6015670736",
+          "name": "株洲南",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-osm-node-3755321727",
+          "name": "昭山",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-3755321733",
+          "name": "荷塘",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-3755318164",
+          "name": "板塘",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-hunan-xiangtan",
+          "name": "湘潭",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://www.hunan.gov.cn/hnszf/hnyw/szdt/202306/t20230620_29379786.html"
+      ],
+      "provinceIds": [
+        "hunan"
+      ]
+    },
+    {
+      "id": "zhengkai",
+      "name": "郑开城际",
+      "stations": [
+        {
+          "stationId": "st-henan-zhengzhoudong",
+          "name": "郑州东",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-wikidata-q19853758",
+          "name": "贾鲁河",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q19853317",
+          "name": "绿博园",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q19853804",
+          "name": "运粮河",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q19852369",
+          "name": "宋城路",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-henan-kaifeng",
+          "name": "开封",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://source.nra.gov.cn/tlfc/tpsy/202503/t20250317_348258.shtml"
+      ],
+      "provinceIds": [
+        "henan"
+      ]
+    },
+    {
+      "id": "zhengji",
+      "name": "郑机城际",
+      "stations": [
+        {
+          "stationId": "st-henan-zhengzhoudong",
+          "name": "郑州东",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-osm-node-3717120378",
+          "name": "南曹",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q28415074",
+          "name": "孟庄",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-6660412153",
+          "name": "新郑机场",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-henan-zhengzhouhangkonggang",
+          "name": "郑州航空港",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://public.zhongmu.gov.cn/D2601X/9772604.jhtml"
+      ],
+      "provinceIds": [
+        "henan"
+      ]
+    },
+    {
+      "id": "wuxian",
+      "name": "武咸城际",
+      "stations": [
+        {
+          "stationId": "st-hubei-wuchang",
+          "name": "武昌",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-osm-node-4647204763",
+          "name": "武汉东",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-osm-node-3377844348",
+          "name": "南湖东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-602e25df4cfbd63a",
+          "name": "汤逊湖",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-aaa4040508daca2c",
+          "name": "庙山",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-3a86a8d0378e2431",
+          "name": "纸坊东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-b35951419fa466d6",
+          "name": "山坡东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-7711a5cd8b613f50",
+          "name": "贺胜桥东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-e64e35989dd9071e",
+          "name": "横沟桥东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-40b211eef7674ded",
+          "name": "咸宁南",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://www.hb-railway.cn/businessArea/railwayOperation/202409/t20240902_131671.shtml"
+      ],
+      "provinceIds": [
+        "hubei"
+      ]
+    },
+    {
+      "id": "wuhuang",
+      "name": "武黄城际",
+      "stations": [
+        {
+          "stationId": "st-hubei-wuhan",
+          "name": "武汉",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-osm-node-4647204763",
+          "name": "武汉东",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-source-4881febeecf165b0",
+          "name": "葛店南",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-source-0d78434e591b7f1e",
+          "name": "鄂州",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-source-9fc124c002be2401",
+          "name": "花湖",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-053a3df962051be2",
+          "name": "黄石北",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-source-e617da85a427900f",
+          "name": "大冶北",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://www.hb-railway.cn/businessArea/railwayOperation/202409/t20240902_131671.shtml"
+      ],
+      "provinceIds": [
+        "hubei"
+      ]
+    },
+    {
+      "id": "wugang",
+      "name": "武冈城际",
+      "stations": [
+        {
+          "stationId": "st-source-4881febeecf165b0",
+          "name": "葛店南",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-source-4644146ad7ca33e6",
+          "name": "华容东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-c43c5b90667d0ec1",
+          "name": "黄冈西",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-source-da36915edde3431f",
+          "name": "黄冈东",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://www.hb-railway.cn/businessArea/railwayOperation/202409/t20240902_131671.shtml"
+      ],
+      "provinceIds": [
+        "hubei"
+      ]
+    },
+    {
+      "id": "wuxiao",
+      "name": "武孝城际",
+      "stations": [
+        {
+          "stationId": "st-hubei-hankou",
+          "name": "汉口",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-wikidata-q126960451",
+          "name": "天河机场",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-3377737911",
+          "name": "闵集",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-3377737086",
+          "name": "孝感东",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://www.hb-railway.cn/businessArea/railwayOperation/202409/t20240902_131671.shtml"
+      ],
+      "provinceIds": [
+        "hubei"
+      ]
+    },
+    {
+      "id": "huning",
+      "name": "沪宁城际",
+      "provinceIds": [
+        "jiangsu",
+        "shanghai"
+      ],
+      "stations": [
+        {
+          "stationId": "st-jiangsu-nanjing",
+          "name": "南京",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-source-0d7550977cd648ac",
+          "name": "仙林",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-jiangsu-zhenjiang",
+          "name": "镇江",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-jiangsu-dantu",
+          "name": "丹徒",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-jiangsu-danyang",
+          "name": "丹阳",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-jiangsu-changzhou",
+          "name": "常州",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-jiangsu-qishuyan",
+          "name": "戚墅堰",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-jiangsu-huishan",
+          "name": "惠山",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-jiangsu-wuxi",
+          "name": "无锡",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-jiangsu-wuxixinqu",
+          "name": "无锡新区",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-jiangsu-suzhouxinqu",
+          "name": "苏州新区",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-jiangsu-suzhou",
+          "name": "苏州",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-jiangsu-suzhouyuanqu",
+          "name": "苏州园区",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-jiangsu-yangchenghu",
+          "name": "阳澄湖",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-jiangsu-kunshannan",
+          "name": "昆山南",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-shanghai-antingbei",
+          "name": "安亭北",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-shanghai-nanxiangbei",
+          "name": "南翔北",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-shanghai-shanghaixi",
+          "name": "上海西",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-shanghai-shanghai",
+          "name": "上海",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-shanghai-shanghaihongqiao",
+          "name": "上海虹桥",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://www.suzhou.gov.cn/szsrmzf/szyw/202408/aaa61cd59f6a4f4bb8b524b6fc7312c5.shtml",
+        "https://kyfw.12306.cn/mormhweb/zxdt/202304/t20230415_39211.html"
+      ]
+    },
+    {
+      "id": "huning-yanjiang",
+      "name": "沪宁沿江城际",
+      "provinceIds": [
+        "jiangsu",
+        "shanghai"
+      ],
+      "stations": [
+        {
+          "stationId": "st-jiangsu-nanjingnan",
+          "name": "南京南",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-jiangsu-jurong",
+          "name": "句容",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-10120263981",
+          "name": "金坛",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-11214979073",
+          "name": "武进",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-jiangsu-jiangyin",
+          "name": "江阴",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-jiangsu-zhangjiagang",
+          "name": "张家港",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-jiangsu-changshu",
+          "name": "常熟",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-jiangsu-taicang",
+          "name": "太仓",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-shanghai-shanghai",
+          "name": "上海",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://www.suzhou.gov.cn/szsrmzf/szyw/202408/aaa61cd59f6a4f4bb8b524b6fc7312c5.shtml"
+      ]
+    },
+    {
+      "id": "guangfo-nanhuan",
+      "name": "广肇城际 · 广佛南环段",
+      "provinceIds": [
+        "guangdong"
+      ],
+      "stations": [
+        {
+          "stationId": "st-osm-node-7706970417",
+          "name": "佛山西",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-wikidata-q107222589",
+          "name": "番禺",
+          "keepPrimary": false
+        }
+      ],
+      "sources": [
+        "https://td.gd.gov.cn/dtxw_n/tpxw/content/post_3932031.html",
+        "https://www.gz.gov.cn/zwfw/zxfw/jtfw/content/post_9669108.html"
+      ]
+    },
+    {
+      "id": "fozhao",
+      "name": "广肇城际 · 佛肇段",
+      "provinceIds": [
+        "guangdong"
+      ],
+      "stations": [
+        {
+          "stationId": "st-osm-node-7706970417",
+          "name": "佛山西",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-osm-node-7453106321",
+          "name": "肇庆",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://www.gz.gov.cn/zwfw/zxfw/jtfw/content/post_9669108.html"
+      ]
+    },
+    {
+      "id": "zhengjiao",
+      "name": "郑焦城际",
+      "provinceIds": [
+        "henan"
+      ],
+      "stations": [
+        {
+          "stationId": "st-henan-zhengzhou",
+          "name": "郑州",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-wikidata-q10909216",
+          "name": "南阳寨",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-wikidata-q22100457",
+          "name": "黄河景区",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-henan-wuzhi",
+          "name": "武陟",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-henan-xiuwuxi",
+          "name": "修武西",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-henan-jiaozuo",
+          "name": "焦作",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://www.12306.cn/mormhweb/zxdt_news/202308/t20230804_39767.html",
+        "https://xcxfy.hncourt.gov.cn/public/detail.php?id=1943",
+        "https://www.wuzhi.gov.cn/zwxxgk/zfld/ysy/"
+      ]
+    },
+    {
+      "id": "jingjin",
+      "name": "京津城际",
+      "provinceIds": [
+        "beijing",
+        "tianjin"
+      ],
+      "stations": [
+        {
+          "stationId": "st-beijing-beijingnan",
+          "name": "北京南",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-osm-node-9274358867",
+          "name": "亦庄",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-a0b5da3c664f9a64",
+          "name": "武清",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-tianjin-tianjin",
+          "name": "天津",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-tianjin-junliangchengbei",
+          "name": "军粮城北",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-tianjin-tanggu",
+          "name": "塘沽",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-source-65b53314bb418e13",
+          "name": "滨海",
+          "keepPrimary": false
+        }
+      ],
+      "sources": [
+        "https://www.beijing.gov.cn/ywdt/gzdt/202412/t20241222_3970796.html"
+      ]
+    },
+    {
+      "id": "jingxiong",
+      "name": "京雄城际",
+      "provinceIds": [
+        "beijing",
+        "hebei"
+      ],
+      "stations": [
+        {
+          "stationId": "st-source-d0ef65ecacec5aa8",
+          "name": "北京西",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-wikidata-q66142015",
+          "name": "北京大兴",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-6817368517",
+          "name": "大兴机场",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-6819545357",
+          "name": "固安东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-6819545358",
+          "name": "霸州北",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q58075669",
+          "name": "雄安",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://zdzqgw.beijing.gov.cn/zqfw/bjdxgjjc/bjdxgjjcjb/202410/t20241012_3917918.html"
+      ]
+    },
+    {
+      "id": "jinxing",
+      "name": "津兴城际",
+      "provinceIds": [
+        "hebei",
+        "tianjin"
+      ],
+      "stations": [
+        {
+          "stationId": "st-osm-node-6817368517",
+          "name": "大兴机场",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-6819545357",
+          "name": "固安东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q124373512",
+          "name": "永清东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q124373513",
+          "name": "安次",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q23013337",
+          "name": "胜芳",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-tianjin-tianjinxi",
+          "name": "天津西",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://zdzqgw.beijing.gov.cn/zqfw/bjdxgjjc/bjdxgjjcjb/202410/t20241012_3917918.html"
+      ]
+    },
+    {
+      "id": "jingtang",
+      "name": "京唐城际",
+      "provinceIds": [
+        "beijing",
+        "hebei",
+        "tianjin"
+      ],
+      "stations": [
+        {
+          "stationId": "st-wikidata-q52159813",
+          "name": "北京通州",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-source-de62bf6f891f4a4c",
+          "name": "燕郊",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-osm-node-10293210794",
+          "name": "大厂",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-10296507040",
+          "name": "香河",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-source-952b88f845d58071",
+          "name": "宝坻",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q109347293",
+          "name": "玉田南",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q109347300",
+          "name": "唐山西",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-hebei-tangshan",
+          "name": "唐山",
+          "keepPrimary": true
+        }
+      ],
+      "sources": [
+        "https://www.beijing.gov.cn/ywdt/gzdt/202212/t20221229_2886544.html",
+        "https://www.tsgxq.gov.cn/uploads/files/460bb6e797b5f775d01a16f4ab4876f1.pdf",
+        "https://www.beijing.gov.cn/ywdt/gzdt/202512/t20251226_4366443.html"
+      ]
+    },
+    {
+      "id": "jingbin",
+      "name": "京滨城际 · 宝坻至北辰段",
+      "provinceIds": [
+        "tianjin"
+      ],
+      "stations": [
+        {
+          "stationId": "st-source-952b88f845d58071",
+          "name": "宝坻",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-wikidata-q56524472",
+          "name": "宝坻南",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-10296507042",
+          "name": "北辰",
+          "keepPrimary": false
+        }
+      ],
+      "sources": [
+        "https://www.beijing.gov.cn/ywdt/gzdt/202212/t20221229_2886544.html",
+        "https://www.tj.gov.cn/sy/xwfbh/xwfbh_210907/202509/t20250916_7133866.html"
+      ]
+    },
+    {
+      "id": "qingrong",
+      "name": "青荣城际",
+      "provinceIds": [
+        "shandong"
+      ],
+      "stations": [
+        {
+          "stationId": "st-shandong-qingdaobei",
+          "name": "青岛北",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-shandong-chengyang",
+          "name": "城阳",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-shandong-jimobei",
+          "name": "即墨北",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-shandong-laixi",
+          "name": "莱西",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-shandong-laiyang",
+          "name": "莱阳",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-shandong-haiyangbei",
+          "name": "海阳北",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-shandong-taocunbei",
+          "name": "桃村北",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-3315768037",
+          "name": "牟平",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-osm-node-4253918671",
+          "name": "威海北",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-shandong-weihai",
+          "name": "威海",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-osm-node-6382928240",
+          "name": "文登东",
+          "keepPrimary": false
+        },
+        {
+          "stationId": "st-shandong-rongcheng",
+          "name": "荣成",
+          "keepPrimary": true
+        },
+        {
+          "stationId": "st-osm-node-7721237366",
+          "name": "夏格庄",
+          "keepPrimary": false
+        }
+      ],
+      "sources": [
+        "https://www.12306.cn/mormhweb/zxdt/202202/t20220225_36975.html",
+        "https://fgw.weihai.gov.cn/art/2014/11/7/art_8989_396826.html"
+      ]
+    }
+  ]
+}

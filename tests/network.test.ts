@@ -37,4 +37,20 @@ describe('Jiangsu departure coverage',()=>{
   expect(origins.some(s=>s.name==='向阳'&&s.provinceId==='henan')).toBe(false);
   expect(origins.some(s=>s.name==='石城'&&s.provinceId==='jiangxi')).toBe(false);
  });
+ it('corrects two misplaced northern catalogue entries without aliasing distinct stations',()=>{
+  const pangu=origins.find(s=>s.name==='盘古')!,gucheng=origins.find(s=>s.name==='古城')!;
+  expect(pangu.provinceId).toBe('heilongjiang');expect(pangu.cityId).toBe('heilongjiang-daxinganling');
+  expect(gucheng.provinceId).toBe('heilongjiang');expect(gucheng.cityId).toBe('heilongjiang-qiqihaer');
+  expect(stationById.get(gucheng.id)?.id).not.toBe(data.stations.find(s=>s.name==='古城镇')?.id);
+  expect(getNetwork(pangu.id,filters).services.some(s=>s.trainNumber==='6245')).toBe(true);
+  expect(getNetwork(gucheng.id,filters).services.some(s=>s.trainNumber==='4082')).toBe(true);
+ });
+ it('locates the two Ningxia stops at independent railway nodes and corrects Chujiawan city',()=>{
+  const a=origins.find(s=>s.name==='艾家村')!,c=origins.find(s=>s.name==='褚家湾')!;
+  expect(a.cityId).toBe('ningxia-wuzhong');expect(c.cityId).toBe('ningxia-zhongwei');expect(a.id).not.toBe(c.id);
+  expect(stationById.get(a.id)?.coordinateSource).toBe('https://www.openstreetmap.org/node/2662698002');
+  expect(stationById.get(c.id)?.coordinateSource).toBe('https://www.openstreetmap.org/node/11938234794');
+  expect(getNetwork(c.id,filters).services.some(s=>s.trainNumber==='7511')).toBe(true);
+  expect(getNetwork(a.id,filters).destinationIds.has(c.id)).toBe(true);
+ });
 });
