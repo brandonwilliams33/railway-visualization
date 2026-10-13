@@ -17,7 +17,7 @@ export function buildStationChoiceIndex(origins:DepartureOrigin[],intercity:Retu
  const choices=new Map<string,{all:DepartureOrigin[];primary:DepartureOrigin[];groups:{id:StationGroup;name:string;stations:DepartureOrigin[];sections:{id:string;name:string;stations:DepartureOrigin[]}[]}[]}>();
  for(const [id,c] of cities){
   const primary=c.primary.filter(s=>s.tier==='major'||s.verifiedServiceCount>=100||intercity.memberships.get(s.id)?.keepPrimary);
-  // Every city retains an immediately selectable station, even with only small stops.
+  // Retain one outer entry when there are ungrouped candidates but no busy hub.
   if(!primary.length&&c.primary.length)primary.push(c.primary[0]);
   const primaryIds=new Set(primary.map(s=>s.id));
   const local=c.all.filter(s=>!primaryIds.has(s.id)&&!intercity.memberships.has(s.id));

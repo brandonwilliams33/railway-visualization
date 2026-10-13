@@ -80,9 +80,12 @@ test('intercity sits beside hubs and opens independent station choices',async({p
  await page.goto('/');await chooseCity(page,'guangdong-shenzhen');
  await expect(page.getByRole('button',{name:'深圳北站',exact:true})).toBeVisible();
  await expect(page.getByRole('button',{name:'深圳机场站',exact:true})).toHaveCount(0);
+ await expect(page.locator('.leaflet-tooltip').filter({hasText:'深圳机场'})).toHaveCount(0);
  await page.getByRole('button',{name:'城际铁路',exact:true}).click();
  await expect(page.getByRole('region',{name:'城际车站'})).toBeVisible();
  await expect(page.locator('.intercity-stop button')).toHaveCount(4);
+ await expect(page.locator('.leaflet-tooltip strong')).toHaveCount(4);
+ for(const name of ['深圳机场','深圳机场北','福海西','沙井西'])await expect(page.locator('.leaflet-tooltip strong').filter({hasText:new RegExp('^'+name+'$')})).toBeVisible();
  await page.reload();await expect(page.getByRole('region',{name:'城际车站'})).toBeVisible();
  await page.getByRole('button',{name:'深圳机场站',exact:true}).click();
  await expect(page.getByRole('heading',{name:'深圳机场站，出发。'})).toBeVisible();
@@ -101,13 +104,54 @@ test('local small stops stay separate from intercity and retain their return gro
  const s=origins.find(s=>s.name==='莘庄')!;await page.goto('/');await chooseCity(page,s.cityId);
  await expect(page.getByRole('button',{name:'上海虹桥站',exact:true})).toBeVisible();
  await expect(page.getByRole('button',{name:'莘庄站',exact:true})).toHaveCount(0);
+ await expect(page.locator('.leaflet-tooltip strong')).toHaveCount(stationChoiceIndex.city(s.cityId).primary.length);
+ await expect(page.locator('.leaflet-tooltip').filter({hasText:'莘庄'})).toHaveCount(0);
  await page.getByRole('button',{name:'市内及周边小站',exact:true}).click();
  await expect(page.getByRole('region',{name:'市内及周边小站',exact:true})).toContainText('金山铁路');
+ await expect(page.locator('.leaflet-tooltip').filter({hasText:'莘庄'})).toBeVisible();
  await page.getByRole('button',{name:'莘庄站',exact:true}).click();
  await expect(page.getByRole('heading',{name:'莘庄站，出发。'})).toBeVisible();
  await page.reload();await page.getByRole('button',{name:'切换中心站'}).click();
  await expect(page.getByRole('region',{name:'市内及周边小站',exact:true})).toBeVisible();
  await page.getByRole('button',{name:'返回全部车站'}).click();
  await expect(page.getByRole('button',{name:'市内及周边小站',exact:true})).toBeFocused();
+ await expect(page.locator('.leaflet-tooltip').filter({hasText:'莘庄'})).toHaveCount(0);
+ await expect(page.locator('.leaflet-tooltip strong')).toHaveCount(stationChoiceIndex.city(s.cityId).primary.length);
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
+});
+
+test('slow Fuxing mode keeps map, destination directory, details and share links in sync',async({page})=>{
+ await page.goto('/?station=xuzhou');
+ await page.getByLabel('列车类型',{exact:true}).selectOption('slow-fuxing');
+ await expect(page.getByRole('status')).toContainText('普速复兴号');
+ await expect(page.locator('.stat b').first()).toHaveText('57');
+ await page.getByRole('textbox',{name:'搜索可直达城市或车站'}).fill('西安');
+ await page.getByLabel('目的地区域',{exact:true}).selectOption('shaanxi');
+ await page.locator('.province-group button').filter({hasText:'西安'}).click();
+ await expect(page.getByRole('complementary',{name:'地图详情'})).toContainText('普速复兴号');
+ await expect(page.locator('.service-tag').first()).toHaveText('普速复兴号');
+ expect(page.url()).toContain('type=slow-fuxing');
+ await page.reload();await expect(page.getByLabel('列车类型',{exact:true})).toHaveValue('slow-fuxing');
+ await expect(page.getByRole('textbox',{name:'搜索可直达城市或车站'})).toHaveValue('西安');
+ await page.getByRole('textbox',{name:'搜索可直达城市或车站'}).fill('不存在');
+ await expect(page.locator('.stat b').first()).toHaveText('0');
+ await expect(page.getByText('没有匹配的直达站点')).toBeVisible();
+ await page.getByRole('button',{name:'清除搜索',exact:true}).click();
+ await expect(page.locator('.stat b').first()).toHaveText('5');
+ await page.getByLabel('目的地区域',{exact:true}).selectOption('');
+ await expect(page.locator('.stat b').first()).toHaveText('57');
+ await page.getByRole('button',{name:'重置筛选',exact:true}).click();
+ await expect(page.getByLabel('列车类型',{exact:true})).toHaveValue('all');
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
+});
+
+test('local preview keeps cumulative visits out of the remote counter',async({page})=>{
+ await page.goto('/');
+ await expect(page.locator('.visit-counter')).toHaveText('累计访客数 上线后开始统计');
+ await page.getByLabel('出发区域',{exact:true}).selectOption('east');
+ await page.getByLabel('出发省份',{exact:true}).selectOption('jiangsu');
+ await page.getByLabel('出发城市',{exact:true}).selectOption('xuzhou');
+ await expect(page.locator('.visit-counter')).toHaveText('累计访客数 上线后开始统计');
+ await expect(page.locator('script[src*="busuanzi"]')).toHaveCount(0);
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
 });

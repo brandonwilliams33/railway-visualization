@@ -1,0 +1,15 @@
+{
+  "reviewedAt": "2026-10-10",
+  "family": "CR200J",
+  "basis": "number-band-inference",
+  "scope": "Project inference for accepted timetable snapshots; not a live rolling-stock or seat-availability feed",
+  "bands": [
+    {"category": "D", "min": 1, "max": 300, "effectiveFrom": "2024-01-10"},
+    {"category": "C", "min": 11, "max": 998, "effectiveFrom": "2021-10-11"}
+  ],
+  "sources": [
+    {"name": "中国中车 · CR200J3-C车型及二等座配置", "url": "https://www.crrcgc.cc/dl/2025-06/26/article_2025062608284834261.html", "supports": "CR200J3-C has second-class seats; names C921/924 and C923/922 as examples, not proof of the whole numbering band"},
+    {"name": "中国中车 · 高原型CR200J-D与C776", "url": "https://www.crrcgc.cc/zj/2024-09/04/article_2024090414263867838.html", "supports": "160 km/h CR200J-D family and C776 example; not a current service-by-service fleet list"},
+    {"name": "徐州C979公开时刻及席别", "url": "https://www.crecc.com/huoche/c979.html", "supports": "Current source snapshot has Xuzhou stops and first/second-class seats; equipment family inferred"}
+  ]
+}
