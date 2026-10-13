@@ -1,5 +1,5 @@
 import {describe,it,expect,beforeAll} from 'vitest';
-import {data,loadNetwork,getNetwork,stationById,origins,departureCities,getOverview,parseState} from '../src/lib/network';
+import {data,loadNetwork,getNetwork,stationById,origins,departureCities,getOverview,parseState,stationChoiceIndex,originById} from '../src/lib/network';
 import type {HubId} from '../src/types';
 const filters={type:'all',province:'',search:''} as const;
 const originIds=new Set(origins.map(s=>s.id));
@@ -16,7 +16,35 @@ describe('passenger data integrity',()=>{
 
 describe('Jiangsu departure coverage',()=>{
  it('opens every validated province-index station without merging names',()=>{const jiangsu=origins.filter(s=>s.provinceId==='jiangsu');expect(new Set(jiangsu.map(s=>s.cityId)).size).toBe(13);expect(jiangsu).toHaveLength(86);expect(new Set(origins.map(s=>s.id)).size).toBe(origins.length);expect(new Set(origins.map(s=>s.name)).size).toBe(origins.length);for(const origin of origins){expect(stationById.get(origin.id)?.province).toBe(origin.province);expect(stationById.get(origin.id)?.city).toBe(origin.city);expect(data.networks[origin.id]).toBeDefined();expect(origin.verifiedServiceCount).toBeGreaterThan(0)}});
- it('city overview keeps all local stations separate before opening a network',()=>{for(const city of departureCities){const expected=origins.filter(s=>s.cityId===city.id);expect(getOverview(city.id).stations.map(s=>s.id).sort()).toEqual(expected.map(s=>s.id).sort());expect(getOverview(city.id).segments).toHaveLength(0)}});
+ it('every city overview hides grouped small stations until its directory is opened',()=>{
+  for(const city of departureCities){
+   const choices=stationChoiceIndex.city(city.id),view=getOverview(city.id);
+   expect(view.stations.map(s=>s.id).sort()).toEqual(choices.primary.map(s=>s.id).sort());
+   expect(view.overviewCity).toBe(city.name);
+   expect(view.segments).toHaveLength(0);expect(view.services).toHaveLength(0);
+   for(const group of choices.groups){
+    const inner=getOverview(city.id,group.id);
+    expect(inner.stations.map(s=>s.id).sort()).toEqual(group.stations.map(s=>s.id).sort());
+    expect(inner.stations.every(s=>originById.get(s.id)?.cityId===city.id)).toBe(true);
+    expect(inner.segments).toHaveLength(0);expect(inner.services).toHaveLength(0);
+    for(const station of group.stations){
+     expect(stationById.get(station.id)?.name).toBe(station.name);
+     if(!choices.primary.some(s=>s.id===station.id))expect(view.stations.map(s=>s.id)).not.toContain(station.id);
+    }
+   }
+   expect(getOverview(city.id,'unknown').stations).toEqual(view.stations);
+  }
+ });
+ it('city and group overview context never borrows a station from another city',()=>{
+  for(const city of departureCities){
+   const choices=stationChoiceIndex.city(city.id);
+   for(const group of [null,...choices.groups.map(g=>g.id)]){
+    const view=getOverview(city.id,group);
+    expect(view.overviewCity).toBe(city.name);expect(originById.get(view.hubStation.id)?.cityId).toBe(city.id);
+    expect(view.stations.every(s=>originById.get(s.id)?.cityId===city.id)).toBe(true);
+   }
+  }
+ });
  it('recognizes officially renamed stations without conflating distinct nearby stations',()=>{
   const hub=origins.find(s=>s.name==='广州南')!.id;
   const current=data.stations.find(s=>s.name==='南沙北')!;

@@ -9,7 +9,9 @@
     "preview": "vite preview --host 127.0.0.1",
     "data:build": "python3 scripts/buildRailData.py",
     "test": "vitest run && python3 -m unittest discover -s tests -p 'test_*.py'",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "data:audit-choices": "node scripts/auditStationChoices.mjs",
+    "data:audit-fuxing": "node scripts/auditSlowFuxing.mjs"
   },
   "dependencies": {
     "leaflet": "^1.9.4",

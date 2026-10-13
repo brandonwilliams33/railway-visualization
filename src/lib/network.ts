@@ -1,6 +1,8 @@
 import raw from '../data/overview.json';
 import type { RailData,HubId,CityId,Filters,PassengerService } from '../types';
 import {decodeNetwork} from './decodeNetwork';
+import {matchesTrainType,parseTrainType} from './trainTypes';
+export {isHighspeed} from './trainTypes';
 import {buildIntercityIndex} from './intercityIndex';
 import {buildStationChoiceIndex} from './stationChoiceIndex';
 import {buildDepartureIndex} from './departureIndex';
@@ -16,11 +18,10 @@ export const departureCities = [...new Map(origins.map(s=>[s.cityId,{id:s.cityId
 export const serviceById = new Map<string,PassengerService>();
 let loading:Promise<void>|undefined;
 export function loadNetwork(){return loading??=(async()=>{const raw=await import('../data/network.json');data=decodeNetwork(raw.default);for(const s of data.services)serviceById.set(s.id,s);for(const s of data.stations)stationById.set(s.id,s)})().catch(error=>{loading=undefined;throw error})}
-export const isHighspeed = (s:PassengerService)=>['G','D','C'].includes(s.category);
 export function getNetwork(hub:HubId,filters:Filters){
  const network=data.networks[hub];
  const hubStation=stationById.get(network.hubStationId)!;
- const services=network.serviceIds.map(id=>serviceById.get(id)!).filter(s=>filters.type==='all'||(filters.type==='highspeed'?isHighspeed(s):!isHighspeed(s)));
+ const services=network.serviceIds.map(id=>serviceById.get(id)!).filter(s=>matchesTrainType(s,filters.type));
  const availableIds=new Set(services.flatMap(s=>s.stations));availableIds.delete(hubStation.id);
  const availableStations=data.stations.filter(s=>availableIds.has(s.id));
  const query=filters.search.trim().toLocaleLowerCase();
@@ -46,7 +47,7 @@ export type ViewNetwork=ReturnType<typeof getNetwork>;
 export function parseState(search:string){
  const p=new URLSearchParams(search),origin=originById.get(p.get('station')||''),t=p.get('type');
  const departure=departureIndex.resolve({city:origin?.cityId||p.get('city'),region:p.get('region'),province:p.get('departureProvince')});
- return {departure,group:stationChoiceIndex.resolve(departure.city,p.get('group'))||(origin?stationChoiceIndex.groupFor(origin.id):null),city:departure.city,hub:origin?.id||null,filters:{type:(t==='highspeed'||t==='conventional'?t:'all') as Filters['type'],province:p.get('province')||'',search:p.get('q')||''}};
+ return {departure,group:stationChoiceIndex.resolve(departure.city,p.get('group'))||(origin?stationChoiceIndex.groupFor(origin.id):null),city:departure.city,hub:origin?.id||null,filters:{type:parseTrainType(t),province:p.get('province')||'',search:p.get('q')||''}};
 }
 export function readState(){return parseState(location.search)}
 export function writeState(hub:HubId|null,filters:Filters,city:CityId|null=null,selection?:DepartureSelection,group:string|null=null){
@@ -58,8 +59,10 @@ export function writeState(hub:HubId|null,filters:Filters,city:CityId|null=null,
  history.replaceState(null,'',`${location.pathname}${p.size?'?'+p:''}${location.hash}`);
 }
 
-export function getOverview(city:CityId|null=null):ViewNetwork{
- const chosen=origins.filter(s=>s.cityId===city);const ids=new Set(chosen.map(s=>s.id));
+export function getOverview(city:CityId|null=null,group:string|null=null):ViewNetwork{
+ const choices=stationChoiceIndex.city(city);
+ const chosen=choices.groups.find(g=>g.id===group)?.stations||choices.primary;
+ const ids=new Set(chosen.map(s=>s.id));
  const stations=data.stations.filter(s=>city?ids.has(s.id):s.major);
- return {hubStation:stationById.get(chosen.find(s=>s.tier==='major')?.id||chosen[0]?.id||'xuzhou')!,services:[],destinations:[],destinationIds:new Set(),segments:[],stations,provinces:[],overviewCity:chosen[0]?.city||null};
+ return {hubStation:stationById.get(chosen.find(s=>s.tier==='major')?.id||chosen[0]?.id||choices.all[0]?.id||'xuzhou')!,services:[],destinations:[],destinationIds:new Set(),segments:[],stations,provinces:[],overviewCity:choices.all[0]?.city||null};
 }
